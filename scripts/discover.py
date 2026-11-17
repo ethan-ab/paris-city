@@ -34,9 +34,18 @@ def load(name, default):
     return default
 
 
+_save_lock = threading.Lock()
+
+
 def save(name, obj):
-    with open(os.path.join(CACHE, f'discover_{name}.json'), 'w') as f:
-        json.dump(obj, f, ensure_ascii=False, separators=(',', ':'))
+    """Atomic write of a snapshot (workers may be adding entries while we save)."""
+    with _save_lock:
+        snap = json.loads(json.dumps(obj, ensure_ascii=False)) if not isinstance(obj, dict) else {
+            k: (dict(v) if isinstance(v, dict) else v) for k, v in list(obj.items())}
+        path = os.path.join(CACHE, f'discover_{name}.json')
+        with open(path + '.tmp', 'w') as f:
+            json.dump(snap, f, ensure_ascii=False, separators=(',', ':'))
+        os.replace(path + '.tmp', path)
 
 
 _lock = threading.Lock()
