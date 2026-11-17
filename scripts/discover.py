@@ -205,8 +205,12 @@ def judge(osm, res, reg):
         return 'Sole trader', (f"Run by a sole trader (entreprise individuelle, SIREN {siren}), the most independent form a "
                                f"French business can take; no group or investor is involved, and this is {site_txt}.")
     legal = res['nom_raison_sociale'].title()
+    surnames = {w for d in res.get('dirigeants') or [] for w in fold(d.get('nom') or '').split() if len(w) > 2}
+    if surnames & set(fold(legal).split()):  # company named after its owner: don't print a person's name
+        legal = 'an owner-managed company'
     if all(d.get('type_dirigeant') == 'personne physique' for d in lead):
-        return legal, (f"Run by {legal} (SIREN {siren}), an owner-managed company: the business register lists private "
+        owner = 'Owner-managed company' if legal.startswith('an ') else legal
+        return owner, (f"Run by {legal} (SIREN {siren}){'' if legal.startswith('an ') else ', an owner-managed company'}: the business register lists private "
                        f"individuals as its managers, with no group or investor at the helm, and this is {site_txt}.")
     if len(lead) == 1 and lead[0].get('type_dirigeant') == 'personne morale' and lead[0].get('siren'):
         h = holding_info(lead[0]['siren'], reg)
@@ -216,7 +220,10 @@ def judge(osm, res, reg):
         if not hd or not all(d.get('type_dirigeant') == 'personne physique' for d in hd):
             return None
         hn = (h['name'] or '').title()
-        return f'{legal} (via {hn})', (f"Run by {legal} (SIREN {siren}), whose president is the small holding {hn}, itself managed by "
+        if surnames & set(fold(hn).split()) or {w for d in hd for w in fold(d.get('nom') or '').split() if len(w) > 2} & set(fold(hn).split()):
+            hn = 'a family holding'
+        owner = 'Owner-managed company' if legal.startswith('an ') else legal
+        return f'{owner} (via {hn})', (f"Run by {legal} (SIREN {siren}), whose president is {hn if hn.startswith('a ') else 'the small holding ' + hn}, itself managed by "
                                        f"private individuals; no group or investor appears in the business register, and this is {site_txt}.")
     return None
 
