@@ -99,21 +99,29 @@ BIAS = [(48.8566, 2.3522), (48.8800, 2.3000), (48.8800, 2.3800), (48.8350, 2.300
 OK_KEYS = {'amenity', 'shop', 'leisure', 'tourism', 'craft'}
 
 
-def brand_branches(osm_name, extra_names=()):
+def brand_branches(osm_name, extra_names=(), exact=False, values=None):
     names = [osm_name, *extra_names]
     want = [fold(n) for n in names]
     found = {}
+    raw_hits = 0
     for qn in names:
-        for lat, lon in BIAS:
+        for bi, (lat, lon) in enumerate(BIAS):
+            if bi == 1 and raw_hits < 40:
+                break  # one page was enough: the brand has few Paris sites
             url = ('https://photon.komoot.io/api/?' + urllib.parse.urlencode({'q': qn, 'limit': 50, 'lat': lat, 'lon': lon,
                    'bbox': ','.join(map(str, BBOX))}))
             data = fetch_json(url, f'photon_{fold(qn)}_{lat}_{lon}')
-            for f in (data or {}).get('features') or []:
+            feats = (data or {}).get('features') or []
+            if bi == 0:
+                raw_hits = len(feats)
+            for f in feats:
                 p = f['properties']
-                if p.get('osm_key') not in OK_KEYS:
+                if p.get('osm_key') not in OK_KEYS or p.get('osm_value') in ('vacant', 'disused'):
+                    continue
+                if values and p.get('osm_value') not in values:
                     continue
                 nm = fold(p.get('name'))
-                if not any(nm == w or nm.startswith(w + ' ') for w in want):
+                if not any(nm == w or (not exact and len(w) >= 6 and nm.startswith(w + ' ')) for w in want):
                     continue
                 lon2, lat2 = f['geometry']['coordinates']
                 if not in_paris(lon2, lat2):
@@ -164,11 +172,17 @@ def main():
             continue
         seen[key] = r
 
+    # warm the caches in parallel (lookups are cached, the loop below then runs from cache)
+    from concurrent.futures import ThreadPoolExecutor
+    with ThreadPoolExecutor(6) as ex:
+        list(ex.map(lambda r: brand_branches(r.get('osm') or r['n'], r.get('osm_alt') or [], r.get('osm_exact', False), r.get('osm_values')) if r.get('type') == 'brand'
+                    else geocode_venue(r.get('addr') or ''), seen.values()))
+
     places, misses = [], []
     for r in seen.values():
         base = clean(r)
         if r.get('type') == 'brand':
-            br = brand_branches(r.get('osm') or r['n'], r.get('osm_alt') or [])
+            br = brand_branches(r.get('osm') or r['n'], r.get('osm_alt') or [], r.get('osm_exact', False), r.get('osm_values'))
             if not br and r.get('addr'):
                 r['type'] = 'venue'
             for p in br:
@@ -181,6 +195,7 @@ def main():
                 place['a'] = street or p.get('locality') or ''
                 place['area'] = area_label(n)
                 place['ll'] = [round(p['lat'], 5), round(p['lon'], 5)]
+                place['_brand'] = base['n']
                 places.append(place)
             if not br and r.get('type') == 'brand':
                 misses.append(f"brand with no Paris branch on OSM: {r['n']}")
@@ -201,7 +216,20 @@ def main():
         place['ll'] = [round(lat, 5), round(lon, 5)]
         places.append(place)
 
-    # A venue pin that sits on top of a chain branch pin of the same brand wins (it carries the specific note).
+    # A venue pin that sits on top of a chain branch pin of the same brand wins (it carries the specific note),
+    # e.g. Breizh Café Le Marais stayed with the founders while the rest of the brand was sold.
+    venues = [p for p in places if not p.get('_brand')]
+    def shadowed(p):
+        if not p.get('_brand'):
+            return False
+        b = fold(p['_brand'])
+        return any(fold(v['n']).startswith(b) and abs(v['ll'][0] - p['ll'][0]) < 0.0006 and abs(v['ll'][1] - p['ll'][1]) < 0.0009 for v in venues)
+    dropped = [p['n'] for p in places if shadowed(p)]
+    places = [p for p in places if not shadowed(p)]
+    if dropped:
+        print('  branch pins replaced by venue records:', dropped)
+    for p in places:
+        p.pop('_brand', None)
     places.sort(key=lambda p: ({'pe': 0, 'vc': 1, 'corp': 2, 'ind': 3}[p['c']], p['n']))
     counts = {c: sum(p['c'] == c for p in places) for c in ('pe', 'vc', 'corp', 'ind')}
     print('places:', len(places), counts)
