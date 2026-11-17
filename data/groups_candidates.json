@@ -1,0 +1,7310 @@
+[
+ {
+  "group_siren": "829225556",
+  "group_name": "POPOTES GROUP",
+  "n": 6,
+  "venues": [
+   {
+    "osm_key": "N1746296696",
+    "name": "Jour Richelieu",
+    "pc": "75002",
+    "company": "HEALTHY GROUPE",
+    "company_siren": "448915033"
+   },
+   {
+    "osm_key": "N3461703397",
+    "name": "Jour Malesherbes",
+    "pc": "75008",
+    "company": "HEALTHY GROUPE",
+    "company_siren": "448915033"
+   },
+   {
+    "osm_key": "N11572545969",
+    "name": "Jour Friedland",
+    "pc": "75008",
+    "company": "HEALTHY GROUPE",
+    "company_siren": "448915033"
+   },
+   {
+    "osm_key": "N7812373851",
+    "name": "Jour Boétie",
+    "pc": "75008",
+    "company": "HEALTHY GROUPE",
+    "company_siren": "448915033"
+   },
+   {
+    "osm_key": "N4420291692",
+    "name": "Jour Haussmann",
+    "pc": "75008",
+    "company": "HEALTHY GROUPE",
+    "company_siren": "448915033"
+   },
+   {
+    "osm_key": "N7053882987",
+    "name": "Jour Batignolles",
+    "pc": "75017",
+    "company": "HEALTHY GROUPE",
+    "company_siren": "448915033"
+   }
+  ]
+ },
+ {
+  "group_siren": "187500061",
+  "group_name": "CENTRE REGIONAL OEUVRES UNIV SCOLAIRES",
+  "n": 5,
+  "venues": [
+   {
+    "osm_key": "N2130798749",
+    "name": "Restaurant universitaire",
+    "pc": "75014",
+    "company": "CENTRE REGIONAL OEUVRES UNIV SCOLAIRES",
+    "company_siren": "187500061"
+   },
+   {
+    "osm_key": "N10726847296",
+    "name": "Cafétéria Olympe de Gouges",
+    "pc": "75013",
+    "company": "CENTRE REGIONAL OEUVRES UNIV SCOLAIRES",
+    "company_siren": "187500061"
+   },
+   {
+    "osm_key": "N11257435250",
+    "name": "Cafétéria Cochin",
+    "pc": "75014",
+    "company": "CENTRE REGIONAL OEUVRES UNIV SCOLAIRES",
+    "company_siren": "187500061"
+   },
+   {
+    "osm_key": "N12318640274",
+    "name": "Restaurant universitaire Descartes - Crous Paris",
+    "pc": "75016",
+    "company": "CENTRE REGIONAL OEUVRES UNIV SCOLAIRES",
+    "company_siren": "187500061"
+   },
+   {
+    "osm_key": "N8197670975",
+    "name": "Restaurant universitaire Clignancourt",
+    "pc": "75018",
+    "company": "CENTRE REGIONAL OEUVRES UNIV SCOLAIRES",
+    "company_siren": "187500061"
+   }
+  ]
+ },
+ {
+  "group_siren": "881982532",
+  "group_name": "PANDA FRERES HOLDING",
+  "n": 5,
+  "venues": [
+   {
+    "osm_key": "N10047610731",
+    "name": "Mr Chow",
+    "pc": "75014",
+    "company": "PANDA DELAMBRE",
+    "company_siren": "940045586"
+   },
+   {
+    "osm_key": "N10220121247",
+    "name": "Baobar",
+    "pc": "75004",
+    "company": "BAOBAR",
+    "company_siren": "900671637"
+   },
+   {
+    "osm_key": "N1990680629",
+    "name": "Tiger Tiger",
+    "pc": "75010",
+    "company": "TIGER TIGER",
+    "company_siren": "882432594"
+   },
+   {
+    "osm_key": "N14127727138",
+    "name": "Baobar",
+    "pc": "75009",
+    "company": "BAOBAR FAUBOURG",
+    "company_siren": "995097391"
+   },
+   {
+    "osm_key": "N7703888388",
+    "name": "Panda Panda",
+    "pc": "75010",
+    "company": "PANDA PANDA",
+    "company_siren": "844087114"
+   }
+  ]
+ },
+ {
+  "group_siren": "267500049",
+  "group_name": "CENTRE D'ACTION SOCIALE DE LA VILLE DE PARIS",
+  "n": 5,
+  "venues": [
+   {
+    "osm_key": "W365618872",
+    "name": "Restaurant Émeraude St. Éloi",
+    "pc": "75012",
+    "company": "CENTRE D'ACTION SOCIALE DE LA VILLE DE PARIS",
+    "company_siren": "267500049"
+   },
+   {
+    "osm_key": "W365475464",
+    "name": "Restaurant Émeraude La Perle",
+    "pc": "75003",
+    "company": "CENTRE D'ACTION SOCIALE DE LA VILLE DE PARIS",
+    "company_siren": "267500049"
+   },
+   {
+    "osm_key": "N10000522748",
+    "name": "Restaurant Émeraude Verdun",
+    "pc": "75010",
+    "company": "CENTRE D'ACTION SOCIALE DE LA VILLE DE PARIS",
+    "company_siren": "267500049"
+   },
+   {
+    "osm_key": "N5362149921",
+    "name": "Restaurant Émeraude Vellefaux",
+    "pc": "75010",
+    "company": "CENTRE D'ACTION SOCIALE DE LA VILLE DE PARIS",
+    "company_siren": "267500049"
+   },
+   {
+    "osm_key": "N5362146519",
+    "name": "Restaurant Émeraude \"Les Bois\"",
+    "pc": "75019",
+    "company": "CENTRE D'ACTION SOCIALE DE LA VILLE DE PARIS",
+    "company_siren": "267500049"
+   }
+  ]
+ },
+ {
+  "group_siren": "484941489",
+  "group_name": "FROGPUBS",
+  "n": 4,
+  "venues": [
+   {
+    "osm_key": "N536574152",
+    "name": "The Frog & British Library",
+    "pc": "75013",
+    "company": "FROGPUBS",
+    "company_siren": "484941489"
+   },
+   {
+    "osm_key": "N609212551",
+    "name": "The Frog",
+    "pc": "75012",
+    "company": "FROGPUBS",
+    "company_siren": "484941489"
+   },
+   {
+    "osm_key": "N3520483492",
+    "name": "The Frog & Princess",
+    "pc": "75006",
+    "company": "FROGPUBS",
+    "company_siren": "484941489"
+   },
+   {
+    "osm_key": "N11356977923",
+    "name": "The Frog & Rosbif",
+    "pc": "75002",
+    "company": "FROGPUBS",
+    "company_siren": "484941489"
+   }
+  ]
+ },
+ {
+  "group_siren": "504058181",
+  "group_name": "KERIBUS",
+  "n": 4,
+  "venues": [
+   {
+    "osm_key": "N12188738610",
+    "name": "Bonvivant Pizza",
+    "pc": "75005",
+    "company": "PIZZA BONVIVANT",
+    "company_siren": "841892789"
+   },
+   {
+    "osm_key": "N7849213032",
+    "name": "Bonvivant",
+    "pc": "75005",
+    "company": "BONVIVANT",
+    "company_siren": "802840835"
+   },
+   {
+    "osm_key": "N3405085324",
+    "name": "Jaja",
+    "pc": "75004",
+    "company": "JAJA",
+    "company_siren": "523058972"
+   },
+   {
+    "osm_key": "N5227842712",
+    "name": "Glou",
+    "pc": "75003",
+    "company": "GLOU ONE",
+    "company_siren": "504335654"
+   }
+  ]
+ },
+ {
+  "group_siren": "818215345",
+  "group_name": "MY 2015",
+  "n": 4,
+  "venues": [
+   {
+    "osm_key": "N7703757084",
+    "name": "Aux pains de Manon",
+    "pc": "75016",
+    "company": "SAS AUX PAINS DE MANON",
+    "company_siren": "850775149"
+   },
+   {
+    "osm_key": "N530273791",
+    "name": "Aux Désirs de Manon",
+    "pc": "75004",
+    "company": "AUX DESIRS DE MANON",
+    "company_siren": "883787301"
+   },
+   {
+    "osm_key": "N10948088686",
+    "name": "Miss Manon",
+    "pc": "75004",
+    "company": "MISS MANON SNC",
+    "company_siren": "424224186"
+   },
+   {
+    "osm_key": "N3265476977",
+    "name": "Chez Manon",
+    "pc": "75003",
+    "company": "CHEZ MANON",
+    "company_siren": "533670675"
+   }
+  ]
+ },
+ {
+  "group_siren": "478616303",
+  "group_name": "BREIZH CAFE",
+  "n": 4,
+  "venues": [
+   {
+    "osm_key": "N2296255409",
+    "name": "Breizh",
+    "pc": "75007",
+    "company": "BREIZH CAFE CLER",
+    "company_siren": "934811365"
+   },
+   {
+    "osm_key": "N4678675289",
+    "name": "Breizh Café Montorgueil",
+    "pc": "75002",
+    "company": "BREIZH CAFE MONTORGUEIL",
+    "company_siren": "837974807"
+   },
+   {
+    "osm_key": "N4557814869",
+    "name": "Café du canal",
+    "pc": "75010",
+    "company": "BREIZH CAFE CANAL SAINT MARTIN",
+    "company_siren": "892261470"
+   },
+   {
+    "osm_key": "N4025395295",
+    "name": "BREIZH Café - Batignolles",
+    "pc": "75017",
+    "company": "BREIZH CAFE BATIGNOLLES",
+    "company_siren": "839981271"
+   }
+  ]
+ },
+ {
+  "group_siren": "878055136",
+  "group_name": "NICHIFUTSU FOOD STUDIO",
+  "n": 4,
+  "venues": [
+   {
+    "osm_key": "N9977245822",
+    "name": "Maison le Roux",
+    "pc": "75006",
+    "company": "NICHIFUTSU FOOD FACTORY",
+    "company_siren": "432431419"
+   },
+   {
+    "osm_key": "N9898312901",
+    "name": "La glacerie",
+    "pc": "75004",
+    "company": "NICHIFUTSU FOOD FACTORY",
+    "company_siren": "432431419"
+   },
+   {
+    "osm_key": "N12800402115",
+    "name": "Maison le Roux",
+    "pc": "75002",
+    "company": "NICHIFUTSU FOOD FACTORY",
+    "company_siren": "432431419"
+   },
+   {
+    "osm_key": "N9300017469",
+    "name": "Henri le Roux",
+    "pc": "75009",
+    "company": "NICHIFUTSU FOOD FACTORY",
+    "company_siren": "432431419"
+   }
+  ]
+ },
+ {
+  "group_siren": "511233942",
+  "group_name": "SOLI",
+  "n": 3,
+  "venues": [
+   {
+    "osm_key": "N1049732030",
+    "name": "Yaai Thaï",
+    "pc": "75014",
+    "company": "SOLI",
+    "company_siren": "511233942"
+   },
+   {
+    "osm_key": "N8639025835",
+    "name": "Mamie",
+    "pc": "75002",
+    "company": "SOLI",
+    "company_siren": "511233942"
+   },
+   {
+    "osm_key": "N4360249193",
+    "name": "Mamie Burger",
+    "pc": "75009",
+    "company": "SOLI",
+    "company_siren": "511233942"
+   }
+  ]
+ },
+ {
+  "group_siren": "951871581",
+  "group_name": "GUIMA I",
+  "n": 3,
+  "venues": [
+   {
+    "osm_key": "N7424842585",
+    "name": "Jadis & Gourmande",
+    "pc": "75005",
+    "company": "EXPLOITATION PRODUITS ARTICLES NATURELS",
+    "company_siren": "308909407"
+   },
+   {
+    "osm_key": "N10136617782",
+    "name": "Jadis & Gourmande",
+    "pc": "75006",
+    "company": "EXPLOITATION PRODUITS ARTICLES NATURELS",
+    "company_siren": "308909407"
+   },
+   {
+    "osm_key": "N6394874403",
+    "name": "Jadis et Gourmande",
+    "pc": "75010",
+    "company": "EXPLOITATION PRODUITS ARTICLES NATURELS",
+    "company_siren": "308909407"
+   }
+  ]
+ },
+ {
+  "group_siren": "529357535",
+  "group_name": "EVI EVANE TRAITEUR",
+  "n": 3,
+  "venues": [
+   {
+    "osm_key": "N10136617773",
+    "name": "Evi Evane",
+    "pc": "75006",
+    "company": "EVI EVANE TRAITEUR",
+    "company_siren": "529357535"
+   },
+   {
+    "osm_key": "N3182996148",
+    "name": "Evi Evane",
+    "pc": "75003",
+    "company": "EVI EVANE TRAITEUR",
+    "company_siren": "529357535"
+   },
+   {
+    "osm_key": "N14298984501",
+    "name": "Evi Evane Traiteur",
+    "pc": "75017",
+    "company": "EVI EVANE TRAITEUR",
+    "company_siren": "529357535"
+   }
+  ]
+ },
+ {
+  "group_siren": "824465801",
+  "group_name": "HOLDING P.V.J.",
+  "n": 3,
+  "venues": [
+   {
+    "osm_key": "N5077321891",
+    "name": "Le Golfe de Naples",
+    "pc": "75006",
+    "company": "ALISA DES PRES",
+    "company_siren": "902944941"
+   },
+   {
+    "osm_key": "N777174257",
+    "name": "Café des Beaux-Arts",
+    "pc": "75006",
+    "company": "DF CAFE",
+    "company_siren": "833940067"
+   },
+   {
+    "osm_key": "N3980826515",
+    "name": "Café Saint-Honoré",
+    "pc": "75001",
+    "company": "LBB RESTO",
+    "company_siren": "920056033"
+   }
+  ]
+ },
+ {
+  "group_siren": "940511009",
+  "group_name": "ANOUS",
+  "n": 3,
+  "venues": [
+   {
+    "osm_key": "N247455924",
+    "name": "La Robe et le Palais",
+    "pc": "75001",
+    "company": "BARRA",
+    "company_siren": "102255049"
+   },
+   {
+    "osm_key": "N3501719728",
+    "name": "Eels",
+    "pc": "75010",
+    "company": "FERRAND RESTAURANT",
+    "company_siren": "827815275"
+   },
+   {
+    "osm_key": "N7980128155",
+    "name": "Brigade du Tigre",
+    "pc": "75010",
+    "company": "LEBLON",
+    "company_siren": "844885137"
+   }
+  ]
+ },
+ {
+  "group_siren": "515398931",
+  "group_name": "KIPLINE",
+  "n": 3,
+  "venues": [
+   {
+    "osm_key": "N3688287921",
+    "name": "Côme Pyramides",
+    "pc": "75001",
+    "company": "KIPLINE",
+    "company_siren": "515398931"
+   },
+   {
+    "osm_key": "N12727010012",
+    "name": "Côme Marceau",
+    "pc": "75008",
+    "company": "KIPLINE",
+    "company_siren": "515398931"
+   },
+   {
+    "osm_key": "W70184664",
+    "name": "Côme Washington",
+    "pc": "75008",
+    "company": "KIPLINE",
+    "company_siren": "515398931"
+   }
+  ]
+ },
+ {
+  "group_siren": "850712910",
+  "group_name": "LA PAPOTERIE",
+  "n": 3,
+  "venues": [
+   {
+    "osm_key": "N2936641892",
+    "name": "Papoterie",
+    "pc": "75011",
+    "company": "LA PAPOTERIE",
+    "company_siren": "850712910"
+   },
+   {
+    "osm_key": "N12894861301",
+    "name": "La Papoterie",
+    "pc": "75002",
+    "company": "LA PAPOTERIE",
+    "company_siren": "850712910"
+   },
+   {
+    "osm_key": "N13281566020",
+    "name": "Papoterie",
+    "pc": "75009",
+    "company": "LA PAPOTERIE",
+    "company_siren": "850712910"
+   }
+  ]
+ },
+ {
+  "group_siren": "931135859",
+  "group_name": "NIAGARA",
+  "n": 3,
+  "venues": [
+   {
+    "osm_key": "N1985707699",
+    "name": "Les Enfants perdus",
+    "pc": "75010",
+    "company": "SAS TEKNIKAL",
+    "company_siren": "822763025"
+   },
+   {
+    "osm_key": "N6067497285",
+    "name": "Les Enfants sauvages",
+    "pc": "75010",
+    "company": "SAS TEKNIKAL",
+    "company_siren": "822763025"
+   },
+   {
+    "osm_key": "N3323690061",
+    "name": "Bistrot du Moulin",
+    "pc": "75009",
+    "company": "SAS FUTUR",
+    "company_siren": "932212335"
+   }
+  ]
+ },
+ {
+  "group_siren": "803856384",
+  "group_name": "LA PORTENA",
+  "n": 3,
+  "venues": [
+   {
+    "osm_key": "N7123569885",
+    "name": "Casero",
+    "pc": "75017",
+    "company": "LA PORTENA",
+    "company_siren": "803856384"
+   },
+   {
+    "osm_key": "N4894075121",
+    "name": "La Porteña",
+    "pc": "75018",
+    "company": "LA PORTENA",
+    "company_siren": "803856384"
+   },
+   {
+    "osm_key": "N7765035430",
+    "name": "Fulano",
+    "pc": "75018",
+    "company": "LA PORTENA",
+    "company_siren": "803856384"
+   }
+  ]
+ },
+ {
+  "group_siren": "917731531",
+  "group_name": "EVRIDIKI COMPAGNIE",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N2194705298",
+    "name": "Kouzina",
+    "pc": "75014",
+    "company": "EVRIDIKI COMPAGNIE",
+    "company_siren": "917731531"
+   },
+   {
+    "osm_key": "N11091405316",
+    "name": "Kouzina",
+    "pc": "75006",
+    "company": "EVRIDIKI COMPAGNIE",
+    "company_siren": "917731531"
+   }
+  ]
+ },
+ {
+  "group_siren": "938938131",
+  "group_name": "RAPHAEL EVA",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N2699839267",
+    "name": "Taverne de la Butte",
+    "pc": "75013",
+    "company": "LA TAVERNE DE LA BUTTE",
+    "company_siren": "843963463"
+   },
+   {
+    "osm_key": "N6230913985",
+    "name": "Chez Djouher",
+    "pc": "75013",
+    "company": "REBEVA",
+    "company_siren": "802272245"
+   }
+  ]
+ },
+ {
+  "group_siren": "498569318",
+  "group_name": "AMERICA EXOTICA",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N9983272397",
+    "name": "Cevicheria Bon Bon",
+    "pc": "75015",
+    "company": "AMERICA EXOTICA",
+    "company_siren": "498569318"
+   },
+   {
+    "osm_key": "W259648341",
+    "name": "Cevicheria Bon Bon",
+    "pc": "75013",
+    "company": "AMERICA EXOTICA",
+    "company_siren": "498569318"
+   }
+  ]
+ },
+ {
+  "group_siren": "843204967",
+  "group_name": "MADVENTURE",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N2319202366",
+    "name": "Factorielle 52",
+    "pc": "75013",
+    "company": "MADVENTURE INITIATIVES",
+    "company_siren": "981035736"
+   },
+   {
+    "osm_key": "N13521798701",
+    "name": "Factorielle 52",
+    "pc": "75013",
+    "company": "MADVENTURE INITIATIVES",
+    "company_siren": "981035736"
+   }
+  ]
+ },
+ {
+  "group_siren": "822909420",
+  "group_name": "BISTROT 75",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N299728776",
+    "name": "Au Banquier",
+    "pc": "75013",
+    "company": "LE BANQUIER",
+    "company_siren": "828782227"
+   },
+   {
+    "osm_key": "N992837875",
+    "name": "Le Bastringue",
+    "pc": "75019",
+    "company": "LE BASTRINGUE",
+    "company_siren": "828783076"
+   }
+  ]
+ },
+ {
+  "group_siren": "829822659",
+  "group_name": "FINANCIERE BOULANGERIE PARIS & CO",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N2108026248",
+    "name": "Paris & Co",
+    "pc": "75014",
+    "company": "BOULANGERIE PARIS & CO GAITE",
+    "company_siren": "801911918"
+   },
+   {
+    "osm_key": "N4537744689",
+    "name": "Boulangerie Paris&Co",
+    "pc": "75015",
+    "company": "BOULANGERIE PARIS & CO CONVENTION",
+    "company_siren": "792385114"
+   }
+  ]
+ },
+ {
+  "group_siren": "935079434",
+  "group_name": "MMP",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N1113739044",
+    "name": "Mille Grazie",
+    "pc": "75015",
+    "company": "M MANGEAVER",
+    "company_siren": "833932726"
+   },
+   {
+    "osm_key": "N9075976798",
+    "name": "Mangeaver",
+    "pc": "75015",
+    "company": "M MANGEAVER",
+    "company_siren": "833932726"
+   }
+  ]
+ },
+ {
+  "group_siren": "999573108",
+  "group_name": "VIVIANA",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N9127637192",
+    "name": "Pizza Viva",
+    "pc": "75005",
+    "company": "PIZZA VIVA",
+    "company_siren": "989592894"
+   },
+   {
+    "osm_key": "N6073172186",
+    "name": "Pizza Viva",
+    "pc": "75016",
+    "company": "PIZZA VIVA",
+    "company_siren": "989592894"
+   }
+  ]
+ },
+ {
+  "group_siren": "910499169",
+  "group_name": "LES COSMIQUES",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N10915489275",
+    "name": "Rhodia",
+    "pc": "75015",
+    "company": "ISANA",
+    "company_siren": "822995239"
+   },
+   {
+    "osm_key": "N5877960608",
+    "name": "Isana",
+    "pc": "75009",
+    "company": "ISANA",
+    "company_siren": "822995239"
+   }
+  ]
+ },
+ {
+  "group_siren": "479135311",
+  "group_name": "INDARKI",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N5884607485",
+    "name": "L'atelier du chocolat",
+    "pc": "75015",
+    "company": "SAS ANDRIEU",
+    "company_siren": "324294735"
+   },
+   {
+    "osm_key": "N2707103494",
+    "name": "L'Atelier du Chocolat",
+    "pc": "75004",
+    "company": "SAS ANDRIEU",
+    "company_siren": "324294735"
+   }
+  ]
+ },
+ {
+  "group_siren": "109958280",
+  "group_name": "HOLDING GROUPE NOIR",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N5681009101",
+    "name": "Noir Coffee Shop",
+    "pc": "75005",
+    "company": "NOIR COFFEE SHOP",
+    "company_siren": "883583767"
+   },
+   {
+    "osm_key": "N4889936027",
+    "name": "Matamata Coffee",
+    "pc": "75002",
+    "company": "NOIR COFFEE SHOP",
+    "company_siren": "883583767"
+   }
+  ]
+ },
+ {
+  "group_siren": "831499751",
+  "group_name": "DECHENAUD",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N10881839328",
+    "name": "Julien Dechenaud",
+    "pc": "75012",
+    "company": "DECHENAUD",
+    "company_siren": "831499751"
+   },
+   {
+    "osm_key": "N11167727917",
+    "name": "Julien Dechenaud",
+    "pc": "75011",
+    "company": "DECHENAUD",
+    "company_siren": "831499751"
+   }
+  ]
+ },
+ {
+  "group_siren": "977485887",
+  "group_name": "BECCHI HOLDING",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N13855747277",
+    "name": "Becchi",
+    "pc": "75020",
+    "company": "BECCHI",
+    "company_siren": "902620772"
+   },
+   {
+    "osm_key": "N815798234",
+    "name": "Becchi",
+    "pc": "75008",
+    "company": "BECCHI MADELEINE",
+    "company_siren": "980327902"
+   }
+  ]
+ },
+ {
+  "group_siren": "804336634",
+  "group_name": "PUYRICARD CORPORATE",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N10187472632",
+    "name": "Puyricard",
+    "pc": "75006",
+    "company": "SAS CHOCOLATERIE DE PUYRICARD",
+    "company_siren": "445388473"
+   },
+   {
+    "osm_key": "N3181027462",
+    "name": "Puyricard",
+    "pc": "75004",
+    "company": "SAS CHOCOLATERIE DE PUYRICARD",
+    "company_siren": "445388473"
+   }
+  ]
+ },
+ {
+  "group_siren": "343586590",
+  "group_name": "LA TABLE DE CANA",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N10559326380",
+    "name": "Café des Amis",
+    "pc": "75005",
+    "company": "LA TABLE DE CANA",
+    "company_siren": "343586590"
+   },
+   {
+    "osm_key": "N6241610238",
+    "name": "Le Café littéraire",
+    "pc": "75005",
+    "company": "LA TABLE DE CANA",
+    "company_siren": "343586590"
+   }
+  ]
+ },
+ {
+  "group_siren": "904496254",
+  "group_name": "DENGO EUROPE",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N12853138259",
+    "name": "Dengo",
+    "pc": "75006",
+    "company": "DENGO EUROPE",
+    "company_siren": "904496254"
+   },
+   {
+    "osm_key": "N11423800962",
+    "name": "Dengo",
+    "pc": "75018",
+    "company": "DENGO EUROPE",
+    "company_siren": "904496254"
+   }
+  ]
+ },
+ {
+  "group_siren": "439008467",
+  "group_name": "BASCO-SAVOYARDE D'INVESTISSEMENT & DE MANAGEMENT PAR ABREVIATION B S I MANAGEMENT",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N5077321888",
+    "name": "L'Avant Comptoir du Marché",
+    "pc": "75006",
+    "company": "CROISSANCE 5",
+    "company_siren": "813725868"
+   },
+   {
+    "osm_key": "N5221190416",
+    "name": "L'Avant Comptoir de la Mer",
+    "pc": "75006",
+    "company": "CROISSANCE 5",
+    "company_siren": "813725868"
+   }
+  ]
+ },
+ {
+  "group_siren": "932122914",
+  "group_name": "HOLDING LES ARTIZANS",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N9747718289",
+    "name": "Les Artizans",
+    "pc": "75006",
+    "company": "HOLDING LES ARTIZANS",
+    "company_siren": "932122914"
+   },
+   {
+    "osm_key": "N4866141203",
+    "name": "Les Artizans",
+    "pc": "75001",
+    "company": "LOUGAB",
+    "company_siren": "388820532"
+   }
+  ]
+ },
+ {
+  "group_siren": "835189093",
+  "group_name": "GOLDING",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N7056470548",
+    "name": "Shinzzo",
+    "pc": "75011",
+    "company": "SHINZZO AND CO",
+    "company_siren": "829886779"
+   },
+   {
+    "osm_key": "N2931860402",
+    "name": "Shinzzo",
+    "pc": "75019",
+    "company": "SHINZZO LA CUCINA",
+    "company_siren": "904811361"
+   }
+  ]
+ },
+ {
+  "group_siren": "809837081",
+  "group_name": "CEDIAM & CO",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N5602808064",
+    "name": "Big Buddha",
+    "pc": "75016",
+    "company": "44K",
+    "company_siren": "920503810"
+   },
+   {
+    "osm_key": "N5029893921",
+    "name": "Big Buddha",
+    "pc": "75007",
+    "company": "SCUPION",
+    "company_siren": "103444337"
+   }
+  ]
+ },
+ {
+  "group_siren": "382945475",
+  "group_name": "KUNITORAYA FRANCE",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N12478321346",
+    "name": "Kunitoraya Onigiri",
+    "pc": "75015",
+    "company": "KUNITORAYA FRANCE",
+    "company_siren": "382945475"
+   },
+   {
+    "osm_key": "N10220756524",
+    "name": "Stand Tora",
+    "pc": "75001",
+    "company": "KUNITORAYA FRANCE",
+    "company_siren": "382945475"
+   }
+  ]
+ },
+ {
+  "group_siren": "922805122",
+  "group_name": "FINANCIERE GLV",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N6295684355",
+    "name": "Auberge Bressane",
+    "pc": "75007",
+    "company": "L AUBERGE BRESSANE",
+    "company_siren": "612037424"
+   },
+   {
+    "osm_key": "N1676596928",
+    "name": "Senderens",
+    "pc": "75008",
+    "company": "LUCAS CARTON",
+    "company_siren": "572112423"
+   }
+  ]
+ },
+ {
+  "group_siren": "938956505",
+  "group_name": "STILLPROB",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N705252920",
+    "name": "Au Bouquet Saint-Paul",
+    "pc": "75004",
+    "company": "PROSTEI",
+    "company_siren": "939980686"
+   },
+   {
+    "osm_key": "N5955036085",
+    "name": "Le Petit Premier",
+    "pc": "75001",
+    "company": "SAS LITTLE FIRST",
+    "company_siren": "102283686"
+   }
+  ]
+ },
+ {
+  "group_siren": "508706744",
+  "group_name": "NOVIGA",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N721563428",
+    "name": "The Brooklyn Pizzeria",
+    "pc": "75003",
+    "company": "VOGINA",
+    "company_siren": "335171211"
+   },
+   {
+    "osm_key": "N1300607685",
+    "name": "Bronx Pizzeria",
+    "pc": "75017",
+    "company": "FERALI",
+    "company_siren": "314238536"
+   }
+  ]
+ },
+ {
+  "group_siren": "833881345",
+  "group_name": "CULINARIES HOLDING",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "R1627893",
+    "name": "Yard",
+    "pc": "75011",
+    "company": "CULINARIES YARD",
+    "company_siren": "834315806"
+   },
+   {
+    "osm_key": "N7134555587",
+    "name": "Yard",
+    "pc": "75011",
+    "company": "CULINARIES YARD",
+    "company_siren": "834315806"
+   }
+  ]
+ },
+ {
+  "group_siren": "917485112",
+  "group_name": "MANTEIGARIA FRANCE SAS",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N3405085311",
+    "name": "Manteigaria",
+    "pc": "75001",
+    "company": "MANTEIGARIA FRANCE SAS",
+    "company_siren": "917485112"
+   },
+   {
+    "osm_key": "N546475275",
+    "name": "Manteigaria",
+    "pc": "75008",
+    "company": "MANTEIGARIA FRANCE SAS",
+    "company_siren": "917485112"
+   }
+  ]
+ },
+ {
+  "group_siren": "878444652",
+  "group_name": "L'ALSACIEN RESEAU",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N3997293450",
+    "name": "L'Alsacien",
+    "pc": "75004",
+    "company": "L'ALSACIEN PARIS 4",
+    "company_siren": "802863399"
+   },
+   {
+    "osm_key": "N3688065154",
+    "name": "L'Alsacien",
+    "pc": "75010",
+    "company": "L'ALSACIEN PARIS 10",
+    "company_siren": "878595552"
+   }
+  ]
+ },
+ {
+  "group_siren": "449683259",
+  "group_name": "MAXIMO",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N2685468466",
+    "name": "Au Piment du Centre",
+    "pc": "75004",
+    "company": "MAXIMO",
+    "company_siren": "449683259"
+   },
+   {
+    "osm_key": "N1490922395",
+    "name": "Shu Yuan",
+    "pc": "75002",
+    "company": "MAXIMO",
+    "company_siren": "449683259"
+   }
+  ]
+ },
+ {
+  "group_siren": "989752381",
+  "group_name": "BIENVENUE",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N11514087810",
+    "name": "Irasshai",
+    "pc": "75001",
+    "company": "IRASSHAI",
+    "company_siren": "910846773"
+   },
+   {
+    "osm_key": "N11186895723",
+    "name": "Irasshai",
+    "pc": "75001",
+    "company": "IRASSHAI",
+    "company_siren": "910846773"
+   }
+  ]
+ },
+ {
+  "group_siren": "880719596",
+  "group_name": "BBHG",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N3215872979",
+    "name": "Bisou.",
+    "pc": "75003",
+    "company": "BISOU",
+    "company_siren": "824374052"
+   },
+   {
+    "osm_key": "N13227206049",
+    "name": "Bisou.",
+    "pc": "75010",
+    "company": "BISOU 2",
+    "company_siren": "984097139"
+   }
+  ]
+ },
+ {
+  "group_siren": "889568994",
+  "group_name": "DALIA GROUP",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N11078086892",
+    "name": "Jolia",
+    "pc": "75011",
+    "company": "JOLIA",
+    "company_siren": "910485192"
+   },
+   {
+    "osm_key": "N9076527570",
+    "name": "Dalia",
+    "pc": "75002",
+    "company": "DALIA MONTMARTRE",
+    "company_siren": "890750631"
+   }
+  ]
+ },
+ {
+  "group_siren": "384751749",
+  "group_name": "FINANCIERE JEAN RICHARD",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N490737598",
+    "name": "Chez Francis",
+    "pc": "75008",
+    "company": "MONTAIGNE ALMA",
+    "company_siren": "592060354"
+   },
+   {
+    "osm_key": "N4070148944",
+    "name": "Saint-Augustin",
+    "pc": "75008",
+    "company": "LE SAINT AUGUSTIN",
+    "company_siren": "582104147"
+   }
+  ]
+ },
+ {
+  "group_siren": "753297936",
+  "group_name": "SOPRANO INC",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N11245473261",
+    "name": "Zapi",
+    "pc": "75001",
+    "company": "ZAPI",
+    "company_siren": "922641428"
+   },
+   {
+    "osm_key": "N10729380895",
+    "name": "Pizi",
+    "pc": "75001",
+    "company": "PIZI",
+    "company_siren": "925256430"
+   }
+  ]
+ },
+ {
+  "group_siren": "478586118",
+  "group_name": "LE DISTIL",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N6001075060",
+    "name": "Chez Bouboule",
+    "pc": "75002",
+    "company": "LE DISTIL",
+    "company_siren": "478586118"
+   },
+   {
+    "osm_key": "N5752371492",
+    "name": "Chez Bouboule",
+    "pc": "75011",
+    "company": "LE DISTIL",
+    "company_siren": "478586118"
+   }
+  ]
+ },
+ {
+  "group_siren": "994954584",
+  "group_name": "PSB RESTAURANTS",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N3261498680",
+    "name": "Pierre Sang",
+    "pc": "75011",
+    "company": "PIERRE SANG EXPERIENCES",
+    "company_siren": "538929688"
+   },
+   {
+    "osm_key": "N3654530604",
+    "name": "Pierre Sang on Gambey",
+    "pc": "75011",
+    "company": "L'ATELIER GAMBEY",
+    "company_siren": "800222184"
+   }
+  ]
+ },
+ {
+  "group_siren": "853091973",
+  "group_name": "ADN HOLDING",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N10726381961",
+    "name": "Aux petites anémones",
+    "pc": "75011",
+    "company": "LES ANEMONES",
+    "company_siren": "440049708"
+   },
+   {
+    "osm_key": "N418062332",
+    "name": "Les Anémones",
+    "pc": "75011",
+    "company": "LES ANEMONES",
+    "company_siren": "440049708"
+   }
+  ]
+ },
+ {
+  "group_siren": "899315261",
+  "group_name": "SKYROCKET",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N12704192498",
+    "name": "Shinsekai",
+    "pc": "75008",
+    "company": "SHINSEKAI",
+    "company_siren": "953702875"
+   },
+   {
+    "osm_key": "N13930496844",
+    "name": "Shinsekai",
+    "pc": "75009",
+    "company": "SHINSEKAI FBG POISSONNIERE",
+    "company_siren": "994351690"
+   }
+  ]
+ },
+ {
+  "group_siren": "931376628",
+  "group_name": "BUHI BUHI",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N13570802521",
+    "name": "Tenten Udon",
+    "pc": "75002",
+    "company": "MENSAN & CO",
+    "company_siren": "943269415"
+   },
+   {
+    "osm_key": "N12542739351",
+    "name": "Tonton Ramen",
+    "pc": "75002",
+    "company": "BUHI BUHI",
+    "company_siren": "931376628"
+   }
+  ]
+ },
+ {
+  "group_siren": "830125449",
+  "group_name": "BRAVO PASTA",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N5912767880",
+    "name": "Bravo",
+    "pc": "75002",
+    "company": "BRAVO PASTA",
+    "company_siren": "830125449"
+   },
+   {
+    "osm_key": "N4818214958",
+    "name": "Bravo",
+    "pc": "75009",
+    "company": "BRAVOZZO",
+    "company_siren": "929731453"
+   }
+  ]
+ },
+ {
+  "group_siren": "991887506",
+  "group_name": "GROUPE TRÂM NOVA",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N5960011890",
+    "name": "Trâmette",
+    "pc": "75011",
+    "company": "TRAMETTE 128",
+    "company_siren": "993337534"
+   },
+   {
+    "osm_key": "N5959549888",
+    "name": "Trâm",
+    "pc": "75011",
+    "company": "TRAM",
+    "company_siren": "951757541"
+   }
+  ]
+ },
+ {
+  "group_siren": "878516624",
+  "group_name": "DNA PARADIS GROUP",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N4889996721",
+    "name": "Miss Kō",
+    "pc": "75008",
+    "company": "SAINTE HEMOISE 55",
+    "company_siren": "533022083"
+   },
+   {
+    "osm_key": "N4389312991",
+    "name": "James Bun",
+    "pc": "75017",
+    "company": "HANOI 17",
+    "company_siren": "814696548"
+   }
+  ]
+ },
+ {
+  "group_siren": "833738446",
+  "group_name": "E.T.S.",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N3780938658",
+    "name": "Le Comptoir de l'Artoise",
+    "pc": "75008",
+    "company": "EDFIC",
+    "company_siren": "331457820"
+   },
+   {
+    "osm_key": "N13997958608",
+    "name": "L'Artoise",
+    "pc": "75008",
+    "company": "EDFIC",
+    "company_siren": "331457820"
+   }
+  ]
+ },
+ {
+  "group_siren": "953420668",
+  "group_name": "BONNE TABLE",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N11917509369",
+    "name": "Bonne Table",
+    "pc": "75008",
+    "company": "BONNE TABLE",
+    "company_siren": "953420668"
+   },
+   {
+    "osm_key": "N12865122702",
+    "name": "Bonne Table",
+    "pc": "75009",
+    "company": "BONNE TABLE",
+    "company_siren": "953420668"
+   }
+  ]
+ },
+ {
+  "group_siren": "831546700",
+  "group_name": "BOBO",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N11018709821",
+    "name": "BOBO - Anjou",
+    "pc": "75008",
+    "company": "BOBO",
+    "company_siren": "831546700"
+   },
+   {
+    "osm_key": "N11085574310",
+    "name": "BOBO",
+    "pc": "75008",
+    "company": "BOBO",
+    "company_siren": "831546700"
+   }
+  ]
+ },
+ {
+  "group_siren": "400891982",
+  "group_name": "JIR",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N3770664875",
+    "name": "La Crêperie (des Artistes)",
+    "pc": "75009",
+    "company": "JIR",
+    "company_siren": "400891982"
+   },
+   {
+    "osm_key": "N9812980140",
+    "name": "Cordial Café",
+    "pc": "75009",
+    "company": "JIR",
+    "company_siren": "400891982"
+   }
+  ]
+ },
+ {
+  "group_siren": "829963081",
+  "group_name": "HILO FOOD",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N2705516118",
+    "name": "hilo",
+    "pc": "75008",
+    "company": "HILO FOOD",
+    "company_siren": "829963081"
+   },
+   {
+    "osm_key": "N5930366555",
+    "name": "Hilo",
+    "pc": "75008",
+    "company": "HILO FOOD",
+    "company_siren": "829963081"
+   }
+  ]
+ },
+ {
+  "group_siren": "828901884",
+  "group_name": "MATYZ",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N3501719715",
+    "name": "La Galinette Cendrée",
+    "pc": "75010",
+    "company": "ARJUMA",
+    "company_siren": "928397413"
+   },
+   {
+    "osm_key": "N11068953207",
+    "name": "Le Barbiche Le Cerf-Volant",
+    "pc": "75009",
+    "company": "AD TRIPLUM",
+    "company_siren": "839259892"
+   }
+  ]
+ },
+ {
+  "group_siren": "848707519",
+  "group_name": "COMPAGNIE DES LIEUX ATYPIQUES - C.L.A.",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N5448612933",
+    "name": "Mojo",
+    "pc": "75017",
+    "company": "MOJO",
+    "company_siren": "899155519"
+   },
+   {
+    "osm_key": "N13073022203",
+    "name": "L'atelier du marché",
+    "pc": "75017",
+    "company": "ATELIER DU MARCHE",
+    "company_siren": "480309756"
+   }
+  ]
+ },
+ {
+  "group_siren": "921101614",
+  "group_name": "LES FINANCIERS DU SANS GLUTEN",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N13746519927",
+    "name": "La manufacture du sans gluten",
+    "pc": "75018",
+    "company": "LES FINANCIERS DU SANS GLUTEN",
+    "company_siren": "921101614"
+   },
+   {
+    "osm_key": "N11386703232",
+    "name": "La Manufacture du Sans Gluten",
+    "pc": "75018",
+    "company": "LES FINANCIERS DU SANS GLUTEN",
+    "company_siren": "921101614"
+   }
+  ]
+ },
+ {
+  "group_siren": "909867962",
+  "group_name": "MAXIME AND CO",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N4294770431",
+    "name": "Aux Délices de Maxime",
+    "pc": "75019",
+    "company": "MAXIME",
+    "company_siren": "400573648"
+   },
+   {
+    "osm_key": "N6080392898",
+    "name": "Aux délices de Maxime",
+    "pc": "75019",
+    "company": "MAXIME",
+    "company_siren": "400573648"
+   }
+  ]
+ },
+ {
+  "group_siren": "953112372",
+  "group_name": "GROUPE BACILLUS",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N8637753864",
+    "name": "Bacillus",
+    "pc": "75017",
+    "company": "LE MARCHE BACILLUS",
+    "company_siren": "890409766"
+   },
+   {
+    "osm_key": "N1574979646",
+    "name": "Bacillus",
+    "pc": "75017",
+    "company": "BOULANGERIE DE LA JONQUIERE",
+    "company_siren": "953391786"
+   }
+  ]
+ },
+ {
+  "group_siren": "418196598",
+  "group_name": "GROUPE FAUCHON",
+  "n": 2,
+  "venues": [
+   {
+    "osm_key": "N4077975128",
+    "name": "Maison Arnaud Larher",
+    "pc": "75018",
+    "company": "MAISON ARNAUD LARHER",
+    "company_siren": "491498556"
+   },
+   {
+    "osm_key": "N4078033979",
+    "name": "Larher",
+    "pc": "75018",
+    "company": "MAISON ARNAUD LARHER",
+    "company_siren": "491498556"
+   }
+  ]
+ },
+ {
+  "group_siren": "503171670",
+  "group_name": "BY AU BON PAIN",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1361563036",
+    "name": "La Gatinaise",
+    "pc": "75013",
+    "company": "BY AU BON PAIN",
+    "company_siren": "503171670"
+   }
+  ]
+ },
+ {
+  "group_siren": "880041611",
+  "group_name": "LA NUIT SERA CALME",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4463902293",
+    "name": "L'âge D'or",
+    "pc": "75013",
+    "company": "L'AGE D'OR",
+    "company_siren": "514812981"
+   }
+  ]
+ },
+ {
+  "group_siren": "912628476",
+  "group_name": "LUCHIA HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11758484934",
+    "name": "Duo Bar",
+    "pc": "75013",
+    "company": "RUBICON",
+    "company_siren": "917440620"
+   }
+  ]
+ },
+ {
+  "group_siren": "899338693",
+  "group_name": "R&R BUSINESS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1044767604",
+    "name": "Binôme",
+    "pc": "75014",
+    "company": "BINOME DIDOT",
+    "company_siren": "510096464"
+   }
+  ]
+ },
+ {
+  "group_siren": "845297092",
+  "group_name": "VIVEFRANCE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7040483104",
+    "name": "Winner's Chicken",
+    "pc": "75014",
+    "company": "H.W",
+    "company_siren": "908360266"
+   }
+  ]
+ },
+ {
+  "group_siren": "803088210",
+  "group_name": "VETO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2194937768",
+    "name": "La Fabuica",
+    "pc": "75014",
+    "company": "S4",
+    "company_siren": "384622023"
+   }
+  ]
+ },
+ {
+  "group_siren": "441887676",
+  "group_name": "LA FOLIE EN TETE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2598272346",
+    "name": "La Folie en Tête",
+    "pc": "75013",
+    "company": "LA FOLIE EN TETE",
+    "company_siren": "441887676"
+   }
+  ]
+ },
+ {
+  "group_siren": "890332745",
+  "group_name": "POGGI & BROTHERS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2301505909",
+    "name": "Poggi Cup",
+    "pc": "75013",
+    "company": "EL CHEIKH",
+    "company_siren": "995098548"
+   }
+  ]
+ },
+ {
+  "group_siren": "814204525",
+  "group_name": "LES AMIS DE L'ESS'PACE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8944210367",
+    "name": "Ess'pace",
+    "pc": "75013",
+    "company": "LES AMIS DE L'ESS'PACE",
+    "company_siren": "814204525"
+   }
+  ]
+ },
+ {
+  "group_siren": "881763205",
+  "group_name": "SMILE WORLD",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12241564802",
+    "name": "Campione",
+    "pc": "75015",
+    "company": "SMILE WORLD",
+    "company_siren": "881763205"
+   }
+  ]
+ },
+ {
+  "group_siren": "517889713",
+  "group_name": "MYLENE POILANE SAS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1723257593",
+    "name": "Max Poilâne",
+    "pc": "75015",
+    "company": "MAX POILANE",
+    "company_siren": "602025314"
+   }
+  ]
+ },
+ {
+  "group_siren": "109578252",
+  "group_name": "CAPELLE FAMILY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3129070429",
+    "name": "Cocotte",
+    "pc": "75014",
+    "company": "JORSOL",
+    "company_siren": "491015707"
+   }
+  ]
+ },
+ {
+  "group_siren": "887793792",
+  "group_name": "INTERNAZIONALE HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2705375934",
+    "name": "Lüks",
+    "pc": "75013",
+    "company": "KS PARIS 13",
+    "company_siren": "928867431"
+   }
+  ]
+ },
+ {
+  "group_siren": "328100334",
+  "group_name": "LE DOMREMY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N625171510",
+    "name": "Domremy",
+    "pc": "75013",
+    "company": "LE DOMREMY",
+    "company_siren": "328100334"
+   }
+  ]
+ },
+ {
+  "group_siren": "878687839",
+  "group_name": "MIAM",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7670969863",
+    "name": "Nosso",
+    "pc": "75013",
+    "company": "NOSSO",
+    "company_siren": "880849252"
+   }
+  ]
+ },
+ {
+  "group_siren": "489982124",
+  "group_name": "LE GOUT DU NATUREL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2340123692",
+    "name": "Roberta",
+    "pc": "75012",
+    "company": "ROBERTA CAFFE",
+    "company_siren": "980962104"
+   }
+  ]
+ },
+ {
+  "group_siren": "930114392",
+  "group_name": "SEHRINE GLOBAL INVEST",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8088343523",
+    "name": "Le Loop",
+    "pc": "75015",
+    "company": "LE LOOP",
+    "company_siren": "940343718"
+   }
+  ]
+ },
+ {
+  "group_siren": "377835590",
+  "group_name": "PIZZERIA PERNETY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9864750937",
+    "name": "Pizzeria Pernety",
+    "pc": "75014",
+    "company": "PIZZERIA PERNETY",
+    "company_siren": "377835590"
+   }
+  ]
+ },
+ {
+  "group_siren": "883247157",
+  "group_name": "LES PETITES CANTINES PARIS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9731807748",
+    "name": "Les Petites Cantines Paris",
+    "pc": "75013",
+    "company": "LES PETITES CANTINES PARIS",
+    "company_siren": "883247157"
+   }
+  ]
+ },
+ {
+  "group_siren": "928896398",
+  "group_name": "TORTILLA MEXICAN GRILL FRANCE SAS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7929220204",
+    "name": "Tortilla",
+    "pc": "75012",
+    "company": "TORTILLA RESTAURANTS SAS",
+    "company_siren": "929314904"
+   }
+  ]
+ },
+ {
+  "group_siren": "839247343",
+  "group_name": "MATCHA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5218702440",
+    "name": "Shodai",
+    "pc": "75012",
+    "company": "MATCHA",
+    "company_siren": "839247343"
+   }
+  ]
+ },
+ {
+  "group_siren": "910845460",
+  "group_name": "MAZOUNI",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13351125709",
+    "name": "Platane Pizza",
+    "pc": "75012",
+    "company": "MARSA",
+    "company_siren": "944042514"
+   }
+  ]
+ },
+ {
+  "group_siren": "881678619",
+  "group_name": "RD CONSEIL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9457429517",
+    "name": "Disciples",
+    "pc": "75016",
+    "company": "J.P.F.",
+    "company_siren": "417806635"
+   }
+  ]
+ },
+ {
+  "group_siren": "513732784",
+  "group_name": "GROUPE BOISSONS DE CORSE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11807065002",
+    "name": "Da Lucrezia Osteria",
+    "pc": "75015",
+    "company": "DA LUCREZIA OSTERIA",
+    "company_siren": "993003177"
+   }
+  ]
+ },
+ {
+  "group_siren": "827718115",
+  "group_name": "HOLDING STONE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2628543294",
+    "name": "Capsule",
+    "pc": "75014",
+    "company": "WOMAS OFFICE",
+    "company_siren": "948236989"
+   }
+  ]
+ },
+ {
+  "group_siren": "949785315",
+  "group_name": "BCCA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4410270615",
+    "name": "Harmony Café",
+    "pc": "75014",
+    "company": "LA GALERIE DES SAVEURS",
+    "company_siren": "452318033"
+   }
+  ]
+ },
+ {
+  "group_siren": "951224070",
+  "group_name": "LTSJ 05",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3426548093",
+    "name": "Pommette",
+    "pc": "75005",
+    "company": "LA TERRASSE SAINT JACQUES",
+    "company_siren": "800446510"
+   }
+  ]
+ },
+ {
+  "group_siren": "904974482",
+  "group_name": "NOLEI GOBELINS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2859485901",
+    "name": "Les Négociants",
+    "pc": "75005",
+    "company": "B D V",
+    "company_siren": "524232147"
+   }
+  ]
+ },
+ {
+  "group_siren": "381345750",
+  "group_name": "AUX ZYGOMATES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2334286001",
+    "name": "Les Zygomates",
+    "pc": "75012",
+    "company": "AUX ZYGOMATES",
+    "company_siren": "381345750"
+   }
+  ]
+ },
+ {
+  "group_siren": "417806635",
+  "group_name": "J P F",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1653726047",
+    "name": "Marius",
+    "pc": "75016",
+    "company": "RESTAURANT MARIUS",
+    "company_siren": "394571384"
+   }
+  ]
+ },
+ {
+  "group_siren": "752496893",
+  "group_name": "GROUPE YAL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2192156778",
+    "name": "Au Relais Chardon",
+    "pc": "75016",
+    "company": "YAL RESTO AUTEUIL",
+    "company_siren": "892316415"
+   }
+  ]
+ },
+ {
+  "group_siren": "840762751",
+  "group_name": "ANR INVEST",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11093748765",
+    "name": "La Crêperie Boileau",
+    "pc": "75016",
+    "company": "CREPERIE BOILEAU",
+    "company_siren": "877602185"
+   }
+  ]
+ },
+ {
+  "group_siren": "930347042",
+  "group_name": "SARG",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4460411774",
+    "name": "L'Argument",
+    "pc": "75015",
+    "company": "RG 121",
+    "company_siren": "811372580"
+   }
+  ]
+ },
+ {
+  "group_siren": "900206715",
+  "group_name": "DURGA RADHA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5155068816",
+    "name": "Indian Nepali Swad",
+    "pc": "75015",
+    "company": "BIDIT RISHEB",
+    "company_siren": "839516085"
+   }
+  ]
+ },
+ {
+  "group_siren": "851466425",
+  "group_name": "TREMPLIN EXTRAORDINAIRE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7938792245",
+    "name": "La Belle Étincelle",
+    "pc": "75015",
+    "company": "LA BELLE ETINCELLE",
+    "company_siren": "852196039"
+   }
+  ]
+ },
+ {
+  "group_siren": "994967990",
+  "group_name": "PSB EXPRESS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "W1059386145",
+    "name": "Pierre Sang",
+    "pc": "75015",
+    "company": "MONTPAR EXPRESS",
+    "company_siren": "100967199"
+   }
+  ]
+ },
+ {
+  "group_siren": "572154318",
+  "group_name": "LA MAISON DU CHOCOLAT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "W1059386122",
+    "name": "Maison du Chocolat",
+    "pc": "75015",
+    "company": "LA MAISON DU CHOCOLAT",
+    "company_siren": "572154318"
+   }
+  ]
+ },
+ {
+  "group_siren": "980528533",
+  "group_name": "SALON PRIVE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4123870890",
+    "name": "Olive Chicken",
+    "pc": "75014",
+    "company": "OLIVE CHICKEN",
+    "company_siren": "913392379"
+   }
+  ]
+ },
+ {
+  "group_siren": "349812867",
+  "group_name": "RESTAURANTS ET SITES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1801637583",
+    "name": "Le ciel de Paris",
+    "pc": "75015",
+    "company": "GESTION DE SITE ET RESTAUR EN CONCESSION",
+    "company_siren": "301499620"
+   }
+  ]
+ },
+ {
+  "group_siren": "828227546",
+  "group_name": "FDR HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3712728251",
+    "name": "Les Fondus de la Raclette",
+    "pc": "75014",
+    "company": "FDR RASPAIL",
+    "company_siren": "810193847"
+   }
+  ]
+ },
+ {
+  "group_siren": "834314304",
+  "group_name": "GOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9563505600",
+    "name": "Coffee Club",
+    "pc": "75006",
+    "company": "SARL CCG",
+    "company_siren": "803771161"
+   }
+  ]
+ },
+ {
+  "group_siren": "915058960",
+  "group_name": "FFR",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2788471598",
+    "name": "Asie Prestige",
+    "pc": "75005",
+    "company": "ASIE PRESTIGE",
+    "company_siren": "917761488"
+   }
+  ]
+ },
+ {
+  "group_siren": "401533211",
+  "group_name": "SAS JESSY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2788471621",
+    "name": "Nicolsen Chocolatier",
+    "pc": "75005",
+    "company": "SAS JESSY",
+    "company_siren": "401533211"
+   }
+  ]
+ },
+ {
+  "group_siren": "501032866",
+  "group_name": "SAFIGEC AUDIT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4557384889",
+    "name": "Loutsa",
+    "pc": "75005",
+    "company": "LOUTSA FRANCE",
+    "company_siren": "842429185"
+   }
+  ]
+ },
+ {
+  "group_siren": "818798738",
+  "group_name": "SOCIAL BAR",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6272993898",
+    "name": "Social Bar",
+    "pc": "75012",
+    "company": "SOCIAL BAR PARIS 1",
+    "company_siren": "847630837"
+   }
+  ]
+ },
+ {
+  "group_siren": "501758890",
+  "group_name": "RAIMO GLACIER",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3617859675",
+    "name": "Raimo",
+    "pc": "75012",
+    "company": "RAIMO GLACIER",
+    "company_siren": "501758890"
+   }
+  ]
+ },
+ {
+  "group_siren": "830776332",
+  "group_name": "A2 INVESTISSEMENTS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1029898253",
+    "name": "Boulangerie Sainte-Périne",
+    "pc": "75016",
+    "company": "BOULANGERIE SAINTE PERINE",
+    "company_siren": "528796477"
+   }
+  ]
+ },
+ {
+  "group_siren": "101441129",
+  "group_name": "LB INVEST",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9739086553",
+    "name": "Café Ella",
+    "pc": "75015",
+    "company": "ROYAL CONVENTION",
+    "company_siren": "102153053"
+   }
+  ]
+ },
+ {
+  "group_siren": "948723630",
+  "group_name": "MAISON YCY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13138467289",
+    "name": "Space 12",
+    "pc": "75015",
+    "company": "ANYU CONSULTING",
+    "company_siren": "883520397"
+   }
+  ]
+ },
+ {
+  "group_siren": "502580822",
+  "group_name": "NOTUS TECHNOLOGIES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3084715711",
+    "name": "Au fondant Baulois",
+    "pc": "75015",
+    "company": "LE FONDANT BAULOIS",
+    "company_siren": "435329891"
+   }
+  ]
+ },
+ {
+  "group_siren": "907574388",
+  "group_name": "MATCHA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3733736496",
+    "name": "Café Basile",
+    "pc": "75015",
+    "company": "P.Y.M.S",
+    "company_siren": "444462543"
+   }
+  ]
+ },
+ {
+  "group_siren": "494605314",
+  "group_name": "ART TO REGENT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "W80291923",
+    "name": "Brasil Tropical",
+    "pc": "75015",
+    "company": "BRASIL TROPICAL",
+    "company_siren": "380277343"
+   }
+  ]
+ },
+ {
+  "group_siren": "943598573",
+  "group_name": "SITL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13190717064",
+    "name": "Pizzotto",
+    "pc": "75006",
+    "company": "A&H RESTO LAB",
+    "company_siren": "989149182"
+   }
+  ]
+ },
+ {
+  "group_siren": "920339249",
+  "group_name": "ESTIVAL CAFE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3427697795",
+    "name": "Charivari",
+    "pc": "75006",
+    "company": "PARES",
+    "company_siren": "993888213"
+   }
+  ]
+ },
+ {
+  "group_siren": "839357985",
+  "group_name": "CHABOTTIN",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4040161914",
+    "name": "Groovy Cantine",
+    "pc": "75005",
+    "company": "GROOVY CANTINE",
+    "company_siren": "989441852"
+   }
+  ]
+ },
+ {
+  "group_siren": "921865333",
+  "group_name": "HOMARD & BAGARRE HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5843732288",
+    "name": "San Francisco",
+    "pc": "75016",
+    "company": "CAFE SAN FRANCISCO",
+    "company_siren": "953160033"
+   }
+  ]
+ },
+ {
+  "group_siren": "488275819",
+  "group_name": "RAPHO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3758275629",
+    "name": "Laouna",
+    "pc": "75015",
+    "company": "RAPHO",
+    "company_siren": "488275819"
+   }
+  ]
+ },
+ {
+  "group_siren": "101617579",
+  "group_name": "BASILOU",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3148215345",
+    "name": "Bistrot Breteuil",
+    "pc": "75007",
+    "company": "BRETEUIL LIMO",
+    "company_siren": "102527546"
+   }
+  ]
+ },
+ {
+  "group_siren": "929284479",
+  "group_name": "LA GAZELLE D'OR MANAGEMENT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11954500662",
+    "name": "La Gazelle d'Or",
+    "pc": "75007",
+    "company": "LA GAZELLE D'OR SEVRES",
+    "company_siren": "833070980"
+   }
+  ]
+ },
+ {
+  "group_siren": "823530043",
+  "group_name": "LIVIO PIU",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N791852618",
+    "name": "Livio Più",
+    "pc": "75006",
+    "company": "LIVIO-PIU CHERCHE MIDI",
+    "company_siren": "909212664"
+   }
+  ]
+ },
+ {
+  "group_siren": "109730622",
+  "group_name": "SOULFOOD CONSULTING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9922296586",
+    "name": "Anima",
+    "pc": "75006",
+    "company": "ANIMA",
+    "company_siren": "822608519"
+   }
+  ]
+ },
+ {
+  "group_siren": "333308278",
+  "group_name": "CHOCOLATERIE DE BEUSSENT LACHELLE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10136617771",
+    "name": "Beussent Lachelle",
+    "pc": "75006",
+    "company": "CHOCOLATERIE DE BEUSSENT LACHELLE",
+    "company_siren": "333308278"
+   }
+  ]
+ },
+ {
+  "group_siren": "812409233",
+  "group_name": "PGM",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9879856653",
+    "name": "L'Hypothèse",
+    "pc": "75006",
+    "company": "AMCA",
+    "company_siren": "435003959"
+   }
+  ]
+ },
+ {
+  "group_siren": "931372478",
+  "group_name": "PARIS-BREST",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4040162889",
+    "name": "La Maison Louis",
+    "pc": "75005",
+    "company": "PANTHEON",
+    "company_siren": "931420954"
+   }
+  ]
+ },
+ {
+  "group_siren": "350375069",
+  "group_name": "RESTAURANT COUP DE TORCHON",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N582932088",
+    "name": "Le Coup de Torchon",
+    "pc": "75005",
+    "company": "RESTAURANT COUP DE TORCHON",
+    "company_siren": "350375069"
+   }
+  ]
+ },
+ {
+  "group_siren": "814356333",
+  "group_name": "ARAKU FRANCE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3457466994",
+    "name": "Araku",
+    "pc": "75005",
+    "company": "ARAKU FRANCE",
+    "company_siren": "814356333"
+   }
+  ]
+ },
+ {
+  "group_siren": "929036770",
+  "group_name": "KR",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3457446093",
+    "name": "Boulangerie Moderne",
+    "pc": "75005",
+    "company": "BOULANGERIE MODERNE RABINEAU",
+    "company_siren": "809480023"
+   }
+  ]
+ },
+ {
+  "group_siren": "930722616",
+  "group_name": "CLENA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8143294848",
+    "name": "C'Roll sushi",
+    "pc": "75006",
+    "company": "C'ROLL LUXEMBOURG",
+    "company_siren": "104580428"
+   }
+  ]
+ },
+ {
+  "group_siren": "404136731",
+  "group_name": "SARL LE BERTHOUD",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5368719845",
+    "name": "Le Berthoud",
+    "pc": "75005",
+    "company": "SARL LE BERTHOUD",
+    "company_siren": "404136731"
+   }
+  ]
+ },
+ {
+  "group_siren": "105087712",
+  "group_name": "FINANCIERE AGER",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N676116667",
+    "name": "Le Piano Vache",
+    "pc": "75005",
+    "company": "LE PIANO VACHE",
+    "company_siren": "106442767"
+   }
+  ]
+ },
+ {
+  "group_siren": "533570776",
+  "group_name": "ZONGMUSHENGYAO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7681213385",
+    "name": "Tran Tran Zai",
+    "pc": "75005",
+    "company": "TRANTRANZONG",
+    "company_siren": "999339781"
+   }
+  ]
+ },
+ {
+  "group_siren": "808864631",
+  "group_name": "NOSSA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5424927696",
+    "name": "Nossa",
+    "pc": "75005",
+    "company": "NOSSA",
+    "company_siren": "808864631"
+   }
+  ]
+ },
+ {
+  "group_siren": "908362890",
+  "group_name": "BIA HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3823088167",
+    "name": "Breakfast in America",
+    "pc": "75005",
+    "company": "CC S BREAKFAST IN AMERICA",
+    "company_siren": "442404117"
+   }
+  ]
+ },
+ {
+  "group_siren": "420833410",
+  "group_name": "DE GUSTIBUS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4936562224",
+    "name": "Cucina Mutualité",
+    "pc": "75005",
+    "company": "RESTAURANT DE LA MUTUALITE",
+    "company_siren": "842298606"
+   }
+  ]
+ },
+ {
+  "group_siren": "106747363",
+  "group_name": "JADRAN",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N530751161",
+    "name": "Aux Cadrans",
+    "pc": "75012",
+    "company": "AUX CADRANS DU P L M",
+    "company_siren": "572149144"
+   }
+  ]
+ },
+ {
+  "group_siren": "927971226",
+  "group_name": "JOUB",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13287264686",
+    "name": "Bamboche Comptoir",
+    "pc": "75012",
+    "company": "BAMBOCHE RESTAURANT",
+    "company_siren": "949918817"
+   }
+  ]
+ },
+ {
+  "group_siren": "801056896",
+  "group_name": "KAWAA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1173675456",
+    "name": "Le Kawaa",
+    "pc": "75012",
+    "company": "KAWAA EXPLOIT",
+    "company_siren": "852239045"
+   }
+  ]
+ },
+ {
+  "group_siren": "834595050",
+  "group_name": "RED PUB",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9247842726",
+    "name": "Red pub",
+    "pc": "75012",
+    "company": "RED PUB",
+    "company_siren": "834595050"
+   }
+  ]
+ },
+ {
+  "group_siren": "842850406",
+  "group_name": "LOU XA SARL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5986663105",
+    "name": "Jaune",
+    "pc": "75012",
+    "company": "SASU CENT DEUX",
+    "company_siren": "919249755"
+   }
+  ]
+ },
+ {
+  "group_siren": "918129073",
+  "group_name": "OWNMUNCH",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10867809399",
+    "name": "The Kursaal",
+    "pc": "75012",
+    "company": "THE KURSAAL",
+    "company_siren": "832486443"
+   }
+  ]
+ },
+ {
+  "group_siren": "922211529",
+  "group_name": "CHYL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10977181221",
+    "name": "L'Auberge des Crus",
+    "pc": "75016",
+    "company": "TIC & TAC",
+    "company_siren": "931062434"
+   }
+  ]
+ },
+ {
+  "group_siren": "904466778",
+  "group_name": "SAS AUTEUIL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4070590289",
+    "name": "La Pizzeria d'Auteuil",
+    "pc": "75016",
+    "company": "PIZZERIA D'AUTEUIL",
+    "company_siren": "443550033"
+   }
+  ]
+ },
+ {
+  "group_siren": "827688003",
+  "group_name": "GR CAFE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N993843715",
+    "name": "Le Village d'Auteuil",
+    "pc": "75016",
+    "company": "AUTEUIL SDE",
+    "company_siren": "989157342"
+   }
+  ]
+ },
+ {
+  "group_siren": "824211916",
+  "group_name": "HG HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N14107434275",
+    "name": "Podium",
+    "pc": "75015",
+    "company": "MALIBERTE",
+    "company_siren": "920828209"
+   }
+  ]
+ },
+ {
+  "group_siren": "912496593",
+  "group_name": "DVD MANAGEMENT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1937234295",
+    "name": "Vincent Salur",
+    "pc": "75015",
+    "company": "VINCENT SALUR",
+    "company_siren": "820825420"
+   }
+  ]
+ },
+ {
+  "group_siren": "512184714",
+  "group_name": "XU FA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2290944626",
+    "name": "La fontaine d'or",
+    "pc": "75015",
+    "company": "XU FA",
+    "company_siren": "512184714"
+   }
+  ]
+ },
+ {
+  "group_siren": "942774365",
+  "group_name": "LW SPV",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1264875612",
+    "name": "Lily Wang",
+    "pc": "75007",
+    "company": "LILY WANG",
+    "company_siren": "817818727"
+   }
+  ]
+ },
+ {
+  "group_siren": "930383880",
+  "group_name": "QUARTIER GENERAL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5220833289",
+    "name": "Le Cherche Midi",
+    "pc": "75006",
+    "company": "LE CHERCHE-MIDI",
+    "company_siren": "939066635"
+   }
+  ]
+ },
+ {
+  "group_siren": "951969955",
+  "group_name": "NEHME FOOD CO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10922894875",
+    "name": "Nemesis",
+    "pc": "75006",
+    "company": "N606",
+    "company_siren": "988944930"
+   }
+  ]
+ },
+ {
+  "group_siren": "901394841",
+  "group_name": "AFO TOURNON",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2412083905",
+    "name": "Café Tournon",
+    "pc": "75006",
+    "company": "CAFE TOURNON",
+    "company_siren": "494245061"
+   }
+  ]
+ },
+ {
+  "group_siren": "908383888",
+  "group_name": "CHOMET PIERRE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12243471101",
+    "name": "Tina au 38",
+    "pc": "75006",
+    "company": "SAS TEJEDA",
+    "company_siren": "983655333"
+   }
+  ]
+ },
+ {
+  "group_siren": "801628926",
+  "group_name": "NONTE HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6594894986",
+    "name": "Gemini Family",
+    "pc": "75006",
+    "company": "BOZA",
+    "company_siren": "842275315"
+   }
+  ]
+ },
+ {
+  "group_siren": "837899442",
+  "group_name": "MAGICIEN HOBBIT & CO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3350341693",
+    "name": "Loufoque",
+    "pc": "75005",
+    "company": "LOUFOQUE",
+    "company_siren": "839057551"
+   }
+  ]
+ },
+ {
+  "group_siren": "922066980",
+  "group_name": "AGHF",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12817323201",
+    "name": "Atica",
+    "pc": "75005",
+    "company": "ATICA",
+    "company_siren": "898596036"
+   }
+  ]
+ },
+ {
+  "group_siren": "889280962",
+  "group_name": "COMPAGNIE DES ETABLISSEMENTS PARISIENS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2038949589",
+    "name": "Chez René",
+    "pc": "75005",
+    "company": "DEBUZON",
+    "company_siren": "493787634"
+   }
+  ]
+ },
+ {
+  "group_siren": "389566175",
+  "group_name": "CAFE SAINT GERMAIN",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5764283340",
+    "name": "Café Saint-Germain",
+    "pc": "75005",
+    "company": "CAFE SAINT GERMAIN",
+    "company_siren": "389566175"
+   }
+  ]
+ },
+ {
+  "group_siren": "878097047",
+  "group_name": "SAGYA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2926043501",
+    "name": "Pura Vida",
+    "pc": "75005",
+    "company": "SAGYA",
+    "company_siren": "878097047"
+   }
+  ]
+ },
+ {
+  "group_siren": "842333999",
+  "group_name": "ALLIANCE HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9691431276",
+    "name": "Alliance",
+    "pc": "75005",
+    "company": "ALLIANCE LA PATISSERIE",
+    "company_siren": "919656579"
+   }
+  ]
+ },
+ {
+  "group_siren": "101506988",
+  "group_name": "SONI",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13972209601",
+    "name": "Toy",
+    "pc": "75012",
+    "company": "TOY RAMEN",
+    "company_siren": "102076965"
+   }
+  ]
+ },
+ {
+  "group_siren": "509715207",
+  "group_name": "MIM'S",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N667304741",
+    "name": "Mim's",
+    "pc": "75012",
+    "company": "MIM'S",
+    "company_siren": "509715207"
+   }
+  ]
+ },
+ {
+  "group_siren": "512968959",
+  "group_name": "EZ CONSEIL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4841263421",
+    "name": "Clasico",
+    "pc": "75012",
+    "company": "CLASICO ARGENTINO",
+    "company_siren": "532840196"
+   }
+  ]
+ },
+ {
+  "group_siren": "534015847",
+  "group_name": "HOLDING JULIANO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2874646167",
+    "name": "Virtus",
+    "pc": "75012",
+    "company": "VIRTUS",
+    "company_siren": "820349702"
+   }
+  ]
+ },
+ {
+  "group_siren": "909713521",
+  "group_name": "JINCHAN",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8998379584",
+    "name": "Jinchan Shokudo",
+    "pc": "75012",
+    "company": "JINCHAN SHOKUDO",
+    "company_siren": "843094681"
+   }
+  ]
+ },
+ {
+  "group_siren": "753241488",
+  "group_name": "BAM HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1326932330",
+    "name": "La Casbah",
+    "pc": "75011",
+    "company": "LA CASBAH",
+    "company_siren": "841319478"
+   }
+  ]
+ },
+ {
+  "group_siren": "887641611",
+  "group_name": "DAVAZIK",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1224795733",
+    "name": "Le Colverre",
+    "pc": "75011",
+    "company": "CALEVERRE",
+    "company_siren": "948817705"
+   }
+  ]
+ },
+ {
+  "group_siren": "750222929",
+  "group_name": "BLUE SALT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6224822785",
+    "name": "Alphonsine",
+    "pc": "75016",
+    "company": "ALPHONSINE",
+    "company_siren": "898885454"
+   }
+  ]
+ },
+ {
+  "group_siren": "900730672",
+  "group_name": "EURL MC&C",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6934737987",
+    "name": "Geméllus",
+    "pc": "75007",
+    "company": "SAS GEMELLUS",
+    "company_siren": "901444091"
+   }
+  ]
+ },
+ {
+  "group_siren": "848571808",
+  "group_name": "PAINS ET FINANCES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5828922322",
+    "name": "Au Bout du Monde",
+    "pc": "75007",
+    "company": "PF BABYLONE",
+    "company_siren": "848581948"
+   }
+  ]
+ },
+ {
+  "group_siren": "988410726",
+  "group_name": "HOLDING RECAMIER",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9917762165",
+    "name": "Le Récamier",
+    "pc": "75007",
+    "company": "RESTAURANT RECAMIER",
+    "company_siren": "481123420"
+   }
+  ]
+ },
+ {
+  "group_siren": "838271005",
+  "group_name": "LMN",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10929155812",
+    "name": "Le Parisien",
+    "pc": "75006",
+    "company": "LE PARISIEN",
+    "company_siren": "410610570"
+   }
+  ]
+ },
+ {
+  "group_siren": "898682307",
+  "group_name": "INDIE GROUP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4903397461",
+    "name": "Cherry",
+    "pc": "75006",
+    "company": "CHERRY PARIS",
+    "company_siren": "924949563"
+   }
+  ]
+ },
+ {
+  "group_siren": "977663368",
+  "group_name": "SCALE OP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4326102942",
+    "name": "Tsukizi",
+    "pc": "75006",
+    "company": "TSUKIZI",
+    "company_siren": "322659103"
+   }
+  ]
+ },
+ {
+  "group_siren": "907495394",
+  "group_name": "AVENCIO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5077321890",
+    "name": "Le Petit Vatel",
+    "pc": "75006",
+    "company": "LES PETITES ASSIETTES",
+    "company_siren": "521167676"
+   }
+  ]
+ },
+ {
+  "group_siren": "441349016",
+  "group_name": "AB2",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3181243391",
+    "name": "Le Camion qui Fume",
+    "pc": "75006",
+    "company": "CQF DEVELOPMENT",
+    "company_siren": "803667278"
+   }
+  ]
+ },
+ {
+  "group_siren": "894590025",
+  "group_name": "HOMERCOLLECTION",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11937604645",
+    "name": "Maurice",
+    "pc": "75006",
+    "company": "MAURICE ODEON",
+    "company_siren": "943669259"
+   }
+  ]
+ },
+ {
+  "group_siren": "498028745",
+  "group_name": "TOPOLY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6097031660",
+    "name": "Topoly",
+    "pc": "75006",
+    "company": "TOPOLY",
+    "company_siren": "498028745"
+   }
+  ]
+ },
+ {
+  "group_siren": "983054230",
+  "group_name": "ELSA ET CIE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N697029135",
+    "name": "Bouillon de l'île",
+    "pc": "75004",
+    "company": "BOUILLON DE L'ILE",
+    "company_siren": "983504770"
+   }
+  ]
+ },
+ {
+  "group_siren": "879107126",
+  "group_name": "HADRIEN CHOCOLATIER",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N697029196",
+    "name": "Le Saint-Louis",
+    "pc": "75004",
+    "company": "HC RETAIL SAINT LOUIS",
+    "company_siren": "909967861"
+   }
+  ]
+ },
+ {
+  "group_siren": "949021869",
+  "group_name": "DÉLICES & CIE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10596371525",
+    "name": "Benoit chocolats",
+    "pc": "75004",
+    "company": "BENOIT CHOCOLATS",
+    "company_siren": "324926138"
+   }
+  ]
+ },
+ {
+  "group_siren": "944822501",
+  "group_name": "DKR GROUPE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1307259082",
+    "name": "DKR",
+    "pc": "75011",
+    "company": "DKR ROQUETTE",
+    "company_siren": "945000370"
+   }
+  ]
+ },
+ {
+  "group_siren": "939439717",
+  "group_name": "LN GESTION",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9556316017",
+    "name": "Nove",
+    "pc": "75011",
+    "company": "PETIT POIS",
+    "company_siren": "810850560"
+   }
+  ]
+ },
+ {
+  "group_siren": "752873901",
+  "group_name": "ALIXOR PARTICIPATIONS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7046302991",
+    "name": "Le Froggy",
+    "pc": "75011",
+    "company": "C&M BAR'S",
+    "company_siren": "908397193"
+   }
+  ]
+ },
+ {
+  "group_siren": "912647252",
+  "group_name": "BOMAYE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8315067749",
+    "name": "Bomaye",
+    "pc": "75011",
+    "company": "BOMAYE BURGER CHARONNE",
+    "company_siren": "931517809"
+   }
+  ]
+ },
+ {
+  "group_siren": "992662924",
+  "group_name": "CRPB",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13352120306",
+    "name": "Tout day",
+    "pc": "75011",
+    "company": "TOUT DAY",
+    "company_siren": "952904167"
+   }
+  ]
+ },
+ {
+  "group_siren": "843359928",
+  "group_name": "R.I.O.T. FINANCE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N582748454",
+    "name": "La Commanderie",
+    "pc": "75007",
+    "company": "HOLDING MOLITOR",
+    "company_siren": "444881692"
+   }
+  ]
+ },
+ {
+  "group_siren": "900503236",
+  "group_name": "NOLMEA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12729422520",
+    "name": "Soa",
+    "pc": "75007",
+    "company": "SOA AUGEREAU",
+    "company_siren": "929448702"
+   }
+  ]
+ },
+ {
+  "group_siren": "900005646",
+  "group_name": "PELISSIER LEPOIVRE DEVELOPPEMENT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10106542143",
+    "name": "Davoli",
+    "pc": "75007",
+    "company": "LITTLE DAVOLI",
+    "company_siren": "921498010"
+   }
+  ]
+ },
+ {
+  "group_siren": "980908990",
+  "group_name": "POZ",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12874250741",
+    "name": "Matthieu Pauline",
+    "pc": "75007",
+    "company": "ACTE 1",
+    "company_siren": "941184194"
+   }
+  ]
+ },
+ {
+  "group_siren": "853615276",
+  "group_name": "CHOCHO DEVANT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N14162295989",
+    "name": "Todd",
+    "pc": "75007",
+    "company": "LAURA TODD",
+    "company_siren": "562100107"
+   }
+  ]
+ },
+ {
+  "group_siren": "394627913",
+  "group_name": "PATISSERIE CHOCOLATERIE PRALUS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4108417172",
+    "name": "Pralus",
+    "pc": "75007",
+    "company": "PRALUS PARIS",
+    "company_siren": "800611469"
+   }
+  ]
+ },
+ {
+  "group_siren": "482348091",
+  "group_name": "LA BOURGEAT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5003426283",
+    "name": "Piero TT",
+    "pc": "75007",
+    "company": "PIERO TT",
+    "company_siren": "841982770"
+   }
+  ]
+ },
+ {
+  "group_siren": "913060265",
+  "group_name": "VITESS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10665719476",
+    "name": "Ojii",
+    "pc": "75007",
+    "company": "OJ-SAN",
+    "company_siren": "911110823"
+   }
+  ]
+ },
+ {
+  "group_siren": "752992578",
+  "group_name": "CONTICINI SAS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10052528915",
+    "name": "Philippe Conticini",
+    "pc": "75001",
+    "company": "CONTICINI SAS",
+    "company_siren": "752992578"
+   }
+  ]
+ },
+ {
+  "group_siren": "818466278",
+  "group_name": "FC DOUGLAS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1528684099",
+    "name": "Le Soleil d'or",
+    "pc": "75004",
+    "company": "FC SOLEIL",
+    "company_siren": "944431238"
+   }
+  ]
+ },
+ {
+  "group_siren": "824451645",
+  "group_name": "JMR FINANCE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N677090325",
+    "name": "Les Deux Palais",
+    "pc": "75004",
+    "company": "JALE",
+    "company_siren": "798629051"
+   }
+  ]
+ },
+ {
+  "group_siren": "993532894",
+  "group_name": "COLOMBES PARTICIPATIONS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4758147657",
+    "name": "Les Deux Colombes",
+    "pc": "75004",
+    "company": "LES DEUX COLOMBES",
+    "company_siren": "844472183"
+   }
+  ]
+ },
+ {
+  "group_siren": "920535770",
+  "group_name": "LES DUCS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3181710642",
+    "name": "Le P'tit Bistrot",
+    "pc": "75004",
+    "company": "SOCIETE ANA",
+    "company_siren": "821095924"
+   }
+  ]
+ },
+ {
+  "group_siren": "404429417",
+  "group_name": "CHAPON DEVELOPPEMENT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3181077161",
+    "name": "Chez Julien",
+    "pc": "75004",
+    "company": "CHEZ JULIEN",
+    "company_siren": "320289986"
+   }
+  ]
+ },
+ {
+  "group_siren": "410330781",
+  "group_name": "TOKYORAMA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N702296060",
+    "name": "O'9 Poké",
+    "pc": "75004",
+    "company": "TOKYORAMA",
+    "company_siren": "410330781"
+   }
+  ]
+ },
+ {
+  "group_siren": "851956227",
+  "group_name": "FOODCAPITAL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4382307689",
+    "name": "white",
+    "pc": "75004",
+    "company": "COFFEE PARIS",
+    "company_siren": "849739198"
+   }
+  ]
+ },
+ {
+  "group_siren": "514409796",
+  "group_name": "U SOGNU",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3621913893",
+    "name": "L'Alivi",
+    "pc": "75004",
+    "company": "CACCIARI FILS",
+    "company_siren": "401808357"
+   }
+  ]
+ },
+ {
+  "group_siren": "672000049",
+  "group_name": "MARIAGE FRERES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N251056295",
+    "name": "Mariage Frères",
+    "pc": "75004",
+    "company": "SALONS DE THE MARIAGE FRERES",
+    "company_siren": "837597384"
+   }
+  ]
+ },
+ {
+  "group_siren": "407680214",
+  "group_name": "THE AULD ALLIANCE COMPAGNY LIMITES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N251125922",
+    "name": "The Auld Alliance",
+    "pc": "75004",
+    "company": "THE AULD ALLIANCE COMPAGNY LIMITES",
+    "company_siren": "407680214"
+   }
+  ]
+ },
+ {
+  "group_siren": "523836633",
+  "group_name": "NEWROC PARTENAIRES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10059580118",
+    "name": "La Baguette du Relais",
+    "pc": "75004",
+    "company": "LA BAGUETTE DU RELAIS",
+    "company_siren": "892125485"
+   }
+  ]
+ },
+ {
+  "group_siren": "949262323",
+  "group_name": "BABKA ZANA CONSULTING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N721551505",
+    "name": "babka zana",
+    "pc": "75003",
+    "company": "ATELIER BABKA ZANA",
+    "company_siren": "892882697"
+   }
+  ]
+ },
+ {
+  "group_siren": "340901339",
+  "group_name": "L'OULETTE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3058148650",
+    "name": "Bistrot de l'Oulette",
+    "pc": "75004",
+    "company": "L'OULETTE",
+    "company_siren": "340901339"
+   }
+  ]
+ },
+ {
+  "group_siren": "784479289",
+  "group_name": "SOC CYRANO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N252601888",
+    "name": "Le Cyrano",
+    "pc": "75011",
+    "company": "SOC CYRANO",
+    "company_siren": "784479289"
+   }
+  ]
+ },
+ {
+  "group_siren": "834260630",
+  "group_name": "IBL INVEST",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9556423217",
+    "name": "Blanca",
+    "pc": "75011",
+    "company": "BLANCA",
+    "company_siren": "917649428"
+   }
+  ]
+ },
+ {
+  "group_siren": "953692027",
+  "group_name": "CB INVEST",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3181233572",
+    "name": "Brother Sister",
+    "pc": "75011",
+    "company": "BROTHER SISTER",
+    "company_siren": "911775633"
+   }
+  ]
+ },
+ {
+  "group_siren": "989776737",
+  "group_name": "GILIBERTO CONSULTING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3286567597",
+    "name": "Origini",
+    "pc": "75011",
+    "company": "BMA CHARONNE",
+    "company_siren": "983625526"
+   }
+  ]
+ },
+ {
+  "group_siren": "421450594",
+  "group_name": "PISTON PELICAN",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3346088229",
+    "name": "Le Piston Pélican",
+    "pc": "75020",
+    "company": "PISTON PELICAN",
+    "company_siren": "421450594"
+   }
+  ]
+ },
+ {
+  "group_siren": "490628955",
+  "group_name": "VEDETTES DE PARIS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13228157513",
+    "name": "Café des vedettes",
+    "pc": "75007",
+    "company": "LE CAFE DES VEDETTES",
+    "company_siren": "889458469"
+   }
+  ]
+ },
+ {
+  "group_siren": "949547475",
+  "group_name": "VBHOSPITALITY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6404138285",
+    "name": "Alfio",
+    "pc": "75007",
+    "company": "EIFFEL BAR",
+    "company_siren": "572174357"
+   }
+  ]
+ },
+ {
+  "group_siren": "100441328",
+  "group_name": "MADOR INVEST",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N14128755419",
+    "name": "Emily",
+    "pc": "75007",
+    "company": "LALI",
+    "company_siren": "100642719"
+   }
+  ]
+ },
+ {
+  "group_siren": "503696668",
+  "group_name": "PHACEL PACIFIC",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N14131317517",
+    "name": "Sancerre",
+    "pc": "75007",
+    "company": "JAC GASTRONOMIE",
+    "company_siren": "851072751"
+   }
+  ]
+ },
+ {
+  "group_siren": "792293789",
+  "group_name": "B.K",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N254494167",
+    "name": "Linette",
+    "pc": "75007",
+    "company": "LE CLOS DES GOURMETS",
+    "company_siren": "420831059"
+   }
+  ]
+ },
+ {
+  "group_siren": "844216903",
+  "group_name": "GARONNE GOURMANDE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5221114451",
+    "name": "Les Cocottes",
+    "pc": "75007",
+    "company": "LES COCOTTES",
+    "company_siren": "494980618"
+   }
+  ]
+ },
+ {
+  "group_siren": "433538188",
+  "group_name": "GROUPE PIERRE HERMÉ",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N14157948819",
+    "name": "Hermé",
+    "pc": "75007",
+    "company": "PIERRE HERME FRANCE",
+    "company_siren": "434851952"
+   }
+  ]
+ },
+ {
+  "group_siren": "309542033",
+  "group_name": "THOUMIEUX",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1695622635",
+    "name": "Thoumieux",
+    "pc": "75007",
+    "company": "THOUMIEUX",
+    "company_siren": "309542033"
+   }
+  ]
+ },
+ {
+  "group_siren": "390883411",
+  "group_name": "MOSCA ANIMATION PARTICIPATIONS ET CONSEIL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5221114450",
+    "name": "Mon Square",
+    "pc": "75007",
+    "company": "SAS MON SQUARE",
+    "company_siren": "838154888"
+   }
+  ]
+ },
+ {
+  "group_siren": "892178328",
+  "group_name": "L3PC",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3564004493",
+    "name": "Melt Deli",
+    "pc": "75001",
+    "company": "DBM LES HALLES",
+    "company_siren": "948538459"
+   }
+  ]
+ },
+ {
+  "group_siren": "899514947",
+  "group_name": "GROUPE WEILY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11583891889",
+    "name": "Camping X",
+    "pc": "75001",
+    "company": "CAMPING X",
+    "company_siren": "980028393"
+   }
+  ]
+ },
+ {
+  "group_siren": "908272479",
+  "group_name": "MIH SOCIETY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N707690787",
+    "name": "Tema's Cake",
+    "pc": "75001",
+    "company": "B3G",
+    "company_siren": "941756033"
+   }
+  ]
+ },
+ {
+  "group_siren": "522140482",
+  "group_name": "COURSEULLES HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12438733022",
+    "name": "Land&Monkeys Les Halles",
+    "pc": "75001",
+    "company": "LAND & MONKEYS LES HALLES",
+    "company_siren": "928310879"
+   }
+  ]
+ },
+ {
+  "group_siren": "848127437",
+  "group_name": "WE DOUGH",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11603136045",
+    "name": "We Dough",
+    "pc": "75004",
+    "company": "WE DOUGH",
+    "company_siren": "848127437"
+   }
+  ]
+ },
+ {
+  "group_siren": "982388555",
+  "group_name": "BLACK CAPITAL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3657971150",
+    "name": "Mulan",
+    "pc": "75004",
+    "company": "MULAN",
+    "company_siren": "983644154"
+   }
+  ]
+ },
+ {
+  "group_siren": "493531305",
+  "group_name": "NEO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3653361134",
+    "name": "Freedj",
+    "pc": "75004",
+    "company": "HECO",
+    "company_siren": "498029149"
+   }
+  ]
+ },
+ {
+  "group_siren": "834570715",
+  "group_name": "FIBONACCI",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13012296434",
+    "name": "Nèulo",
+    "pc": "75004",
+    "company": "NEULO",
+    "company_siren": "901645580"
+   }
+  ]
+ },
+ {
+  "group_siren": "814451076",
+  "group_name": "E=MC2",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3307941163",
+    "name": "Dunes Blanches",
+    "pc": "75004",
+    "company": "PILOTE DE DUNES",
+    "company_siren": "817828411"
+   }
+  ]
+ },
+ {
+  "group_siren": "808033690",
+  "group_name": "RUSSELL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3264216609",
+    "name": "Bombance",
+    "pc": "75004",
+    "company": "BOUIBOUI",
+    "company_siren": "953228764"
+   }
+  ]
+ },
+ {
+  "group_siren": "892697863",
+  "group_name": "SAVANE & MOUSSON HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3207283940",
+    "name": "Savane & Mousson",
+    "pc": "75011",
+    "company": "SAVANE & MOUSSON RESTAURANT 1",
+    "company_siren": "909465130"
+   }
+  ]
+ },
+ {
+  "group_siren": "927452532",
+  "group_name": "TSHI INVEST",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7151976386",
+    "name": "Napoli Caffè",
+    "pc": "75011",
+    "company": "SAS SAINT AMBROISE",
+    "company_siren": "920863982"
+   }
+  ]
+ },
+ {
+  "group_siren": "109443325",
+  "group_name": "TROCADÉRO HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5775935073",
+    "name": "Café de l'Homme",
+    "pc": "75016",
+    "company": "LE CAFE DE L'HOMME",
+    "company_siren": "478343304"
+   }
+  ]
+ },
+ {
+  "group_siren": "907465728",
+  "group_name": "GRALL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5989201994",
+    "name": "Brasserie Tour Eiffel",
+    "pc": "75007",
+    "company": "B2J",
+    "company_siren": "813138195"
+   }
+  ]
+ },
+ {
+  "group_siren": "790864607",
+  "group_name": "BELLOTA-BELLOTA RETAIL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13964532929",
+    "name": "Bellota - Bellota",
+    "pc": "75007",
+    "company": "BELLOTA-BELLOTA RETAIL",
+    "company_siren": "790864607"
+   }
+  ]
+ },
+ {
+  "group_siren": "808741375",
+  "group_name": "ARTFLUX",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "W1415650351",
+    "name": "Fluctuart",
+    "pc": "75007",
+    "company": "FLUCTUART",
+    "company_siren": "837874700"
+   }
+  ]
+ },
+ {
+  "group_siren": "351246103",
+  "group_name": "LE TRANSIT GARE INVALIDES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2389809861",
+    "name": "Le Transit",
+    "pc": "75007",
+    "company": "LE TRANSIT GARE INVALIDES",
+    "company_siren": "351246103"
+   }
+  ]
+ },
+ {
+  "group_siren": "851078360",
+  "group_name": "Q & P HOSPITALITY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "W1229516546",
+    "name": "Riviera Fuga",
+    "pc": "75007",
+    "company": "Q & P INVALIDES",
+    "company_siren": "921615936"
+   }
+  ]
+ },
+ {
+  "group_siren": "882662141",
+  "group_name": "ADMEDIAGROUP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8895180618",
+    "name": "Casa Germain",
+    "pc": "75007",
+    "company": "CASA GERMAIN",
+    "company_siren": "807431515"
+   }
+  ]
+ },
+ {
+  "group_siren": "791390479",
+  "group_name": "POUBLET",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3980224338",
+    "name": "Les Aigles",
+    "pc": "75001",
+    "company": "POUBLET",
+    "company_siren": "791390479"
+   }
+  ]
+ },
+ {
+  "group_siren": "920330768",
+  "group_name": "BENIHANA PARIS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N617827763",
+    "name": "Benihana",
+    "pc": "75001",
+    "company": "BENIHANA PARIS",
+    "company_siren": "920330768"
+   }
+  ]
+ },
+ {
+  "group_siren": "400005112",
+  "group_name": "PIC GROUP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4782518663",
+    "name": "La Dame de Pic",
+    "pc": "75001",
+    "company": "LOUVRE GOURMET",
+    "company_siren": "538923723"
+   }
+  ]
+ },
+ {
+  "group_siren": "751055526",
+  "group_name": "LES MONTS VERTS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4950713553",
+    "name": "Le Baltard",
+    "pc": "75001",
+    "company": "BASALT",
+    "company_siren": "828744680"
+   }
+  ]
+ },
+ {
+  "group_siren": "509435012",
+  "group_name": "PATCHARAN",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N681430439",
+    "name": "Brasserie de la Bourse",
+    "pc": "75001",
+    "company": "BRASSERIE DE LA BOURSE",
+    "company_siren": "552064776"
+   }
+  ]
+ },
+ {
+  "group_siren": "984860585",
+  "group_name": "HOLDING JMC",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6120089396",
+    "name": "Mamatchai",
+    "pc": "75001",
+    "company": "BUN BUN",
+    "company_siren": "830520128"
+   }
+  ]
+ },
+ {
+  "group_siren": "852832823",
+  "group_name": "MAISON SAINT-GEORGES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N678029693",
+    "name": "Pain-o-Rama",
+    "pc": "75001",
+    "company": "CHEZ COME",
+    "company_siren": "383997764"
+   }
+  ]
+ },
+ {
+  "group_siren": "801575838",
+  "group_name": "CARNEGIE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3672097792",
+    "name": "Bigo",
+    "pc": "75001",
+    "company": "BIGO",
+    "company_siren": "832522320"
+   }
+  ]
+ },
+ {
+  "group_siren": "781836505",
+  "group_name": "VMAX",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3588258393",
+    "name": "Le Gobelet d'Argent",
+    "pc": "75001",
+    "company": "LE GOBELET D'ARGENT",
+    "company_siren": "940984891"
+   }
+  ]
+ },
+ {
+  "group_siren": "822110284",
+  "group_name": "GRANDES BRASSERIES DE L'EST",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N681283199",
+    "name": "Le Petit Bouillon Pharamond",
+    "pc": "75001",
+    "company": "LE BOUILLON PHARAMOND",
+    "company_siren": "849247952"
+   }
+  ]
+ },
+ {
+  "group_siren": "884338252",
+  "group_name": "SOCIETE AP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7674206483",
+    "name": "Au Père Fouettard",
+    "pc": "75001",
+    "company": "AU PERE FOUETTARD",
+    "company_siren": "308247873"
+   }
+  ]
+ },
+ {
+  "group_siren": "823365044",
+  "group_name": "CHEZ NOUS 2",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13998112739",
+    "name": "Terra",
+    "pc": "75003",
+    "company": "TERRA PIZZERIA",
+    "company_siren": "919576025"
+   }
+  ]
+ },
+ {
+  "group_siren": "979129996",
+  "group_name": "HANDO GROUP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7923610593",
+    "name": "Hando",
+    "pc": "75003",
+    "company": "HANDO MARAIS",
+    "company_siren": "930343173"
+   }
+  ]
+ },
+ {
+  "group_siren": "982736910",
+  "group_name": "LARYSA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3193963862",
+    "name": "BENTI",
+    "pc": "75003",
+    "company": "HENDI",
+    "company_siren": "983608811"
+   }
+  ]
+ },
+ {
+  "group_siren": "904091790",
+  "group_name": "HB HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9933631240",
+    "name": "Divo",
+    "pc": "75011",
+    "company": "DIVO",
+    "company_siren": "922618814"
+   }
+  ]
+ },
+ {
+  "group_siren": "849958202",
+  "group_name": "HOLDING PADRINO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9797319691",
+    "name": "Bambino",
+    "pc": "75011",
+    "company": "BAMBINO",
+    "company_siren": "851197814"
+   }
+  ]
+ },
+ {
+  "group_siren": "878425537",
+  "group_name": "DRANEM",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2460347252",
+    "name": "Rush Bar",
+    "pc": "75011",
+    "company": "COMENARD",
+    "company_siren": "834745705"
+   }
+  ]
+ },
+ {
+  "group_siren": "979378882",
+  "group_name": "ST COMPANY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N496119026",
+    "name": "Frappe",
+    "pc": "75011",
+    "company": "FRAPPE COMPANY",
+    "company_siren": "979652823"
+   }
+  ]
+ },
+ {
+  "group_siren": "880332390",
+  "group_name": "EPHEMERA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3201567902",
+    "name": "Saint-Sébastien",
+    "pc": "75011",
+    "company": "EPHEMERA SAINT SEBASTIEN",
+    "company_siren": "921151734"
+   }
+  ]
+ },
+ {
+  "group_siren": "949526420",
+  "group_name": "GENERAL BLINZ",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3145533093",
+    "name": "Tire Bouchon",
+    "pc": "75011",
+    "company": "MEDUSE PARIS",
+    "company_siren": "813198975"
+   }
+  ]
+ },
+ {
+  "group_siren": "909456659",
+  "group_name": "GÉGÉ -NO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N719640594",
+    "name": "Fugazi",
+    "pc": "75011",
+    "company": "FUGAZI",
+    "company_siren": "912388154"
+   }
+  ]
+ },
+ {
+  "group_siren": "910885326",
+  "group_name": "GROUPE HOFFLAY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10829445429",
+    "name": "Krügen",
+    "pc": "75011",
+    "company": "KRUGEN",
+    "company_siren": "811889658"
+   }
+  ]
+ },
+ {
+  "group_siren": "898539044",
+  "group_name": "AF CONSEILS & INVEST",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12422103250",
+    "name": "Ferdi",
+    "pc": "75001",
+    "company": "FERDI",
+    "company_siren": "479264186"
+   }
+  ]
+ },
+ {
+  "group_siren": "519898902",
+  "group_name": "PRAT HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8016758813",
+    "name": "Pendino",
+    "pc": "75001",
+    "company": "MONTEGROSSO",
+    "company_siren": "849401617"
+   }
+  ]
+ },
+ {
+  "group_siren": "753204775",
+  "group_name": "COYR CONSEIL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4706942483",
+    "name": "Le Palais Royal",
+    "pc": "75001",
+    "company": "RESTAURANT DU PALAIS ROYAL",
+    "company_siren": "400398715"
+   }
+  ]
+ },
+ {
+  "group_siren": "788738110",
+  "group_name": "MADININA 75",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2478201177",
+    "name": "Le Cochon à l'Oreille",
+    "pc": "75001",
+    "company": "MADININA 75",
+    "company_siren": "788738110"
+   }
+  ]
+ },
+ {
+  "group_siren": "539659771",
+  "group_name": "SC MADRE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5348979230",
+    "name": "Little Italy Caffè",
+    "pc": "75002",
+    "company": "BELIEVE",
+    "company_siren": "814433157"
+   }
+  ]
+ },
+ {
+  "group_siren": "947644589",
+  "group_name": "SAS HAWA BEYROUTH",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5955576886",
+    "name": "Hawa Beirut",
+    "pc": "75002",
+    "company": "SAS HAWA BEYROUTH",
+    "company_siren": "947644589"
+   }
+  ]
+ },
+ {
+  "group_siren": "982536864",
+  "group_name": "FINANCIERE JEAN ET THEO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3334802638",
+    "name": "La Saint Sauvé",
+    "pc": "75002",
+    "company": "LE SAINT SAUVE",
+    "company_siren": "982937229"
+   }
+  ]
+ },
+ {
+  "group_siren": "919856419",
+  "group_name": "FGGA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11449886006",
+    "name": "Suya",
+    "pc": "75002",
+    "company": "LITTLE SUYA!",
+    "company_siren": "948867924"
+   }
+  ]
+ },
+ {
+  "group_siren": "801388695",
+  "group_name": "LA COMPAGNIE DE DISTRIBUTION",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2689705041",
+    "name": "Café Compagnon",
+    "pc": "75002",
+    "company": "CAFE COMPAGNON",
+    "company_siren": "848754016"
+   }
+  ]
+ },
+ {
+  "group_siren": "840794267",
+  "group_name": "QUATRE TETES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6255939138",
+    "name": "Les Turbines",
+    "pc": "75002",
+    "company": "CAFE LES TURBINES",
+    "company_siren": "303568935"
+   }
+  ]
+ },
+ {
+  "group_siren": "882741770",
+  "group_name": "SCHAN",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5381388477",
+    "name": "Dimdan Maidan",
+    "pc": "75002",
+    "company": "DIMDAN MAIDAN",
+    "company_siren": "984339671"
+   }
+  ]
+ },
+ {
+  "group_siren": "991259011",
+  "group_name": "CASA PEPINO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5955618829",
+    "name": "Manzoni",
+    "pc": "75002",
+    "company": "MANZONI SCHIACCIATERIA",
+    "company_siren": "102890670"
+   }
+  ]
+ },
+ {
+  "group_siren": "818342875",
+  "group_name": "FLAME KYDS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3616982607",
+    "name": "L'Adresse",
+    "pc": "75003",
+    "company": "FKDS",
+    "company_siren": "921631602"
+   }
+  ]
+ },
+ {
+  "group_siren": "884348046",
+  "group_name": "BREAD REVOLUTION ORGANIZATION",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3285454161",
+    "name": "Christophe Louie",
+    "pc": "75003",
+    "company": "CHRISTOPHE ET GUILLAUME",
+    "company_siren": "921040440"
+   }
+  ]
+ },
+ {
+  "group_siren": "109061416",
+  "group_name": "ALMAÉ",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2449319201",
+    "name": "Maison plume",
+    "pc": "75003",
+    "company": "MAISON PLUME",
+    "company_siren": "843018029"
+   }
+  ]
+ },
+ {
+  "group_siren": "105402747",
+  "group_name": "STUDIO VIVANT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3265513124",
+    "name": "Little Red Door",
+    "pc": "75003",
+    "company": "LITTLE RED DOOR",
+    "company_siren": "814869954"
+   }
+  ]
+ },
+ {
+  "group_siren": "834309668",
+  "group_name": "NK CONSEIL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N14212290540",
+    "name": "Fat Belly",
+    "pc": "75003",
+    "company": "BREAD & NOODLE",
+    "company_siren": "993577758"
+   }
+  ]
+ },
+ {
+  "group_siren": "907506604",
+  "group_name": "DEKA PICKY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10687587203",
+    "name": "Kushikatsu Bon",
+    "pc": "75011",
+    "company": "C BON 11",
+    "company_siren": "914104781"
+   }
+  ]
+ },
+ {
+  "group_siren": "935024596",
+  "group_name": "MB",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8756626753",
+    "name": "éthanol",
+    "pc": "75011",
+    "company": "ETHANOL",
+    "company_siren": "939509055"
+   }
+  ]
+ },
+ {
+  "group_siren": "894148717",
+  "group_name": "THE MALA COMPANY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10862108905",
+    "name": "Mala Boom",
+    "pc": "75011",
+    "company": "MALA BOOM",
+    "company_siren": "910504083"
+   }
+  ]
+ },
+ {
+  "group_siren": "910894039",
+  "group_name": "N2SK",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7193057518",
+    "name": "Les Indécises",
+    "pc": "75011",
+    "company": "LES INDECISES",
+    "company_siren": "944268796"
+   }
+  ]
+ },
+ {
+  "group_siren": "892486382",
+  "group_name": "THE COMFORT FACTORY HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8725837327",
+    "name": "Scoop Me a Cookie",
+    "pc": "75011",
+    "company": "THE COMFORT FACTORY",
+    "company_siren": "752145052"
+   }
+  ]
+ },
+ {
+  "group_siren": "449507581",
+  "group_name": "KENZA DE LA BAGUE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6964519401",
+    "name": "La bague de Kenza",
+    "pc": "75011",
+    "company": "KENZA DE LA BAGUE",
+    "company_siren": "449507581"
+   }
+  ]
+ },
+ {
+  "group_siren": "825321185",
+  "group_name": "CALC",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1789944746",
+    "name": "Les Petites Flèches",
+    "pc": "75011",
+    "company": "LES PETITES FLECHES",
+    "company_siren": "849113519"
+   }
+  ]
+ },
+ {
+  "group_siren": "982588873",
+  "group_name": "TALINTS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7046428092",
+    "name": "Miss Chawarma",
+    "pc": "75011",
+    "company": "MAISON MEZZE",
+    "company_siren": "100753755"
+   }
+  ]
+ },
+ {
+  "group_siren": "848661864",
+  "group_name": "LE PERCHOIR PORTE DE VERSAILLES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3575298893",
+    "name": "Le Perchoir",
+    "pc": "75011",
+    "company": "LE PERCHOIR PORTE DE VERSAILLES",
+    "company_siren": "848661864"
+   }
+  ]
+ },
+ {
+  "group_siren": "821740644",
+  "group_name": "LA FACTORY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10726201400",
+    "name": "Soul Coffee",
+    "pc": "75020",
+    "company": "LA FACTORY",
+    "company_siren": "821740644"
+   }
+  ]
+ },
+ {
+  "group_siren": "802744185",
+  "group_name": "VALEUR AJOUTEE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12170045814",
+    "name": "Ice Mama Paris",
+    "pc": "75016",
+    "company": "IMVH",
+    "company_siren": "922625892"
+   }
+  ]
+ },
+ {
+  "group_siren": "893267138",
+  "group_name": "BAM HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8990393553",
+    "name": "Le Boccador",
+    "pc": "75008",
+    "company": "JUNK BOCCADOR",
+    "company_siren": "109166058"
+   }
+  ]
+ },
+ {
+  "group_siren": "750411662",
+  "group_name": "LE CONFIDENTIEL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N840870728",
+    "name": "Le Confidentiel",
+    "pc": "75008",
+    "company": "LE CONFIDENTIEL",
+    "company_siren": "750411662"
+   }
+  ]
+ },
+ {
+  "group_siren": "398932525",
+  "group_name": "GEORGE V EATERTAINMENT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N251758249",
+    "name": "Buddha-Bar Paris",
+    "pc": "75008",
+    "company": "GEORGE V EATERTAINMENT",
+    "company_siren": "398932525"
+   }
+  ]
+ },
+ {
+  "group_siren": "937804508",
+  "group_name": "BBGA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N683398125",
+    "name": "Le Florentin",
+    "pc": "75001",
+    "company": "LE FLORENTIN",
+    "company_siren": "398251827"
+   }
+  ]
+ },
+ {
+  "group_siren": "435059787",
+  "group_name": "FOYER MISSION CATHOLIQUE POLONAISE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N247455916",
+    "name": "La Crypte Polska",
+    "pc": "75001",
+    "company": "FOYER MISSION CATHOLIQUE POLONAISE",
+    "company_siren": "435059787"
+   }
+  ]
+ },
+ {
+  "group_siren": "852833110",
+  "group_name": "M&C HONORE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N683133904",
+    "name": "Le Passage Saint Honoré",
+    "pc": "75001",
+    "company": "CD LE PASSAGE",
+    "company_siren": "853757961"
+   }
+  ]
+ },
+ {
+  "group_siren": "949846593",
+  "group_name": "HOLDING FCC",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12582591647",
+    "name": "Sokcho",
+    "pc": "75002",
+    "company": "SOKCHO",
+    "company_siren": "953116365"
+   }
+  ]
+ },
+ {
+  "group_siren": "938746302",
+  "group_name": "PEDONE DEVELOPPEMENT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12949289357",
+    "name": "Pedone",
+    "pc": "75001",
+    "company": "PEDONE PETITS CHAMPS",
+    "company_siren": "938739737"
+   }
+  ]
+ },
+ {
+  "group_siren": "978226447",
+  "group_name": "EZ HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12778484002",
+    "name": "Bolo Bolo",
+    "pc": "75002",
+    "company": "BOLO BOLO",
+    "company_siren": "907818884"
+   }
+  ]
+ },
+ {
+  "group_siren": "899922553",
+  "group_name": "ZYGOMATIQUES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2244610106",
+    "name": "Le Sacré",
+    "pc": "75002",
+    "company": "SACRE",
+    "company_siren": "831045596"
+   }
+  ]
+ },
+ {
+  "group_siren": "934318429",
+  "group_name": "AM HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5250255121",
+    "name": "Ademi",
+    "pc": "75002",
+    "company": "ADEMI",
+    "company_siren": "820025013"
+   }
+  ]
+ },
+ {
+  "group_siren": "821404944",
+  "group_name": "CIBOULETTE & CIE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4958448672",
+    "name": "Joia",
+    "pc": "75002",
+    "company": "FLUFFY & CIE",
+    "company_siren": "834578031"
+   }
+  ]
+ },
+ {
+  "group_siren": "809306830",
+  "group_name": "FINANCIERE RUE AUBER",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1843639330",
+    "name": "Bistrot Madame",
+    "pc": "75002",
+    "company": "MAELVINA",
+    "company_siren": "100976521"
+   }
+  ]
+ },
+ {
+  "group_siren": "802844944",
+  "group_name": "BIG MAMMA FOOD",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4836745821",
+    "name": "Popolare",
+    "pc": "75002",
+    "company": "BIG MAMMA RESTAURANTS FRANCE",
+    "company_siren": "852365741"
+   }
+  ]
+ },
+ {
+  "group_siren": "823247622",
+  "group_name": "L&L GROUP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9063588472",
+    "name": "L'Ivress",
+    "pc": "75002",
+    "company": "C & L ASSOCIES",
+    "company_siren": "824153381"
+   }
+  ]
+ },
+ {
+  "group_siren": "921659751",
+  "group_name": "WILL'S FAMILY GROUP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8396710022",
+    "name": "Will's Deli",
+    "pc": "75002",
+    "company": "WILL'S DELI",
+    "company_siren": "921924510"
+   }
+  ]
+ },
+ {
+  "group_siren": "925153454",
+  "group_name": "LE GRAND FEU",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12747680671",
+    "name": "Piou! Piou!",
+    "pc": "75002",
+    "company": "PIOU PIOU SUCCURSALE",
+    "company_siren": "938070570"
+   }
+  ]
+ },
+ {
+  "group_siren": "921318549",
+  "group_name": "BC FOODS FRANCE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10730300805",
+    "name": "K-Vibe",
+    "pc": "75002",
+    "company": "BC FOODS FRANCE",
+    "company_siren": "921318549"
+   }
+  ]
+ },
+ {
+  "group_siren": "920467016",
+  "group_name": "ALL THE ROADS GROUP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N707317186",
+    "name": "Kilomètre zéro",
+    "pc": "75003",
+    "company": "KILOMETRE ZERO",
+    "company_siren": "981452774"
+   }
+  ]
+ },
+ {
+  "group_siren": "804868479",
+  "group_name": "HO3B",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5153469355",
+    "name": "House of 3 Brothers",
+    "pc": "75010",
+    "company": "HO3B",
+    "company_siren": "804868479"
+   }
+  ]
+ },
+ {
+  "group_siren": "979589579",
+  "group_name": "OTROIS CLUB",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12315791184",
+    "name": "Oté",
+    "pc": "75011",
+    "company": "OTE INN",
+    "company_siren": "982751190"
+   }
+  ]
+ },
+ {
+  "group_siren": "952308187",
+  "group_name": "ELLIOT HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5212767181",
+    "name": "La bagarre",
+    "pc": "75011",
+    "company": "LA BAGARRE",
+    "company_siren": "953619541"
+   }
+  ]
+ },
+ {
+  "group_siren": "814256434",
+  "group_name": "JK FINANCE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6549459386",
+    "name": "Caféinoman",
+    "pc": "75011",
+    "company": "LOUIS PFAFF ET COMPAGNIE",
+    "company_siren": "777344250"
+   }
+  ]
+ },
+ {
+  "group_siren": "979739372",
+  "group_name": "HEROES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3957247427",
+    "name": "RORI",
+    "pc": "75011",
+    "company": "AKA",
+    "company_siren": "980611321"
+   }
+  ]
+ },
+ {
+  "group_siren": "351616206",
+  "group_name": "AU PETIT BALCON",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5154229969",
+    "name": "Le Petit Balcon",
+    "pc": "75020",
+    "company": "AU PETIT BALCON",
+    "company_siren": "351616206"
+   }
+  ]
+ },
+ {
+  "group_siren": "887676724",
+  "group_name": "FOURTI CAPITAL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10875213933",
+    "name": "Azur Café",
+    "pc": "75008",
+    "company": "L'UNION",
+    "company_siren": "890523459"
+   }
+  ]
+ },
+ {
+  "group_siren": "907710123",
+  "group_name": "LE SAMOURAÏ SAS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13073294485",
+    "name": "Le Melville",
+    "pc": "75008",
+    "company": "LE MELVILLE",
+    "company_siren": "909729071"
+   }
+  ]
+ },
+ {
+  "group_siren": "481113975",
+  "group_name": "EMPRISE INDUSTRY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3985131181",
+    "name": "Café Chic",
+    "pc": "75008",
+    "company": "EC GROUP",
+    "company_siren": "944812148"
+   }
+  ]
+ },
+ {
+  "group_siren": "784329112",
+  "group_name": "FOYER DE LA MADELEINE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1691584270",
+    "name": "Foyer de la Madeleine",
+    "pc": "75008",
+    "company": "FOYER DE LA MADELEINE",
+    "company_siren": "784329112"
+   }
+  ]
+ },
+ {
+  "group_siren": "824529986",
+  "group_name": "FRENCHFOOD CAPITAL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8016758811",
+    "name": "La Piadina",
+    "pc": "75008",
+    "company": "PIA DEV",
+    "company_siren": "841813272"
+   }
+  ]
+ },
+ {
+  "group_siren": "434491361",
+  "group_name": "CARRIERE COMMUNICATION",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10202515234",
+    "name": "La Riotte",
+    "pc": "75008",
+    "company": "LA RIOTTE",
+    "company_siren": "931639025"
+   }
+  ]
+ },
+ {
+  "group_siren": "951560127",
+  "group_name": "GROUPE SHINKO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1484054985",
+    "name": "Shinko",
+    "pc": "75002",
+    "company": "SHINKO OPERA",
+    "company_siren": "919863860"
+   }
+  ]
+ },
+ {
+  "group_siren": "907943740",
+  "group_name": "HB CONSEIL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2969056040",
+    "name": "Yoummah",
+    "pc": "75002",
+    "company": "YOUMMAH",
+    "company_siren": "909130692"
+   }
+  ]
+ },
+ {
+  "group_siren": "349296194",
+  "group_name": "HELEA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1675451555",
+    "name": "Au Petit Riche",
+    "pc": "75009",
+    "company": "AU PETIT RICHE",
+    "company_siren": "552056889"
+   }
+  ]
+ },
+ {
+  "group_siren": "793899642",
+  "group_name": "CAFFE STERN SAS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3209449513",
+    "name": "Caffè Stern",
+    "pc": "75002",
+    "company": "CAFFE STERN SAS",
+    "company_siren": "793899642"
+   }
+  ]
+ },
+ {
+  "group_siren": "481167864",
+  "group_name": "THIERRY BEGUE ASSOCIES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11816558126",
+    "name": "Lombem",
+    "pc": "75002",
+    "company": "LOMBEM PANORAMAS",
+    "company_siren": "841152812"
+   }
+  ]
+ },
+ {
+  "group_siren": "751447947",
+  "group_name": "CHRISTEPH",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2126361723",
+    "name": "La Crème de Paris",
+    "pc": "75009",
+    "company": "CHRISTEPH",
+    "company_siren": "751447947"
+   }
+  ]
+ },
+ {
+  "group_siren": "951169317",
+  "group_name": "ADELA GROUP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4841378923",
+    "name": "Adela",
+    "pc": "75010",
+    "company": "ADELA POISSONNIERE",
+    "company_siren": "951907443"
+   }
+  ]
+ },
+ {
+  "group_siren": "825072879",
+  "group_name": "SMSF HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3803563361",
+    "name": "Bistro De La Banque",
+    "pc": "75009",
+    "company": "BISTRO DE LA BANQUE",
+    "company_siren": "493138739"
+   }
+  ]
+ },
+ {
+  "group_siren": "832537443",
+  "group_name": "KARAFUN RETAIL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5734553421",
+    "name": "Karafun Paris",
+    "pc": "75010",
+    "company": "KARAFUN BAR PARIS",
+    "company_siren": "913046462"
+   }
+  ]
+ },
+ {
+  "group_siren": "834647935",
+  "group_name": "SOREREP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1681149237",
+    "name": "Brasserie Floderer",
+    "pc": "75010",
+    "company": "FLODERER",
+    "company_siren": "501685705"
+   }
+  ]
+ },
+ {
+  "group_siren": "414403105",
+  "group_name": "RESTAURANT YASMIN",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6655614255",
+    "name": "Yasmin",
+    "pc": "75010",
+    "company": "RESTAURANT YASMIN",
+    "company_siren": "414403105"
+   }
+  ]
+ },
+ {
+  "group_siren": "592001630",
+  "group_name": "LE ROYAL STRASBOURG",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1958796831",
+    "name": "Royal Strasbourg",
+    "pc": "75010",
+    "company": "LE ROYAL STRASBOURG",
+    "company_siren": "592001630"
+   }
+  ]
+ },
+ {
+  "group_siren": "105786404",
+  "group_name": "LF HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3001948717",
+    "name": "Wanted Café Paris",
+    "pc": "75010",
+    "company": "AMP WANTED",
+    "company_siren": "106479637"
+   }
+  ]
+ },
+ {
+  "group_siren": "952809671",
+  "group_name": "KHAYAT FOOD EMPIRE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3920728159",
+    "name": "Mamiche Traiteur",
+    "pc": "75010",
+    "company": "MAMICHE TRAITEUR",
+    "company_siren": "953336310"
+   }
+  ]
+ },
+ {
+  "group_siren": "438028029",
+  "group_name": "POINT BAR",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3927836582",
+    "name": "Point Bar",
+    "pc": "75010",
+    "company": "POINT BAR",
+    "company_siren": "438028029"
+   }
+  ]
+ },
+ {
+  "group_siren": "499075547",
+  "group_name": "L'OPEN CAFE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1861767365",
+    "name": "Open Café",
+    "pc": "75010",
+    "company": "L'OPEN CAFE",
+    "company_siren": "499075547"
+   }
+  ]
+ },
+ {
+  "group_siren": "935254474",
+  "group_name": "TALMA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3531673926",
+    "name": "L'Oursin",
+    "pc": "75010",
+    "company": "L'OURSIN",
+    "company_siren": "941100232"
+   }
+  ]
+ },
+ {
+  "group_siren": "853400638",
+  "group_name": "BAO FAMILY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4986721617",
+    "name": "Gros Bao",
+    "pc": "75010",
+    "company": "GROS BAO",
+    "company_siren": "853761245"
+   }
+  ]
+ },
+ {
+  "group_siren": "794352344",
+  "group_name": "MATIERE A ...",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10795073384",
+    "name": "Sain",
+    "pc": "75010",
+    "company": "MATIERE A ...",
+    "company_siren": "794352344"
+   }
+  ]
+ },
+ {
+  "group_siren": "838153385",
+  "group_name": "ZAITSEV",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2387361473",
+    "name": "Elsass",
+    "pc": "75010",
+    "company": "SAPID",
+    "company_siren": "912192085"
+   }
+  ]
+ },
+ {
+  "group_siren": "531688844",
+  "group_name": "L'AFRICANA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6338334565",
+    "name": "L'Africana",
+    "pc": "75020",
+    "company": "L'AFRICANA",
+    "company_siren": "531688844"
+   }
+  ]
+ },
+ {
+  "group_siren": "931577076",
+  "group_name": "R & D FAMILY INVEST",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5141740253",
+    "name": "Les Nouveaux Sauvages",
+    "pc": "75020",
+    "company": "CAFE DE L'ERMITAGE",
+    "company_siren": "810398925"
+   }
+  ]
+ },
+ {
+  "group_siren": "491086161",
+  "group_name": "ZABAR",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4309641757",
+    "name": "Le Zabar",
+    "pc": "75020",
+    "company": "ZABAR",
+    "company_siren": "491086161"
+   }
+  ]
+ },
+ {
+  "group_siren": "437890486",
+  "group_name": "LE SAINT FARGEAU",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2206746844",
+    "name": "Le Saint-Fargeau",
+    "pc": "75020",
+    "company": "LE SAINT FARGEAU",
+    "company_siren": "437890486"
+   }
+  ]
+ },
+ {
+  "group_siren": "479402539",
+  "group_name": "LE NAY SAINT-HONORE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5166178526",
+    "name": "Brasserie Naï",
+    "pc": "75017",
+    "company": "LE SENIQUE",
+    "company_siren": "439284639"
+   }
+  ]
+ },
+ {
+  "group_siren": "981118961",
+  "group_name": "THE BROCCOLI COMPANY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13240842614",
+    "name": "The Fat Broccoli",
+    "pc": "75008",
+    "company": "THE FAT BROCCOLI WASHINGTON",
+    "company_siren": "928861475"
+   }
+  ]
+ },
+ {
+  "group_siren": "808305601",
+  "group_name": "DA MARIO & MONICA TRATTORIA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2156603615",
+    "name": "Da Mario et Monica",
+    "pc": "75008",
+    "company": "DA MARIO & MONICA TRATTORIA",
+    "company_siren": "808305601"
+   }
+  ]
+ },
+ {
+  "group_siren": "952424190",
+  "group_name": "ALESSANDRA & CIA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3429930097",
+    "name": "Sushi Parisien",
+    "pc": "75008",
+    "company": "T&F COMPAGNIE",
+    "company_siren": "925079071"
+   }
+  ]
+ },
+ {
+  "group_siren": "533214003",
+  "group_name": "PRET (FRANCE)",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13985431253",
+    "name": "Pret",
+    "pc": "75008",
+    "company": "PRET (FRANCE)",
+    "company_siren": "533214003"
+   }
+  ]
+ },
+ {
+  "group_siren": "949951966",
+  "group_name": "CDH",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9755462127",
+    "name": "Meurette",
+    "pc": "75008",
+    "company": "MEURETTE 1",
+    "company_siren": "981795024"
+   }
+  ]
+ },
+ {
+  "group_siren": "921247995",
+  "group_name": "RECREATION",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N814805922",
+    "name": "La Pépinière",
+    "pc": "75008",
+    "company": "PEPINIERE",
+    "company_siren": "977555879"
+   }
+  ]
+ },
+ {
+  "group_siren": "914191168",
+  "group_name": "SUCRÉSALÉ",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8781052705",
+    "name": "Brasserie Pastis",
+    "pc": "75008",
+    "company": "SAS HAUSSMANN MANAGEMENT",
+    "company_siren": "879140325"
+   }
+  ]
+ },
+ {
+  "group_siren": "849948401",
+  "group_name": "KOKUBAN FRANCE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11380961669",
+    "name": "Kokuban Haussmann",
+    "pc": "75008",
+    "company": "KOKUBAN FRANCE",
+    "company_siren": "849948401"
+   }
+  ]
+ },
+ {
+  "group_siren": "572062594",
+  "group_name": "GALERIES LAFAYETTE HAUSSMANN - GL HAUSSMANN",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N14246590008",
+    "name": "Lafayette Café",
+    "pc": "75009",
+    "company": "GALERIES LAFAYETTE HAUSSMANN - GL HAUSSMANN",
+    "company_siren": "572062594"
+   }
+  ]
+ },
+ {
+  "group_siren": "104885421",
+  "group_name": "AD MAISON",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2335048694",
+    "name": "Café Gallery",
+    "pc": "75009",
+    "company": "AD CAFE",
+    "company_siren": "105812580"
+   }
+  ]
+ },
+ {
+  "group_siren": "479613879",
+  "group_name": "QIAO JIANG NAN",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11783642819",
+    "name": "Qiao Jiang Nan",
+    "pc": "75009",
+    "company": "QIAO JIANG NAN",
+    "company_siren": "479613879"
+   }
+  ]
+ },
+ {
+  "group_siren": "495278087",
+  "group_name": "MERE ET FILS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2728828097",
+    "name": "Lou Cantou",
+    "pc": "75009",
+    "company": "SAS LOU CANTOU",
+    "company_siren": "821314721"
+   }
+  ]
+ },
+ {
+  "group_siren": "520406240",
+  "group_name": "MEDIA ODYSSEE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1484820384",
+    "name": "Frichti Kiosque",
+    "pc": "75009",
+    "company": "DELEEV",
+    "company_siren": "809245889"
+   }
+  ]
+ },
+ {
+  "group_siren": "801764077",
+  "group_name": "MOM",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4349858404",
+    "name": "Les Gouttes de Dieu",
+    "pc": "75009",
+    "company": "G.D.D. 1",
+    "company_siren": "801819582"
+   }
+  ]
+ },
+ {
+  "group_siren": "883366445",
+  "group_name": "SAS MAUD LE BARH",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12002748153",
+    "name": "Les Bariolés de Maud",
+    "pc": "75009",
+    "company": "LES BARIOLES DE MAUD",
+    "company_siren": "809936438"
+   }
+  ]
+ },
+ {
+  "group_siren": "947901039",
+  "group_name": "SOKDEE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12002748151",
+    "name": "Sep Lai",
+    "pc": "75009",
+    "company": "SEP LAI",
+    "company_siren": "948144688"
+   }
+  ]
+ },
+ {
+  "group_siren": "441691169",
+  "group_name": "PREGO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11265571168",
+    "name": "Prego",
+    "pc": "75009",
+    "company": "PREGO",
+    "company_siren": "441691169"
+   }
+  ]
+ },
+ {
+  "group_siren": "921058475",
+  "group_name": "YT INVEST",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9610338336",
+    "name": "Nigiri Bar",
+    "pc": "75009",
+    "company": "NIGIRI FRANCE",
+    "company_siren": "940345176"
+   }
+  ]
+ },
+ {
+  "group_siren": "811654961",
+  "group_name": "ARTHUR & DIMITRI",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N14311023200",
+    "name": "Ardent Paris",
+    "pc": "75009",
+    "company": "ARDENT",
+    "company_siren": "912307527"
+   }
+  ]
+ },
+ {
+  "group_siren": "953834843",
+  "group_name": "HUBRIS GROUPE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N12201065701",
+    "name": "Colère",
+    "pc": "75009",
+    "company": "RICHER",
+    "company_siren": "979533734"
+   }
+  ]
+ },
+ {
+  "group_siren": "915268015",
+  "group_name": "TEMPETE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11228954423",
+    "name": "Kamo",
+    "pc": "75010",
+    "company": "BITUME",
+    "company_siren": "924999980"
+   }
+  ]
+ },
+ {
+  "group_siren": "798419412",
+  "group_name": "IPPUDO PARIS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9041326517",
+    "name": "Ippudo République",
+    "pc": "75010",
+    "company": "IPPUDO PARIS",
+    "company_siren": "798419412"
+   }
+  ]
+ },
+ {
+  "group_siren": "503563538",
+  "group_name": "LA TETE DANS LES OLIVES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6815897985",
+    "name": "Mulino Mulè",
+    "pc": "75010",
+    "company": "MULINO MULE",
+    "company_siren": "829009133"
+   }
+  ]
+ },
+ {
+  "group_siren": "832975791",
+  "group_name": "ARLEQ'2",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5873098386",
+    "name": "Ramène ta fraise",
+    "pc": "75019",
+    "company": "RAMENE TA FRAISE",
+    "company_siren": "995375953"
+   }
+  ]
+ },
+ {
+  "group_siren": "931576870",
+  "group_name": "ENIS FAMILY HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N881545302",
+    "name": "Les Rigoles",
+    "pc": "75020",
+    "company": "LES RIGOLES",
+    "company_siren": "539530576"
+   }
+  ]
+ },
+ {
+  "group_siren": "924713902",
+  "group_name": "COCO CANTINE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13825556737",
+    "name": "Coco Cantine",
+    "pc": "75020",
+    "company": "COCO CANTINE",
+    "company_siren": "924713902"
+   }
+  ]
+ },
+ {
+  "group_siren": "432165363",
+  "group_name": "MESSOGHIOS SAVEURS DU SUD",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2728421748",
+    "name": "Le Sud",
+    "pc": "75017",
+    "company": "MESSOGHIOS SAVEURS DU SUD",
+    "company_siren": "432165363"
+   }
+  ]
+ },
+ {
+  "group_siren": "843445388",
+  "group_name": "FINANCIERE VANHAEVERBEEK",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11880712898",
+    "name": "Gerard Taurin",
+    "pc": "75017",
+    "company": "ICR RETAIL",
+    "company_siren": "929369114"
+   }
+  ]
+ },
+ {
+  "group_siren": "917536583",
+  "group_name": "GROUPE LE XXV",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6577220041",
+    "name": "Le XXV",
+    "pc": "75008",
+    "company": "SAINT HONORE",
+    "company_siren": "817881899"
+   }
+  ]
+ },
+ {
+  "group_siren": "838430338",
+  "group_name": "STRADINA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11921606190",
+    "name": "Stradina",
+    "pc": "75008",
+    "company": "STRADINA",
+    "company_siren": "838430338"
+   }
+  ]
+ },
+ {
+  "group_siren": "810961052",
+  "group_name": "CALYX",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "W728024007",
+    "name": "La Fabrique des Cookies",
+    "pc": "75008",
+    "company": "PROMECOP",
+    "company_siren": "540042439"
+   }
+  ]
+ },
+ {
+  "group_siren": "899519763",
+  "group_name": "PORTE ET ASSOCIES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4420336891",
+    "name": "L'Abordage",
+    "pc": "75008",
+    "company": "L'ABORDAGE CAFE RESTAURANT",
+    "company_siren": "480302256"
+   }
+  ]
+ },
+ {
+  "group_siren": "530935360",
+  "group_name": "NVH CAPITAL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6992406334",
+    "name": "Bourgogne Sud",
+    "pc": "75009",
+    "company": "BOURGOGNE SUD",
+    "company_siren": "530935360"
+   }
+  ]
+ },
+ {
+  "group_siren": "932925126",
+  "group_name": "CANTING CLUB",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1483017738",
+    "name": "Canting",
+    "pc": "75009",
+    "company": "CANTING SAINT LAZARE",
+    "company_siren": "943217240"
+   }
+  ]
+ },
+ {
+  "group_siren": "899354559",
+  "group_name": "BERRIE FAMILY",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10613824711",
+    "name": "Berrie",
+    "pc": "75009",
+    "company": "BERRIE SAINT-LAZARE",
+    "company_siren": "812344141"
+   }
+  ]
+ },
+ {
+  "group_siren": "917585630",
+  "group_name": "GROUPE PEPE RONCHON",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10308274409",
+    "name": "Pépé Ronchon",
+    "pc": "75009",
+    "company": "PEPE RONCHON",
+    "company_siren": "830006110"
+   }
+  ]
+ },
+ {
+  "group_siren": "492134606",
+  "group_name": "PALAIS DU BENGALE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1483017727",
+    "name": "Mamtajmahal",
+    "pc": "75009",
+    "company": "PALAIS DU BENGALE",
+    "company_siren": "492134606"
+   }
+  ]
+ },
+ {
+  "group_siren": "944635184",
+  "group_name": "DA STUDIOS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9300017464",
+    "name": "Plaka",
+    "pc": "75009",
+    "company": "PLAKA MARTYRS",
+    "company_siren": "929105575"
+   }
+  ]
+ },
+ {
+  "group_siren": "852298181",
+  "group_name": "HEVATEL HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9558798517",
+    "name": "Creime",
+    "pc": "75009",
+    "company": "CAFE CREIME PARIS",
+    "company_siren": "839242492"
+   }
+  ]
+ },
+ {
+  "group_siren": "981805641",
+  "group_name": "SAS JIWAHE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3501719711",
+    "name": "Le café de l'église",
+    "pc": "75010",
+    "company": "LES PHACOCHERES AB",
+    "company_siren": "982648180"
+   }
+  ]
+ },
+ {
+  "group_siren": "851418657",
+  "group_name": "PNEVMA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8772164117",
+    "name": "Cagnard",
+    "pc": "75010",
+    "company": "5MAGENTA",
+    "company_siren": "929606598"
+   }
+  ]
+ },
+ {
+  "group_siren": "953004124",
+  "group_name": "33LIMITLESS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3978232562",
+    "name": "Oh My Jerk!",
+    "pc": "75010",
+    "company": "OH MY JERK !",
+    "company_siren": "987611043"
+   }
+  ]
+ },
+ {
+  "group_siren": "979987013",
+  "group_name": "MASCOTT HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3878454459",
+    "name": "Le Verre Taquin",
+    "pc": "75010",
+    "company": "LE VERRE TAQUIN",
+    "company_siren": "801125352"
+   }
+  ]
+ },
+ {
+  "group_siren": "994205342",
+  "group_name": "AKN INVEST",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N14098769601",
+    "name": "Les 3 Arts",
+    "pc": "75019",
+    "company": "LPDF",
+    "company_siren": "994493203"
+   }
+  ]
+ },
+ {
+  "group_siren": "937566727",
+  "group_name": "FLL HORIZONS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "W393907433",
+    "name": "Com'panis",
+    "pc": "75017",
+    "company": "COM'PANIS",
+    "company_siren": "934113127"
+   }
+  ]
+ },
+ {
+  "group_siren": "331445304",
+  "group_name": "BELLAGIO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2823109201",
+    "name": "Chez Bertrand",
+    "pc": "75017",
+    "company": "CHEZ BERTRAND BISTROT",
+    "company_siren": "815091483"
+   }
+  ]
+ },
+ {
+  "group_siren": "844255273",
+  "group_name": "DS CAFE HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N14128654526",
+    "name": "DS Café",
+    "pc": "75017",
+    "company": "DS CAFE",
+    "company_siren": "443477203"
+   }
+  ]
+ },
+ {
+  "group_siren": "789419538",
+  "group_name": "TAULK",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N822253172",
+    "name": "Super Huit",
+    "pc": "75008",
+    "company": "ELIT",
+    "company_siren": "979516044"
+   }
+  ]
+ },
+ {
+  "group_siren": "989426614",
+  "group_name": "OLYSSE GROUP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7725333203",
+    "name": "OLYSSE Monceau",
+    "pc": "75008",
+    "company": "OLYSSE MONCEAU",
+    "company_siren": "930601901"
+   }
+  ]
+ },
+ {
+  "group_siren": "999517980",
+  "group_name": "KAVIARI INVESTMENTS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7722291294",
+    "name": "Kaviari",
+    "pc": "75017",
+    "company": "ADS",
+    "company_siren": "812741353"
+   }
+  ]
+ },
+ {
+  "group_siren": "987613106",
+  "group_name": "LAEM",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13894259970",
+    "name": "La Petite Charlotte",
+    "pc": "75009",
+    "company": "LA PETITE CHARLOTTE A EMPORTER",
+    "company_siren": "929917862"
+   }
+  ]
+ },
+ {
+  "group_siren": "908705775",
+  "group_name": "LB",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2973034755",
+    "name": "Stéréo",
+    "pc": "75009",
+    "company": "LABB",
+    "company_siren": "877894097"
+   }
+  ]
+ },
+ {
+  "group_siren": "984337675",
+  "group_name": "GI & NI",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N10838077105",
+    "name": "Nissi",
+    "pc": "75009",
+    "company": "JIMMY'S STREET FOOD",
+    "company_siren": "902985787"
+   }
+  ]
+ },
+ {
+  "group_siren": "877780783",
+  "group_name": "DRINK IT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5584661121",
+    "name": "L'Injuste",
+    "pc": "75009",
+    "company": "L'INJUSTE",
+    "company_siren": "922082243"
+   }
+  ]
+ },
+ {
+  "group_siren": "429706781",
+  "group_name": "HOTELS MAURICE HURAND",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2845039395",
+    "name": "Le Glass",
+    "pc": "75009",
+    "company": "SAS HOTEL LE PIGALLE",
+    "company_siren": "592018790"
+   }
+  ]
+ },
+ {
+  "group_siren": "877598912",
+  "group_name": "ELENI GROUP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11091659005",
+    "name": "Maison Kalios",
+    "pc": "75009",
+    "company": "TRAITEUR DES MARTYRS",
+    "company_siren": "910204759"
+   }
+  ]
+ },
+ {
+  "group_siren": "934593120",
+  "group_name": "MUSETTE GROUP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5542637646",
+    "name": "Barbot",
+    "pc": "75009",
+    "company": "SAS LATITUDE",
+    "company_siren": "491212338"
+   }
+  ]
+ },
+ {
+  "group_siren": "985207596",
+  "group_name": "HOLDING BAYAT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4845269422",
+    "name": "Bayat",
+    "pc": "75010",
+    "company": "BAKERY BAYAT",
+    "company_siren": "927810507"
+   }
+  ]
+ },
+ {
+  "group_siren": "900763467",
+  "group_name": "LAZARE FOOD SYSTEM",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13805474796",
+    "name": "Mersin",
+    "pc": "75019",
+    "company": "MERSIN",
+    "company_siren": "989782784"
+   }
+  ]
+ },
+ {
+  "group_siren": "490469475",
+  "group_name": "J.J.J.",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2917987630",
+    "name": "Aux deux amis",
+    "pc": "75019",
+    "company": "J.J.J.",
+    "company_siren": "490469475"
+   }
+  ]
+ },
+ {
+  "group_siren": "420706699",
+  "group_name": "LE SAINT CYR PALACE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3026681333",
+    "name": "Saint-Cyr",
+    "pc": "75017",
+    "company": "LE SAINT CYR PALACE",
+    "company_siren": "420706699"
+   }
+  ]
+ },
+ {
+  "group_siren": "910098565",
+  "group_name": "JD92",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7569491092",
+    "name": "Ilia - Vernier",
+    "pc": "75017",
+    "company": "ILIA VERNIER",
+    "company_siren": "929577039"
+   }
+  ]
+ },
+ {
+  "group_siren": "983670035",
+  "group_name": "M-C-FINANCE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3183141861",
+    "name": "La Pompadour",
+    "pc": "75017",
+    "company": "143 COURCELLES",
+    "company_siren": "984279554"
+   }
+  ]
+ },
+ {
+  "group_siren": "479289050",
+  "group_name": "S D G NOUVELLE DU ROYAL PEREIRE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2726765247",
+    "name": "Royal Pereire",
+    "pc": "75017",
+    "company": "ROYAL PEREIRE",
+    "company_siren": "562026187"
+   }
+  ]
+ },
+ {
+  "group_siren": "393857578",
+  "group_name": "WG HAROLD",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2781070530",
+    "name": "Manhattan Terrazza",
+    "pc": "75017",
+    "company": "HARRYS",
+    "company_siren": "339201188"
+   }
+  ]
+ },
+ {
+  "group_siren": "907652721",
+  "group_name": "LMDM",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11594765378",
+    "name": "La maison du mochi",
+    "pc": "75017",
+    "company": "LMDM PARIS 17",
+    "company_siren": "910001973"
+   }
+  ]
+ },
+ {
+  "group_siren": "949302384",
+  "group_name": "YORA PARIS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11134662429",
+    "name": "Yora",
+    "pc": "75017",
+    "company": "YORA PARIS",
+    "company_siren": "949302384"
+   }
+  ]
+ },
+ {
+  "group_siren": "528130297",
+  "group_name": "TEMPO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7995899176",
+    "name": "Le Grand Gourmand  comptoir",
+    "pc": "75017",
+    "company": "LE GRAND GOURMAND",
+    "company_siren": "100888387"
+   }
+  ]
+ },
+ {
+  "group_siren": "928387364",
+  "group_name": "GATZ CAPITAL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3438310754",
+    "name": "Maora",
+    "pc": "75017",
+    "company": "MAORA BATIGNOLLES",
+    "company_siren": "952827541"
+   }
+  ]
+ },
+ {
+  "group_siren": "825340060",
+  "group_name": "TURFU",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7548855969",
+    "name": "Bidoche",
+    "pc": "75017",
+    "company": "BIDOCHE BATIGNOLLES",
+    "company_siren": "938882487"
+   }
+  ]
+ },
+ {
+  "group_siren": "910446251",
+  "group_name": "IG FINANCES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5935316111",
+    "name": "Rouge Bis",
+    "pc": "75009",
+    "company": "IG MOULIN",
+    "company_siren": "989379615"
+   }
+  ]
+ },
+ {
+  "group_siren": "529906679",
+  "group_name": "BABIJA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4843622821",
+    "name": "The Station",
+    "pc": "75018",
+    "company": "BABIJA",
+    "company_siren": "529906679"
+   }
+  ]
+ },
+ {
+  "group_siren": "984257394",
+  "group_name": "AXIOMHEALTH CAPITAL INNOVATION",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4741338821",
+    "name": "Chez Toinette",
+    "pc": "75018",
+    "company": "TOINETTE MONTMARTRE",
+    "company_siren": "930340328"
+   }
+  ]
+ },
+ {
+  "group_siren": "887664670",
+  "group_name": "TIKO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2483387635",
+    "name": "Corso",
+    "pc": "75009",
+    "company": "CORSO 1",
+    "company_siren": "493797658"
+   }
+  ]
+ },
+ {
+  "group_siren": "538825761",
+  "group_name": "CABOSSE & ASSOCIES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "W403889825",
+    "name": "Le Chocolat",
+    "pc": "75010",
+    "company": "CABOSSE & ASSOCIES",
+    "company_siren": "538825761"
+   }
+  ]
+ },
+ {
+  "group_siren": "832413074",
+  "group_name": "ANJAPPER - PARIS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6313067576",
+    "name": "Coffee Anjapper",
+    "pc": "75010",
+    "company": "ANJAPPER - PARIS",
+    "company_siren": "832413074"
+   }
+  ]
+ },
+ {
+  "group_siren": "831532478",
+  "group_name": "RABIER BENITEZ & ASSOCIES",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2973473069",
+    "name": "Caballito",
+    "pc": "75019",
+    "company": "PARIS NORTE",
+    "company_siren": "898002555"
+   }
+  ]
+ },
+ {
+  "group_siren": "908568918",
+  "group_name": "JCCI",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2922567338",
+    "name": "Chlew",
+    "pc": "75019",
+    "company": "CHLEW 19",
+    "company_siren": "937645885"
+   }
+  ]
+ },
+ {
+  "group_siren": "881891154",
+  "group_name": "ASSOCIATION BOKAWA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N9212757805",
+    "name": "Bokawa",
+    "pc": "75019",
+    "company": "ASSOCIATION BOKAWA",
+    "company_siren": "881891154"
+   }
+  ]
+ },
+ {
+  "group_siren": "879201473",
+  "group_name": "MARMITES VOLANTES HOLDING",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2949826730",
+    "name": "Les Marmites Volantes",
+    "pc": "75019",
+    "company": "LES BOUFFESQUETAIRES",
+    "company_siren": "534526389"
+   }
+  ]
+ },
+ {
+  "group_siren": "908738644",
+  "group_name": "MONAZ",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N7943331487",
+    "name": "Bond",
+    "pc": "75017",
+    "company": "MR AND MRS BOND",
+    "company_siren": "803520766"
+   }
+  ]
+ },
+ {
+  "group_siren": "979305190",
+  "group_name": "SSG HOSPITALITIES INVEST",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2726765248",
+    "name": "Petrus",
+    "pc": "75017",
+    "company": "PETRUS",
+    "company_siren": "308757970"
+   }
+  ]
+ },
+ {
+  "group_siren": "929817211",
+  "group_name": "REGENTS MANAGEMENT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2641095646",
+    "name": "Andaaz",
+    "pc": "75017",
+    "company": "ANDAAZ",
+    "company_siren": "943729111"
+   }
+  ]
+ },
+ {
+  "group_siren": "917599904",
+  "group_name": "FERNAND",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4086211679",
+    "name": "Au bon Jacques",
+    "pc": "75017",
+    "company": "AU BON JACQUES",
+    "company_siren": "908347511"
+   }
+  ]
+ },
+ {
+  "group_siren": "945010080",
+  "group_name": "MAUDEL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6407665792",
+    "name": "Le Bouquet Wagram",
+    "pc": "75017",
+    "company": "HOLDING MONCEAU",
+    "company_siren": "444283428"
+   }
+  ]
+ },
+ {
+  "group_siren": "930858170",
+  "group_name": "MUNCH HOLDING S.A.S",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8968421434",
+    "name": "Munch",
+    "pc": "75017",
+    "company": "MUNCH 1 S.A.S",
+    "company_siren": "932810138"
+   }
+  ]
+ },
+ {
+  "group_siren": "428204572",
+  "group_name": "LE SANGLIER BLEU",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4843622522",
+    "name": "Le Sanglier Bleu",
+    "pc": "75018",
+    "company": "LE SANGLIER BLEU",
+    "company_siren": "428204572"
+   }
+  ]
+ },
+ {
+  "group_siren": "928816420",
+  "group_name": "MBW",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4915769021",
+    "name": "Les Fines Lames",
+    "pc": "75018",
+    "company": "TGVFC",
+    "company_siren": "801375775"
+   }
+  ]
+ },
+ {
+  "group_siren": "419213145",
+  "group_name": "ENVOL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4340407982",
+    "name": "Le Coq Rico",
+    "pc": "75018",
+    "company": "LE COQ RICO",
+    "company_siren": "530515360"
+   }
+  ]
+ },
+ {
+  "group_siren": "493471601",
+  "group_name": "FINANCIERE DU TERTRE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3379363204",
+    "name": "Moulin de la Galette",
+    "pc": "75018",
+    "company": "LE MOULIN DE LA GALETTE",
+    "company_siren": "811011428"
+   }
+  ]
+ },
+ {
+  "group_siren": "984052829",
+  "group_name": "SAKURA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3512023885",
+    "name": "La Boîte aux Lettres",
+    "pc": "75018",
+    "company": "F.C.A.P.",
+    "company_siren": "791435332"
+   }
+  ]
+ },
+ {
+  "group_siren": "881843007",
+  "group_name": "F.EAT",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N6484260243",
+    "name": "Chez Plumeau",
+    "pc": "75018",
+    "company": "F.K TERTRE",
+    "company_siren": "999893696"
+   }
+  ]
+ },
+ {
+  "group_siren": "953756913",
+  "group_name": "LA FINANCIERE J.F.R.",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5331770658",
+    "name": "La Crémaillère 1900",
+    "pc": "75018",
+    "company": "LLC 1900",
+    "company_siren": "100393586"
+   }
+  ]
+ },
+ {
+  "group_siren": "500198296",
+  "group_name": "PARIS ASIE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3562026493",
+    "name": "Au Bonheur de Thaïlande",
+    "pc": "75018",
+    "company": "PARIS ASIE",
+    "company_siren": "500198296"
+   }
+  ]
+ },
+ {
+  "group_siren": "451230874",
+  "group_name": "PHILMAR",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4984367631",
+    "name": "Au Clairon des Chasseurs",
+    "pc": "75018",
+    "company": "PHILAS",
+    "company_siren": "812502847"
+   }
+  ]
+ },
+ {
+  "group_siren": "953756913",
+  "group_name": "LA FINANCIERE J.F.R",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1791641575",
+    "name": "Au Cadet De Gascogne",
+    "pc": "75018",
+    "company": "JFR NORVINS",
+    "company_siren": "944541978"
+   }
+  ]
+ },
+ {
+  "group_siren": "798261590",
+  "group_name": "HOLDING LRC",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N3229495400",
+    "name": "La Bohème Montmartre",
+    "pc": "75018",
+    "company": "FINANCIERE MONTMARTRE",
+    "company_siren": "882157589"
+   }
+  ]
+ },
+ {
+  "group_siren": "392691127",
+  "group_name": "NAVEL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1015830973",
+    "name": "Navel",
+    "pc": "75018",
+    "company": "NAVEL",
+    "company_siren": "392691127"
+   }
+  ]
+ },
+ {
+  "group_siren": "106777378",
+  "group_name": "TU VIENS ON SEME",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8036518525",
+    "name": "Désirée",
+    "pc": "75019",
+    "company": "DESIREE",
+    "company_siren": "829609932"
+   }
+  ]
+ },
+ {
+  "group_siren": "988784906",
+  "group_name": "POULET GRILL HOUSE",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11874990694",
+    "name": "Poulet Grill House",
+    "pc": "75019",
+    "company": "POULET GRILL HOUSE",
+    "company_siren": "988784906"
+   }
+  ]
+ },
+ {
+  "group_siren": "800385585",
+  "group_name": "MADE BY N",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N14098749701",
+    "name": "Chez JJ",
+    "pc": "75019",
+    "company": "CHEZ JJ",
+    "company_siren": "852938174"
+   }
+  ]
+ },
+ {
+  "group_siren": "353017811",
+  "group_name": "FSB",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2329096678",
+    "name": "Papilla",
+    "pc": "75017",
+    "company": "SOCIETE DU CAFE LE LIBRE ECHANGE",
+    "company_siren": "582072690"
+   }
+  ]
+ },
+ {
+  "group_siren": "984231688",
+  "group_name": "REVERSÉ AND CO",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8927580763",
+    "name": "Dose",
+    "pc": "75018",
+    "company": "DOSE FAMILY",
+    "company_siren": "813966207"
+   }
+  ]
+ },
+ {
+  "group_siren": "521167494",
+  "group_name": "ANATA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N8986281015",
+    "name": "Anata",
+    "pc": "75018",
+    "company": "ANATA",
+    "company_siren": "521167494"
+   }
+  ]
+ },
+ {
+  "group_siren": "918891938",
+  "group_name": "18&22CAP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13927199401",
+    "name": "Pagaille",
+    "pc": "75018",
+    "company": "PAGAILLE",
+    "company_siren": "948651914"
+   }
+  ]
+ },
+ {
+  "group_siren": "508230844",
+  "group_name": "OLD BEST AFRICA",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5938742116",
+    "name": "Best Africa",
+    "pc": "75018",
+    "company": "OLD BEST AFRICA",
+    "company_siren": "508230844"
+   }
+  ]
+ },
+ {
+  "group_siren": "514680628",
+  "group_name": "TRIANGLE 357",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5023143725",
+    "name": "La Trincante",
+    "pc": "75018",
+    "company": "TRIANGLE 357",
+    "company_siren": "514680628"
+   }
+  ]
+ },
+ {
+  "group_siren": "934288382",
+  "group_name": "BOCOFF INC",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N2903108231",
+    "name": "Bocoff",
+    "pc": "75019",
+    "company": "FOOD & BAR",
+    "company_siren": "937680890"
+   }
+  ]
+ },
+ {
+  "group_siren": "902340199",
+  "group_name": "ASJ",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N4701892930",
+    "name": "Simonetta",
+    "pc": "75019",
+    "company": "ROQUETTE 2A",
+    "company_siren": "752975540"
+   }
+  ]
+ },
+ {
+  "group_siren": "439192519",
+  "group_name": "VIALLIS",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N565052804",
+    "name": "Pinettes",
+    "pc": "75017",
+    "company": "SNC LE PETIT PARIS",
+    "company_siren": "980598783"
+   }
+  ]
+ },
+ {
+  "group_siren": "532582244",
+  "group_name": "LE NEW-BELL",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N11727859942",
+    "name": "Le New Bell",
+    "pc": "75017",
+    "company": "LE NEW-BELL",
+    "company_siren": "532582244"
+   }
+  ]
+ },
+ {
+  "group_siren": "504235367",
+  "group_name": "S.S.M.H",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N5138361527",
+    "name": "Le Safari",
+    "pc": "75018",
+    "company": "S.S.M.H",
+    "company_siren": "504235367"
+   }
+  ]
+ },
+ {
+  "group_siren": "804009850",
+  "group_name": "ERNEST CIRCUIT-COURT SOLIDARITÉ",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1430900346",
+    "name": "Chez Ernest",
+    "pc": "75019",
+    "company": "ERNEST CIRCUIT-COURT RESTAURATION",
+    "company_siren": "951536267"
+   }
+  ]
+ },
+ {
+  "group_siren": "889352886",
+  "group_name": "ALLO POULET",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1896164510",
+    "name": "Allô poulet",
+    "pc": "75018",
+    "company": "ALLO POULET",
+    "company_siren": "889352886"
+   }
+  ]
+ },
+ {
+  "group_siren": "823508940",
+  "group_name": "LE BAR COMMUN",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N1679482210",
+    "name": "Le Bar Commun",
+    "pc": "75018",
+    "company": "LE BAR COMMUN",
+    "company_siren": "823508940"
+   }
+  ]
+ },
+ {
+  "group_siren": "908190762",
+  "group_name": "1931 GROUP",
+  "n": 1,
+  "venues": [
+   {
+    "osm_key": "N13482116434",
+    "name": "Mamazini",
+    "pc": "75019",
+    "company": "MAMAZINI",
+    "company_siren": "938151495"
+   }
+  ]
+ }
+]

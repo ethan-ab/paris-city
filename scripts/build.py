@@ -233,6 +233,12 @@ def main():
         print('  branch pins replaced by venue records:', dropped)
     for p in places:
         p.pop('_brand', None)
+        if p.get('auto'):  # register-matched venue: the card rebuilds note + source from these (saves ~1.5 MB)
+            m = re.search(r'/entreprise/(\d{9})', p.get('src', ''))
+            sites = re.search(r'one of its (\d+) sites', p.get('note', ''))
+            p['auto'] = [m.group(1) if m else '', int(sites.group(1)) if sites else 1]
+            p.pop('note', None)
+            p.pop('src', None)
     places.sort(key=lambda p: ({'pe': 0, 'vc': 1, 'corp': 2, 'ind': 3}[p['c']], p['n']))
     counts = {c: sum(p['c'] == c for p in places) for c in ('pe', 'vc', 'corp', 'ind')}
     print('places:', len(places), counts)
@@ -262,6 +268,39 @@ def main():
         build_artifact(html)
 
 
+def encode_basemap(fc_by_layer):
+    """Compact basemap: per layer [[propValue, type, [delta-encoded int rings/lines at 1e-5 deg]], ...]; src/app.js decodes it."""
+    T = {'Polygon': 0, 'MultiPolygon': 1, 'LineString': 2, 'MultiLineString': 3}
+    out = {}
+    for k, fc in fc_by_layer.items():
+        rows = []
+        for f in fc['features']:
+            g = f['geometry']
+            t = g['type']
+            if t not in T:
+                continue
+            if t == 'Polygon' or t == 'MultiLineString':
+                parts = g['coordinates']
+            elif t == 'LineString':
+                parts = [g['coordinates']]
+            else:
+                parts = [ring for poly in g['coordinates'] for ring in poly + [None]][:-1]  # None separates polygons
+            enc = []
+            for part in parts:
+                if part is None:
+                    enc.append(0)
+                    continue
+                flat, px, py = [], 0, 0
+                for x, y in part:
+                    ix, iy = round(x * 1e5), round(y * 1e5)
+                    flat += [ix - px, iy - py]
+                    px, py = ix, iy
+                enc.append(flat)
+            rows.append([f['properties'].get('r', 0), T[t], enc])
+        out[k] = rows
+    return out
+
+
 def build_artifact(html):
     """Self-contained single page for a claude.ai Artifact: no runtime fetches besides the MapLibre script and Google Fonts."""
     with open(os.path.join(ROOT, 'data', 'basemap.json')) as f:
@@ -279,6 +318,7 @@ def build_artifact(html):
     h = re.sub(r'<link rel="preconnect" href="https://tiles.openfreemap.org"[^>]*>\n', '', h)
     h = h.replace('<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">', '<style>' + mlcss + '</style>')
     h = re.sub(r'<meta name="viewport"[^>]*>\n', '', h)
+    basemap = json.dumps(encode_basemap(json.loads(basemap)), separators=(',', ':'))
     h = h.replace('<script src="app.js"></script>', '<script>window.BASEMAP=' + basemap + ';</script>\n<script>' + app.replace('</script', '<\\/script') + '</script>')
     os.makedirs(os.path.join(ROOT, 'artifact'), exist_ok=True)
     out = os.path.join(ROOT, 'artifact', 'paris-food-money-matrix.html')

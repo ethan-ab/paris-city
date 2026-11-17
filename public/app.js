@@ -21,7 +21,20 @@ const meters = (a, b) => {
 };
 const slug = n => n.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 const fold = s => String(s ?? '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
-PLACES.forEach((p, i) => { p.i = i; p._s = fold([p.n, p.a, p.area, p.o, p.cu, p.k].join(' ')); });
+/* register-matched independents ship compact (auto = [SIREN, sites]); rebuild their note and source here */
+const autoNote = p => {
+  const [siren, sites] = p.auto, o = p.o || '', via = o.match(/^(.*) \(via (.*)\)$/);
+  const who = o === 'Sole trader' ? 'a sole trader (entreprise individuelle)' : o.startsWith('Owner-managed') ? 'an owner-managed company' : (via ? via[1] : o);
+  const lead = o === 'Sole trader' ? 'the most independent form a French business can take' :
+    via ? `its president is ${/^a /.test(via[2]) ? via[2] : 'the small holding ' + via[2]}, itself run by private individuals` :
+    'the business register lists private individuals as its managers';
+  return `Run by ${who} (SIREN ${siren}): ${lead}, with no group or investor at the helm. ${sites > 1 ? `This is one of its ${sites} sites.` : 'This is its only site.'}`;
+};
+PLACES.forEach((p, i) => {
+  p.i = i;
+  if (Array.isArray(p.auto)) { p.note = autoNote(p); p.src = 'https://annuaire-entreprises.data.gouv.fr/entreprise/' + p.auto[0]; }
+  p._s = fold([p.n, p.a, p.area, p.o, p.cu, p.k].join(' '));
+});
 
 /* ---------- hand-drawn monuments; each drawing's base sits on its real location ---------- */
 const F = c => `style="fill:var(--${c})"`;
@@ -143,7 +156,16 @@ const fc = () => ({type:'FeatureCollection', features:PLACES.map(p => ({type:'Fe
   geometry:{type:'Point', coordinates:[p.ll[1], p.ll[0]]}, properties:{i:p.i, c:p.c, o:3-ORDER[p.c], v:visible(p)?1:0}}))});
 /* Offline basemap (self-contained build): water, parks and main roads baked in by scripts/basemap.py */
 function offlineStyle(B){
-  const src = k => ({type:'geojson', data:B[k]});
+  const T = ['Polygon', 'MultiPolygon', 'LineString', 'MultiLineString'];
+  const line = d => { const out = []; let x = 0, y = 0; for (let j = 0; j < d.length; j += 2) { x += d[j]; y += d[j+1]; out.push([x / 1e5, y / 1e5]); } return out; };
+  const decode = rows => ({type:'FeatureCollection', features:rows.map(([r, t, parts]) => {
+    let coordinates;
+    if (t === 2) coordinates = line(parts[0]);
+    else if (t === 1) { coordinates = [[]]; parts.forEach(q => q === 0 ? coordinates.push([]) : coordinates[coordinates.length - 1].push(line(q))); }
+    else coordinates = parts.map(line);
+    return {type:'Feature', properties:r ? {r} : {}, geometry:{type:T[t], coordinates}};
+  })});
+  const src = k => ({type:'geojson', data:Array.isArray(B[k]) ? decode(B[k]) : B[k]});
   /* road width by class, interpolated on zoom (zoom must be the outer expression) */
   const byClass = (mw, pr, se, other) => ['interpolate',['exponential',1.6],['zoom'],
     10,['match',['get','r'],['motorway','trunk'],mw[0],'primary',pr[0],'secondary',se[0],other[0]],
@@ -255,7 +277,7 @@ function select(i, fromList, silent){
   try { history.replaceState(null, '', i === null ? location.pathname : '#' + slug(PLACES[i].n)); } catch {}
   document.querySelectorAll('.row.on').forEach(r => r.classList.remove('on'));
   if (i === null) { card && card.remove(); card = null; nearIds = []; highlight(); return; }
-  const p = PLACES[i]; p.row && p.row.classList.add('on');
+  const p = PLACES[i]; if (visible(p)) ensureRow(p); p.row && p.row.classList.add('on');
   const mobile = isMobile();
   showCard(p); highlight(); if (silent) return;
   const ll = [p.ll[1], p.ll[0]], z = map.getZoom(), zoom = fromList ? Math.max(z, 15.6) : Math.max(z, 14);
@@ -287,17 +309,41 @@ const fill = (id, key, vals) => { const s = $(id); vals.forEach(v => { const o =
 fill('fArea', 'area', [...new Set(PLACES.map(p => p.area).filter(Boolean))].sort((a, b) => arrNum(a) - arrNum(b) || a.localeCompare(b)));
 fill('fCu', 'k', [...new Set(PLACES.map(p => p.k).filter(Boolean))].sort((a, b) => a.localeCompare(b)));
 
-const groups = {};
-[...PLACES].sort((a, b) => (ORDER[a.c] - ORDER[b.c]) || a.n.localeCompare(b.n, 'fr')).forEach(p => {
-  const C = CATS[p.c];
-  if (!groups[p.c]) { const h = document.createElement('div'); h.className = 'grp'; h.style.setProperty('--c', css(C.c)); h.innerHTML = `${C.label}<span></span>`; listEl.appendChild(h); groups[p.c] = h; }
-  const r = document.createElement('div'); r.className = 'row'; r.tabIndex = 0; r.setAttribute('role', 'option');
+/* The list holds thousands of places: rows are built on demand and painted in pages as you scroll. */
+const SORTED = [...PLACES].sort((a, b) => (ORDER[a.c] - ORDER[b.c]) || a.n.localeCompare(b.n, 'fr'));
+const PAGE = 120;
+const rowsEl = document.createElement('div'); listEl.appendChild(rowsEl);
+const heads = {};
+function head(c){
+  if (heads[c]) return heads[c];
+  const C = CATS[c], h = document.createElement('div'); h.className = 'grp'; h.style.setProperty('--c', css(C.c));
+  h.innerHTML = `${C.label}<span></span>`; return heads[c] = h;
+}
+function rowFor(p){
+  if (p.row) return p.row;
+  const C = CATS[p.c], r = document.createElement('div'); r.className = 'row'; r.tabIndex = 0; r.setAttribute('role', 'option');
   r.style.setProperty('--c', css(C.c));
   r.innerHTML = `<i class="dot ${shapeCls(C)}"></i><div><b>${esc(p.n)}</b><span>${esc([p.cu, p.area].filter(Boolean).join(' · '))}${p.o && p.c !== 'ind' ? ' · ' + esc(p.o) : ''}</span></div>${priceHtml(p.pr)}`;
   r.onclick = () => select(p.i, true);
   r.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); select(p.i, true); } };
-  p.row = r; listEl.appendChild(r);
-});
+  if (selected === p.i) r.classList.add('on');
+  return p.row = r;
+}
+let shownList = [], painted = 0, perCat = {};
+function paintMore(upTo){
+  const end = Math.min(shownList.length, Math.max(upTo || 0, painted + PAGE));
+  const frag = document.createDocumentFragment();
+  for (let j = painted; j < end; j++) {
+    const p = shownList[j];
+    if (j === 0 || shownList[j-1].c !== p.c) { const h = head(p.c); h.querySelector('span').textContent = perCat[p.c] || 0; frag.appendChild(h); }
+    frag.appendChild(rowFor(p));
+  }
+  rowsEl.appendChild(frag); painted = end;
+}
+function ensureRow(p){ const j = shownList.indexOf(p); if (j >= painted) paintMore(j + 1); return p.row; }
+const sentinel = document.createElement('div'); sentinel.style.height = '1px';
+listEl.appendChild(sentinel);
+new IntersectionObserver(es => { if (es.some(e => e.isIntersecting) && painted < shownList.length) paintMore(); }, {root:null, rootMargin:'600px'}).observe(sentinel);
 const emptyEl = document.createElement('div'); emptyEl.className = 'empty'; emptyEl.hidden = true;
 emptyEl.innerHTML = 'Nothing matches. <a href="#" id="emptySuggest" style="color:var(--azure)">Suggest it</a> or try another search.';
 listEl.appendChild(emptyEl);
@@ -307,15 +353,17 @@ listEl.appendChild(foot);
 
 function render(){
   stats.forEach(b => b.setAttribute('aria-pressed', b.dataset.g.split(',').some(k => active.has(k))));
-  let n = 0, pe = 0; const per = {};
-  PLACES.forEach(p => { const v = visible(p); p.row.hidden = !v; if (v) { n++; if (p.c === 'pe') pe++; per[p.c] = (per[p.c] || 0) + 1; } });
-  Object.entries(groups).forEach(([k, h]) => { h.hidden = !per[k]; h.querySelector('span').textContent = per[k] || 0; });
+  shownList = SORTED.filter(visible); perCat = {};
+  let pe = 0; shownList.forEach(p => { perCat[p.c] = (perCat[p.c] || 0) + 1; if (p.c === 'pe') pe++; });
+  const n = shownList.length;
+  rowsEl.replaceChildren(); painted = 0; paintMore();
   emptyEl.hidden = n > 0;
   $('count').textContent = n === PLACES.length ? `${n} PLACES` : `${n} OF ${PLACES.length} PLACES · ${pe} PE-BACKED`;
   if (selected !== null && !visible(PLACES[selected])) select(null);
   if (ready) map.getSource('places').setData(fc());
 }
-$('q').addEventListener('input', e => { query = fold(e.target.value.trim()); render(); });
+let qTimer = 0;
+$('q').addEventListener('input', e => { clearTimeout(qTimer); qTimer = setTimeout(() => { query = fold(e.target.value.trim()); render(); }, 140); });
 $('fArea').addEventListener('change', e => { fArea = e.target.value; render(); });
 $('fCu').addEventListener('change', e => { fCu = e.target.value; render(); });
 
