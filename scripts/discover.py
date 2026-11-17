@@ -320,7 +320,7 @@ def main():
     t0 = time.time()
     todo = [c for c in cands if c[0] not in reg['q']]
     print(f'register lookups to do: {len(todo)}')
-    with ThreadPoolExecutor(3) as ex:
+    with ThreadPoolExecutor(6) as ex:
         for i, _ in enumerate(ex.map(lookup, todo)):
             if i and i % 200 == 0:
                 save('register', reg)
