@@ -1,0 +1,42 @@
+[
+ {
+  "group_siren": "829225556",
+  "group_name": "POPOTES GROUP",
+  "c": "corp",
+  "o": "Popotes Group (founders Guillaume Meaud & Julien Lefeuvre)",
+  "y": "2024",
+  "brand": "Jour / Popotes",
+  "note": "Popotes Group, founded in 2016 by Guillaume Meaud and Julien Lefeuvre, took over the Jour and Naked salad-bar operator Healthy Groupe out of receivership in December 2024, growing from about 11 to nearly 40 restaurants (owned and franchised).",
+  "src": "https://www.snacking.fr/actualites/7271-Exclu-Le-Groupe-Popotes-reprend-Healthy-Group-et-sa-marque-JOUR/"
+ },
+ {
+  "group_siren": "484941489",
+  "group_name": "FROGPUBS",
+  "c": "pe",
+  "o": "Ciclad (majority); founder Paul Chantler",
+  "y": "2019",
+  "brand": "FrogPubs",
+  "note": "Paris brewpub chain founded in 1993; private equity firm Ciclad took a majority stake in 2019 (via its Ciclad 6 fund) alongside founder Paul Chantler. The group runs about eight pubs and its own brewery.",
+  "src": "https://www.ciclad.com/2019/09/03/ciclad-investit-dans-frogpubs/"
+ },
+ {
+  "group_siren": "878055136",
+  "group_name": "NICHIFUTSU FOOD STUDIO",
+  "c": "corp",
+  "o": "Nichifutsu Shoji (Japanese family-owned food importer) via Nichifutsu Food Studio",
+  "y": "2019",
+  "brand": "Maison Le Roux / La Glacerie",
+  "note": "Nichifutsu Food Studio, the French arm of Japanese bakery-ingredients importer Nichifutsu Shoji, bought caramel and chocolate maker Maison Le Roux (Henri Le Roux) in late 2019 and co-owns La Glacerie Paris.",
+  "src": "https://www.agra.fr/articles/nfs-un-ambassadeur-des-marques-francaises-au-japon"
+ },
+ {
+  "group_siren": "515398931",
+  "group_name": "KIPLINE",
+  "c": "pe",
+  "o": "Founders David Bokobza & Nabil Rhazali; 123 IM (investor since 2017)",
+  "y": "2017",
+  "brand": "Côme",
+  "note": "Healthy fast-casual chain created in 2010; investment firm 123 IM backed it in July 2017 to fund expansion. The company has been under a court-approved recovery plan since 2023.",
+  "src": "https://www.123-im.com/participations/come"
+ }
+]
