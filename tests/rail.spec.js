@@ -97,12 +97,12 @@ test('search matches streets', async ({ page }) => {
   await expect(visibleRows(page)).toHaveCount(expected);
 });
 
-test('a search with no match shows the empty state and a Suggest link', async ({ page }) => {
+test('a search with no match shows the empty state and an Add link', async ({ page }) => {
   await page.fill('#q', 'zzzz no such place');
   await expect(visibleRows(page)).toHaveCount(0);
   await expect(page.locator('.empty')).toBeVisible();
   await expect(page.locator('.grp:not([hidden])')).toHaveCount(0);
-  await page.click('#emptySuggest');
+  await page.click('#emptyAdd');
   await expect(page.locator('#modal')).toBeVisible();
   await expect(page.locator('#sgName')).toHaveValue('zzzz no such place');
 });

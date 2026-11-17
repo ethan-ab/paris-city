@@ -21,7 +21,30 @@ const meters = (a, b) => {
 };
 const slug = n => n.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 const fold = s => String(s ?? '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
-PLACES.forEach((p, i) => { p.i = i; p._s = fold([p.n, p.a, p.area, p.o, p.cu, p.k].join(' ')); });
+const ARR = {1:'Louvre & Les Halles', 2:'Bourse & Sentier', 3:'Haut-Marais', 4:'Marais & the islands', 5:'Latin Quarter', 6:'Saint-Germain',
+  7:'Invalides & Eiffel', 8:'Champs-Élysées', 9:'Opéra & SoPi', 10:'Canal Saint-Martin', 11:'Oberkampf & Bastille', 12:'Bercy & Nation',
+  13:'Butte-aux-Cailles', 14:'Montparnasse', 15:'Vaugirard', 16:'Passy & Trocadéro', 17:'Batignolles', 18:'Montmartre', 19:'Buttes-Chaumont',
+  20:'Belleville & Ménilmontant'};
+const areaOf = n => ARR[n] ? `${n}${n === 1 ? 'er' : 'e'} · ${ARR[n]}` : '';
+const arrOf = pc => { const m = /^75(\d{3})$/.exec(String(pc || '')); const n = m ? (+m[1] === 116 ? 16 : +m[1]) : 0; return ARR[n] ? n : 0; };
+const PARIS = [2.2241, 48.8156, 2.4699, 48.9022]; // intra-muros, lng/lat
+const inParis = (lat, lng) => lng >= PARIS[0] && lng <= PARIS[2] && lat >= PARIS[1] && lat <= PARIS[3];
+
+/* Places a visitor added themselves live in this browser (localStorage) until they're reviewed. */
+const STORE = 'pfmm.added.v1';
+const str = (v, max) => typeof v === 'string' ? v.trim().slice(0, max) : '';
+function cleanMine(r){
+  if (!r || !CATS[r.c] || !Array.isArray(r.ll) || r.ll.length !== 2 || !r.ll.every(Number.isFinite) || !inParis(r.ll[0], r.ll[1])) return null;
+  const p = {n:str(r.n, 120), a:str(r.a, 200), area:str(r.area, 60), ll:[r.ll[0], r.ll[1]], cu:str(r.cu, 80), k:str(r.k, 60) || 'Other',
+    c:r.c, o:str(r.o, 300), note:str(r.note, 1000), src:str(r.src, 500), t:Number.isFinite(r.t) ? r.t : 0, mine:true};
+  if ([1, 2, 3, 4].includes(r.pr)) p.pr = r.pr;
+  if (r.sent === true) p.sent = true;
+  return p.n.length >= 2 ? p : null;
+}
+try { (JSON.parse(localStorage.getItem(STORE) || '[]') || []).map(cleanMine).filter(Boolean).forEach(p => PLACES.push(p)); } catch {}
+const saveMine = () => { try { localStorage.setItem(STORE, JSON.stringify(PLACES.filter(p => p.mine).map(({i, _s, row, mine, ...r}) => r))); } catch {} };
+const indexPlace = (p, i) => { p.i = i; p._s = fold([p.n, p.a, p.area, p.o, p.cu, p.k].join(' ')); };
+PLACES.forEach(indexPlace);
 
 /* ---------- hand-drawn monuments; each drawing's base sits on its real location ---------- */
 const F = c => `style="fill:var(--${c})"`;
@@ -205,8 +228,9 @@ function pinAt(pt, R){
   fs.forEach(f => { const q = map.project(f.geometry.coordinates), d = (q.x-pt.x)**2 + (q.y-pt.y)**2 - (f.properties.c === 'pe' ? 4 : 0); if (d < bd) { bd = d; best = f; } });
   return best ? PLACES[best.properties.i] : null;
 }
-map.on('click', e => { const p = pinAt(e.point, coarse ? 22 : 13); if (p) select(p.i, false); else if (selected !== null) select(null); });
-map.on('mousemove', e => { map.getCanvas().style.cursor = pinAt(e.point, 10) ? 'pointer' : ''; });
+map.on('click', e => { if (picking) { pinMk.setLngLat(e.lngLat); return; }
+  const p = pinAt(e.point, coarse ? 22 : 13); if (p) select(p.i, false); else if (selected !== null) select(null); });
+map.on('mousemove', e => { map.getCanvas().style.cursor = !picking && pinAt(e.point, 10) ? 'pointer' : ''; });
 $('zin').onclick = () => map.zoomIn({duration:350});
 $('zout').onclick = () => map.zoomOut({duration:350});
 $('zreset').onclick = () => { select(null); map.flyTo({...START(), padding:{top:0,right:0,bottom:0,left:0}, duration:1100}); };
@@ -239,9 +263,15 @@ function showCard(p){
     <dl>${p.o ? `<dt>${p.c === 'ind' ? 'Owned by' : 'Backer'}</dt><dd>${esc(p.o)}</dd>` : ''}${p.y ? `<dt>Since</dt><dd>${esc(p.y)}</dd>` : ''}</dl>
     ${p.note ? `<p>${esc(p.note)}</p>` : ''}
     ${/^https?:\/\//i.test(p.src || '') ? `<a class="src" target="_blank" rel="noopener" href="${esc(p.src)}">Source: ${esc(host)} ↗</a>` : ''}
+    ${p.mine ? `<div class="yours"><b>Added by you</b>Only on your map for now (saved in this browser). Send it for review and we'll fact-check it for everyone's map.
+      <div class="acts">${reviewButton(p)}<button class="rm" type="button">Remove</button></div></div>` : ''}
     ${alts.length ? `<div class="alts"><h3>Independent nearby</h3>${alts.map(a => `<button class="alt" data-i="${a.q.i}"><div><b>${esc(a.q.n)}</b><br><span>${esc(a.q.cu || '')}</span></div><i>${walk(a.m)}</i></button>`).join('')}</div>` : ''}`;
   card.querySelector('.x').onclick = () => select(null);
   card.querySelectorAll('.alt').forEach(b => b.onclick = () => select(+b.dataset.i, true));
+  if (p.mine) {
+    card.querySelector('.rm').onclick = () => removeMine(p);
+    const send = card.querySelector('button.send:not([disabled])'); if (send) send.onclick = () => sendReview(p, send);
+  }
   wrap.appendChild(card);
 }
 function highlight(){
@@ -270,7 +300,6 @@ function select(i, fromList, silent){
 
 /* ---------- rail: stats, filters, list ---------- */
 const listEl = $('list');
-const counts = Object.fromEntries(Object.keys(CATS).map(k => [k, PLACES.filter(p => p.c === k).length]));
 const stats = [...document.querySelectorAll('.stat')];
 stats.forEach(b => b.onclick = () => {
   const g = b.dataset.g.split(','), all = Object.keys(CATS);
@@ -278,31 +307,44 @@ stats.forEach(b => b.onclick = () => {
   active.clear(); (isolated ? all : g).forEach(k => active.add(k)); render();
 });
 $('legend').innerHTML = Object.values(CATS).map(C => `<span><i class="dot ${shapeCls(C)}" style="--c:${css(C.c)}"></i>${C.label}</span>`).join('');
-['pe','vc','corp','ind'].forEach(k => { const i = document.createElement('i'); i.style.background = css(CATS[k].c); i.style.flexGrow = counts[k]; i.title = `${CATS[k].label}: ${counts[k]}`; $('bar').appendChild(i); });
-$('nPe').textContent = counts.pe; $('nInd').textContent = counts.ind; $('nOther').textContent = counts.corp + counts.vc;
 
 const arrNum = a => parseInt(a, 10) || 99;
-const fill = (id, key, vals) => { const s = $(id); vals.forEach(v => { const o = document.createElement('option'); o.value = v; o.textContent = `${v} (${PLACES.filter(p => p[key] === v).length})`; s.appendChild(o); }); };
-fill('fArea', 'area', [...new Set(PLACES.map(p => p.area).filter(Boolean))].sort((a, b) => arrNum(a) - arrNum(b) || a.localeCompare(b)));
-fill('fCu', 'k', [...new Set(PLACES.map(p => p.k).filter(Boolean))].sort((a, b) => a.localeCompare(b)));
+const fill = (id, key, vals, want) => {
+  const s = $(id); while (s.options.length > 1) s.remove(1);
+  vals.forEach(v => { const o = document.createElement('option'); o.value = v; o.textContent = `${v} (${PLACES.filter(p => p[key] === v).length})`; s.appendChild(o); });
+  s.value = vals.includes(want) ? want : '';
+  return s.value;
+};
+/* counts, proportion bar and filter options; rerun whenever a place is added or removed */
+function refreshStats(){
+  const counts = Object.fromEntries(Object.keys(CATS).map(k => [k, PLACES.filter(p => p.c === k).length]));
+  $('bar').textContent = '';
+  ['pe','vc','corp','ind'].forEach(k => { const i = document.createElement('i'); i.style.background = css(CATS[k].c); i.style.flexGrow = counts[k]; i.title = `${CATS[k].label}: ${counts[k]}`; $('bar').appendChild(i); });
+  $('nPe').textContent = counts.pe; $('nInd').textContent = counts.ind; $('nOther').textContent = counts.corp + counts.vc;
+  fArea = fill('fArea', 'area', [...new Set(PLACES.map(p => p.area).filter(Boolean))].sort((a, b) => arrNum(a) - arrNum(b) || a.localeCompare(b)), fArea);
+  fCu = fill('fCu', 'k', [...new Set(PLACES.map(p => p.k).filter(Boolean))].sort((a, b) => a.localeCompare(b)), fCu);
+}
 
-const groups = {};
-[...PLACES].sort((a, b) => (ORDER[a.c] - ORDER[b.c]) || a.n.localeCompare(b.n, 'fr')).forEach(p => {
-  const C = CATS[p.c];
-  if (!groups[p.c]) { const h = document.createElement('div'); h.className = 'grp'; h.style.setProperty('--c', css(C.c)); h.innerHTML = `${C.label}<span></span>`; listEl.appendChild(h); groups[p.c] = h; }
-  const r = document.createElement('div'); r.className = 'row'; r.tabIndex = 0; r.setAttribute('role', 'option');
-  r.style.setProperty('--c', css(C.c));
-  r.innerHTML = `<i class="dot ${shapeCls(C)}"></i><div><b>${esc(p.n)}</b><span>${esc([p.cu, p.area].filter(Boolean).join(' · '))}${p.o && p.c !== 'ind' ? ' · ' + esc(p.o) : ''}</span></div>${priceHtml(p.pr)}`;
-  r.onclick = () => select(p.i, true);
-  r.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); select(p.i, true); } };
-  p.row = r; listEl.appendChild(r);
-});
+let groups = {};
 const emptyEl = document.createElement('div'); emptyEl.className = 'empty'; emptyEl.hidden = true;
-emptyEl.innerHTML = 'Nothing matches. <a href="#" id="emptySuggest" style="color:var(--azure)">Suggest it</a> or try another search.';
-listEl.appendChild(emptyEl);
+emptyEl.innerHTML = 'Nothing matches. <a href="#" id="emptyAdd" style="color:var(--azure)">Add it to the map</a> or try another search.';
 const foot = document.createElement('div'); foot.className = 'foot';
 foot.innerHTML = `Ownership as reported publicly${CHECKED ? ', checked ' + esc(CHECKED) : ''}. Chain branches are placed from OpenStreetMap. "PE-backed" includes significant minority stakes and investment funds that own a business outright. Ownership changes fast; each card links its source. Inspired by the <a href="https://london-food-money-matrix.vercel.app" target="_blank" rel="noopener">London Food Money Matrix</a>.`;
-listEl.appendChild(foot);
+function buildList(){
+  listEl.textContent = ''; groups = {};
+  [...PLACES].sort((a, b) => (ORDER[a.c] - ORDER[b.c]) || a.n.localeCompare(b.n, 'fr')).forEach(p => {
+    const C = CATS[p.c];
+    if (!groups[p.c]) { const h = document.createElement('div'); h.className = 'grp'; h.style.setProperty('--c', css(C.c)); h.innerHTML = `${C.label}<span></span>`; listEl.appendChild(h); groups[p.c] = h; }
+    const r = document.createElement('div'); r.className = 'row'; r.tabIndex = 0; r.setAttribute('role', 'option');
+    r.style.setProperty('--c', css(C.c));
+    r.innerHTML = `<i class="dot ${shapeCls(C)}"></i><div><b>${esc(p.n)}</b><span>${p.mine ? '<em class="mine-tag">Yours</em> ' : ''}${esc([p.cu, p.area].filter(Boolean).join(' · '))}${p.o && p.c !== 'ind' ? ' · ' + esc(p.o) : ''}</span></div>${priceHtml(p.pr)}`;
+    r.onclick = () => select(p.i, true);
+    r.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); select(p.i, true); } };
+    p.row = r; listEl.appendChild(r);
+  });
+  listEl.append(emptyEl, foot);
+  if (selected !== null && PLACES[selected]) PLACES[selected].row.classList.add('on');
+}
 
 function render(){
   stats.forEach(b => b.setAttribute('aria-pressed', b.dataset.g.split(',').some(k => active.has(k))));
@@ -318,49 +360,187 @@ $('q').addEventListener('input', e => { query = fold(e.target.value.trim()); ren
 $('fArea').addEventListener('change', e => { fArea = e.target.value; render(); });
 $('fCu').addEventListener('change', e => { fCu = e.target.value; render(); });
 
-/* ---------- suggest a place ---------- */
-const modal = $('modal'), sgForm = $('sgForm'), sgBodyHTML = $('sgBody').innerHTML;
-let lastFocus = null;
-function openSuggest(prefill){
-  lastFocus = document.activeElement; $('sgBody').innerHTML = sgBodyHTML; modal.hidden = false;
-  const n = $('sgName'); if (prefill) n.value = prefill; n.focus();
+/* ---------- toast ---------- */
+let toastT = 0;
+function toast(t){ const el = $('toast'); el.textContent = t; el.hidden = false; clearTimeout(toastT); toastT = setTimeout(() => { el.hidden = true; }, 3500); }
+
+/* ---------- add a place: form → pin on the map right away, saved in this browser, optional review ---------- */
+const modal = $('modal'), sgForm = $('sgForm'), locEl = $('sgLoc'), hitsEl = $('sgHits');
+const GEO = 'https://data.geopf.fr/geocodage'; // French national address base (BAN), CORS-enabled
+$('sgKind').innerHTML = '<option value="">Not sure</option>' +
+  [...new Set([...PLACES.filter(p => !p.mine).map(p => p.k).filter(Boolean), 'Other'])].sort((a, b) => a.localeCompare(b)).map(k => `<option>${esc(k)}</option>`).join('');
+let draft = null, lastFocus = null;      // draft: {ll:[lat,lng], a:street, area}
+const nearestArea = ll => { let best = null, bd = 1e12; PLACES.forEach(p => { if (!p.area || p.mine) return; const d = meters(ll, p.ll); if (d < bd) { bd = d; best = p.area; } }); return best || ''; };
+const toSpot = f => {
+  const [lng, lat] = f.geometry.coordinates, pr = f.properties || {}, n = arrOf(pr.postcode);
+  if (!n || !inParis(lat, lng)) return null;
+  return {ll:[+lat.toFixed(6), +lng.toFixed(6)], a:pr.name || pr.label || '', area:areaOf(n)};
+};
+async function geo(path){
+  const ctl = new AbortController(), t = setTimeout(() => ctl.abort(), 5000);
+  try { const r = await fetch(GEO + path, {signal:ctl.signal}); if (!r.ok) throw new Error(r.status); return ((await r.json()).features || []).map(toSpot).filter(Boolean); }
+  finally { clearTimeout(t); }
 }
-function closeSuggest(){ modal.hidden = true; lastFocus && lastFocus.focus && lastFocus.focus(); }
-$('suggest').onclick = () => openSuggest(query && !PLACES.some(visible) ? $('q').value.trim() : '');
-$('sgClose').onclick = closeSuggest;
-modal.addEventListener('click', e => { if (e.target === modal) closeSuggest(); });
-addEventListener('keydown', e => { if (e.key !== 'Escape') return; if (!modal.hidden) closeSuggest(); else select(null); });
-$('emptySuggest').onclick = e => { e.preventDefault(); openSuggest($('q').value.trim()); };
-function thanks(name){
-  $('sgBody').innerHTML = `<div class="done"><b>Merci</b><p class="sub">We'll check who owns ${esc(name)} and add it to the map if it holds up.</p><button class="go" type="button" id="sgAgain">Suggest another</button></div>`;
-  $('sgAgain').onclick = () => openSuggest('');
+const geocode = q => geo(`/search?q=${encodeURIComponent(q)}&limit=8&lat=48.8566&lon=2.3522`);
+const reverse = ll => geo(`/reverse?lat=${ll[0]}&lon=${ll[1]}&limit=1`);
+
+function setSpot(){
+  const el = $('sgSpot');
+  el.hidden = !draft; el.textContent = draft ? `Pinned: ${[draft.a, draft.area].filter(Boolean).join(' · ') || 'on the map'}` : '';
+  $('sgPick').textContent = draft ? 'Move pin' : 'Pick on map';
 }
+function resetForm(prefill){
+  sgForm.reset(); draft = null; setSpot(); hideHits();
+  $('sgMsg').className = 'msg'; $('sgMsg').textContent = ''; $('sgGo').disabled = false;
+  if (prefill) $('sgName').value = prefill;
+}
+function openAdd(prefill){
+  if (picking) endPick();
+  lastFocus = document.activeElement; resetForm(prefill); modal.hidden = false; $('sgName').focus();
+}
+function closeAdd(){ modal.hidden = true; hideHits(); lastFocus && lastFocus.focus && lastFocus.focus({preventScroll:true}); }
+$('addPlace').onclick = () => openAdd(query && !PLACES.some(visible) ? $('q').value.trim() : '');
+$('addMap').onclick = () => openAdd('');
+$('sgClose').onclick = closeAdd;
+modal.addEventListener('click', e => { if (e.target === modal) closeAdd(); });
+emptyEl.querySelector('a').onclick = e => { e.preventDefault(); openAdd($('q').value.trim()); };
+
+/* address autocomplete */
+let hits = [], hitOn = -1, geoTimer = 0, geoSeq = 0;
+function hideHits(){ hits = []; hitOn = -1; hitsEl.hidden = true; hitsEl.textContent = ''; locEl.setAttribute('aria-expanded', 'false'); }
+function paintHits(){
+  hitsEl.innerHTML = hits.map((h, j) => `<li role="option" id="sgHit${j}" aria-selected="${j === hitOn}">${esc(h.a)}<small>${esc(h.area)}</small></li>`).join('');
+  hitsEl.querySelectorAll('li').forEach((li, j) => li.onmousedown = e => { e.preventDefault(); chooseHit(hits[j]); });
+  hitsEl.hidden = !hits.length; locEl.setAttribute('aria-expanded', String(!!hits.length));
+  if (hitOn >= 0) locEl.setAttribute('aria-activedescendant', 'sgHit' + hitOn); else locEl.removeAttribute('aria-activedescendant');
+}
+function chooseHit(h){ draft = h; locEl.value = h.a; hideHits(); setSpot(); }
+function searchAddress(){
+  clearTimeout(geoTimer);
+  const q = locEl.value.trim(), seq = ++geoSeq;
+  if (q.length < 3) return hideHits();
+  geoTimer = setTimeout(async () => {
+    try { const r = await geocode(q); if (seq === geoSeq && document.activeElement === locEl) { hits = r.slice(0, 5); hitOn = -1; paintHits(); } }
+    catch { if (seq === geoSeq) hideHits(); }
+  }, 250);
+}
+locEl.addEventListener('input', () => { draft = null; setSpot(); searchAddress(); });
+locEl.addEventListener('focus', () => { if (!draft) searchAddress(); });
+locEl.addEventListener('keydown', e => {
+  if (hitsEl.hidden || !hits.length) return;
+  if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); hitOn = (hitOn + (e.key === 'ArrowDown' ? 1 : hits.length - 1)) % hits.length; paintHits(); }
+  else if (e.key === 'Enter') { e.preventDefault(); chooseHit(hits[Math.max(0, hitOn)]); }
+});
+locEl.addEventListener('blur', () => setTimeout(hideHits, 120));
+
+/* pick the spot on the map with a draggable pin */
+let picking = false, pinMk = null;
+const pinSvg = col => `<svg class="newpin" viewBox="0 0 34 44" width="34" height="44" aria-hidden="true"><path d="M17 42.5S3.5 27 3.5 16.5a13.5 13.5 0 0 1 27 0C30.5 27 17 42.5 17 42.5z" fill="${col}" stroke="#fff" stroke-width="2.5"/><circle cx="17" cy="16.5" r="5" fill="#fff"/></svg>`;
+function startPick(){
+  hideHits(); modal.hidden = true; picking = true; select(null);
+  $('pkName').textContent = $('sgName').value.trim() || 'Your new place';
+  $('picker').hidden = false; $('addMap').hidden = true; wrap.classList.add('picking');
+  const c = new FormData(sgForm).get('c');
+  if (!pinMk) pinMk = new maplibregl.Marker({element:document.createElement('div'), anchor:'bottom', draggable:true});
+  pinMk.getElement().innerHTML = pinSvg(PAL[c] || PAL.pe);
+  const at = draft ? [draft.ll[1], draft.ll[0]] : map.getCenter().toArray();
+  pinMk.setLngLat(at).addTo(map);
+  if (draft) map.easeTo({center:at, zoom:Math.max(map.getZoom(), 15.5), duration:600});
+  if (isMobile()) wrap.scrollIntoView({behavior:'smooth', block:'start'});
+  $('pkOk').focus({preventScroll:true});
+}
+function endPick(){ picking = false; $('picker').hidden = true; $('addMap').hidden = false; wrap.classList.remove('picking'); pinMk && pinMk.remove(); }
+function cancelPick(){ endPick(); modal.hidden = false; $('sgPick').focus(); }
+async function confirmPick(){
+  const {lng, lat} = pinMk.getLngLat();
+  if (!inParis(lat, lng)) { toast('Move the pin inside Paris'); return; }
+  const ll = [+lat.toFixed(6), +lng.toFixed(6)], spot = draft = {ll, a:'', area:nearestArea(ll)};
+  endPick(); modal.hidden = false; setSpot(); $('sgPick').focus();
+  try {   // fill in the street and exact arrondissement when the address service is reachable
+    const [r] = await reverse(ll);
+    if (r && draft === spot) { spot.a = r.a; spot.area = r.area; if (!locEl.value.trim()) locEl.value = r.a; setSpot(); }
+  } catch {}
+}
+$('sgPick').onclick = startPick;
+$('pkCancel').onclick = cancelPick;
+$('pkOk').onclick = confirmPick;
+addEventListener('keydown', e => {
+  if (e.key !== 'Escape') return;
+  if (picking) return cancelPick();
+  if (!modal.hidden) return hitsEl.hidden ? closeAdd() : hideHits();
+  select(null);
+});
+
 sgForm.addEventListener('submit', async e => {
   e.preventDefault();
   const f = new FormData(sgForm), msg = $('sgMsg'), go = $('sgGo');
+  const err = t => { msg.className = 'msg err'; msg.textContent = t; };
   if (f.get('website')) return; // honeypot
-  const row = {};
-  ['name','location','owner_hint','source_url','note','contact'].forEach(k => { const v = (f.get(k) || '').trim(); if (v) row[k] = v; });
-  if (!row.name || row.name.length < 2) { msg.className = 'msg err'; msg.textContent = 'Add the name of the place.'; return; }
-  if (row.source_url && !/^https?:\/\//i.test(row.source_url)) { msg.className = 'msg err'; msg.textContent = 'Source link should start with https://'; return; }
-  if (!SUGGEST.url) {
-    const body = Object.entries(row).map(([k, v]) => `**${k.replace('_', ' ')}**: ${v}`).join('\n\n');
-    const href = `${SUGGEST.issues}?labels=suggestion&title=${encodeURIComponent('Suggest: ' + row.name)}&body=${encodeURIComponent(body)}`;
-    $('sgBody').innerHTML = `<div class="done"><b>Almost there</b><p class="sub">Suggestions are reviewed on GitHub. Open the pre-filled form and press Submit, and we'll fact-check ${esc(row.name)}.</p><a class="go" style="display:block;text-decoration:none" target="_blank" rel="noopener" href="${esc(href)}">Open the pre-filled suggestion ↗</a></div>`;
-    return;
+  const v = k => String(f.get(k) || '').trim();
+  const name = v('name'), loc = v('location'), c = v('c'), src = v('source_url');
+  if (name.length < 2) return err('Add the name of the place.');
+  if (!draft && !loc) return err('Add an address, or pick the spot on the map.');
+  if (!CATS[c]) return err("Pick who's behind it.");
+  if (src && !/^https?:\/\//i.test(src)) return err('Source link should start with https://');
+  if (!draft) {
+    go.disabled = true; msg.className = 'msg'; msg.textContent = 'Finding the address…';
+    try { draft = (await geocode(loc))[0] || null; } catch { draft = null; }
+    go.disabled = false; msg.textContent = '';
+    if (!draft) return err("Couldn't find that address in Paris. Pick a suggestion, or place it on the map.");
   }
-  go.disabled = true; msg.className = 'msg'; msg.textContent = 'Sending…';
+  const p = cleanMine({n:name, a:draft.a || loc, area:draft.area, ll:draft.ll, k:v('kind') || 'Other', cu:v('kind'), pr:+v('price') || 0, c,
+    o:v('owner'), src, note:v('note'), t:Date.now()});
+  if (!p) return err('Add the name of the place.');
+  addPlace(p);
+});
+
+function addPlace(p){
+  PLACES.push(p); indexPlace(p, PLACES.length - 1); saveMine();
+  if (!visible(p)) { Object.keys(CATS).forEach(k => active.add(k)); query = fArea = fCu = ''; $('q').value = ''; }
+  buildList(); refreshStats(); render();
+  modal.hidden = true; hideHits();
+  select(p.i, true);
+  if (!isMobile()) p.row.scrollIntoView({block:'center'});
+  toast(`${p.n} is on the map`);
+}
+function removeMine(p){
+  select(null);
+  PLACES.splice(p.i, 1); PLACES.forEach(indexPlace); saveMine();
+  buildList(); refreshStats(); render();
+  toast(`Removed ${p.n}`);
+}
+
+/* review: insert-only Supabase table if configured, otherwise a pre-filled GitHub issue */
+function reviewRow(p){
+  const r = {name:p.n, location:`${[p.a, p.area].filter(Boolean).join(', ')} (${p.ll[0]}, ${p.ll[1]})`.slice(0, 200),
+    owner_hint:(CATS[p.c].label + (p.o ? ': ' + p.o : '')).slice(0, 300)};
+  if (p.src) r.source_url = p.src;
+  const note = [p.k && p.k !== 'Other' ? 'Food: ' + p.k : '', p.pr ? 'Price: ' + '€'.repeat(p.pr) : '', p.note].filter(Boolean).join(' · ').slice(0, 1000);
+  if (note) r.note = note;
+  return r;
+}
+const issueHref = p => { const row = reviewRow(p);
+  const body = Object.entries(row).map(([k, v]) => `**${k.replace('_', ' ')}**: ${v}`).join('\n\n');
+  return `${SUGGEST.issues}?labels=suggestion&title=${encodeURIComponent('Add: ' + p.n)}&body=${encodeURIComponent(body)}`; };
+function reviewButton(p){
+  if (p.sent) return '<button class="send" type="button" disabled>Sent for review ✓</button>';
+  if (!SUGGEST.url) return `<a class="send" target="_blank" rel="noopener" href="${esc(issueHref(p))}">Send for review ↗</a>`;
+  return '<button class="send" type="button">Send for review</button>';
+}
+async function sendReview(p, btn){
+  btn.disabled = true; btn.textContent = 'Sending…';
   try {
     const r = await fetch(SUGGEST.url + '/rest/v1/submissions', {method:'POST',
       headers:{'apikey':SUGGEST.key, 'Authorization':'Bearer ' + SUGGEST.key, 'Content-Type':'application/json', 'Prefer':'return=minimal'},
-      body:JSON.stringify(row)});
+      body:JSON.stringify(reviewRow(p))});
     if (!r.ok) throw new Error(r.status);
-    thanks(row.name);
-  } catch { go.disabled = false; msg.className = 'msg err'; msg.textContent = "Couldn't send that. Try again in a moment."; }
-});
+    p.sent = true; saveMine(); if (selected === p.i) showCard(p);
+    toast('Sent for review. Merci!');
+  } catch { btn.disabled = false; btn.textContent = "Couldn't send. Retry"; }
+}
 
-render();
+buildList(); refreshStats(); render();
 
 /* Read-only hooks for the end-to-end tests (tests/*.spec.js). */
-window.__pfmm = {map, places:PLACES, isReady:() => ready, selected:() => selected, nearIds:() => nearIds.slice()};
+window.__pfmm = {map, places:PLACES, isReady:() => ready, selected:() => selected, nearIds:() => nearIds.slice(), picking:() => picking};
 })();
