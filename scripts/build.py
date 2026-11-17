@@ -137,7 +137,7 @@ def brand_branches(osm_name, extra_names=(), exact=False, values=None):
 
 
 def clean(rec):
-    r = {k: rec.get(k) for k in ('n', 'cu', 'k', 'pr', 'c', 'o', 'y', 'note', 'src') if rec.get(k) not in (None, '')}
+    r = {k: rec.get(k) for k in ('n', 'cu', 'k', 'pr', 'c', 'o', 'y', 'note', 'src', 'auto') if rec.get(k) not in (None, '')}
     if r.get('k') not in KINDS:
         r['k'] = 'Other'
     if 'y' in r:
@@ -176,7 +176,7 @@ def main():
     from concurrent.futures import ThreadPoolExecutor
     with ThreadPoolExecutor(6) as ex:
         list(ex.map(lambda r: brand_branches(r.get('osm') or r['n'], r.get('osm_alt') or [], r.get('osm_exact', False), r.get('osm_values')) if r.get('type') == 'brand'
-                    else geocode_venue(r.get('addr') or ''), seen.values()))
+                    else (None if r.get('ll') else geocode_venue(r.get('addr') or '')), seen.values()))
 
     places, misses = [], []
     for r in seen.values():
@@ -201,7 +201,10 @@ def main():
                 misses.append(f"brand with no Paris branch on OSM: {r['n']}")
             if r.get('type') == 'brand':
                 continue
-        g = geocode_venue(r.get('addr') or '')
+        if r.get('ll') and r.get('pc'):  # pre-placed (scripts/discover.py: OSM position + register match)
+            g = (r['ll'][0], r['ll'][1], r['pc'], (r.get('addr') or '').split(',')[0])
+        else:
+            g = geocode_venue(r.get('addr') or '')
         if not g:
             misses.append(f"could not geocode: {r['n']} | {r.get('addr')}")
             continue
