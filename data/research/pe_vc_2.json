@@ -206,7 +206,7 @@
   "cu": "Coffee roastery & café",
   "k": "Coffee",
   "pr": 2,
-  "c": "pe",
+  "c": "corp",
   "o": "Alain Ducasse (Ducasse Paris); Mirabaud Patrimoine Vivant & Trévise Participations (minority)",
   "y": "2020",
   "note": "Ducasse Paris coffee roastery and shop. Mirabaud Asset Management's private equity fund Mirabaud Patrimoine Vivant took a minority stake in September 2020, and family office Trévise Participations joined the capital in a deal closed at the end of 2024.",
@@ -643,5 +643,57 @@
   "o": "Lov & Bread (Stéphane Courbit's LOV / FLL group)",
   "note": "Paris chocolatier and confectioner founded in 1852; listed as Maison Fouquet among the brands of Lov & Bread, the food arm of Stéphane Courbit's group, which already owned it before buying Ladurée in 2021.",
   "src": "https://lexpress-franchise.com/actualites/un-nouvel-actionnaire-au-capital-des-boulangeries-ange/"
+ },
+ {
+  "type": "venue",
+  "n": "Brach Paris",
+  "addr": "1-7 rue Jean Richepin, 75016 Paris",
+  "cu": "Mediterranean hotel restaurant",
+  "k": "Fine dining",
+  "pr": 4,
+  "c": "pe",
+  "o": "Evok Collection — joint control by Famille C Participations (Courtin family) & Zaka Investments (Pierre Bastid)",
+  "y": "2024",
+  "note": "Restaurant and bar of the Brach Paris hotel, run by Evok Collection. In 2024 the Courtin family's investment company Famille C Participations invested €130m in Evok Collection and took joint control with Pierre Bastid's Zaka group (cleared by the Autorité de la concurrence in April 2024).",
+  "src": "https://www.autoritedelaconcurrence.fr/sites/default/files/integral_texts/2024-05/24-062-Publique%20d%C3%A9cision%2024DCC76.pdf"
+ },
+ {
+  "type": "venue",
+  "n": "Charbone (Nolinski Paris)",
+  "addr": "16 avenue de l'Opéra, 75001 Paris",
+  "cu": "Hotel restaurant",
+  "k": "Fine dining",
+  "pr": 4,
+  "c": "pe",
+  "o": "Evok Collection — joint control by Famille C Participations (Courtin family) & Zaka Investments (Pierre Bastid)",
+  "y": "2024",
+  "note": "Restaurant of the Nolinski Paris hotel, run by Evok Collection. In 2024 the Courtin family's investment company Famille C Participations invested €130m in Evok Collection and took joint control with Pierre Bastid's Zaka group (cleared by the Autorité de la concurrence in April 2024).",
+  "src": "https://www.autoritedelaconcurrence.fr/sites/default/files/integral_texts/2024-05/24-062-Publique%20d%C3%A9cision%2024DCC76.pdf"
+ },
+ {
+  "type": "venue",
+  "n": "Brach pâtisserie par Yann Bris (Cour des Vosges)",
+  "addr": "19 place des Vosges, 75004 Paris",
+  "cu": "Pâtisserie & tea room",
+  "k": "Bakery & pastry",
+  "pr": 3,
+  "c": "pe",
+  "o": "Evok Collection — joint control by Famille C Participations (Courtin family) & Zaka Investments (Pierre Bastid)",
+  "y": "2024",
+  "note": "Pastry shop and terrace at Evok Collection's Cour des Vosges hotel. In 2024 the Courtin family's investment company Famille C Participations invested €130m in Evok Collection and took joint control with Pierre Bastid's Zaka group (cleared by the Autorité de la concurrence in April 2024).",
+  "src": "https://www.autoritedelaconcurrence.fr/sites/default/files/integral_texts/2024-05/24-062-Publique%20d%C3%A9cision%2024DCC76.pdf"
+ },
+ {
+  "type": "venue",
+  "n": "Rosie",
+  "addr": "53 rue du Faubourg Saint-Antoine, 75011 Paris",
+  "cu": "Brasserie",
+  "k": "Brasserie",
+  "pr": 2,
+  "c": "pe",
+  "o": "Brasseries à la mode (Juliette Cerdan, Kevin Caradeuc); Bpifrance (minority)",
+  "y": "2023",
+  "note": "Brasserie at the registered address of Brasseries à la mode, a group founded in 2017 that updates the Parisian brasserie; Bpifrance's France Investissement Tourisme 2 fund took a minority stake in January 2023.",
+  "src": "https://www.cfnews.net/L-actualite/Capital-developpement/Operations/Augmentation-de-capital/Un-minoritaire-s-invite-chez-Brasseries-a-la-mode-426450"
  }
 ]
