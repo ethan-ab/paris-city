@@ -39,18 +39,6 @@
  },
  {
   "type": "brand",
-  "n": "Starbucks",
-  "osm": "Starbucks",
-  "cu": "Coffee",
-  "k": "Coffee",
-  "pr": 2,
-  "c": "corp",
-  "o": "Alsea (Mexican listed group), Starbucks licensee",
-  "note": "Starbucks France is run by Café Sirène France, a company of Mexico's listed Alsea group, under licence from Starbucks Corporation.",
-  "src": "https://www.starbucks.fr/terms-of-use"
- },
- {
-  "type": "brand",
   "n": "Domino's Pizza",
   "osm": "Domino's",
   "cu": "Pizza",
@@ -135,48 +123,6 @@
   "o": "Groupe Bertrand (Olivier Bertrand) – Bertrand Hospitality",
   "note": "The 1903 tea room famous for its hot chocolate is part of Bertrand Hospitality, the luxury division of Olivier Bertrand's 100%-owned Groupe Bertrand.",
   "src": "https://www.groupe-bertrand.com/wp-content/uploads/2023/07/GB-CP-Nouvelle-organisation-2023_07.pdf"
- },
- {
-  "type": "brand",
-  "n": "Hippopotamus",
-  "osm": "Hippopotamus",
-  "cu": "Steakhouse",
-  "k": "Steak & grill",
-  "pr": 2,
-  "c": "pe",
-  "o": "Groupe Bertrand (majority); Bridgepoint (~23% minority of Bertrand Franchise)",
-  "y": "2018",
-  "note": "Hippopotamus sits in Bertrand Franchise, in which PE firm Bridgepoint holds a ~23-25% minority stake that it was preparing to sell in 2026.",
-  "src": "https://lexpress-franchise.com/actualites/le-groupe-bertrand-en-phase-de-racheter-burger-king-suisse/"
- },
- {
-  "type": "brand",
-  "n": "Au Bureau",
-  "osm": "Au Bureau",
-  "cu": "Pub brasserie",
-  "k": "Brasserie",
-  "pr": 2,
-  "c": "pe",
-  "o": "Groupe Bertrand (majority); Bridgepoint (~23% minority of Bertrand Franchise)",
-  "y": "2018",
-  "note": "Au Bureau sits in Bertrand Franchise, in which PE firm Bridgepoint holds a ~23-25% minority stake that it was preparing to sell in 2026.",
-  "src": "https://lexpress-franchise.com/actualites/le-groupe-bertrand-en-phase-de-racheter-burger-king-suisse/"
- },
- {
-  "type": "brand",
-  "n": "Léon",
-  "osm": "Léon",
-  "cu": "Mussels & fries",
-  "k": "Seafood",
-  "pr": 2,
-  "c": "pe",
-  "o": "Groupe Bertrand (majority); Bridgepoint (~23% minority of Bertrand Franchise)",
-  "y": "2018",
-  "note": "Léon (ex-Léon de Bruxelles) sits in Bertrand Franchise, in which PE firm Bridgepoint holds a ~23-25% minority stake.",
-  "src": "https://www.24matins.fr/le-groupe-bertrand-chercherait-a-mettre-en-vente-burger-king-et-lintegralite-de-ses-enseignes-en-franchise-1406333",
-  "osm_alt": [
-   "Léon de Bruxelles"
-  ]
  },
  {
   "type": "venue",
@@ -548,19 +494,6 @@
  },
  {
   "type": "brand",
-  "n": "Sushi Shop",
-  "osm": "Sushi Shop",
-  "cu": "Sushi",
-  "k": "Japanese",
-  "pr": 2,
-  "c": "corp",
-  "o": "AmRest Holdings (Warsaw-listed)",
-  "y": "2018",
-  "note": "AmRest, the Warsaw-listed restaurant operator, bought Sushi Shop for €240m in 2018, buying out PE investor Naxicap.",
-  "src": "https://fr.wikipedia.org/wiki/Sushi_Shop"
- },
- {
-  "type": "brand",
   "n": "Chipotle",
   "osm": "Chipotle",
   "cu": "Burritos",
@@ -586,19 +519,6 @@
  },
  {
   "type": "brand",
-  "n": "Marie Blachère",
-  "osm": "Marie Blachère",
-  "cu": "Bakery",
-  "k": "Bakery & pastry",
-  "pr": 1,
-  "c": "corp",
-  "o": "Groupe Blachère (Blachère family)",
-  "y": "2004",
-  "note": "France's largest bakery chain (~900 shops, ~€1.2bn sales incl. other activities) belongs to the family group founded by Bernard Blachère.",
-  "src": "https://www.lejournaldesentreprises.com/article/fort-de-900-boulangeries-et-plus-de-200-magasins-de-fruits-et-legumes-le-groupe-blachere-petrit-son-2144779"
- },
- {
-  "type": "brand",
   "n": "Ladurée",
   "osm": "Ladurée",
   "cu": "Macarons & tea room",
@@ -609,19 +529,6 @@
   "y": "2021",
   "note": "Groupe Holder sold 80% of Ladurée in 2021 to LOV Group, the holding company of entrepreneur Stéphane Courbit (Banijay, Betclic).",
   "src": "https://luxus-plus.com/laduree-poursuit-son-developpement-sous-loeil-avise-de-stephane-courbit/"
- },
- {
-  "type": "brand",
-  "n": "Pierre Hermé",
-  "osm": "Pierre Hermé",
-  "cu": "Pastry & macarons",
-  "k": "Bakery & pastry",
-  "pr": 3,
-  "c": "pe",
-  "o": "Butler Industries (Walter Butler), majority; Pierre Hermé",
-  "y": "2021",
-  "note": "Walter Butler's investment group bought just over two-thirds of Pierre Hermé Paris from L'Occitane's LOG Investment in December 2021; the chef kept his stake.",
-  "src": "https://www.lefigaro.fr/flash-eco/le-fonds-butler-rachete-les-patisseries-de-luxe-pierre-herme-20211209"
  },
  {
   "type": "venue",
@@ -685,45 +592,6 @@
   "o": "Groupe Galeries Lafayette (Moulin-Houzé family)",
   "note": "The Haussmann food hall belongs to Galeries Lafayette, a 100% family-owned retail group (€4.5bn retail sales) controlled by the Moulin family.",
   "src": "https://www.groupegalerieslafayette.fr/groupe"
- },
- {
-  "type": "brand",
-  "n": "Volfoni",
-  "osm": "Volfoni",
-  "cu": "Italian",
-  "k": "Pizza",
-  "pr": 2,
-  "c": "pe",
-  "o": "Groupe Bertrand (majority); Bridgepoint (~23-25% minority of Bertrand Franchise)",
-  "y": "2018",
-  "note": "Volfoni is one of the Bertrand Franchise brands, in which PE firm Bridgepoint holds a 23-25% minority stake it was preparing to sell in 2026.",
-  "src": "https://www.24matins.fr/le-groupe-bertrand-chercherait-a-mettre-en-vente-burger-king-et-lintegralite-de-ses-enseignes-en-franchise-1406333"
- },
- {
-  "type": "brand",
-  "n": "Pitaya",
-  "osm": "Pitaya",
-  "cu": "Thai street food",
-  "k": "Asian",
-  "pr": 1,
-  "c": "pe",
-  "o": "Groupe Bertrand (majority); Bridgepoint (~23-25% minority of Bertrand Franchise)",
-  "y": "2018",
-  "note": "Pitaya is one of the Bertrand Franchise brands, in which PE firm Bridgepoint holds a 23-25% minority stake.",
-  "src": "https://www.24matins.fr/le-groupe-bertrand-chercherait-a-mettre-en-vente-burger-king-et-lintegralite-de-ses-enseignes-en-franchise-1406333"
- },
- {
-  "type": "brand",
-  "n": "Le Paradis du Fruit",
-  "osm": "Le Paradis du Fruit",
-  "cu": "Healthy café",
-  "k": "Healthy & veggie",
-  "pr": 2,
-  "c": "pe",
-  "o": "Groupe Bertrand (majority); Bridgepoint (~23-25% minority of Bertrand Franchise)",
-  "y": "2018",
-  "note": "Le Paradis du Fruit is one of the Bertrand Franchise brands, in which PE firm Bridgepoint holds a 23-25% minority stake.",
-  "src": "https://www.24matins.fr/le-groupe-bertrand-chercherait-a-mettre-en-vente-burger-king-et-lintegralite-de-ses-enseignes-en-franchise-1406333"
  },
  {
   "type": "venue",

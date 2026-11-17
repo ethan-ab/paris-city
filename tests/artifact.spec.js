@@ -1,5 +1,5 @@
 // The self-contained build must work with nothing but the MapLibre script and Google Fonts (the claude.ai sandbox).
-const { test, expect, PLACES } = require('./helpers');
+const { test, expect, PLACES, shown } = require('./helpers');
 
 test.skip(({ variant }) => variant !== 'artifact', 'artifact-only checks');
 
@@ -26,7 +26,7 @@ test('draws the baked basemap: Seine, parks and roads', async ({ page, app }) =>
 
 test('all places and the full app work offline', async ({ page, app, errors }) => {
   await app.open();
-  await expect(page.locator('.row')).toHaveCount(PLACES.length);
+  await expect.poll(() => shown(page)).toBe(PLACES.length);
   await page.locator('.row').first().click();
   await expect(page.locator('.card .alts .alt')).toHaveCount(3);
   expect(errors).toEqual([]);

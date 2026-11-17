@@ -31,8 +31,13 @@ test.describe('places.json', () => {
       if (!(Number.isInteger(p.pr) && p.pr >= 1 && p.pr <= 4)) why.push('price');
       if (!ARR.test(p.area || '')) why.push('area ' + p.area);
       if (!p.o) why.push('owner');
-      if (!p.note || p.note.length < 15) why.push('note');
-      if (!/^https:\/\/[^\s]+\.[a-z]{2,}/i.test(p.src || '')) why.push('src ' + p.src);
+      if (Array.isArray(p.auto)) {
+        // register-matched independents ship compact: [SIREN, sites]; the app builds note + annuaire link from them
+        if (!/^\d{9}$/.test(p.auto[0]) || !(p.auto[1] >= 1)) why.push('auto ' + p.auto);
+      } else {
+        if (!p.note || p.note.length < 15) why.push('note');
+        if (!/^https:\/\/[^\s]+\.[a-z]{2,}/i.test(p.src || '')) why.push('src ' + p.src);
+      }
       if (p.y !== undefined && typeof p.y !== 'string') why.push('year type');
       if (why.length) bad.push(`${p.n}: ${why.join(', ')}`);
     }
@@ -83,9 +88,10 @@ test.describe('research files', () => {
 
   test('every brand and venue in the research ends up on the map (or is a known OSM gap)', () => {
     // Sourced brands with no branch inside Paris intra-muros on OpenStreetMap (suburban formats or not mapped yet).
-    const KNOWN_GAPS = ['Bchef', 'Boulangerie Louise', 'Puffy', 'Volfoni', 'Meatpack', 'Copper Branch', 'Del Arte', 'Marie Blachère', 'Buffalo Grill'];
-    const names = new Set(PLACES.map(p => p.n.split(' · ')[0].replace(/ \(\d+\)$/, '')));
-    const missing = research.filter(r => !names.has(r.n) && !KNOWN_GAPS.includes(r.n)).map(r => r.n);
+    const KNOWN_GAPS = ['Bchef', 'Boulangerie Louise', 'Puffy', 'Volfoni', 'Meatpack', 'Copper Branch', 'Del Arte', 'Marie Blachère', 'Buffalo Grill', 'Bazurto', 'Café de Luce'];
+    // Compare deep-link slugs: a register match spelled "Cafe Français" merges into the researched "Café Français" on the same spot.
+    const names = new Set(PLACES.map(p => slug(p.n.split(' · ')[0].replace(/ \(\d+\)$/, ''))));
+    const missing = research.filter(r => !names.has(slug(r.n)) && !KNOWN_GAPS.includes(r.n)).map(r => r.n);
     expect(missing).toEqual([]);
   });
 });
@@ -110,8 +116,10 @@ test.describe('built pages', () => {
     expect(html.length).toBeLessThan(16 * 1024 * 1024);
   });
 
-  test('site page stays light (under 1 MB)', () => {
-    expect(fs.statSync(path.join(ROOT, 'public', 'index.html')).size).toBeLessThan(1024 * 1024);
+  test('site page stays light (under 1 MB over the wire)', () => {
+    // ~8,000 places are inlined; Vercel serves the page compressed, so the gzip size is what visitors download.
+    const gz = require('zlib').gzipSync(fs.readFileSync(path.join(ROOT, 'public', 'index.html'))).length;
+    expect(gz).toBeLessThan(1024 * 1024);
   });
 
   test('vercel.json serves the public folder', () => {

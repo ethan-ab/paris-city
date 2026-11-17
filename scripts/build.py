@@ -137,7 +137,7 @@ def brand_branches(osm_name, extra_names=(), exact=False, values=None):
 
 
 def clean(rec):
-    r = {k: rec.get(k) for k in ('n', 'cu', 'k', 'pr', 'c', 'o', 'y', 'note', 'src') if rec.get(k) not in (None, '')}
+    r = {k: rec.get(k) for k in ('n', 'cu', 'k', 'pr', 'c', 'o', 'y', 'note', 'src', 'auto') if rec.get(k) not in (None, '')}
     if r.get('k') not in KINDS:
         r['k'] = 'Other'
     if 'y' in r:
@@ -162,7 +162,8 @@ def main():
     # A venue or brand researched twice: keep the first, but let a non-independent finding win over "ind".
     seen = {}
     for r in records:
-        key = (r.get('type'), fold(r.get('osm') or r.get('n')))
+        # auto venues: one per company; pre-placed venues (OSM position): one per position
+        key = (r.get('type'), fold(r.get('osm') or r.get('n')), r['src'] if r.get('auto') else tuple(r['ll']) if r.get('ll') else '')
         if r.get('c') not in CATS or not r.get('src') or not r.get('n'):
             print('  skip (missing c/src/n):', r.get('n'), r.get('_file'))
             continue
@@ -176,7 +177,7 @@ def main():
     from concurrent.futures import ThreadPoolExecutor
     with ThreadPoolExecutor(6) as ex:
         list(ex.map(lambda r: brand_branches(r.get('osm') or r['n'], r.get('osm_alt') or [], r.get('osm_exact', False), r.get('osm_values')) if r.get('type') == 'brand'
-                    else geocode_venue(r.get('addr') or ''), seen.values()))
+                    else (None if r.get('ll') else geocode_venue(r.get('addr') or '')), seen.values()))
 
     places, misses = [], []
     for r in seen.values():
@@ -201,7 +202,10 @@ def main():
                 misses.append(f"brand with no Paris branch on OSM: {r['n']}")
             if r.get('type') == 'brand':
                 continue
-        g = geocode_venue(r.get('addr') or '')
+        if r.get('ll') and r.get('pc'):  # pre-placed (scripts/discover.py: OSM position + register match)
+            g = (r['ll'][0], r['ll'][1], r['pc'], (r.get('addr') or '').split(',')[0])
+        else:
+            g = geocode_venue(r.get('addr') or '')
         if not g:
             misses.append(f"could not geocode: {r['n']} | {r.get('addr')}")
             continue
@@ -230,10 +234,19 @@ def main():
         print('  branch pins replaced by venue records:', dropped)
     for p in places:
         p.pop('_brand', None)
+        if p.get('auto'):  # register-matched venue: the card rebuilds note + source from these (saves ~1.5 MB)
+            m = re.search(r'/entreprise/(\d{9})', p.get('src', ''))
+            sites = re.search(r'one of its (\d+) sites', p.get('note', ''))
+            p['auto'] = [m.group(1) if m else '', int(sites.group(1)) if sites else 1]
+            p.pop('note', None)
+            p.pop('src', None)
     # Same name twice: a branch mapped twice on OSM (within 150 m) is dropped, distinct sites get a number.
+    # Researched records win over register-matched ones when both describe the same spot.
+    places.sort(key=lambda p: 1 if p.get('auto') else 0)
+    slugkey = lambda n: re.sub(r'[^a-z0-9]+', '-', fold(n)).strip('-')
     by_name, kept = {}, []
     for p in places:
-        prev = by_name.setdefault(p['n'], [])
+        prev = by_name.setdefault(slugkey(p['n']), [])
         if any(abs(q['ll'][0] - p['ll'][0]) < 0.00135 and abs(q['ll'][1] - p['ll'][1]) < 0.002 for q in prev):
             continue
         prev.append(p)
@@ -270,6 +283,39 @@ def main():
         build_artifact(html)
 
 
+def encode_basemap(fc_by_layer):
+    """Compact basemap: per layer [[propValue, type, [delta-encoded int rings/lines at 1e-5 deg]], ...]; src/app.js decodes it."""
+    T = {'Polygon': 0, 'MultiPolygon': 1, 'LineString': 2, 'MultiLineString': 3}
+    out = {}
+    for k, fc in fc_by_layer.items():
+        rows = []
+        for f in fc['features']:
+            g = f['geometry']
+            t = g['type']
+            if t not in T:
+                continue
+            if t == 'Polygon' or t == 'MultiLineString':
+                parts = g['coordinates']
+            elif t == 'LineString':
+                parts = [g['coordinates']]
+            else:
+                parts = [ring for poly in g['coordinates'] for ring in poly + [None]][:-1]  # None separates polygons
+            enc = []
+            for part in parts:
+                if part is None:
+                    enc.append(0)
+                    continue
+                flat, px, py = [], 0, 0
+                for x, y in part:
+                    ix, iy = round(x * 1e5), round(y * 1e5)
+                    flat += [ix - px, iy - py]
+                    px, py = ix, iy
+                enc.append(flat)
+            rows.append([f['properties'].get('r', 0), T[t], enc])
+        out[k] = rows
+    return out
+
+
 def build_artifact(html):
     """Self-contained single page for a claude.ai Artifact: no runtime fetches besides the MapLibre script and Google Fonts."""
     with open(os.path.join(ROOT, 'data', 'basemap.json')) as f:
@@ -286,6 +332,7 @@ def build_artifact(html):
     h = h.replace('</head>\n<body>', '').replace('</body>\n</html>', '')
     h = re.sub(r'<link rel="preconnect" href="https://tiles.openfreemap.org"[^>]*>\n', '', h)
     h = h.replace('<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">', '<style>' + mlcss + '</style>')
+    basemap = json.dumps(encode_basemap(json.loads(basemap)), separators=(',', ':'))
     h = h.replace('<script src="app.js"></script>', '<script>window.BASEMAP=' + basemap + ';</script>\n<script>' + app.replace('</script', '<\\/script') + '</script>')
     os.makedirs(os.path.join(ROOT, 'artifact'), exist_ok=True)
     out = os.path.join(ROOT, 'artifact', 'paris-food-money-matrix.html')

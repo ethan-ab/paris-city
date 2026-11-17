@@ -3,6 +3,6 @@ node_modules/
 .DS_Store
 __pycache__/
 artifact/
-node_modules/
+data/cache/discover_*.json
 test-results/
 playwright-report/

@@ -54,5 +54,7 @@ const test = base.test.extend({
 /** Rows currently shown in the list. */
 const visibleRows = page => page.locator('.row:not([hidden])');
 const countText = page => page.locator('#count');
+/** How many places the list currently holds (rows are painted in pages of 120 as you scroll, so count via the app). */
+const shown = page => page.evaluate(() => window.__pfmm.shown());
 
-module.exports = { test, expect: base.expect, PLACES, COUNTS, fold, slug, meters, expectedAlternatives, visibleRows, countText, ROOT };
+module.exports = { test, expect: base.expect, PLACES, COUNTS, fold, slug, meters, expectedAlternatives, visibleRows, countText, shown, ROOT };
