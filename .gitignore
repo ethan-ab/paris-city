@@ -6,3 +6,4 @@ artifact/
 node_modules/
 test-results/
 playwright-report/
+data/cache/exa/

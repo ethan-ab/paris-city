@@ -1,0 +1,1920 @@
+{
+ "Angelina": [
+  {
+   "addr": "226 Rue de Rivoli, 75001 Paris",
+   "url": "https://salon-de-the.angelina-paris.fr/en/our-pastry-shops/"
+  },
+  {
+   "addr": "108 Rue du Bac, 75007 Paris",
+   "url": "https://salon-de-the.angelina-paris.fr/en/our-pastry-shops/"
+  },
+  {
+   "addr": "19 Rue de Vaugirard, 75006 Paris",
+   "url": "https://salon-de-the.angelina-paris.fr/en/our-pastry-shops/"
+  }
+ ],
+ "Au Bureau": [],
+ "BO&MIE": [
+  {
+   "addr": "18 rue de Turbigo, 75002 Paris",
+   "url": "https://www.boetmie.com/boutiques/"
+  },
+  {
+   "addr": "359 rue Saint-Martin, 75003 Paris",
+   "url": "https://www.boetmie.com/boutiques/"
+  },
+  {
+   "addr": "91 rue de Rivoli, 75001 Paris",
+   "url": "https://www.boetmie.com/boutiques/"
+  },
+  {
+   "addr": "5-7 boulevard Saint-Michel, 75005 Paris",
+   "url": "https://www.boetmie.com/boutiques/"
+  },
+  {
+   "addr": "13 boulevard Montmartre, 75002 Paris",
+   "url": "https://www.boetmie.com/boutiques/"
+  },
+  {
+   "addr": "48 rue de Rivoli, 75004 Paris",
+   "url": "https://www.boetmie.com/boutiques/"
+  },
+  {
+   "addr": "47 rue du Faubourg Saint-Antoine, 75011 Paris",
+   "url": "https://www.boetmie.com/boutiques/"
+  },
+  {
+   "addr": "60 avenue des Champs-Élysées, 75008 Paris",
+   "url": "https://www.boetmie.com/boutiques/"
+  },
+  {
+   "addr": "40 boulevard Haussmann, 75009 Paris",
+   "url": "https://www.boetmie.com/boutiques/"
+  },
+  {
+   "addr": "17 boulevard de Vaugirard, 75015 Paris",
+   "url": "https://www.boetmie.com/boutiques/"
+  }
+ ],
+ "Bchef": [
+  {
+   "addr": "15-17 avenue de Ségur, 75007 Paris",
+   "url": "https://www.snarr.fr/bchef/"
+  }
+ ],
+ "Big Fernand": [
+  {
+   "addr": "40 place du Marche saint Honore, 75001 Paris",
+   "url": "https://foodfast.fr/ile-de-france/reseau/big-fernand"
+  },
+  {
+   "addr": "12 avenue de Villiers, 75017 Paris",
+   "url": "https://foodfast.fr/ile-de-france/reseau/big-fernand"
+  },
+  {
+   "addr": "8 promenade Claude Lévi-Strauss, 75013 Paris",
+   "url": "https://foodfast.fr/ile-de-france/reseau/big-fernand"
+  },
+  {
+   "addr": "32 rue du Saint-Sauveur, 75002 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/big-fernand"
+  },
+  {
+   "addr": "55 rue du Faubourg Poissonnière, 75009 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/big-fernand"
+  },
+  {
+   "addr": "99 rue de Provence, 75009 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/big-fernand"
+  }
+ ],
+ "Bioburger": [
+  {
+   "addr": "13 Rue Rambuteau, 75004 Paris",
+   "url": "https://restaurants.bioburger.fr/restaurant-burger-bio/paris-4-le-marais/"
+  },
+  {
+   "addr": "10 Rue de la Victoire, 75009 Paris",
+   "url": "https://restaurants.bioburger.fr/restaurant-burger-bio/paris-9-victoire/"
+  },
+  {
+   "addr": "45 Rue des Petits Carreaux, 75002 Paris",
+   "url": "https://restaurants.bioburger.fr/restaurant-burger-bio/paris-2-montorgueil/"
+  },
+  {
+   "addr": "79 Boulevard du Montparnasse, 75006 Paris",
+   "url": "https://restaurants.bioburger.fr/restaurant-burger-bio/paris-6-montparnasse/"
+  },
+  {
+   "addr": "54 Avenue des Gobelins, 75013 Paris",
+   "url": "https://restaurants.bioburger.fr/restaurant-burger-bio/paris-13-gobelins/"
+  },
+  {
+   "addr": "88 Rue Mstislav Rostropovitch, 75017 Paris",
+   "url": "https://restaurants.bioburger.fr/restaurant-burger-bio/paris-17-batignolles/"
+  },
+  {
+   "addr": "17/19 allée Rose Dieng Kuntz, 75019 Paris",
+   "url": "https://restaurants.bioburger.fr/restaurant-burger-bio/paris-19-rosa-parks/"
+  }
+ ],
+ "Boulangerie Louise": [],
+ "Boulangerie Sophie Lebreuilly": [],
+ "Breizh Café": [
+  {
+   "addr": "109 RUE VIEILLE DU TEMPLE, 75003 Paris",
+   "url": "https://www.breizhcafe.com/le-marais"
+  },
+  {
+   "addr": "23 RUE DE VIARMES, 75001 Paris",
+   "url": "https://www.breizhcafe.com/breizh-cafe-bourse-de-commerce"
+  },
+  {
+   "addr": "1 RUE DE L’ODÉON, 75006 Paris",
+   "url": "https://www.breizhcafe.com/breizh-cafe-odeon"
+  },
+  {
+   "addr": "14 RUE DES PETITS CARREAUX, 75002 Paris",
+   "url": "https://www.breizhcafe.com/montorgueil"
+  },
+  {
+   "addr": "23 RUE PAUL BERT, 75011 Paris",
+   "url": "https://www.breizhcafe.com/paul-bert"
+  },
+  {
+   "addr": "31 RUE DES BATIGNOLLES, 75017 Paris",
+   "url": "https://www.breizhcafe.com/batignolles"
+  },
+  {
+   "addr": "3 PLACE CHARLES MICHELS, 75015 Paris",
+   "url": "https://www.breizhcafe.com/charles-michels"
+  },
+  {
+   "addr": "111 RUE VIEILLE DU TEMPLE, 75003 Paris",
+   "url": "https://www.breizhcafe.com/le-marais-epiceries"
+  },
+  {
+   "addr": "59 RUE CLER, 75007 Paris",
+   "url": "https://www.breizhcafe.com/rue-cler"
+  },
+  {
+   "addr": "4 IMPASSE DES CARRIÈRES, 75016 Paris",
+   "url": "https://www.breizhcafe.com/passy"
+  },
+  {
+   "addr": "112 QUAI DE JEMMAPES, 75010 Paris",
+   "url": "https://www.breizhcafe.com/canal-saintmartin"
+  },
+  {
+   "addr": "8 BIS RUE VERDERET, 75016 Paris",
+   "url": "https://www.breizhcafe.com/auteuil"
+  },
+  {
+   "addr": "93 RUE DES MARTYRS, 75018 Paris",
+   "url": "https://www.breizhcafe.com/abbesses"
+  }
+ ],
+ "Brioche Dorée": [
+  {
+   "addr": "14 rue Rome, 75008 Paris",
+   "url": "https://fr.mappy.com/app/brioche-doree/75000-paris"
+  },
+  {
+   "addr": "66 rue de Rivoli, 75001 Paris",
+   "url": "https://commerces.com/brioche-doree/ouvert-le-1er-novembre.htm"
+  },
+  {
+   "addr": "80 rue de Rivoli, 75004 Paris",
+   "url": "https://commerces.com/brioche-doree/ouvert-le-1er-novembre.htm"
+  },
+  {
+   "addr": "20 boulevard Saint Michel, 75006 Paris",
+   "url": "https://commerces.com/brioche-doree/ouvert-le-1er-novembre.htm"
+  },
+  {
+   "addr": "20 bd Saint-Michel, 75006 Paris",
+   "url": "https://commerces.com/brioche-doree/ouvert-le-1er-novembre.htm"
+  },
+  {
+   "addr": "1 rue Basse, 75001 Paris",
+   "url": "https://commerces.com/brioche-doree/ouvert-le-1er-novembre.htm"
+  },
+  {
+   "addr": "65 boulevard St Michel, 75005 Paris",
+   "url": "https://commerces.com/brioche-doree/ouvert-le-1er-novembre.htm"
+  },
+  {
+   "addr": "14 rue Lobineau, 75006 Paris",
+   "url": "https://commerces.com/brioche-doree/ouvert-le-1er-novembre.htm"
+  }
+ ],
+ "Buffalo Grill": [
+  {
+   "addr": "117 Avenue du Général Leclerc, 75014 Paris",
+   "url": "https://www.buffalo-grill.fr/nos-restaurants/paris-porte-d-orleans"
+  }
+ ],
+ "Burger King": [
+  {
+   "addr": "78/80 Avenue Du General Leclerc, 75014 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-alesia"
+  },
+  {
+   "addr": "286-288 Rue De Vaugirard, 75015 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-vaugirard"
+  },
+  {
+   "addr": "25 Rue De Dunkerque, 75010 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-gare-du-nord"
+  },
+  {
+   "addr": "23 Place De La République Et 1 Bld Saint Martin, 75003 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-republique"
+  },
+  {
+   "addr": "2 Rue Pierre Lescot, 75001 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-lescot"
+  },
+  {
+   "addr": "84 Boulevard Du Montparnasse, 75014 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-montparnasse"
+  },
+  {
+   "addr": "3 Boulevard De Barbès, 75018 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-barbes"
+  },
+  {
+   "addr": "124 Rue La Boetie, 75008 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-la-boetie"
+  },
+  {
+   "addr": "4-6 Avenue Du Trône, 75012 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-nation"
+  },
+  {
+   "addr": "93 Boulevard De Strasbourg, 75010 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-gare-de-l'est"
+  },
+  {
+   "addr": "63 Boulevard Saint-michel, 75005 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-soufflot"
+  },
+  {
+   "addr": "2 Rue D'amsterdam, 75009 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-rue-saint-lazare"
+  },
+  {
+   "addr": "20 Rue De La Roquette, 75011 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-bastille"
+  },
+  {
+   "addr": "187 Avenue De Clichy, 75017 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-porte-de-clichy"
+  },
+  {
+   "addr": "8 Place De Clichy, 75009 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-place-de-clichy-leon"
+  },
+  {
+   "addr": "36 Boulevard Des Italiens, 75009 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-opera-italiens"
+  },
+  {
+   "addr": "7 Rue Linois, 75015 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-beaugrenelle-panoramic"
+  },
+  {
+   "addr": "18 Avenue Kennedy, 75016 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-kennedy"
+  },
+  {
+   "addr": "7 Avenue De Wagram Angle 16 Rue De Tilsitt, 75017 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-wagram"
+  },
+  {
+   "addr": "1 Rue Balanchine, 75013 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-bnf"
+  },
+  {
+   "addr": "279 Avenue Daumesnil, 75012 Paris",
+   "url": "https://www.burgerking.fr/restaurants/paris-porte-doree"
+  }
+ ],
+ "Café Joyeux": [
+  {
+   "addr": "144 avenue des Champs-Elysées, 75008 Paris",
+   "url": "https://www.cafejoyeux.com/en/content/52-cafe-joyeux-shop-in-paris"
+  },
+  {
+   "addr": "23 rue Saint-Augustin, 75002 Paris",
+   "url": "https://www.cafejoyeux.com/fr/content/41-cafe-joyeux-paris-opera"
+  },
+  {
+   "addr": "5 rue Paul Cézanne, 75008 Paris",
+   "url": "https://www.cafejoyeux.com/fr/content/116-cafe-joyeux-st-philippe-du-roule"
+  },
+  {
+   "addr": "68 place du docteur Félix Lobligeois, 75017 Paris",
+   "url": "https://www.cafejoyeux.com/fr/content/97-cafe-joyeux-paris-batignolles"
+  },
+  {
+   "addr": "40 boulevard Haussmann, 75009 Paris",
+   "url": "https://www.cafejoyeux.com/fr/lejournal/cafe-joyeux-s-invite-aux-galeries-lafayette-n107"
+  }
+ ],
+ "Chik'Chill": [
+  {
+   "addr": "1 Rue des Innocents, 75001 Paris",
+   "url": "https://chik-chill.fr/fr/etablissements/chatelet"
+  }
+ ],
+ "Chipotle": [
+  {
+   "addr": "2 Rue Linois, 75015 Paris",
+   "url": "https://www.chipotle.fr/offre-exceptionnelle-2026"
+  }
+ ],
+ "Chopstix": [
+  {
+   "addr": "50 Rue du Faubourg Saint-Antoine, 75012 Paris",
+   "url": "https://restaurants.chopstixnoodles.fr/"
+  }
+ ],
+ "Class'Croûte": [
+  {
+   "addr": "12 rue neuve Tolbiac, 75013 Paris",
+   "url": "https://www.classcroute.com/page/region/paris/restaurant/tolbiac"
+  },
+  {
+   "addr": "156 Boulevard du Montparnasse, 75014 Paris",
+   "url": "https://www.classcroute.com/page/region/paris/restaurant/montparnasse"
+  },
+  {
+   "addr": "3 rue Jean Varenne, 75017 Paris",
+   "url": "https://www.classcroute.com/page/region/paris/restaurant/legendre"
+  }
+ ],
+ "Cojean": [
+  {
+   "addr": "28 Rue du Bac, 75007 Paris",
+   "url": "https://www.cojean.fr/restaurants/"
+  },
+  {
+   "addr": "10, rue des Pyramides, 75001 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "121 Rue Réaumur, 75002 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "6 Rue de Choiseul, 75002 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "18 Bd Poissonnière, 75009 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "17 Bd Haussmann, 75009 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "27 Rue Laffitte, 75009 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "4 Rue de Sèze, 75009 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "64 Bd Haussmann, 75009 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "66 Rue de Provence, 75009 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "31 Rue de la Bienfaisance, 75008 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "19 Rue Clément Marot, 75008 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "64 Rue des Mathurins, 75008 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "11 Rue de Surène, 75008 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "25 Rue Washington, 75008 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "31, avenue Pierre Mendès France, 75013 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "42, boulevard Raspail, 75014 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "7 Rue Linois, 75015 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "53 Bd du Général Martial Valin, 75015 Paris",
+   "url": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+  },
+  {
+   "addr": "17, boulevard Haussmann, 75009 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-haussmann/"
+  },
+  {
+   "addr": "6, rue de Sèze, 75009 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-madeleine/"
+  },
+  {
+   "addr": "55, avenue Franklin Delano Roosevelt, 75008 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-roosevelt/"
+  },
+  {
+   "addr": "26, avenue de l'Opéra, 75001 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-opera/"
+  },
+  {
+   "addr": "2, place du Palais-Royal, 75001 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-cartier/"
+  },
+  {
+   "addr": "42, boulevard Raspail, 75007 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-raspail/"
+  },
+  {
+   "addr": "18, boulevard Poissonnière, 75009 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-grands-boulevards/"
+  },
+  {
+   "addr": "64, boulevard Haussmann, 75009 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-printemps/"
+  },
+  {
+   "addr": "87 rue Jouffroy d'Abbans, 75017 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-prony/"
+  },
+  {
+   "addr": "102 Avenue Victor Hugo, 75016 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-victor-hugo/"
+  },
+  {
+   "addr": "28, avenue Raymond Poincaré, 75016 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-poincare/"
+  },
+  {
+   "addr": "80 avenue du Maine, 75014 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-gaite/"
+  },
+  {
+   "addr": "54 rue d'Amsterdam, 75009 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-amsterdam/"
+  },
+  {
+   "addr": "55, rue de Châteaudun, 75009 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-trinite/"
+  },
+  {
+   "addr": "27, avenue Hoche, 75008 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-hoche/"
+  },
+  {
+   "addr": "78 avenue Kléber, 75116 Paris",
+   "url": "https://www.cojean.fr/restaurants/paris/cojean-kleber/"
+  }
+ ],
+ "Columbus Café & Co": [
+  {
+   "addr": "21 rue Soufflot, 75005 Paris",
+   "url": "https://www.columbuscafe.com/en/boutique/paris-rue-soufflot-2/"
+  },
+  {
+   "addr": "17 boulevard Vaugirard, 75015 Paris",
+   "url": "https://www.columbuscafe.com/en/boutique/paris-montparnasse-train-station/"
+  }
+ ],
+ "Copains": [
+  {
+   "addr": "40 rue Oberkampf, 75011 Paris",
+   "url": "https://www.copains-paris.com/le-brunch/"
+  }
+ ],
+ "Copper Branch": [
+  {
+   "addr": "151 bis Rue de Rennes, 75006 Paris",
+   "url": "https://eatcopperbranch.com/restaurants/"
+  },
+  {
+   "addr": "26 Rue De Lappe, 75011 Paris",
+   "url": "https://menuweb.menu/restaurants/paris-1/copper-branch-49"
+  }
+ ],
+ "Coutume": [
+  {
+   "addr": "47 rue de Babylone, 75007 Paris",
+   "url": "https://coutumecafe.com/pages/cafe-babylone"
+  },
+  {
+   "addr": "63 rue du Faubourg Poissonnière, 75009 Paris",
+   "url": "https://coutumecafe.com/en/pages/cafe-poissonniere"
+  },
+  {
+   "addr": "40 Bd Haussmann, 75009 Paris",
+   "url": "https://coutumecafe.com/pages/cafe-francois-daubinet"
+  },
+  {
+   "addr": "3 Rue de Ponthieu, 75008 Paris",
+   "url": "https://coutumecafe.com/pages/cafe-hotel-mathis"
+  },
+  {
+   "addr": "1 Rue de Mézières, 75006 Paris",
+   "url": "https://coutumecafe.com/pages/cafe-la-procure"
+  },
+  {
+   "addr": "80 Rue de Passy, 75016 Paris",
+   "url": "https://coutumecafe.com/pages/cafe-grande-epicerie-paris"
+  }
+ ],
+ "Côté Sushi": [
+  {
+   "addr": "61 Avenue du Général Leclerc, 75014 Paris",
+   "url": "https://restaurants.cotesushi.com/fr/nos-restaurants/"
+  },
+  {
+   "addr": "12 Rue La Boétie, 75008 Paris",
+   "url": "https://restaurants.cotesushi.com/fr/nos-restaurants/"
+  },
+  {
+   "addr": "75 Avenue Kléber, 75116 Paris",
+   "url": "https://restaurants.cotesushi.com/fr/nos-restaurants/"
+  },
+  {
+   "addr": "17 Bd de Vaugirard, 75014 Paris",
+   "url": "https://restaurants.cotesushi.com/fr/nos-restaurants/"
+  },
+  {
+   "addr": "111 RUE MONGE, 75005 Paris",
+   "url": "https://restaurants.cotesushi.com/fr/nos-restaurants/"
+  },
+  {
+   "addr": "243 Rue des Pyrénées, 75020 Paris",
+   "url": "https://restaurants.cotesushi.com/fr/nos-restaurants/"
+  },
+  {
+   "addr": "31 rue rambuteau, 75003 Paris",
+   "url": "https://restaurants.cotesushi.com/fr/nos-restaurants/"
+  },
+  {
+   "addr": "35 Bd Voltaire, 75011 Paris",
+   "url": "https://restaurants.cotesushi.com/fr/restaurant-sushi/bd-voltaire-paris-11/"
+  }
+ ],
+ "Dalloyau": [
+  {
+   "addr": "101, Faubourg Saint-Honore, 75008 Paris",
+   "url": "https://www.dalloyau.co.jp/boutiques/"
+  }
+ ],
+ "Del Arte": [
+  {
+   "addr": "20, boulevard Saint-Michel, 75006 Paris",
+   "url": "https://commerces.com/del-arte/"
+  },
+  {
+   "addr": "2, boulevard Haussmann, 75009 Paris",
+   "url": "https://commerces.com/del-arte/"
+  },
+  {
+   "addr": "11, rue de l'Arrivée, 75015 Paris",
+   "url": "https://commerces.com/del-arte/"
+  }
+ ],
+ "Domino's Pizza": [
+  {
+   "addr": "14 Rue Saint-Marc, 75002 Paris",
+   "url": "https://www.dominos.fr/regions/ile-de-france/paris/"
+  },
+  {
+   "addr": "1 Rue Bosio, 75016 Paris",
+   "url": "https://www.dominos.fr/regions/ile-de-france/paris/"
+  },
+  {
+   "addr": "40 Rue Tolbiac, 75013 Paris",
+   "url": "https://www.dominos.fr/regions/ile-de-france/paris/"
+  },
+  {
+   "addr": "97 Rue Didot, 75014 Paris",
+   "url": "https://www.dominos.fr/regions/ile-de-france/paris/"
+  },
+  {
+   "addr": "71 Rue D'avron, 75020 Paris",
+   "url": "https://www.dominos.fr/regions/ile-de-france/paris/"
+  },
+  {
+   "addr": "170 Avenue Jean Jaurès, 75019 Paris",
+   "url": "https://www.dominos.fr/regions/ile-de-france/paris/"
+  },
+  {
+   "addr": "52 Avenue Philippe Auguste, 75011 Paris",
+   "url": "https://www.dominos.fr/regions/ile-de-france/paris/"
+  },
+  {
+   "addr": "204 Rue De Charenton, 75012 Paris",
+   "url": "https://www.dominos.fr/regions/ile-de-france/paris/"
+  },
+  {
+   "addr": "27 Rue Cambronne, 75015 Paris",
+   "url": "https://www.dominos.fr/regions/ile-de-france/paris/"
+  },
+  {
+   "addr": "68 Rue Damrémont, 75018 Paris",
+   "url": "https://www.dominos.fr/regions/ile-de-france/paris/"
+  },
+  {
+   "addr": "61 Rue Stephenson, 75018 Paris",
+   "url": "https://www.dominos.fr/regions/ile-de-france/paris/"
+  },
+  {
+   "addr": "391 Rue Des Pyrénées, 75020 Paris",
+   "url": "https://www.dominos.fr/regions/ile-de-france/paris/"
+  },
+  {
+   "addr": "58 Rue Legendre, 75017 Paris",
+   "url": "https://www.dominos.fr/regions/ile-de-france/paris/"
+  },
+  {
+   "addr": "8 Rue Lebon, 75017 Paris",
+   "url": "https://www.dominos.fr/regions/ile-de-france/paris/"
+  }
+ ],
+ "Dunkin'": [
+  {
+   "addr": "14 Rue Des Petits Carreaux, 75002 Paris",
+   "url": "https://ou-utiliser.up.coop/etablissements/dunkin-75002-57b639d6"
+  },
+  {
+   "addr": "19 Boulevard Montmartre, 75002 Paris",
+   "url": "https://ou-utiliser.up.coop/etablissements/dunkin-75002-53fb6280"
+  }
+ ],
+ "Exki": [
+  {
+   "addr": "9, boulevard des Italiens, 75002 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/exki"
+  },
+  {
+   "addr": "26 Rue du 4 septembre, 75002 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/exki"
+  },
+  {
+   "addr": "8 Rue Danielle Casanova, 75002 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/exki"
+  },
+  {
+   "addr": "59 Rue Montorgueil, 75002 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/exki"
+  },
+  {
+   "addr": "30 Rue de Berri, 75008 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/exki"
+  },
+  {
+   "addr": "9 Boulevard Malesherbes, 75008 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/exki"
+  },
+  {
+   "addr": "22 Chaussée d'Antin, 75009 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/exki"
+  },
+  {
+   "addr": "173 Rue du Faubourg Saint-Denis, 75010 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/exki"
+  },
+  {
+   "addr": "193-197 Rue de Bercy, 75012 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/exki"
+  },
+  {
+   "addr": "116 avenue De France, 75013 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/exki"
+  },
+  {
+   "addr": "82 boulevard Du Montparnasse, 75014 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/exki"
+  },
+  {
+   "addr": "14 Rue Linois 8/36 Ilot Pégase Loc. R03 - Niveau 1, 75014 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/exki"
+  },
+  {
+   "addr": "8 Avenue Kléber, 75016 Paris",
+   "url": "https://www.horaires-commerces.fr/enseignes/exki"
+  },
+  {
+   "addr": "118 Avenue de France, 75013 Paris",
+   "url": "https://www.fooderise.com/en/chains/exki"
+  },
+  {
+   "addr": "38 Rue Rambuteau, 75003 Paris",
+   "url": "https://ou-utiliser.up.coop/enseignes/exki-60a3ef28"
+  },
+  {
+   "addr": "193 Rue De Bercy, 75012 Paris",
+   "url": "https://ou-utiliser.up.coop/enseignes/exki-60a3ef28"
+  }
+ ],
+ "Fauchon": [
+  {
+   "addr": "11 place de la Madeleine, 75008 Paris",
+   "url": "https://www.fauchon.com/pages/buche-signature"
+  }
+ ],
+ "Flunch": [
+  {
+   "addr": "21 RUE DE BEAUBOURG, 75003 Paris",
+   "url": "https://www.flunch.fr/restaurant/paris/flunch-paris-beaubourg/"
+  },
+  {
+   "addr": "1-3 RUE CAULAINCOURT, 75018 Paris",
+   "url": "https://www.flunch.fr/restaurant/paris/flunch-paris-caulaincourt/"
+  }
+ ],
+ "G La Dalle": [
+  {
+   "addr": "85 Rue La Boëtie, 75008 Paris",
+   "url": "https://app.carte-freeze.com/vitrine/g-la-dalle-7-adresses-790a5c09-6baa-4b6a-8fc9-fba193f5326e"
+  },
+  {
+   "addr": "60 Rue Oberkampf, 75011 Paris",
+   "url": "https://app.carte-freeze.com/vitrine/g-la-dalle-7-adresses-790a5c09-6baa-4b6a-8fc9-fba193f5326e"
+  },
+  {
+   "addr": "115 Avenue Jean Jaurès, 75019 Paris",
+   "url": "https://app.carte-freeze.com/vitrine/g-la-dalle-7-adresses-790a5c09-6baa-4b6a-8fc9-fba193f5326e"
+  },
+  {
+   "addr": "160 Rue Oberkampf, 75011 Paris",
+   "url": "https://www.bottin.fr/fiche-locale/baabhfiffeiafejdhhac--g-la-dalle--paris-11.htm"
+  },
+  {
+   "addr": "44 Rue Saint-Denis, 75001 Paris",
+   "url": "https://lacarte.menu/restaurants/paris-1/g-la-dalle-15"
+  }
+ ],
+ "Hanoï Cà Phê": [
+  {
+   "addr": "29 Boulevard de Courcelles, 75008 Paris",
+   "url": "https://www.hanoi-caphe.com/conditions-generales-dutilisation/"
+  }
+ ],
+ "Hippopotamus": [
+  {
+   "addr": "29 Rue Berger, 75001 Paris",
+   "url": "https://www.hippopotamus.fr/nos-restaurants/hippopotamus-paris-les-halles-1er"
+  },
+  {
+   "addr": "1 Bd des Capucines, 75002 Paris",
+   "url": "https://www.hippopotamus.fr/nos-restaurants/hippopotamus-paris-opera-2e"
+  },
+  {
+   "addr": "68 Bd du Montparnasse, 75014 Paris",
+   "url": "https://www.hippopotamus.fr/nos-restaurants/hippopotamus-paris-montparnasse-14e"
+  },
+  {
+   "addr": "12-14 Rue de Rome, 75008 Paris",
+   "url": "https://www.hippopotamus.fr/nos-restaurants/hippopotamus-paris-saint-lazare-8e"
+  },
+  {
+   "addr": "5 Bd des Batignolles, 75017 Paris",
+   "url": "https://www.hippopotamus.fr/nos-restaurants/hippopotamus-paris-place-de-clichy-8e"
+  },
+  {
+   "addr": "30 Place d'Italie, 75013 Paris",
+   "url": "https://www.hippopotamus.fr/nos-restaurants/hippopotamus-paris-italie-2-13e"
+  }
+ ],
+ "Joe & the Juice": [
+  {
+   "addr": "32 Rue Linois, 75015 Paris",
+   "url": "https://www.fooderise.com/en/chains/joe-the-juice"
+  },
+  {
+   "addr": "11 Rue Marbeuf, 75008 Paris",
+   "url": "https://www.fooderise.com/en/chains/joe-the-juice"
+  },
+  {
+   "addr": "40 Boulevard Haussmann, 75009 Paris",
+   "url": "https://www.fooderise.com/en/chains/joe-the-juice"
+  }
+ ],
+ "Junk": [
+  {
+   "addr": "8 Rue Linois, 75015 Paris",
+   "url": "https://www.junkburgers.com/locations"
+  },
+  {
+   "addr": "40 Rue de Berri, 75008 Paris",
+   "url": "https://www.junkburgers.com/locations"
+  },
+  {
+   "addr": "30 Rue Legendre, 75017 Paris",
+   "url": "https://www.junkburgers.com/locations"
+  },
+  {
+   "addr": "38 Rue de Saintonge, 75003 Paris",
+   "url": "https://www.junkburgers.com/locations"
+  },
+  {
+   "addr": "114 Rue Montmartre, 75002 Paris",
+   "url": "https://www.junkburgers.com/locations"
+  },
+  {
+   "addr": "9 Rue Danielle Casanova, 75001 Paris",
+   "url": "https://www.junkburgers.com/locations"
+  },
+  {
+   "addr": "72 Rue Falguière, 75015 Paris",
+   "url": "https://www.junkburgers.com/locations"
+  },
+  {
+   "addr": "24 Rue Saint-Lazare, 75009 Paris",
+   "url": "https://www.junkburgers.com/locations"
+  },
+  {
+   "addr": "4 Rue de l'Ancienne Comédie, 75006 Paris",
+   "url": "https://www.junkburgers.com/locations"
+  },
+  {
+   "addr": "120 Rue Saint-Maur, 75011 Paris",
+   "url": "https://www.junkburgers.com/locations"
+  },
+  {
+   "addr": "121 Rue de Sèvres, 75006 Paris",
+   "url": "https://www.junkburgers.com/locations"
+  },
+  {
+   "addr": "14 Rue de Bretagne, 75003 Paris",
+   "url": "https://www.junkgroup.fr/o%C3%B9-nous-trouver"
+  },
+  {
+   "addr": "21 Rue Danielle Casanova, 75001 Paris",
+   "url": "https://www.junkgroup.fr/o%C3%B9-nous-trouver"
+  },
+  {
+   "addr": "26 rue Legendre, 75017 Paris",
+   "url": "https://www.junkgroup.fr/o%C3%B9-nous-trouver"
+  },
+  {
+   "addr": "65 rue Condorcet, 75002 Paris",
+   "url": "https://www.junkgroup.fr/o%C3%B9-nous-trouver"
+  }
+ ],
+ "KFC": [
+  {
+   "addr": "6 Rue du 8 Mai 1945 Paris, 75010 Paris",
+   "url": "https://www.kfc.fr/nos-restaurants/kfc-paris-gare-de-lest"
+  },
+  {
+   "addr": "21 place De La République Paris, 75003 Paris",
+   "url": "https://www.kfc.fr/nos-restaurants/kfc-paris-republique"
+  },
+  {
+   "addr": "117 rue Saint-Lazare Paris, 75008 Paris",
+   "url": "https://www.kfc.fr/nos-restaurants/kfc-paris-saint-lazare"
+  },
+  {
+   "addr": "31-35 boulevard De Sébastopol Paris, 75001 Paris",
+   "url": "https://www.kfc.fr/nos-restaurants/kfc-paris-chatelet"
+  },
+  {
+   "addr": "5 boulevard Beaumarchais Paris, 75004 Paris",
+   "url": "https://www.kfc.fr/nos-restaurants/kfc-bastille"
+  },
+  {
+   "addr": "1 boulevard De Strasbourg Paris, 75010 Paris",
+   "url": "https://www.kfc.fr/nos-restaurants/kfc-paris-strasbourg-st-denis"
+  }
+ ],
+ "Krispy Kreme": [
+  {
+   "addr": "12 rue linois, 75015 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "12 passage de la canopée, 75001 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "17 boulevard de vaugirard, 75015 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "165 rue Saint-Honoré, 75001 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "19 boulevard Henri IV, 75004 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "35 rue Saint Antoine, 75004 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "10 rue Jean Bart, 75006 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "121 rue du Général Leclerc, 75014 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "102 avenue du Général Leclerc, 75014 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "23 rue de Vouillé, 75015 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "405 rue de Vaugirard, 75015 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "1 avenue du Général Sarrail, 75016 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "203 avenue de Versailles, 75016 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "50-60 rue de la Pompe, 75016 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "126 avenue de Wagram, 75017 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "25 boulevard Gouvion St Cyr, 75017 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "76 rue des Poissonniers, 75018 Paris",
+   "url": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+  },
+  {
+   "addr": "106 Bd Saint-Germain, 75006 Paris",
+   "url": "https://restaurants.krispykreme.fr/en/restaurant-doughnuts/our-restaurants/"
+  },
+  {
+   "addr": "4 place Saint-Michel, 75006 Paris",
+   "url": "https://restaurants.krispykreme.fr/en/restaurant-doughnuts/our-restaurants/"
+  },
+  {
+   "addr": "51 avenue des Gobelins, 75013 Paris",
+   "url": "https://restaurants.krispykreme.fr/en/restaurant-doughnuts/our-restaurants/"
+  },
+  {
+   "addr": "42 rue des Rosiers, 75004 Paris",
+   "url": "https://krispykreme.fr/reglement-du-jeu-rue-des-rosiers/"
+  }
+ ],
+ "La Famille": [
+  {
+   "addr": "6 Rue Fourcade, 75015 Paris",
+   "url": "https://lafamilleetcie.fr/en"
+  }
+ ],
+ "Ladurée": [
+  {
+   "addr": "75 Avenue des Champs Elysées, 75008 Paris",
+   "url": "https://laduree.com/pages/stores/paris-centre"
+  },
+  {
+   "addr": "16 Rue Royale, 75008 Paris",
+   "url": "https://laduree.com/pages/stores/paris-centre"
+  },
+  {
+   "addr": "1 rue Norvins, 75018 Paris",
+   "url": "https://laduree.com/pages/stores/paris-centre"
+  },
+  {
+   "addr": "15 Rue Linois, 75015 Paris",
+   "url": "https://laduree.com/pages/stores/paris-centre"
+  },
+  {
+   "addr": "14 rue de Bretagne, 75003 Paris",
+   "url": "https://laduree.com/pages/stores/paris-centre"
+  },
+  {
+   "addr": "17 boulevard Vaugirard, 75015 Paris",
+   "url": "https://laduree.com/pages/stores/paris-centre"
+  },
+  {
+   "addr": "4 place Victor Hugo, 75016 Paris",
+   "url": "https://laduree.com/pages/stores/paris-centre"
+  },
+  {
+   "addr": "4 place Edmond Rostand, 75006 Paris",
+   "url": "https://laduree.com/pages/stores/paris-centre"
+  },
+  {
+   "addr": "133 avenue des Champs-Elysées, 75008 Paris",
+   "url": "https://laduree.com/pages/stores/paris-centre"
+  },
+  {
+   "addr": "21 Rue Bonaparte, 75006 Paris",
+   "url": "https://laduree.com/pages/stores/paris-centre"
+  },
+  {
+   "addr": "232 rue de Rivoli, 75001 Paris",
+   "url": "https://laduree.com/pages/stores/paris-centre"
+  },
+  {
+   "addr": "35 boulevard Haussmann, 75009 Paris",
+   "url": "https://laduree.com/pages/stores/paris-centre"
+  },
+  {
+   "addr": "43/45 Rue Vieille du Temple, 75004 Paris",
+   "url": "https://laduree.com/pages/stores/paris-centre"
+  },
+  {
+   "addr": "40 boulevard Haussmann, 75009 Paris",
+   "url": "https://laduree.com/pages/store/laduree-paris-galeries-lafayette-haussmann"
+  },
+  {
+   "addr": "99 rue de Rivoli, 75001 Paris",
+   "url": "https://laduree.com/fr-ww/pages/store/laduree-paris-carrousel-du-louvre"
+  }
+ ],
+ "Le Pain Quotidien": [
+  {
+   "addr": "150 avenue Victor Hugo, 75016 Paris",
+   "url": "https://www.lepainquotidien.com/br/en/stores"
+  },
+  {
+   "addr": "17 Bd de Vaugirard, 75015 Paris",
+   "url": "https://www.lepainquotidien.com/br/en/stores"
+  },
+  {
+   "addr": "18 Place du Marché Saint Honoré, 75001 Paris",
+   "url": "https://www.lepainquotidien.com/br/en/stores"
+  },
+  {
+   "addr": "49 Rue Saint-Honoré, 75001 Paris",
+   "url": "https://www.lepainquotidien.com/fr/fr/contact"
+  }
+ ],
+ "Le Paradis du Fruit": [
+  {
+   "addr": "4 Rue Saint-Honoré, 75001 Paris",
+   "url": "https://www.leparadisdufruit.fr/nos-restaurants/le-paradis-du-fruit-paris-les-halles"
+  },
+  {
+   "addr": "30 Bd des Italiens, 75009 Paris",
+   "url": "https://www.leparadisdufruit.fr/nos-restaurants/le-paradis-du-fruit-paris-opera"
+  },
+  {
+   "addr": "10 Bd des Batignolles, 75017 Paris",
+   "url": "https://www.leparadisdufruit.fr/nos-restaurants/le-paradis-du-fruit-paris-batignolles"
+  }
+ ],
+ "Le Relais de l'Entrecôte": [
+  {
+   "addr": "101 Boulevard du Montparnasse, 75006 Paris",
+   "url": "https://www.lerelaisdelentrecote.com/"
+  }
+ ],
+ "Lenôtre": [
+  {
+   "addr": "44, rue d'Auteuil, 75016 Paris",
+   "url": "https://www.lenotre.com/en/store-locator"
+  },
+  {
+   "addr": "48, avenue Victor Hugo, 75016 Paris",
+   "url": "https://www.lenotre.com/en/store-locator"
+  },
+  {
+   "addr": "15, boulevard de Courcelles, 75008 Paris",
+   "url": "https://www.lenotre.com/en/store-locator"
+  },
+  {
+   "addr": "61, rue Lecourbe, 75015 Paris",
+   "url": "https://www.lenotre.com/en/store-locator"
+  },
+  {
+   "addr": "22, avenue de la Porte de Vincennes, 75012 Paris",
+   "url": "https://www.lenotre.com/en/store-locator"
+  }
+ ],
+ "Léon": [
+  {
+   "addr": "82 Bd du Montparnasse, 75014 Paris",
+   "url": "https://www.restaurantleon.fr/nos-restaurants/montparnasse"
+  }
+ ],
+ "Maison Landemaine": [
+  {
+   "addr": "180 rue du Temple, 75003 Paris",
+   "url": "https://www.parisgourmand.com/shopping-fetes/le-noel-2025-de-la-maison-landemaine.html"
+  },
+  {
+   "addr": "123 rue Monge, 75005 Paris",
+   "url": "https://www.parisgourmand.com/shopping-fetes/le-noel-2025-de-la-maison-landemaine.html"
+  },
+  {
+   "addr": "56 rue de Clichy, 75009 Paris",
+   "url": "https://www.parisgourmand.com/shopping-fetes/le-noel-2025-de-la-maison-landemaine.html"
+  },
+  {
+   "addr": "41 rue Oberkampf, 75011 Paris",
+   "url": "https://www.parisgourmand.com/shopping-fetes/le-noel-2025-de-la-maison-landemaine.html"
+  },
+  {
+   "addr": "28 boulevard Beaumarchais, 75011 Paris",
+   "url": "https://www.parisgourmand.com/shopping-fetes/le-noel-2025-de-la-maison-landemaine.html"
+  },
+  {
+   "addr": "130 rue de la Roquette, 75011 Paris",
+   "url": "https://www.parisgourmand.com/shopping-fetes/le-noel-2025-de-la-maison-landemaine.html"
+  },
+  {
+   "addr": "2 rue Crozatier, 75012 Paris",
+   "url": "https://www.parisgourmand.com/shopping-fetes/le-noel-2025-de-la-maison-landemaine.html"
+  },
+  {
+   "addr": "5 boulevard de Reuilly, 75012 Paris",
+   "url": "https://www.parisgourmand.com/shopping-fetes/le-noel-2025-de-la-maison-landemaine.html"
+  },
+  {
+   "addr": "110 rue Lecourbe, 75015 Paris",
+   "url": "https://www.parisgourmand.com/shopping-fetes/le-noel-2025-de-la-maison-landemaine.html"
+  },
+  {
+   "addr": "7 Place Cambronne, 75015 Paris",
+   "url": "https://www.parisgourmand.com/shopping-fetes/le-noel-2025-de-la-maison-landemaine.html"
+  },
+  {
+   "addr": "4 rue du Poteau, 75018 Paris",
+   "url": "https://www.parisgourmand.com/shopping-fetes/le-noel-2025-de-la-maison-landemaine.html"
+  }
+ ],
+ "Marie Blachère": [],
+ "McDonald's": [
+  {
+   "addr": "9 Boulevard de la Madeleine, 75001 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-madeleine/1667"
+  },
+  {
+   "addr": "131 Avenue Victor Hugo, 75016 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-victor-hugo/327"
+  },
+  {
+   "addr": "88 bis Avenue Parmentier, 75011 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-parmentier/455"
+  },
+  {
+   "addr": "84 Boulevard Magenta, 75010 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-magenta/286"
+  },
+  {
+   "addr": "71 Avenue du Général Leclerc, 75014 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-alesia/559"
+  },
+  {
+   "addr": "130 Boulevard Voltaire, 75011 Paris",
+   "url": "https://www.restaurants.mcdonalds.fr/mcdonalds-paris-leon-blum"
+  },
+  {
+   "addr": "192 Rue de la Convention, 75015 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-convention/573"
+  },
+  {
+   "addr": "5 Rue du Renard, 75004 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-hotel-de-ville/103"
+  },
+  {
+   "addr": "84, avenue des Champs Elysées, 75008 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-champs-elysees-galerie/681"
+  },
+  {
+   "addr": "34 Boulevard des Italiens, 75009 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-opera-bld-des-italiens/90"
+  },
+  {
+   "addr": "119 Rue Saint Lazare, 75008 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-rue-saint-lazare/666"
+  },
+  {
+   "addr": "11 Avenue de Wagram, 75017 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-wagram/91"
+  },
+  {
+   "addr": "6 Rue de La Chapelle, 75018 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-marx-dormoy/170"
+  },
+  {
+   "addr": "184 Rue de Rivoli, 75001 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-louvre-rivoli/549"
+  },
+  {
+   "addr": "20 Boulevard de Clichy, 75018 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-place-pigalle/749"
+  },
+  {
+   "addr": "145 Avenue de Villiers, 75017 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-porte-de-champerret/770"
+  },
+  {
+   "addr": "277 Boulevard Pereire, 75017 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-porte-maillot/1455"
+  },
+  {
+   "addr": "116 Boulevard Diderot, 75012 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-reuilly-diderot/391"
+  },
+  {
+   "addr": "87, avenue de Flandres, 75019 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-crimee/765"
+  },
+  {
+   "addr": "141 Boulevard Sébastopol, 75002 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-sebastopol/1571"
+  },
+  {
+   "addr": "89 Rue Réaumur, 75002 Paris",
+   "url": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-montorgueil/1589"
+  },
+  {
+   "addr": "79 rue Lecourbe, 75015 Paris",
+   "url": "https://www.restaurants.mcdonalds.fr/mcdonalds-originals-lecourbe"
+  }
+ ],
+ "Meatpack": [],
+ "Michalak": [
+  {
+   "addr": "60 Rue du Faubourg Poissonnière, 75010 Paris",
+   "url": "https://www.christophemichalak.com/magasins"
+  },
+  {
+   "addr": "16 rue de la Verrerie, 75004 Paris",
+   "url": "https://www.christophemichalak.com/magasins"
+  },
+  {
+   "addr": "8 rue du Vieux Colombier, 75006 Paris",
+   "url": "https://www.christophemichalak.com/magasins"
+  },
+  {
+   "addr": "37 rue Etienne Marcel, 75001 Paris",
+   "url": "https://www.christophemichalak.com/magasins"
+  },
+  {
+   "addr": "38 Rue du Bac, 75007 Paris",
+   "url": "https://www.christophemichalak.com/magasins"
+  },
+  {
+   "addr": "114 Avenue Victor Hugo, 75016 Paris",
+   "url": "https://www.christophemichalak.com/magasins"
+  },
+  {
+   "addr": "2 rue du Havre, 75009 Paris",
+   "url": "https://www.christophemichalak.com/magasins"
+  },
+  {
+   "addr": "30 rue du Commerce, 75015 Paris",
+   "url": "https://www.christophemichalak.com/magasins"
+  }
+ ],
+ "O'Tacos": [
+  {
+   "addr": "101 Bd Poniatowski, 75012 Paris",
+   "url": "https://restaurants.o-tacos.com/france/ile-de-france/paris/paris/paris-porte-doree"
+  },
+  {
+   "addr": "12 Rue Vavin, 75006 Paris",
+   "url": "https://restaurants.o-tacos.com/be-fr/france/ile-de-france/paris/paris/paris-vavin"
+  },
+  {
+   "addr": "105 Bd de Grenelle, 75015 Paris",
+   "url": "https://restaurants.o-tacos.com/fr-en/france/ile-de-france/paris/paris/paris-tour-eiffel"
+  },
+  {
+   "addr": "144 Rue La Fayette, 75010 Paris",
+   "url": "https://restaurants.o-tacos.com/be-en/france/ile-de-france/paris/paris/paris-gare-du-nord"
+  },
+  {
+   "addr": "36 Rue Cesária Évora, 75019 Paris",
+   "url": "https://restaurants.o-tacos.com/france/ile-de-france/paris/paris/rosa-parks"
+  },
+  {
+   "addr": "83 Rue Réaumur, 75002 Paris",
+   "url": "https://restaurants.o-tacos.com/france/ile-de-france/paris/paris/paris-reaumur"
+  }
+ ],
+ "PNY": [
+  {
+   "addr": "2 Rue des Guillemites, 75004 Paris",
+   "url": "https://order.pnyburger.com/fr/shops"
+  },
+  {
+   "addr": "15 Rue de la Gaité, 75014 Paris",
+   "url": "https://order.pnyburger.com/fr/shops"
+  },
+  {
+   "addr": "1 Rue Perrée, 75003 Paris",
+   "url": "https://order.pnyburger.com/fr/shops"
+  },
+  {
+   "addr": "96 Rue Oberkampf, 75011 Paris",
+   "url": "https://order.pnyburger.com/fr/shops"
+  },
+  {
+   "addr": "24 Rue Pierre Fontaine, 75009 Paris",
+   "url": "https://order.pnyburger.com/fr/shops"
+  },
+  {
+   "addr": "120 Rue du Faubourg Saint-Antoine, 75012 Paris",
+   "url": "https://order.pnyburger.com/fr/shops"
+  },
+  {
+   "addr": "10, rue Sainte-Croix de la Bretonnerie, 75004 Paris",
+   "url": "https://www.pnyburger.com/campaigns/view-campaign/N8O4Fc3QATm15FdiKvX0RAazTdTX9Stx9XvXbiyWb2AQOHWYc77vsZ0QYed-bWr00qxuUg6ShzbitbjS4CI61jmaYXIvg5Oo"
+  }
+ ],
+ "Paul": [
+  {
+   "addr": "77, rue de Seine, 75007 Paris",
+   "url": "https://www.paul-bakeries.com/pnews-details/paul-in-the-heart-of-saint-germain-des-pres"
+  },
+  {
+   "addr": "55, Boulevard Haussmann et 35/37 rue Tronchet, 75008 Paris",
+   "url": "https://www.paul-bakeries.com/pnews-details/paul-aux-tortues-et-sa-facade-classee-61d8537eed93a"
+  }
+ ],
+ "Pierre Hermé": [
+  {
+   "addr": "23, Boulevard des Capucines, 75002 Paris",
+   "url": "https://www.pierreherme.com/fr/boutique-infiniment-chocolat"
+  },
+  {
+   "addr": "72 rue Bonaparte, 75006 Paris",
+   "url": "https://www.pierreherme.com/contact/"
+  },
+  {
+   "addr": "53 - 57 Rue de Grenelle, 75007 Paris",
+   "url": "https://www.pierreherme.com/cafe-pierre-herme-beaupassage"
+  },
+  {
+   "addr": "126, boulevard Saint-Germain, 75006 Paris",
+   "url": "https://www.pierreherme.com/fr/croissant.html"
+  },
+  {
+   "addr": "35 Bd Haussmann, 75009 Paris",
+   "url": "https://www.pierreherme.com/fr/croissant.html"
+  },
+  {
+   "addr": "43, rue Saint-Placide, 75006 Paris",
+   "url": "https://www.pierreherme.com/fr/croissant.html"
+  },
+  {
+   "addr": "35 Boulevard Haussmann, 75009 Paris",
+   "url": "https://www.pierreherme.com/en/croissant.html"
+  },
+  {
+   "addr": "57 Rue de Grenelle, 75007 Paris",
+   "url": "https://www.pierreherme.com/en/croissant.html"
+  }
+ ],
+ "Pitaya": [
+  {
+   "addr": "99 Rue de Rivoli, 75001 Paris",
+   "url": "https://pitaya-thaistreetfood.com/restaurants/ile-de-france/paris"
+  },
+  {
+   "addr": "5, Rue de la Harpe, 75005 Paris",
+   "url": "https://pitaya-thaistreetfood.com/restaurants/ile-de-france/paris"
+  },
+  {
+   "addr": "88, Rue de Clichy, 75009 Paris",
+   "url": "https://pitaya-thaistreetfood.com/r/pitaya-paris-place-de-clichy"
+  }
+ ],
+ "Pizza Hut": [
+  {
+   "addr": "109 bd Richard Lenoir, 75011 Paris",
+   "url": "https://fr.mappy.com/app/pizza-hut/75000-paris"
+  },
+  {
+   "addr": "33 Rue de Tolbiac, 75013 Paris",
+   "url": "https://fr.mappy.com/app/pizza-hut/75000-paris"
+  },
+  {
+   "addr": "129 bd St Michel, 75005 Paris",
+   "url": "https://fr.mappy.com/app/pizza-hut/75000-paris"
+  },
+  {
+   "addr": "22 Rue Jean Nicot, 75007 Paris",
+   "url": "https://fr.mappy.com/app/pizza-hut/75000-paris"
+  },
+  {
+   "addr": "51 bd Soult, 75012 Paris",
+   "url": "https://fr.mappy.com/app/pizza-hut/75000-paris"
+  },
+  {
+   "addr": "19 Rue Du Rocher, 75008 Paris",
+   "url": "https://ou-utiliser.up.coop/enseignes/pizza-hut-78206781"
+  },
+  {
+   "addr": "9 Rue De Rochechouart, 75009 Paris",
+   "url": "https://ou-utiliser.up.coop/enseignes/pizza-hut-78206781"
+  },
+  {
+   "addr": "29 Boulevard Des Italiens, 75002 Paris",
+   "url": "https://ou-utiliser.up.coop/enseignes/pizza-hut-78206781"
+  },
+  {
+   "addr": "37 Avenue Secretan, 75019 Paris",
+   "url": "https://ou-utiliser.up.coop/enseignes/pizza-hut-78206781"
+  },
+  {
+   "addr": "22B Rue Jean Nicot, 75007 Paris",
+   "url": "https://ou-utiliser.up.coop/enseignes/pizza-hut-78206781"
+  },
+  {
+   "addr": "5 Rue De L Annonciation, 75016 Paris",
+   "url": "https://ou-utiliser.up.coop/enseignes/pizza-hut-78206781"
+  },
+  {
+   "addr": "7 Avenue Gambetta, 75020 Paris",
+   "url": "https://ou-utiliser.up.coop/enseignes/pizza-hut-78206781"
+  },
+  {
+   "addr": "16 Rue Fremicourt, 75015 Paris",
+   "url": "https://ou-utiliser.up.coop/enseignes/pizza-hut-78206781"
+  },
+  {
+   "addr": "45 Rue Jean De La Fontaine, 75016 Paris",
+   "url": "https://ou-utiliser.up.coop/enseignes/pizza-hut-78206781"
+  },
+  {
+   "addr": "41 Boulevard Auguste Blanqui, 75013 Paris",
+   "url": "https://ou-utiliser.up.coop/enseignes/pizza-hut-78206781"
+  }
+ ],
+ "Planet Sushi": [
+  {
+   "addr": "2 boulevard Richard Lenoir, 75011 Paris",
+   "url": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+  },
+  {
+   "addr": "35 boulevard Voltaire, 75011 Paris",
+   "url": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+  },
+  {
+   "addr": "111 rue Monge, 75005 Paris",
+   "url": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+  },
+  {
+   "addr": "37 boulevard Malesherbes, 75008 Paris",
+   "url": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+  },
+  {
+   "addr": "22 avenue Secrétan, 75019 Paris",
+   "url": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+  },
+  {
+   "addr": "243 rue des Pyrénées, 75020 Paris",
+   "url": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+  },
+  {
+   "addr": "100 avenue du Général Leclerc, 75014 Paris",
+   "url": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+  },
+  {
+   "addr": "75 avenue Kléber, 75016 Paris",
+   "url": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+  },
+  {
+   "addr": "5 place du Maréchal Juin, 75017 Paris",
+   "url": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+  },
+  {
+   "addr": "55 RUE MONTORGUEIL, 75002 Paris",
+   "url": "https://francy-annu.com/P/PLANET-SUSHI-1.php"
+  },
+  {
+   "addr": "9 RUE SAINT DIDIER, 75116 Paris",
+   "url": "https://francy-annu.com/P/PLANET-SUSHI-1.php"
+  },
+  {
+   "addr": "29 RUE BOIS LE VENT, 75016 Paris",
+   "url": "https://francy-annu.com/P/PLANET-SUSHI-1.php"
+  },
+  {
+   "addr": "123 Rue de la Pompe, 75016 Paris",
+   "url": "https://fr.mappy.com/poi/64014dd8f903d612a9d4a1f5"
+  }
+ ],
+ "Pokawa": [
+  {
+   "addr": "97 Rue des Entrepreneurs, 75015 Paris",
+   "url": "https://restaurants.pokawa.com/en/poke-bowl-paris-15-commerce/"
+  }
+ ],
+ "Popeyes": [
+  {
+   "addr": "15 PLACE DE LA REPUBLIQUE, 75003 Paris",
+   "url": "https://leguide.ancv.com/ptl/restauration/restauration_rapide/077040_popeyes_republique/848663001002"
+  }
+ ],
+ "Pret A Manger": [
+  {
+   "addr": "66 avenue des Champs-Élysées, 75008 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "110 avenue de France, 75013 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "39-51 avenue Pierre Mendès-France, 75013 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "22 avenue d'Italie, 75013 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "11 Rue de Sèze, 75009 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "45 rue La Fayette, 75009 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "25-27 rue Duphot, 75008 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "15 rue Marbeuf, 75008 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "58 avenue Marceau, 75008 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "123 boulevard Haussmann, 75008 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "31 avenue de l'Opéra, 75002 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "109 rue Saint Lazare, 75009 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "91, Boulevard Haussmann, 75008 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "49 boulevard Saint-Michel, 75005 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "75 rue Saint-Lazare, 75009 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "34 Rue Tronchet, 75009 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+  },
+  {
+   "addr": "36 rue du Louvre, 75001 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/liste-pret-business"
+  },
+  {
+   "addr": "10 place de Budapest, 75009 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/liste-terrasse"
+  },
+  {
+   "addr": "34-36 Rue du Louvre, 75001 Paris",
+   "url": "https://www.pret.com/fr-FR/shop-finder/l/paris/34-36-rue-du-louvre/10558"
+  },
+  {
+   "addr": "13 Rue d'Amsterdam, 75009 Paris",
+   "url": "https://www.pret.com/fr-FR/shop-finder/l/paris/13-rue-d-amsterdam/11198"
+  },
+  {
+   "addr": "17 Boulevard de Vaugirard, 75015 Paris",
+   "url": "https://www.pret.com/fr-FR/shop-finder/l/paris/17-boulevard-de-vaugirard/10833"
+  },
+  {
+   "addr": "17 Boulevard Vaugirard, 75015 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-over-iced-shop-liste"
+  },
+  {
+   "addr": "18 rue de Dunkerque, 75010 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-over-iced-shop-liste"
+  },
+  {
+   "addr": "13 Rue d'Amsterdam, 75008 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/fr-over-iced-shop-liste"
+  },
+  {
+   "addr": "106 rue de la Boétie, 75008 Paris",
+   "url": "https://www.pretamanger.fr/fr-FR/termes-et-conditions"
+  }
+ ],
+ "Puffy": [
+  {
+   "addr": "28 Rue Linois, 75015 Paris",
+   "url": "https://www.puffycookies.fr/locations?lang=fr"
+  },
+  {
+   "addr": "14 Rue de Bretagne, 75003 Paris",
+   "url": "https://www.puffycookies.fr/locations?lang=fr"
+  },
+  {
+   "addr": "21 Rue Danielle Casanova, 75001 Paris",
+   "url": "https://www.puffycookies.fr/locations?lang=fr"
+  },
+  {
+   "addr": "65 Rue Condorcet, 75009 Paris",
+   "url": "https://www.puffycookies.fr/locations?lang=fr"
+  },
+  {
+   "addr": "26 Rue Legendre, 75017 Paris",
+   "url": "https://www.puffycookies.fr/locations?lang=fr"
+  }
+ ],
+ "Starbucks": [
+  {
+   "addr": "54 Bd du Temple, 75011 Paris",
+   "url": "https://www.starbucks.fr/store-locator/78755-308819"
+  },
+  {
+   "addr": "2 Rue du Renard, 75004 Paris",
+   "url": "https://www.starbucks.fr/store-locator/83066-312302"
+  }
+ ],
+ "Street Bangkok": [
+  {
+   "addr": "112 Rue St Denis, 75002 Paris",
+   "url": "https://www.streetbangkok.fr/restaurants"
+  }
+ ],
+ "Subway": [
+  {
+   "addr": "36 Boulevard Saint Michel, 75006 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris"
+  },
+  {
+   "addr": "19 Quai de Montebello, 75005 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris"
+  },
+  {
+   "addr": "90 Rue Saint Martin, 75004 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris"
+  },
+  {
+   "addr": "23 Rue Beaubourg, 75003 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris"
+  },
+  {
+   "addr": "33 Rue des Petits Carreaux, 75002 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris"
+  },
+  {
+   "addr": "15 Rue Vavin, 75006 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris"
+  },
+  {
+   "addr": "51 Rue Saint Paul, 75004 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris"
+  },
+  {
+   "addr": "15 Boulevard Montmatre, 75002 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris"
+  },
+  {
+   "addr": "3 Rue Castellane, 75008 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris"
+  },
+  {
+   "addr": "39 Rue Joubert, 75009 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris"
+  },
+  {
+   "addr": "17 Rue de La Roquette, 75011 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr"
+  },
+  {
+   "addr": "7 Rue Michel Chasles, 75012 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr"
+  },
+  {
+   "addr": "60 Avenue des Gobelins, 75013 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris/subway-paris-gobelins-63"
+  },
+  {
+   "addr": "81 Rue de Tolbiac, 75013 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris/subway-paris-tolbiac-60"
+  },
+  {
+   "addr": "63 boulevard de Grenelle, 75015 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris/subway-paris-dupleix-50"
+  },
+  {
+   "addr": "7 Boulevard Denain, 75010 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris/subway-paris-gare-du-nord-41"
+  },
+  {
+   "addr": "228 Bd Voltaire, 75011 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france"
+  },
+  {
+   "addr": "85 Rue Reuilly, 75012 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france"
+  },
+  {
+   "addr": "39 Boulevard Pasteur, 75015 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris/subway-paris-pasteur-51"
+  },
+  {
+   "addr": "1 Avenue de Secretan, 75019 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris/subway-paris-jean-jaures-83"
+  },
+  {
+   "addr": "30-32 Boulevard de Vaugirard, 75015 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris/subway-paris-vaugirard-75"
+  },
+  {
+   "addr": "2 Rue Houdon, 75018 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris/subway-paris-houdon-80"
+  },
+  {
+   "addr": "58 Rue de La Pompe, 75016 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris/subway-paris-rue-de-la-pompe-71"
+  },
+  {
+   "addr": "63 rue Fondary, 75015 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris/subway-paris-fondary-82"
+  },
+  {
+   "addr": "11 Rue de Ponthieu, 75008 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris/subway-paris-ponthieu-62"
+  },
+  {
+   "addr": "70 Avenue de Clichy, 75017 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris/subway-paris-la-fourche-67"
+  },
+  {
+   "addr": "218 Bis Rue des Pyrénées, 75020 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris/subway-paris-gambetta-363"
+  },
+  {
+   "addr": "196-198 avenue de France, 75013 Paris",
+   "url": "https://subwayfrance.fr/contact"
+  },
+  {
+   "addr": "275 Avenue de Dausmenil, 75012 Paris",
+   "url": "https://restaurants.subwayfrance.fr/fr/ile-de-france/paris/paris/subway-paris-porte-doree-81"
+  }
+ ],
+ "Sushi Shop": [
+  {
+   "addr": "24 Rue du Commerce, 75015 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "105 rue de la Convention, 75015 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "125 rue des Dames, 75017 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "13 rue Auguste Perret, 75013 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "45 rue de Reuilly, 75012 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "25 Avenue des Ternes, 75017 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "42 Rue de bretagne, 75003 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "71 Rue du Cherche-Midi, 75006 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "178 rue de Courcelles, 75017 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "130 Boulevard de Grenelle, 75015 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "60 rue la Boétie, 75008 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "19 Rue Lepic, 75018 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "52 bis avenue Mozart, 75016 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "90 avenue Raymond Poincaré, 75016 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "111 rue du Faubourg Saint Antoine, 75011 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "86 rue saint Dominique, 75007 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "30 Avenue Secrétan, 75019 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "348 rue de Vaugirard, 75015 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  },
+  {
+   "addr": "3, avenue de Villiers, 75017 Paris",
+   "url": "https://www.sushishop.fr/fr/restaurants/paris"
+  }
+ ],
+ "The French Bastards": [
+  {
+   "addr": "181 rue Saint-Denis, 75002 Paris",
+   "url": "https://thefrenchbastards.fr/media/pages/carte/0a725f37d2-1764861022/brochure_b2b-hiver-sans-prix-copy.pdf"
+  },
+  {
+   "addr": "5 rue du Temple, 75004 Paris",
+   "url": "https://thefrenchbastards.fr/media/pages/carte/0a725f37d2-1764861022/brochure_b2b-hiver-sans-prix-copy.pdf"
+  },
+  {
+   "addr": "23 rue de Rambuteau, 75004 Paris",
+   "url": "https://thefrenchbastards.fr/media/pages/carte/0a725f37d2-1764861022/brochure_b2b-hiver-sans-prix-copy.pdf"
+  },
+  {
+   "addr": "60 rue de Sèvres, 75007 Paris",
+   "url": "https://thefrenchbastards.fr/media/pages/carte/0a725f37d2-1764861022/brochure_b2b-hiver-sans-prix-copy.pdf"
+  },
+  {
+   "addr": "64 rue du Bac, 75007 Paris",
+   "url": "https://thefrenchbastards.fr/media/pages/carte/0a725f37d2-1764861022/brochure_b2b-hiver-sans-prix-copy.pdf"
+  },
+  {
+   "addr": "65 rue Jean-Baptiste Pigalle, 75009 Paris",
+   "url": "https://thefrenchbastards.fr/media/pages/carte/0a725f37d2-1764861022/brochure_b2b-hiver-sans-prix-copy.pdf"
+  },
+  {
+   "addr": "61 rue Oberkampf, 75011 Paris",
+   "url": "https://thefrenchbastards.fr/media/pages/carte/0a725f37d2-1764861022/brochure_b2b-hiver-sans-prix-copy.pdf"
+  },
+  {
+   "addr": "52 rue de Lévis, 75017 Paris",
+   "url": "https://thefrenchbastards.fr/media/pages/carte/0a725f37d2-1764861022/brochure_b2b-hiver-sans-prix-copy.pdf"
+  },
+  {
+   "addr": "35 Place Saint-Ferdinand, 75017 Paris",
+   "url": "https://thefrenchbastards.fr/media/pages/carte/0a725f37d2-1764861022/brochure_b2b-hiver-sans-prix-copy.pdf"
+  }
+ ],
+ "Volfoni": []
+}

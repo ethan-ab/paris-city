@@ -225,12 +225,13 @@ const walk = m => m < 1200 ? `${Math.max(1, Math.round(m/80))} min walk` : `${(m
 /* ---------- detail card ---------- */
 let card = null;
 const wrap = $('mapwrap');
+function hostOf(u){ try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return ''; } }
 function showCard(p){
   card && card.remove();
   const C = CATS[p.c];
   card = document.createElement('div'); card.className = 'card';
   card.style.setProperty('--c', css(C.c)); card.style.setProperty('--cs', css(C.cs));
-  const host = (() => { try { return new URL(p.src).hostname.replace(/^www\./, ''); } catch { return ''; } })();
+  const host = hostOf(p.src);
   const alts = p.c !== 'ind' ? alternatives(p) : [];
   nearIds = alts.map(a => a.q.i);
   card.innerHTML = `<button class="x" aria-label="Close">×</button>
@@ -239,6 +240,7 @@ function showCard(p){
     <dl>${p.o ? `<dt>${p.c === 'ind' ? 'Owned by' : 'Backer'}</dt><dd>${esc(p.o)}</dd>` : ''}${p.y ? `<dt>Since</dt><dd>${esc(p.y)}</dd>` : ''}</dl>
     ${p.note ? `<p>${esc(p.note)}</p>` : ''}
     ${/^https?:\/\//i.test(p.src || '') ? `<a class="src" target="_blank" rel="noopener" href="${esc(p.src)}">Source: ${esc(host)} ↗</a>` : ''}
+    ${/^https?:\/\//i.test(p.ls || '') ? `<a class="src ls" target="_blank" rel="noopener" href="${esc(p.ls)}">Address: ${esc(hostOf(p.ls))} ↗</a>` : ''}
     ${alts.length ? `<div class="alts"><h3>Independent nearby</h3>${alts.map(a => `<button class="alt" data-i="${a.q.i}"><div><b>${esc(a.q.n)}</b><br><span>${esc(a.q.cu || '')}</span></div><i>${walk(a.m)}</i></button>`).join('')}</div>` : ''}`;
   card.querySelector('.x').onclick = () => select(null);
   card.querySelectorAll('.alt').forEach(b => b.onclick = () => select(+b.dataset.i, true));
@@ -301,7 +303,7 @@ const emptyEl = document.createElement('div'); emptyEl.className = 'empty'; empt
 emptyEl.innerHTML = 'Nothing matches. <a href="#" id="emptySuggest" style="color:var(--azure)">Suggest it</a> or try another search.';
 listEl.appendChild(emptyEl);
 const foot = document.createElement('div'); foot.className = 'foot';
-foot.innerHTML = `Ownership as reported publicly${CHECKED ? ', checked ' + esc(CHECKED) : ''}. Chain branches are placed from OpenStreetMap. "PE-backed" includes significant minority stakes and investment funds that own a business outright. Ownership changes fast; each card links its source. Inspired by the <a href="https://london-food-money-matrix.vercel.app" target="_blank" rel="noopener">London Food Money Matrix</a>.`;
+foot.innerHTML = `Ownership as reported publicly${CHECKED ? ', checked ' + esc(CHECKED) : ''}. Chain branches are placed from OpenStreetMap and from the chains' own restaurant lists (found with Exa). "PE-backed" includes significant minority stakes and investment funds that own a business outright. Ownership changes fast; each card links its source. Inspired by the <a href="https://london-food-money-matrix.vercel.app" target="_blank" rel="noopener">London Food Money Matrix</a>.`;
 listEl.appendChild(foot);
 
 function render(){

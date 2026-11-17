@@ -136,6 +136,42 @@ def brand_branches(osm_name, extra_names=(), exact=False, values=None):
     return out
 
 
+def geocode_branch(addr):
+    """BAN lookup for a chain address found by Exa: only exact house-number matches, so no pin lands on a street centroid.
+    Messy listings are tidied first ("12-14 rue X" -> "12 rue X", "... et 1 bd Y" / "angle ..." / "Centre commercial ..." cut),
+    then retried without the postcode (75016 vs 75116 and similar mismatches)."""
+    m = re.match(r'^(.*?),\s*(75\d{3}) Paris$', addr)
+    street, pc = (m.group(1), m.group(2)) if m else (addr, '')
+    street = re.sub(r'^(\d+)\s*(?:bis|ter)?\s*[-/]\s*\d+', r'\1', street, flags=re.I)
+    street = re.split(r'\s+(?:et|angle|centre commercial|cc|loc\.|niveau|ilot|îlot)\s+|\s+\d+/\d+\s', street, flags=re.I)[0].strip(' ,')
+    for q_text in ([f'{street}, {pc} Paris'] if pc else []) + [f'{street}, Paris']:
+        q = urllib.parse.quote(q_text)
+        data = fetch_json(f'https://api-adresse.data.gouv.fr/search/?q={q}&limit=1', 'ban_' + fold(q_text))
+        feats = (data or {}).get('features') or []
+        if not feats:
+            continue
+        p = feats[0]['properties']
+        lon, lat = feats[0]['geometry']['coordinates']
+        if p.get('type') == 'housenumber' and p.get('score', 0) >= 0.6 and in_paris(lon, lat):
+            return {'lat': lat, 'lon': lon, 'postcode': p.get('postcode'), 'street': p.get('name') or ''}
+    return None
+
+
+def exa_branches(brand, osm):
+    """Branches of `brand` found by scripts/exa_branches.py that OpenStreetMap does not already have (80 m apart)."""
+    out = []
+    for e in EXA.get(brand, []):
+        g = geocode_branch(e['addr'])
+        if not g or not arr_from_postcode(g['postcode']):
+            continue
+        if any(abs(g['lat'] - q['lat']) < 0.00072 and abs(g['lon'] - q['lon']) < 0.0011 for q in osm + out):
+            continue
+        if fold(g['street']) in {fold(' '.join(x for x in (q.get('housenumber'), q.get('street')) if x)) for q in osm}:
+            continue  # same address as an OSM branch whose point sits further along the street
+        out.append(g | {'url': e['url']})
+    return out
+
+
 def clean(rec):
     r = {k: rec.get(k) for k in ('n', 'cu', 'k', 'pr', 'c', 'o', 'y', 'note', 'src') if rec.get(k) not in (None, '')}
     if r.get('k') not in KINDS:
@@ -149,7 +185,14 @@ def clean(rec):
     return r
 
 
+EXA = {}
+
+
 def main():
+    exa_path = os.path.join(ROOT, 'data', 'exa_branches.json')
+    if os.path.exists(exa_path):
+        with open(exa_path) as f:
+            EXA.update(json.load(f))
     records = []
     for path in sorted(glob.glob(os.path.join(ROOT, 'data', 'research', '*.json'))):
         with open(path) as f:
@@ -175,30 +218,36 @@ def main():
     # warm the caches in parallel (lookups are cached, the loop below then runs from cache)
     from concurrent.futures import ThreadPoolExecutor
     with ThreadPoolExecutor(6) as ex:
+        list(ex.map(geocode_branch, [e['addr'] for v in EXA.values() for e in v]))
         list(ex.map(lambda r: brand_branches(r.get('osm') or r['n'], r.get('osm_alt') or [], r.get('osm_exact', False), r.get('osm_values')) if r.get('type') == 'brand'
                     else geocode_venue(r.get('addr') or ''), seen.values()))
 
-    places, misses = [], []
+    places, misses, n_exa = [], [], 0
     for r in seen.values():
         base = clean(r)
         if r.get('type') == 'brand':
             br = brand_branches(r.get('osm') or r['n'], r.get('osm_alt') or [], r.get('osm_exact', False), r.get('osm_values'))
+            exa = exa_branches(r['n'], br)
+            n_exa += len(exa)
+            br = br + exa
             if not br and r.get('addr'):
                 r['type'] = 'venue'
             for p in br:
                 n = arr_from_postcode(p.get('postcode'))
                 if not n:
                     continue
-                street = ' '.join(x for x in (p.get('housenumber'), p.get('street')) if x)
+                street = p.get('street') if p.get('url') else ' '.join(x for x in (p.get('housenumber'), p.get('street')) if x)
                 place = dict(base)
                 place['n'] = f"{base['n']} · {street}" if street else base['n']
                 place['a'] = street or p.get('locality') or ''
                 place['area'] = area_label(n)
                 place['ll'] = [round(p['lat'], 5), round(p['lon'], 5)]
                 place['_brand'] = base['n']
+                if p.get('url'):
+                    place['ls'] = p['url']  # where the address was found (brand site / listing), via Exa
                 places.append(place)
             if not br and r.get('type') == 'brand':
-                misses.append(f"brand with no Paris branch on OSM: {r['n']}")
+                misses.append(f"brand with no Paris branch on OSM or Exa: {r['n']}")
             if r.get('type') == 'brand':
                 continue
         g = geocode_venue(r.get('addr') or '')
@@ -243,7 +292,7 @@ def main():
     places = kept
     places.sort(key=lambda p: ({'pe': 0, 'vc': 1, 'corp': 2, 'ind': 3}[p['c']], p['n']))
     counts = {c: sum(p['c'] == c for p in places) for c in ('pe', 'vc', 'corp', 'ind')}
-    print('places:', len(places), counts)
+    print('places:', len(places), counts, f'({n_exa} chain branches added from Exa before de-duplication)')
     for m in misses:
         print('  !', m)
 

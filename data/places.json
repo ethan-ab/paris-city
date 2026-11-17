@@ -68,6 +68,24 @@
 ]
 },
 {
+"n": "Bchef · 15 Avenue de Ségur",
+"cu": "Burgers",
+"k": "Burgers & chicken",
+"pr": 1,
+"c": "pe",
+"o": "Founders; Food Invest II (Elevation Capital Partners) minority",
+"y": "2025",
+"note": "French burger chain founded in 2015; in January 2025 it raised €1.35m from the FPCI Food Invest II fund managed by Elevation Capital Partners and private investors.",
+"src": "https://www.lesechos.fr/pme-regions/ile-de-france/restauration-rapide-bchef-leve-des-fonds-pour-grossir-sur-le-marche-du-burger-2145286",
+"a": "15 Avenue de Ségur",
+"area": "7e · Invalides & Eiffel",
+"ll": [
+48.85207,
+2.31073
+],
+"ls": "https://www.snarr.fr/bchef/"
+},
+{
 "n": "Big Fernand · 12 Avenue de Villiers",
 "cu": "Burgers",
 "k": "Burgers & chicken",
@@ -83,6 +101,78 @@
 48.88181,
 2.31492
 ]
+},
+{
+"n": "Big Fernand · 32 Rue Saint-Sauveur",
+"cu": "Burgers",
+"k": "Burgers & chicken",
+"pr": 2,
+"c": "pe",
+"o": "Bluegem Capital Partners (majority)",
+"y": "2017",
+"note": "London-based Bluegem Capital Partners took a majority stake (about 80%) in 2017. In 2026 Bluegem injected about €2.4m as the group exited a safeguard procedure with creditors writing off 85% of €19m debt.",
+"src": "https://paperjam.lu/article/bluegem-evite-a-big-fernand-de-setrangler",
+"a": "32 Rue Saint-Sauveur",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.8663,
+2.34752
+],
+"ls": "https://www.horaires-commerces.fr/enseignes/big-fernand"
+},
+{
+"n": "Big Fernand · 55 Rue du Faubourg Poissonnière",
+"cu": "Burgers",
+"k": "Burgers & chicken",
+"pr": 2,
+"c": "pe",
+"o": "Bluegem Capital Partners (majority)",
+"y": "2017",
+"note": "London-based Bluegem Capital Partners took a majority stake (about 80%) in 2017. In 2026 Bluegem injected about €2.4m as the group exited a safeguard procedure with creditors writing off 85% of €19m debt.",
+"src": "https://paperjam.lu/article/bluegem-evite-a-big-fernand-de-setrangler",
+"a": "55 Rue du Faubourg Poissonnière",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87476,
+2.34795
+],
+"ls": "https://www.horaires-commerces.fr/enseignes/big-fernand"
+},
+{
+"n": "Big Fernand · 8 Promenade Claude Lévi-Strauss",
+"cu": "Burgers",
+"k": "Burgers & chicken",
+"pr": 2,
+"c": "pe",
+"o": "Bluegem Capital Partners (majority)",
+"y": "2017",
+"note": "London-based Bluegem Capital Partners took a majority stake (about 80%) in 2017. In 2026 Bluegem injected about €2.4m as the group exited a safeguard procedure with creditors writing off 85% of €19m debt.",
+"src": "https://paperjam.lu/article/bluegem-evite-a-big-fernand-de-setrangler",
+"a": "8 Promenade Claude Lévi-Strauss",
+"area": "13e · Butte-aux-Cailles",
+"ll": [
+48.83065,
+2.3754
+],
+"ls": "https://foodfast.fr/ile-de-france/reseau/big-fernand"
+},
+{
+"n": "Big Fernand · 99 Rue de Provence",
+"cu": "Burgers",
+"k": "Burgers & chicken",
+"pr": 2,
+"c": "pe",
+"o": "Bluegem Capital Partners (majority)",
+"y": "2017",
+"note": "London-based Bluegem Capital Partners took a majority stake (about 80%) in 2017. In 2026 Bluegem injected about €2.4m as the group exited a safeguard procedure with creditors writing off 85% of €19m debt.",
+"src": "https://paperjam.lu/article/bluegem-evite-a-big-fernand-de-setrangler",
+"a": "99 Rue de Provence",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87417,
+2.33005
+],
+"ls": "https://www.horaires-commerces.fr/enseignes/big-fernand"
 },
 {
 "n": "Big Fernand · Place Louis Armand",
@@ -168,6 +258,24 @@
 48.86826,
 2.3475
 ]
+},
+{
+"n": "Bioburger · 79 Boulevard du Montparnasse",
+"cu": "Organic burgers",
+"k": "Burgers & chicken",
+"pr": 2,
+"c": "pe",
+"o": "Founders (majority); Financière Fonds Privés, Biocoop, crowdfunding investors",
+"y": "2023",
+"note": "Paris-born organic burger chain; in 2023 it raised €3.5m in equity from investment firm Financière Fonds Privés, with founders Anthony Darré and Louis Frack remaining majority shareholders.",
+"src": "https://www.franchise-magazine.com/news-franchise/restauration-rapide-reseau-bioburger-levee-fonds-decembre-2023",
+"a": "79 Boulevard du Montparnasse",
+"area": "6e · Saint-Germain",
+"ll": [
+48.8436,
+2.32538
+],
+"ls": "https://restaurants.bioburger.fr/restaurant-burger-bio/paris-6-montparnasse/"
 },
 {
 "n": "Bioburger · 88 Rue Mstislav Rostropovitch",
@@ -391,6 +499,42 @@
 ]
 },
 {
+"n": "Breizh Café · 4 Impasse des Carrières",
+"cu": "Crêperie",
+"k": "Crêperie",
+"pr": 2,
+"c": "pe",
+"o": "Artémis (Pinault family, majority); founder Bertrand Larcher",
+"y": "2026",
+"note": "Artémis, the Pinault family investment company and a shareholder since 2017, became majority owner of the French Breizh Café restaurants in June 2026; the Marais site stays with the Larcher family.",
+"src": "https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/nous-voulons-accelerer-a-linternational-la-famille-pinault-prend-le-controle-de-la-plupart-des-creperies-breizh-cafe-7070905.php",
+"a": "4 Impasse des Carrières",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.85834,
+2.28143
+],
+"ls": "https://www.breizhcafe.com/passy"
+},
+{
+"n": "Breizh Café · 59 Rue Cler",
+"cu": "Crêperie",
+"k": "Crêperie",
+"pr": 2,
+"c": "pe",
+"o": "Artémis (Pinault family, majority); founder Bertrand Larcher",
+"y": "2026",
+"note": "Artémis, the Pinault family investment company and a shareholder since 2017, became majority owner of the French Breizh Café restaurants in June 2026; the Marais site stays with the Larcher family.",
+"src": "https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/nous-voulons-accelerer-a-linternational-la-famille-pinault-prend-le-controle-de-la-plupart-des-creperies-breizh-cafe-7070905.php",
+"a": "59 Rue Cler",
+"area": "7e · Invalides & Eiffel",
+"ll": [
+48.8557,
+2.30708
+],
+"ls": "https://www.breizhcafe.com/rue-cler"
+},
+{
 "n": "Breizh Café · 8 bis Rue Verderet",
 "cu": "Crêperie",
 "k": "Crêperie",
@@ -510,6 +654,24 @@
 ]
 },
 {
+"n": "Buffalo Grill · 117 Avenue du Général Leclerc",
+"cu": "Steakhouse",
+"k": "Steak & grill",
+"pr": 2,
+"c": "pe",
+"o": "TDR Capital",
+"y": "2018",
+"note": "Abenex and Nixen sold Buffalo Grill to London private equity firm TDR Capital in 2018 for about €400m.",
+"src": "https://fr.wikipedia.org/wiki/Buffalo_Grill",
+"a": "117 Avenue du Général Leclerc",
+"area": "14e · Montparnasse",
+"ll": [
+48.82434,
+2.32604
+],
+"ls": "https://www.buffalo-grill.fr/nos-restaurants/paris-porte-d-orleans"
+},
+{
 "n": "Burger King · 2 Rue Pierre Lescot",
 "cu": "Burgers",
 "k": "Burgers & chicken",
@@ -610,6 +772,24 @@
 48.83657,
 2.37426
 ]
+},
+{
+"n": "Burger King · 8 Place de Clichy",
+"cu": "Burgers",
+"k": "Burgers & chicken",
+"pr": 1,
+"c": "pe",
+"o": "Bertrand Franchise (Groupe Bertrand; Bridgepoint ~25% minority)",
+"y": "2018",
+"note": "Groupe Bertrand has held the Burger King master franchise for France since 2013; Part of Bertrand Franchise (Groupe Bertrand), in which private equity firm Bridgepoint has held a minority stake (about 23–25%) since 2018; in April 2026 Bridgepoint was reported to be preparing an exit by end-2026/early 2027.",
+"src": "https://www.linforme.com/grande-conso/article/burger-king-leon-hippopotamus-l-empire-d-olivier-bertrand-bientot-en-quete-d-un-nouvel-actionnaire_3921.html",
+"a": "8 Place de Clichy",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.8835,
+2.32816
+],
+"ls": "https://www.burgerking.fr/restaurants/paris-place-de-clichy-leon"
 },
 {
 "n": "Burger King · 9 Avenue de Wagram",
@@ -1054,6 +1234,96 @@
 ]
 },
 {
+"n": "Cojean · 102 Avenue Victor Hugo",
+"cu": "Healthy fast casual",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "Two French families (51%) & Pléiade Investissement (49%)",
+"y": "2017",
+"note": "In 2017 founder Alain Cojean sold his 51% to two French families (reportedly including the Guerrand-Hermès family), while investment company Pléiade Investissement, a shareholder since the start, kept its 49%.",
+"src": "https://www.snacking.fr/actualites/3490-Alain-Cojean-tire-sa-reverence/",
+"a": "102 Avenue Victor Hugo",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.86877,
+2.28289
+],
+"ls": "https://www.cojean.fr/restaurants/paris/cojean-victor-hugo/"
+},
+{
+"n": "Cojean · 11 Rue de Surène",
+"cu": "Healthy fast casual",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "Two French families (51%) & Pléiade Investissement (49%)",
+"y": "2017",
+"note": "In 2017 founder Alain Cojean sold his 51% to two French families (reportedly including the Guerrand-Hermès family), while investment company Pléiade Investissement, a shareholder since the start, kept its 49%.",
+"src": "https://www.snacking.fr/actualites/3490-Alain-Cojean-tire-sa-reverence/",
+"a": "11 Rue de Surène",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87076,
+2.32113
+],
+"ls": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+},
+{
+"n": "Cojean · 19 Rue Clément Marot",
+"cu": "Healthy fast casual",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "Two French families (51%) & Pléiade Investissement (49%)",
+"y": "2017",
+"note": "In 2017 founder Alain Cojean sold his 51% to two French families (reportedly including the Guerrand-Hermès family), while investment company Pléiade Investissement, a shareholder since the start, kept its 49%.",
+"src": "https://www.snacking.fr/actualites/3490-Alain-Cojean-tire-sa-reverence/",
+"a": "19 Rue Clément Marot",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.86801,
+2.30261
+],
+"ls": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+},
+{
+"n": "Cojean · 2 Place du Palais Royal",
+"cu": "Healthy fast casual",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "Two French families (51%) & Pléiade Investissement (49%)",
+"y": "2017",
+"note": "In 2017 founder Alain Cojean sold his 51% to two French families (reportedly including the Guerrand-Hermès family), while investment company Pléiade Investissement, a shareholder since the start, kept its 49%.",
+"src": "https://www.snacking.fr/actualites/3490-Alain-Cojean-tire-sa-reverence/",
+"a": "2 Place du Palais Royal",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86238,
+2.33732
+],
+"ls": "https://www.cojean.fr/restaurants/paris/cojean-cartier/"
+},
+{
+"n": "Cojean · 25 Rue Washington",
+"cu": "Healthy fast casual",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "Two French families (51%) & Pléiade Investissement (49%)",
+"y": "2017",
+"note": "In 2017 founder Alain Cojean sold his 51% to two French families (reportedly including the Guerrand-Hermès family), while investment company Pléiade Investissement, a shareholder since the start, kept its 49%.",
+"src": "https://www.snacking.fr/actualites/3490-Alain-Cojean-tire-sa-reverence/",
+"a": "25 Rue Washington",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87335,
+2.3032
+],
+"ls": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+},
+{
 "n": "Cojean · 26 bis Avenue de l'Opéra",
 "cu": "Healthy fast casual",
 "k": "Sandwiches & salads",
@@ -1069,6 +1339,24 @@
 48.8671,
 2.33406
 ]
+},
+{
+"n": "Cojean · 27 Avenue Hoche",
+"cu": "Healthy fast casual",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "Two French families (51%) & Pléiade Investissement (49%)",
+"y": "2017",
+"note": "In 2017 founder Alain Cojean sold his 51% to two French families (reportedly including the Guerrand-Hermès family), while investment company Pléiade Investissement, a shareholder since the start, kept its 49%.",
+"src": "https://www.snacking.fr/actualites/3490-Alain-Cojean-tire-sa-reverence/",
+"a": "27 Avenue Hoche",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87635,
+2.3017
+],
+"ls": "https://www.cojean.fr/restaurants/paris/cojean-hoche/"
 },
 {
 "n": "Cojean · 28 Rue du Bac",
@@ -1088,6 +1376,60 @@
 ]
 },
 {
+"n": "Cojean · 53 Boulevard du Général Martial Valin",
+"cu": "Healthy fast casual",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "Two French families (51%) & Pléiade Investissement (49%)",
+"y": "2017",
+"note": "In 2017 founder Alain Cojean sold his 51% to two French families (reportedly including the Guerrand-Hermès family), while investment company Pléiade Investissement, a shareholder since the start, kept its 49%.",
+"src": "https://www.snacking.fr/actualites/3490-Alain-Cojean-tire-sa-reverence/",
+"a": "53 Boulevard du Général Martial Valin",
+"area": "15e · Vaugirard",
+"ll": [
+48.83705,
+2.27498
+],
+"ls": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+},
+{
+"n": "Cojean · 54 Rue d'Amsterdam",
+"cu": "Healthy fast casual",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "Two French families (51%) & Pléiade Investissement (49%)",
+"y": "2017",
+"note": "In 2017 founder Alain Cojean sold his 51% to two French families (reportedly including the Guerrand-Hermès family), while investment company Pléiade Investissement, a shareholder since the start, kept its 49%.",
+"src": "https://www.snacking.fr/actualites/3490-Alain-Cojean-tire-sa-reverence/",
+"a": "54 Rue d'Amsterdam",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87935,
+2.3271
+],
+"ls": "https://www.cojean.fr/restaurants/paris/cojean-amsterdam/"
+},
+{
+"n": "Cojean · 55 Avenue Franklin D. Roosevelt",
+"cu": "Healthy fast casual",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "Two French families (51%) & Pléiade Investissement (49%)",
+"y": "2017",
+"note": "In 2017 founder Alain Cojean sold his 51% to two French families (reportedly including the Guerrand-Hermès family), while investment company Pléiade Investissement, a shareholder since the start, kept its 49%.",
+"src": "https://www.snacking.fr/actualites/3490-Alain-Cojean-tire-sa-reverence/",
+"a": "55 Avenue Franklin D. Roosevelt",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87101,
+2.30988
+],
+"ls": "https://www.cojean.fr/restaurants/paris/cojean-roosevelt/"
+},
+{
 "n": "Cojean · 6 Rue de Choiseul",
 "cu": "Healthy fast casual",
 "k": "Sandwiches & salads",
@@ -1105,6 +1447,24 @@
 ]
 },
 {
+"n": "Cojean · 64 Boulevard Haussmann",
+"cu": "Healthy fast casual",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "Two French families (51%) & Pléiade Investissement (49%)",
+"y": "2017",
+"note": "In 2017 founder Alain Cojean sold his 51% to two French families (reportedly including the Guerrand-Hermès family), while investment company Pléiade Investissement, a shareholder since the start, kept its 49%.",
+"src": "https://www.snacking.fr/actualites/3490-Alain-Cojean-tire-sa-reverence/",
+"a": "64 Boulevard Haussmann",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87377,
+2.32816
+],
+"ls": "https://www.cojean.fr/b/nos-restaurants/ou-manger-healthy-chez-cojean-a-paris/"
+},
+{
 "n": "Cojean · 68-80 Avenue du Maine",
 "cu": "Healthy fast casual",
 "k": "Sandwiches & salads",
@@ -1120,6 +1480,24 @@
 48.83845,
 2.32204
 ]
+},
+{
+"n": "Cojean · 87 Rue Jouffroy d'Abbans",
+"cu": "Healthy fast casual",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "Two French families (51%) & Pléiade Investissement (49%)",
+"y": "2017",
+"note": "In 2017 founder Alain Cojean sold his 51% to two French families (reportedly including the Guerrand-Hermès family), while investment company Pléiade Investissement, a shareholder since the start, kept its 49%.",
+"src": "https://www.snacking.fr/actualites/3490-Alain-Cojean-tire-sa-reverence/",
+"a": "87 Rue Jouffroy d'Abbans",
+"area": "17e · Batignolles",
+"ll": [
+48.88292,
+2.30337
+],
+"ls": "https://www.cojean.fr/restaurants/paris/cojean-prony/"
 },
 {
 "n": "Cojean · Avenue Delcassé",
@@ -1496,6 +1874,42 @@
 ]
 },
 {
+"n": "Copper Branch · 151B Rue de Rennes",
+"cu": "Plant-based fast food",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "pe",
+"o": "Wagram Food Service (Nicolas Riché; Bpifrance FIT3 & Eram minority)",
+"y": "2024",
+"note": "Wagram Food Service holds the European master franchise of the Canadian plant-based chain (since 2020); Bpifrance's France Investissement Tourisme 3 fund and Eram took minority stakes in Wagram in 2024.",
+"src": "https://ac-franchise.com/article/wagram-food-service-accelere-le-developpement-de-columbus-cafe-co-et-copper-branch",
+"a": "151B Rue de Rennes",
+"area": "6e · Saint-Germain",
+"ll": [
+48.84533,
+2.32548
+],
+"ls": "https://eatcopperbranch.com/restaurants/"
+},
+{
+"n": "Copper Branch · 26 Rue de Lappe",
+"cu": "Plant-based fast food",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "pe",
+"o": "Wagram Food Service (Nicolas Riché; Bpifrance FIT3 & Eram minority)",
+"y": "2024",
+"note": "Wagram Food Service holds the European master franchise of the Canadian plant-based chain (since 2020); Bpifrance's France Investissement Tourisme 3 fund and Eram took minority stakes in Wagram in 2024.",
+"src": "https://ac-franchise.com/article/wagram-food-service-accelere-le-developpement-de-columbus-cafe-co-et-copper-branch",
+"a": "26 Rue de Lappe",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.85344,
+2.37316
+],
+"ls": "https://menuweb.menu/restaurants/paris-1/copper-branch-49"
+},
+{
 "n": "Corail",
 "cu": "Mediterranean",
 "k": "Seafood",
@@ -1545,6 +1959,24 @@
 48.84479,
 2.37329
 ]
+},
+{
+"n": "Côté Sushi · 75 Avenue Kléber",
+"cu": "Nikkei sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "pe",
+"o": "Montefiore Investment (majority); founder Emmanuel Taïb",
+"y": "2023",
+"note": "Nikkei sushi chain founded in 2008 by Emmanuel Taïb and majority-owned by private equity firm Montefiore Investment; in 2023 it took over 16 Paris company-run Planet Sushi restaurants.",
+"src": "https://www.snacking.fr/actualites/6495-Cote-Sushi-recupere-16-succursales-Planet-Sushi-tandis-que-la-marque-de-Siben-N-Ser-reprend-son-developpement/",
+"a": "75 Avenue Kléber",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.86532,
+2.28919
+],
+"ls": "https://restaurants.cotesushi.com/fr/nos-restaurants/"
 },
 {
 "n": "Côté Sushi · Allée du Capitaine Dronne",
@@ -1802,6 +2234,168 @@
 ]
 },
 {
+"n": "Exki · 14 Rue Linois",
+"cu": "Healthy fast food",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "pe",
+"o": "Iris Belgium (Wolkonsky family investment group, 100%)",
+"y": "2025",
+"note": "Shareholder since 2014, Belgian investment group Iris Belgium (Wolkonsky family) bought out the Dossche family and co-founder Frédéric Rouvez in January 2025 with a €15m capital injection and is now sole shareholder.",
+"src": "https://www.forbes.be/fr/le-nouveau-exki-veut-se-refaire-un-nom-en-toute-franchise/",
+"a": "14 Rue Linois",
+"area": "15e · Vaugirard",
+"ll": [
+48.8485,
+2.2826
+],
+"ls": "https://www.horaires-commerces.fr/enseignes/exki"
+},
+{
+"n": "Exki · 173 Rue du Faubourg Saint-Denis",
+"cu": "Healthy fast food",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "pe",
+"o": "Iris Belgium (Wolkonsky family investment group, 100%)",
+"y": "2025",
+"note": "Shareholder since 2014, Belgian investment group Iris Belgium (Wolkonsky family) bought out the Dossche family and co-founder Frédéric Rouvez in January 2025 with a €15m capital injection and is now sole shareholder.",
+"src": "https://www.forbes.be/fr/le-nouveau-exki-veut-se-refaire-un-nom-en-toute-franchise/",
+"a": "173 Rue du Faubourg Saint-Denis",
+"area": "10e · Canal Saint-Martin",
+"ll": [
+48.88008,
+2.35732
+],
+"ls": "https://www.horaires-commerces.fr/enseignes/exki"
+},
+{
+"n": "Exki · 26 Rue du Quatre Septembre",
+"cu": "Healthy fast food",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "pe",
+"o": "Iris Belgium (Wolkonsky family investment group, 100%)",
+"y": "2025",
+"note": "Shareholder since 2014, Belgian investment group Iris Belgium (Wolkonsky family) bought out the Dossche family and co-founder Frédéric Rouvez in January 2025 with a €15m capital injection and is now sole shareholder.",
+"src": "https://www.forbes.be/fr/le-nouveau-exki-veut-se-refaire-un-nom-en-toute-franchise/",
+"a": "26 Rue du Quatre Septembre",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.87007,
+2.3345
+],
+"ls": "https://www.horaires-commerces.fr/enseignes/exki"
+},
+{
+"n": "Exki · 30 Rue de Berri",
+"cu": "Healthy fast food",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "pe",
+"o": "Iris Belgium (Wolkonsky family investment group, 100%)",
+"y": "2025",
+"note": "Shareholder since 2014, Belgian investment group Iris Belgium (Wolkonsky family) bought out the Dossche family and co-founder Frédéric Rouvez in January 2025 with a €15m capital injection and is now sole shareholder.",
+"src": "https://www.forbes.be/fr/le-nouveau-exki-veut-se-refaire-un-nom-en-toute-franchise/",
+"a": "30 Rue de Berri",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87342,
+2.30613
+],
+"ls": "https://www.horaires-commerces.fr/enseignes/exki"
+},
+{
+"n": "Exki · 59 Rue Montorgueil",
+"cu": "Healthy fast food",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "pe",
+"o": "Iris Belgium (Wolkonsky family investment group, 100%)",
+"y": "2025",
+"note": "Shareholder since 2014, Belgian investment group Iris Belgium (Wolkonsky family) bought out the Dossche family and co-founder Frédéric Rouvez in January 2025 with a €15m capital injection and is now sole shareholder.",
+"src": "https://www.forbes.be/fr/le-nouveau-exki-veut-se-refaire-un-nom-en-toute-franchise/",
+"a": "59 Rue Montorgueil",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86561,
+2.34691
+],
+"ls": "https://www.horaires-commerces.fr/enseignes/exki"
+},
+{
+"n": "Exki · 8 Rue Danielle Casanova",
+"cu": "Healthy fast food",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "pe",
+"o": "Iris Belgium (Wolkonsky family investment group, 100%)",
+"y": "2025",
+"note": "Shareholder since 2014, Belgian investment group Iris Belgium (Wolkonsky family) bought out the Dossche family and co-founder Frédéric Rouvez in January 2025 with a €15m capital injection and is now sole shareholder.",
+"src": "https://www.forbes.be/fr/le-nouveau-exki-veut-se-refaire-un-nom-en-toute-franchise/",
+"a": "8 Rue Danielle Casanova",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86776,
+2.33286
+],
+"ls": "https://www.horaires-commerces.fr/enseignes/exki"
+},
+{
+"n": "Exki · 82 Boulevard du Montparnasse",
+"cu": "Healthy fast food",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "pe",
+"o": "Iris Belgium (Wolkonsky family investment group, 100%)",
+"y": "2025",
+"note": "Shareholder since 2014, Belgian investment group Iris Belgium (Wolkonsky family) bought out the Dossche family and co-founder Frédéric Rouvez in January 2025 with a €15m capital injection and is now sole shareholder.",
+"src": "https://www.forbes.be/fr/le-nouveau-exki-veut-se-refaire-un-nom-en-toute-franchise/",
+"a": "82 Boulevard du Montparnasse",
+"area": "14e · Montparnasse",
+"ll": [
+48.843,
+2.32593
+],
+"ls": "https://www.horaires-commerces.fr/enseignes/exki"
+},
+{
+"n": "Exki · 9 Boulevard Malesherbes",
+"cu": "Healthy fast food",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "pe",
+"o": "Iris Belgium (Wolkonsky family investment group, 100%)",
+"y": "2025",
+"note": "Shareholder since 2014, Belgian investment group Iris Belgium (Wolkonsky family) bought out the Dossche family and co-founder Frédéric Rouvez in January 2025 with a €15m capital injection and is now sole shareholder.",
+"src": "https://www.forbes.be/fr/le-nouveau-exki-veut-se-refaire-un-nom-en-toute-franchise/",
+"a": "9 Boulevard Malesherbes",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87081,
+2.32246
+],
+"ls": "https://www.horaires-commerces.fr/enseignes/exki"
+},
+{
+"n": "Exki · 9 Boulevard des Italiens",
+"cu": "Healthy fast food",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "pe",
+"o": "Iris Belgium (Wolkonsky family investment group, 100%)",
+"y": "2025",
+"note": "Shareholder since 2014, Belgian investment group Iris Belgium (Wolkonsky family) bought out the Dossche family and co-founder Frédéric Rouvez in January 2025 with a €15m capital injection and is now sole shareholder.",
+"src": "https://www.forbes.be/fr/le-nouveau-exki-veut-se-refaire-un-nom-en-toute-franchise/",
+"a": "9 Boulevard des Italiens",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.87153,
+2.33845
+],
+"ls": "https://www.horaires-commerces.fr/enseignes/exki"
+},
+{
 "n": "Exki · Avenue Kléber",
 "cu": "Healthy fast food",
 "k": "Healthy & veggie",
@@ -1938,6 +2532,24 @@
 ]
 },
 {
+"n": "G La Dalle · 160 Rue Oberkampf",
+"cu": "Burgers & street food",
+"k": "Burgers & chicken",
+"pr": 1,
+"c": "pe",
+"o": "QSRP (Kharis Capital)",
+"y": "2024",
+"note": "French fast-food brand acquired in 2024 by QSRP, the European quick-service platform backed by Kharis Capital.",
+"src": "https://www.khariscapital.com/funds/qsrp",
+"a": "160 Rue Oberkampf",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.8668,
+2.38244
+],
+"ls": "https://www.bottin.fr/fiche-locale/baabhfiffeiafejdhhac--g-la-dalle--paris-11.htm"
+},
+{
 "n": "G La Dalle · 44 Rue Saint-Denis",
 "cu": "Burgers & street food",
 "k": "Burgers & chicken",
@@ -1953,6 +2565,24 @@
 48.86058,
 2.34865
 ]
+},
+{
+"n": "G La Dalle · 60 Rue Oberkampf",
+"cu": "Burgers & street food",
+"k": "Burgers & chicken",
+"pr": 1,
+"c": "pe",
+"o": "QSRP (Kharis Capital)",
+"y": "2024",
+"note": "French fast-food brand acquired in 2024 by QSRP, the European quick-service platform backed by Kharis Capital.",
+"src": "https://www.khariscapital.com/funds/qsrp",
+"a": "60 Rue Oberkampf",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.86486,
+2.37398
+],
+"ls": "https://app.carte-freeze.com/vitrine/g-la-dalle-7-adresses-790a5c09-6baa-4b6a-8fc9-fba193f5326e"
 },
 {
 "n": "G La Dalle · Boulevard Soult",
@@ -2040,6 +2670,24 @@
 ]
 },
 {
+"n": "Hanoï Cà Phê · 29 Boulevard de Courcelles",
+"cu": "Vietnamese",
+"k": "Asian",
+"pr": 2,
+"c": "pe",
+"o": "Bertrand Franchise (Groupe Bertrand; Bridgepoint ~25% minority)",
+"y": "2018",
+"note": "Part of Bertrand Franchise (Groupe Bertrand), in which private equity firm Bridgepoint has held a minority stake (about 23–25%) since 2018; in April 2026 Bridgepoint was reported to be preparing an exit by end-2026/early 2027.",
+"src": "https://www.24matins.fr/le-groupe-bertrand-chercherait-a-mettre-en-vente-burger-king-et-lintegralite-de-ses-enseignes-en-franchise-1406333",
+"a": "29 Boulevard de Courcelles",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.8808,
+2.31357
+],
+"ls": "https://www.hanoi-caphe.com/conditions-generales-dutilisation/"
+},
+{
 "n": "Hanoï Cà Phê · Cour Saint-Émilion",
 "cu": "Vietnamese",
 "k": "Asian",
@@ -2074,6 +2722,24 @@
 ]
 },
 {
+"n": "Hippopotamus · 1 Rue des Capucines",
+"cu": "Steakhouse",
+"k": "Steak & grill",
+"pr": 2,
+"c": "pe",
+"o": "Groupe Bertrand (majority); Bridgepoint (~23% minority of Bertrand Franchise)",
+"y": "2018",
+"note": "Hippopotamus sits in Bertrand Franchise, in which PE firm Bridgepoint holds a ~23-25% minority stake that it was preparing to sell in 2026.",
+"src": "https://lexpress-franchise.com/actualites/le-groupe-bertrand-en-phase-de-racheter-burger-king-suisse/",
+"a": "1 Rue des Capucines",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86836,
+2.33005
+],
+"ls": "https://www.hippopotamus.fr/nos-restaurants/hippopotamus-paris-opera-2e"
+},
+{
 "n": "Hippopotamus · 29 Cour Saint-Émilion",
 "cu": "Steakhouse",
 "k": "Steak & grill",
@@ -2106,6 +2772,24 @@
 48.83041,
 2.35518
 ]
+},
+{
+"n": "Hippopotamus · 5 Rue des Batignolles",
+"cu": "Steakhouse",
+"k": "Steak & grill",
+"pr": 2,
+"c": "pe",
+"o": "Groupe Bertrand (majority); Bridgepoint (~23% minority of Bertrand Franchise)",
+"y": "2018",
+"note": "Hippopotamus sits in Bertrand Franchise, in which PE firm Bridgepoint holds a ~23-25% minority stake that it was preparing to sell in 2026.",
+"src": "https://lexpress-franchise.com/actualites/le-groupe-bertrand-en-phase-de-racheter-burger-king-suisse/",
+"a": "5 Rue des Batignolles",
+"area": "17e · Batignolles",
+"ll": [
+48.88331,
+2.32342
+],
+"ls": "https://www.hippopotamus.fr/nos-restaurants/hippopotamus-paris-place-de-clichy-8e"
 },
 {
 "n": "Hippopotamus · Avenue Corentin Cariou",
@@ -2380,6 +3064,78 @@
 ]
 },
 {
+"n": "Junk · 114 Rue Montmartre",
+"cu": "Smash burgers",
+"k": "Burgers & chicken",
+"pr": 1,
+"c": "pe",
+"o": "Founders Majed Mansour & Wissem Ben Amar; Elevation Capital Partners (minority)",
+"y": "2022",
+"note": "Smash-burger brand of Junk Group (formerly In My Belly), which raised €1.5m in 2022 from investment firm Elevation Capital Partners; the founders run the group.",
+"src": "https://www.snacking.fr/actualites/6305-In-My-Belly-leve-1-5-M-aupres-d-Elevation-Capital-Partners-et-accelere-sa-strategie-multicanale/",
+"a": "114 Rue Montmartre",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86768,
+2.34394
+],
+"ls": "https://www.junkburgers.com/locations"
+},
+{
+"n": "Junk · 24 Rue Saint-Lazare",
+"cu": "Smash burgers",
+"k": "Burgers & chicken",
+"pr": 1,
+"c": "pe",
+"o": "Founders Majed Mansour & Wissem Ben Amar; Elevation Capital Partners (minority)",
+"y": "2022",
+"note": "Smash-burger brand of Junk Group (formerly In My Belly), which raised €1.5m in 2022 from investment firm Elevation Capital Partners; the founders run the group.",
+"src": "https://www.snacking.fr/actualites/6305-In-My-Belly-leve-1-5-M-aupres-d-Elevation-Capital-Partners-et-accelere-sa-strategie-multicanale/",
+"a": "24 Rue Saint-Lazare",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87678,
+2.33685
+],
+"ls": "https://www.junkburgers.com/locations"
+},
+{
+"n": "Junk · 30 Rue Legendre",
+"cu": "Smash burgers",
+"k": "Burgers & chicken",
+"pr": 1,
+"c": "pe",
+"o": "Founders Majed Mansour & Wissem Ben Amar; Elevation Capital Partners (minority)",
+"y": "2022",
+"note": "Smash-burger brand of Junk Group (formerly In My Belly), which raised €1.5m in 2022 from investment firm Elevation Capital Partners; the founders run the group.",
+"src": "https://www.snacking.fr/actualites/6305-In-My-Belly-leve-1-5-M-aupres-d-Elevation-Capital-Partners-et-accelere-sa-strategie-multicanale/",
+"a": "30 Rue Legendre",
+"area": "17e · Batignolles",
+"ll": [
+48.88407,
+2.31424
+],
+"ls": "https://www.junkburgers.com/locations"
+},
+{
+"n": "Junk · 38 Rue de Saintonge",
+"cu": "Smash burgers",
+"k": "Burgers & chicken",
+"pr": 1,
+"c": "pe",
+"o": "Founders Majed Mansour & Wissem Ben Amar; Elevation Capital Partners (minority)",
+"y": "2022",
+"note": "Smash-burger brand of Junk Group (formerly In My Belly), which raised €1.5m in 2022 from investment firm Elevation Capital Partners; the founders run the group.",
+"src": "https://www.snacking.fr/actualites/6305-In-My-Belly-leve-1-5-M-aupres-d-Elevation-Capital-Partners-et-accelere-sa-strategie-multicanale/",
+"a": "38 Rue de Saintonge",
+"area": "3e · Haut-Marais",
+"ll": [
+48.86269,
+2.36366
+],
+"ls": "https://www.junkburgers.com/locations"
+},
+{
 "n": "Junk · 40 Rue de Berri",
 "cu": "Smash burgers",
 "k": "Burgers & chicken",
@@ -2395,6 +3151,60 @@
 48.87394,
 2.30713
 ]
+},
+{
+"n": "Junk · 65 Rue Condorcet",
+"cu": "Smash burgers",
+"k": "Burgers & chicken",
+"pr": 1,
+"c": "pe",
+"o": "Founders Majed Mansour & Wissem Ben Amar; Elevation Capital Partners (minority)",
+"y": "2022",
+"note": "Smash-burger brand of Junk Group (formerly In My Belly), which raised €1.5m in 2022 from investment firm Elevation Capital Partners; the founders run the group.",
+"src": "https://www.snacking.fr/actualites/6305-In-My-Belly-leve-1-5-M-aupres-d-Elevation-Capital-Partners-et-accelere-sa-strategie-multicanale/",
+"a": "65 Rue Condorcet",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.88028,
+2.34133
+],
+"ls": "https://www.junkgroup.fr/o%C3%B9-nous-trouver"
+},
+{
+"n": "Junk · 72 Rue Falguière",
+"cu": "Smash burgers",
+"k": "Burgers & chicken",
+"pr": 1,
+"c": "pe",
+"o": "Founders Majed Mansour & Wissem Ben Amar; Elevation Capital Partners (minority)",
+"y": "2022",
+"note": "Smash-burger brand of Junk Group (formerly In My Belly), which raised €1.5m in 2022 from investment firm Elevation Capital Partners; the founders run the group.",
+"src": "https://www.snacking.fr/actualites/6305-In-My-Belly-leve-1-5-M-aupres-d-Elevation-Capital-Partners-et-accelere-sa-strategie-multicanale/",
+"a": "72 Rue Falguière",
+"area": "15e · Vaugirard",
+"ll": [
+48.84042,
+2.31274
+],
+"ls": "https://www.junkburgers.com/locations"
+},
+{
+"n": "Junk · 9 Rue Danielle Casanova",
+"cu": "Smash burgers",
+"k": "Burgers & chicken",
+"pr": 1,
+"c": "pe",
+"o": "Founders Majed Mansour & Wissem Ben Amar; Elevation Capital Partners (minority)",
+"y": "2022",
+"note": "Smash-burger brand of Junk Group (formerly In My Belly), which raised €1.5m in 2022 from investment firm Elevation Capital Partners; the founders run the group.",
+"src": "https://www.snacking.fr/actualites/6305-In-My-Belly-leve-1-5-M-aupres-d-Elevation-Capital-Partners-et-accelere-sa-strategie-multicanale/",
+"a": "9 Rue Danielle Casanova",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86765,
+2.33286
+],
+"ls": "https://www.junkburgers.com/locations"
 },
 {
 "n": "Junk · Passage Saint-Vivant",
@@ -2515,6 +3325,24 @@
 ]
 },
 {
+"n": "La Famille · 6 Rue Fourcade",
+"cu": "Fast-casual lunch",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "Founders; Indigo Capital (minority)",
+"y": "2025",
+"note": "Fast-casual lunch brand founded in 2019; in October 2025 investment firm Indigo Capital joined as a minority investor via a quasi-equity deal.",
+"src": "https://www.indigo-capital.fr/portfolios/la-famille-2/",
+"a": "6 Rue Fourcade",
+"area": "15e · Vaugirard",
+"ll": [
+48.83741,
+2.29776
+],
+"ls": "https://lafamilleetcie.fr/en"
+},
+{
 "n": "La Famille · Rue de l'Amiral Hamelin",
 "cu": "Fast-casual lunch",
 "k": "Sandwiches & salads",
@@ -2583,6 +3411,24 @@
 ]
 },
 {
+"n": "Le Pain Quotidien · 17 Rue de Vaugirard",
+"cu": "Bakery-café",
+"k": "Café",
+"pr": 2,
+"c": "pe",
+"o": "M80 (majority) & Cobepa (minority)",
+"y": "2020",
+"note": "After a 2020 restructuring, Belgian investment fund M80 became majority shareholder of the entity holding the brand and the Belgian and French stores, with investment company Cobepa keeping a minority stake.",
+"src": "https://www.cobepa.com/en/Investments/Le-Pain-Quotidien",
+"a": "17 Rue de Vaugirard",
+"area": "6e · Saint-Germain",
+"ll": [
+48.84917,
+2.33554
+],
+"ls": "https://www.lepainquotidien.com/br/en/stores"
+},
+{
 "n": "Le Pain Quotidien · 31 Rue Lepic",
 "cu": "Bakery-café",
 "k": "Café",
@@ -2598,6 +3444,24 @@
 48.88581,
 2.3346
 ]
+},
+{
+"n": "Le Pain Quotidien · 49 Rue Saint-Honoré",
+"cu": "Bakery-café",
+"k": "Café",
+"pr": 2,
+"c": "pe",
+"o": "M80 (majority) & Cobepa (minority)",
+"y": "2020",
+"note": "After a 2020 restructuring, Belgian investment fund M80 became majority shareholder of the entity holding the brand and the Belgian and French stores, with investment company Cobepa keeping a minority stake.",
+"src": "https://www.cobepa.com/en/Investments/Le-Pain-Quotidien",
+"a": "49 Rue Saint-Honoré",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86089,
+2.34516
+],
+"ls": "https://www.lepainquotidien.com/fr/fr/contact"
 },
 {
 "n": "Le Pain Quotidien · Avenue Victor Hugo",
@@ -2787,6 +3651,24 @@
 ]
 },
 {
+"n": "Le Paradis du Fruit · 10 Rue des Batignolles",
+"cu": "Healthy café",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "pe",
+"o": "Groupe Bertrand (majority); Bridgepoint (~23-25% minority of Bertrand Franchise)",
+"y": "2018",
+"note": "Le Paradis du Fruit is one of the Bertrand Franchise brands, in which PE firm Bridgepoint holds a 23-25% minority stake.",
+"src": "https://www.24matins.fr/le-groupe-bertrand-chercherait-a-mettre-en-vente-burger-king-et-lintegralite-de-ses-enseignes-en-franchise-1406333",
+"a": "10 Rue des Batignolles",
+"area": "17e · Batignolles",
+"ll": [
+48.88369,
+2.32314
+],
+"ls": "https://www.leparadisdufruit.fr/nos-restaurants/le-paradis-du-fruit-paris-batignolles"
+},
+{
 "n": "Le Paradis du Fruit · 2 Place Saint-Michel",
 "cu": "Healthy café",
 "k": "Healthy & veggie",
@@ -2974,6 +3856,24 @@
 ]
 },
 {
+"n": "Maison Landemaine · 180 Rue du Temple",
+"cu": "Bakery",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "pe",
+"o": "Rodolphe Landemaine; Audacia (minority, growth capital)",
+"y": "2022",
+"note": "Paris artisan bakery network founded by Rodolphe Landemaine; private equity firm Audacia invested via a growth-capital deal in 2022.",
+"src": "https://www.audacia.fr/portfolio/maison-landemaine/",
+"a": "180 Rue du Temple",
+"area": "3e · Haut-Marais",
+"ll": [
+48.86695,
+2.36292
+],
+"ls": "https://www.parisgourmand.com/shopping-fetes/le-noel-2025-de-la-maison-landemaine.html"
+},
+{
 "n": "Maison Landemaine · 197 Avenue de Versailles",
 "cu": "Bakery",
 "k": "Bakery & pastry",
@@ -3057,6 +3957,24 @@
 48.86449,
 2.37154
 ]
+},
+{
+"n": "Maison Landemaine · 5 Boulevard de Reuilly",
+"cu": "Bakery",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "pe",
+"o": "Rodolphe Landemaine; Audacia (minority, growth capital)",
+"y": "2022",
+"note": "Paris artisan bakery network founded by Rodolphe Landemaine; private equity firm Audacia invested via a growth-capital deal in 2022.",
+"src": "https://www.audacia.fr/portfolio/maison-landemaine/",
+"a": "5 Boulevard de Reuilly",
+"area": "12e · Bercy & Nation",
+"ll": [
+48.83932,
+2.38982
+],
+"ls": "https://www.parisgourmand.com/shopping-fetes/le-noel-2025-de-la-maison-landemaine.html"
 },
 {
 "n": "Maison Landemaine · 7 Place Cambronne",
@@ -3212,6 +4130,24 @@
 ]
 },
 {
+"n": "Michalak · 114 Avenue Victor Hugo",
+"cu": "Pâtisserie",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "pe",
+"o": "Kresk Développement (Didier Tabary family office, 100%)",
+"y": "2023",
+"note": "Didier Tabary's family office Kresk Développement bought 70% of Christophe Michalak's pâtisseries in 2023 and the remaining shares in April 2026.",
+"src": "https://www.agefi.fr/gestion-privee/actualites/kresk-developpement-detient-100-du-capital-de-michalak-paris",
+"a": "114 Avenue Victor Hugo",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.86837,
+2.28195
+],
+"ls": "https://www.christophemichalak.com/magasins"
+},
+{
 "n": "Michalak · 37 Rue Étienne Marcel",
 "cu": "Pâtisserie",
 "k": "Bakery & pastry",
@@ -3227,6 +4163,24 @@
 48.86443,
 2.34617
 ]
+},
+{
+"n": "Michalak · 60 Rue du Faubourg Poissonnière",
+"cu": "Pâtisserie",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "pe",
+"o": "Kresk Développement (Didier Tabary family office, 100%)",
+"y": "2023",
+"note": "Didier Tabary's family office Kresk Développement bought 70% of Christophe Michalak's pâtisseries in 2023 and the remaining shares in April 2026.",
+"src": "https://www.agefi.fr/gestion-privee/actualites/kresk-developpement-detient-100-du-capital-de-michalak-paris",
+"a": "60 Rue du Faubourg Poissonnière",
+"area": "10e · Canal Saint-Martin",
+"ll": [
+48.87534,
+2.34824
+],
+"ls": "https://www.christophemichalak.com/magasins"
 },
 {
 "n": "Michalak · 8 Rue du Vieux Colombier",
@@ -3705,6 +4659,96 @@
 ]
 },
 {
+"n": "PNY · 120 Rue du Faubourg Saint-Antoine",
+"cu": "Burgers",
+"k": "Burgers & chicken",
+"pr": 2,
+"c": "pe",
+"o": "Founders; Generis Capital Partners & Initiative & Finance",
+"y": "2022",
+"note": "Paris burger chain founded in 2012; Generis Capital Partners has invested since 2017 and in 2022 it reinvested alongside new shareholder Initiative & Finance in a €15m round.",
+"src": "https://www.generiscapital.com/actualiteacutes/pny-leve-15meur-aupres-de-generis-capital-et-initiative-finance-afin-daccelerer-sa-croissance",
+"a": "120 Rue du Faubourg Saint-Antoine",
+"area": "12e · Bercy & Nation",
+"ll": [
+48.85073,
+2.37802
+],
+"ls": "https://order.pnyburger.com/fr/shops"
+},
+{
+"n": "PNY · 15 Rue de la Gaîté",
+"cu": "Burgers",
+"k": "Burgers & chicken",
+"pr": 2,
+"c": "pe",
+"o": "Founders; Generis Capital Partners & Initiative & Finance",
+"y": "2022",
+"note": "Paris burger chain founded in 2012; Generis Capital Partners has invested since 2017 and in 2022 it reinvested alongside new shareholder Initiative & Finance in a €15m round.",
+"src": "https://www.generiscapital.com/actualiteacutes/pny-leve-15meur-aupres-de-generis-capital-et-initiative-finance-afin-daccelerer-sa-croissance",
+"a": "15 Rue de la Gaîté",
+"area": "14e · Montparnasse",
+"ll": [
+48.84018,
+2.32409
+],
+"ls": "https://order.pnyburger.com/fr/shops"
+},
+{
+"n": "PNY · 2 Rue des Guillemites",
+"cu": "Burgers",
+"k": "Burgers & chicken",
+"pr": 2,
+"c": "pe",
+"o": "Founders; Generis Capital Partners & Initiative & Finance",
+"y": "2022",
+"note": "Paris burger chain founded in 2012; Generis Capital Partners has invested since 2017 and in 2022 it reinvested alongside new shareholder Initiative & Finance in a €15m round.",
+"src": "https://www.generiscapital.com/actualiteacutes/pny-leve-15meur-aupres-de-generis-capital-et-initiative-finance-afin-daccelerer-sa-croissance",
+"a": "2 Rue des Guillemites",
+"area": "4e · Marais & the islands",
+"ll": [
+48.8579,
+2.3572
+],
+"ls": "https://order.pnyburger.com/fr/shops"
+},
+{
+"n": "PNY · 24 Rue Pierre Fontaine",
+"cu": "Burgers",
+"k": "Burgers & chicken",
+"pr": 2,
+"c": "pe",
+"o": "Founders; Generis Capital Partners & Initiative & Finance",
+"y": "2022",
+"note": "Paris burger chain founded in 2012; Generis Capital Partners has invested since 2017 and in 2022 it reinvested alongside new shareholder Initiative & Finance in a €15m round.",
+"src": "https://www.generiscapital.com/actualiteacutes/pny-leve-15meur-aupres-de-generis-capital-et-initiative-finance-afin-daccelerer-sa-croissance",
+"a": "24 Rue Pierre Fontaine",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.88187,
+2.33406
+],
+"ls": "https://order.pnyburger.com/fr/shops"
+},
+{
+"n": "PNY · 96 Rue Oberkampf",
+"cu": "Burgers",
+"k": "Burgers & chicken",
+"pr": 2,
+"c": "pe",
+"o": "Founders; Generis Capital Partners & Initiative & Finance",
+"y": "2022",
+"note": "Paris burger chain founded in 2012; Generis Capital Partners has invested since 2017 and in 2022 it reinvested alongside new shareholder Initiative & Finance in a €15m round.",
+"src": "https://www.generiscapital.com/actualiteacutes/pny-leve-15meur-aupres-de-generis-capital-et-initiative-finance-afin-daccelerer-sa-croissance",
+"a": "96 Rue Oberkampf",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.86568,
+2.37779
+],
+"ls": "https://order.pnyburger.com/fr/shops"
+},
+{
 "n": "PNY · Rue de Picardie",
 "cu": "Burgers",
 "k": "Burgers & chicken",
@@ -3720,6 +4764,24 @@
 48.86381,
 2.36264
 ]
+},
+{
+"n": "Pierre Hermé · 126 Boulevard Saint-Germain",
+"cu": "Pastry & macarons",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "pe",
+"o": "Butler Industries (Walter Butler), majority; Pierre Hermé",
+"y": "2021",
+"note": "Walter Butler's investment group bought just over two-thirds of Pierre Hermé Paris from L'Occitane's LOG Investment in December 2021; the chef kept his stake.",
+"src": "https://www.lefigaro.fr/flash-eco/le-fonds-butler-rachete-les-patisseries-de-luxe-pierre-herme-20211209",
+"a": "126 Boulevard Saint-Germain",
+"area": "6e · Saint-Germain",
+"ll": [
+48.8524,
+2.33968
+],
+"ls": "https://www.pierreherme.com/fr/croissant.html"
 },
 {
 "n": "Pierre Hermé · 13 Rue du Mont Cenis",
@@ -3773,6 +4835,24 @@
 ]
 },
 {
+"n": "Pierre Hermé · 35 Boulevard Haussmann",
+"cu": "Pastry & macarons",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "pe",
+"o": "Butler Industries (Walter Butler), majority; Pierre Hermé",
+"y": "2021",
+"note": "Walter Butler's investment group bought just over two-thirds of Pierre Hermé Paris from L'Occitane's LOG Investment in December 2021; the chef kept his stake.",
+"src": "https://www.lefigaro.fr/flash-eco/le-fonds-butler-rachete-les-patisseries-de-luxe-pierre-herme-20211209",
+"a": "35 Boulevard Haussmann",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.8732,
+2.33025
+],
+"ls": "https://www.pierreherme.com/fr/croissant.html"
+},
+{
 "n": "Pierre Hermé · 37 Avenue des Ternes",
 "cu": "Pastry & macarons",
 "k": "Bakery & pastry",
@@ -3788,6 +4868,24 @@
 48.87854,
 2.29383
 ]
+},
+{
+"n": "Pierre Hermé · 53 Rue de Grenelle",
+"cu": "Pastry & macarons",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "pe",
+"o": "Butler Industries (Walter Butler), majority; Pierre Hermé",
+"y": "2021",
+"note": "Walter Butler's investment group bought just over two-thirds of Pierre Hermé Paris from L'Occitane's LOG Investment in December 2021; the chef kept his stake.",
+"src": "https://www.lefigaro.fr/flash-eco/le-fonds-butler-rachete-les-patisseries-de-luxe-pierre-herme-20211209",
+"a": "53 Rue de Grenelle",
+"area": "7e · Invalides & Eiffel",
+"ll": [
+48.85452,
+2.32556
+],
+"ls": "https://www.pierreherme.com/cafe-pierre-herme-beaupassage"
 },
 {
 "n": "Pierre Hermé · 56 Rue du Commerce",
@@ -4113,6 +5211,24 @@
 ]
 },
 {
+"n": "Pitaya · 99 Rue de Rivoli",
+"cu": "Thai street food",
+"k": "Asian",
+"pr": 1,
+"c": "pe",
+"o": "Groupe Bertrand (majority); Bridgepoint (~23-25% minority of Bertrand Franchise)",
+"y": "2018",
+"note": "Pitaya is one of the Bertrand Franchise brands, in which PE firm Bridgepoint holds a 23-25% minority stake.",
+"src": "https://www.24matins.fr/le-groupe-bertrand-chercherait-a-mettre-en-vente-burger-king-et-lintegralite-de-ses-enseignes-en-franchise-1406333",
+"a": "99 Rue de Rivoli",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86272,
+2.33483
+],
+"ls": "https://pitaya-thaistreetfood.com/restaurants/ile-de-france/paris"
+},
+{
 "n": "Pizzeria Popolare",
 "cu": "Neapolitan pizza",
 "k": "Pizza",
@@ -4317,6 +5433,60 @@
 ]
 },
 {
+"n": "Pret A Manger · 106 Rue La Boëtie",
+"cu": "Sandwiches & coffee",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "JAB Holding Company",
+"y": "2018",
+"note": "Owned by JAB Holding, the Reimann family's investment firm, which bought Pret in 2018 for about £1.5bn. Pret opened its first French shop in 2012.",
+"src": "https://en.wikipedia.org/wiki/Pret_a_Manger",
+"a": "106 Rue La Boëtie",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.8719,
+2.3083
+],
+"ls": "https://www.pretamanger.fr/fr-FR/termes-et-conditions"
+},
+{
+"n": "Pret A Manger · 123 Boulevard Haussmann",
+"cu": "Sandwiches & coffee",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "JAB Holding Company",
+"y": "2018",
+"note": "Owned by JAB Holding, the Reimann family's investment firm, which bought Pret in 2018 for about £1.5bn. Pret opened its first French shop in 2012.",
+"src": "https://en.wikipedia.org/wiki/Pret_a_Manger",
+"a": "123 Boulevard Haussmann",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87507,
+2.3141
+],
+"ls": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
+},
+{
+"n": "Pret A Manger · 17 Boulevard de Vaugirard",
+"cu": "Sandwiches & coffee",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "JAB Holding Company",
+"y": "2018",
+"note": "Owned by JAB Holding, the Reimann family's investment firm, which bought Pret in 2018 for about £1.5bn. Pret opened its first French shop in 2012.",
+"src": "https://en.wikipedia.org/wiki/Pret_a_Manger",
+"a": "17 Boulevard de Vaugirard",
+"area": "15e · Vaugirard",
+"ll": [
+48.84144,
+2.31908
+],
+"ls": "https://www.pret.com/fr-FR/shop-finder/l/paris/17-boulevard-de-vaugirard/10833"
+},
+{
 "n": "Pret A Manger · 39 Rue Mstislav Rostropovitch",
 "cu": "Sandwiches & coffee",
 "k": "Sandwiches & salads",
@@ -4349,6 +5519,24 @@
 48.87756,
 2.32748
 ]
+},
+{
+"n": "Pret A Manger · 66 Avenue des Champs Élysées",
+"cu": "Sandwiches & coffee",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "pe",
+"o": "JAB Holding Company",
+"y": "2018",
+"note": "Owned by JAB Holding, the Reimann family's investment firm, which bought Pret in 2018 for about £1.5bn. Pret opened its first French shop in 2012.",
+"src": "https://en.wikipedia.org/wiki/Pret_a_Manger",
+"a": "66 Avenue des Champs Élysées",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87086,
+2.30537
+],
+"ls": "https://www.pretamanger.fr/fr-FR/fr-liste-restaurants-participants"
 },
 {
 "n": "Pret A Manger · Allée du Chef d'Escadron de Guillebon",
@@ -4708,6 +5896,96 @@
 ]
 },
 {
+"n": "Puffy · 14 Rue de Bretagne",
+"cu": "Cookies & coffee",
+"k": "Coffee",
+"pr": 1,
+"c": "pe",
+"o": "Junk Group (founders; Elevation Capital Partners minority)",
+"y": "2023",
+"note": "New York-style cookie and coffee shop brand launched in Paris in 2023 by Junk Group (also owner of Junk burgers), which raised €1.5m in 2022 from Elevation Capital Partners.",
+"src": "https://linkedin.com/company/junkgroup",
+"a": "14 Rue de Bretagne",
+"area": "3e · Haut-Marais",
+"ll": [
+48.86282,
+2.3629
+],
+"ls": "https://www.puffycookies.fr/locations?lang=fr"
+},
+{
+"n": "Puffy · 21 Rue Danielle Casanova",
+"cu": "Cookies & coffee",
+"k": "Coffee",
+"pr": 1,
+"c": "pe",
+"o": "Junk Group (founders; Elevation Capital Partners minority)",
+"y": "2023",
+"note": "New York-style cookie and coffee shop brand launched in Paris in 2023 by Junk Group (also owner of Junk burgers), which raised €1.5m in 2022 from Elevation Capital Partners.",
+"src": "https://linkedin.com/company/junkgroup",
+"a": "21 Rue Danielle Casanova",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86787,
+2.33185
+],
+"ls": "https://www.puffycookies.fr/locations?lang=fr"
+},
+{
+"n": "Puffy · 26 Rue Legendre",
+"cu": "Cookies & coffee",
+"k": "Coffee",
+"pr": 1,
+"c": "pe",
+"o": "Junk Group (founders; Elevation Capital Partners minority)",
+"y": "2023",
+"note": "New York-style cookie and coffee shop brand launched in Paris in 2023 by Junk Group (also owner of Junk burgers), which raised €1.5m in 2022 from Elevation Capital Partners.",
+"src": "https://linkedin.com/company/junkgroup",
+"a": "26 Rue Legendre",
+"area": "17e · Batignolles",
+"ll": [
+48.88391,
+2.31396
+],
+"ls": "https://www.puffycookies.fr/locations?lang=fr"
+},
+{
+"n": "Puffy · 28 Rue Linois",
+"cu": "Cookies & coffee",
+"k": "Coffee",
+"pr": 1,
+"c": "pe",
+"o": "Junk Group (founders; Elevation Capital Partners minority)",
+"y": "2023",
+"note": "New York-style cookie and coffee shop brand launched in Paris in 2023 by Junk Group (also owner of Junk burgers), which raised €1.5m in 2022 from Elevation Capital Partners.",
+"src": "https://linkedin.com/company/junkgroup",
+"a": "28 Rue Linois",
+"area": "15e · Vaugirard",
+"ll": [
+48.84799,
+2.28338
+],
+"ls": "https://www.puffycookies.fr/locations?lang=fr"
+},
+{
+"n": "Puffy · 65 Rue Condorcet",
+"cu": "Cookies & coffee",
+"k": "Coffee",
+"pr": 1,
+"c": "pe",
+"o": "Junk Group (founders; Elevation Capital Partners minority)",
+"y": "2023",
+"note": "New York-style cookie and coffee shop brand launched in Paris in 2023 by Junk Group (also owner of Junk burgers), which raised €1.5m in 2022 from Elevation Capital Partners.",
+"src": "https://linkedin.com/company/junkgroup",
+"a": "65 Rue Condorcet",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.88028,
+2.34133
+],
+"ls": "https://www.puffycookies.fr/locations?lang=fr"
+},
+{
 "n": "Street Bangkok · 112 Rue Saint-Denis",
 "cu": "Thai street food",
 "k": "Asian",
@@ -4808,6 +6086,24 @@
 48.88199,
 2.31413
 ]
+},
+{
+"n": "Subway · 196 Avenue de France",
+"cu": "Sandwiches",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "pe",
+"o": "Roark Capital Group",
+"y": "2024",
+"note": "US private equity firm Roark Capital agreed in August 2023 to buy Subway from the founding families for about $9.6bn; Paris outlets are run by franchisees.",
+"src": "https://en.wikipedia.org/wiki/Subway_(restaurant)",
+"a": "196 Avenue de France",
+"area": "13e · Butte-aux-Cailles",
+"ll": [
+48.83602,
+2.37189
+],
+"ls": "https://subwayfrance.fr/contact"
 },
 {
 "n": "Subway · 51 Rue Saint-Paul",
@@ -5439,6 +6735,24 @@
 ]
 },
 {
+"n": "The French Bastards · 52 Rue de Lévis",
+"cu": "Bakery & pastry",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "pe",
+"o": "Founders (majority); Experienced Capital (~30%)",
+"y": "2024",
+"note": "Paris neo-bakery chain founded in 2018; growth fund Experienced Capital took about 30% in May 2024 while the founders kept a majority.",
+"src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/experienced-capital-croque-the-french-bastards-2095284",
+"a": "52 Rue de Lévis",
+"area": "17e · Batignolles",
+"ll": [
+48.88367,
+2.31393
+],
+"ls": "https://thefrenchbastards.fr/media/pages/carte/0a725f37d2-1764861022/brochure_b2b-hiver-sans-prix-copy.pdf"
+},
+{
 "n": "The French Bastards · 61 Rue Oberkampf",
 "cu": "Bakery & pastry",
 "k": "Bakery & pastry",
@@ -5898,6 +7212,23 @@
 ]
 },
 {
+"n": "Angelina · 19 Rue de Vaugirard",
+"cu": "Tea room",
+"k": "Café",
+"pr": 3,
+"c": "corp",
+"o": "Groupe Bertrand (Olivier Bertrand) – Bertrand Hospitality",
+"note": "The 1903 tea room famous for its hot chocolate is part of Bertrand Hospitality, the luxury division of Olivier Bertrand's 100%-owned Groupe Bertrand.",
+"src": "https://www.groupe-bertrand.com/wp-content/uploads/2023/07/GB-CP-Nouvelle-organisation-2023_07.pdf",
+"a": "19 Rue de Vaugirard",
+"area": "6e · Saint-Germain",
+"ll": [
+48.84889,
+2.33407
+],
+"ls": "https://salon-de-the.angelina-paris.fr/en/our-pastry-shops/"
+},
+{
 "n": "Angelina · 226 Rue de Rivoli",
 "cu": "Tea room",
 "k": "Café",
@@ -6059,6 +7390,78 @@
 48.85117,
 2.32716
 ]
+},
+{
+"n": "Brioche Dorée · 14 Rue Lobineau",
+"cu": "Bakery café",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Groupe Le Duff (Louis Le Duff)",
+"y": "1976",
+"note": "Brioche Dorée is the founding brand of Groupe Le Duff, the Rennes-based family group (≈€2.8bn sales in 2025) also behind Bridor.",
+"src": "https://www.groupeleduff.com/home/chiffres-cles",
+"a": "14 Rue Lobineau",
+"area": "6e · Saint-Germain",
+"ll": [
+48.85178,
+2.33577
+],
+"ls": "https://commerces.com/brioche-doree/ouvert-le-1er-novembre.htm"
+},
+{
+"n": "Brioche Dorée · 20 Boulevard Saint-Michel",
+"cu": "Bakery café",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Groupe Le Duff (Louis Le Duff)",
+"y": "1976",
+"note": "Brioche Dorée is the founding brand of Groupe Le Duff, the Rennes-based family group (≈€2.8bn sales in 2025) also behind Bridor.",
+"src": "https://www.groupeleduff.com/home/chiffres-cles",
+"a": "20 Boulevard Saint-Michel",
+"area": "6e · Saint-Germain",
+"ll": [
+48.85171,
+2.34309
+],
+"ls": "https://commerces.com/brioche-doree/ouvert-le-1er-novembre.htm"
+},
+{
+"n": "Brioche Dorée · 65 Boulevard Saint-Michel",
+"cu": "Bakery café",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Groupe Le Duff (Louis Le Duff)",
+"y": "1976",
+"note": "Brioche Dorée is the founding brand of Groupe Le Duff, the Rennes-based family group (≈€2.8bn sales in 2025) also behind Bridor.",
+"src": "https://www.groupeleduff.com/home/chiffres-cles",
+"a": "65 Boulevard Saint-Michel",
+"area": "5e · Latin Quarter",
+"ll": [
+48.84708,
+2.34093
+],
+"ls": "https://commerces.com/brioche-doree/ouvert-le-1er-novembre.htm"
+},
+{
+"n": "Brioche Dorée · 66 Rue de Rivoli",
+"cu": "Bakery café",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Groupe Le Duff (Louis Le Duff)",
+"y": "1976",
+"note": "Brioche Dorée is the founding brand of Groupe Le Duff, the Rennes-based family group (≈€2.8bn sales in 2025) also behind Bridor.",
+"src": "https://www.groupeleduff.com/home/chiffres-cles",
+"a": "66 Rue de Rivoli",
+"area": "4e · Marais & the islands",
+"ll": [
+48.85744,
+2.35222
+],
+"ls": "https://commerces.com/brioche-doree/ouvert-le-1er-novembre.htm"
 },
 {
 "n": "Brioche Dorée · 80 Rue de Rivoli",
@@ -6449,6 +7852,24 @@
 ]
 },
 {
+"n": "Coutume · 1 Rue de Mézières",
+"cu": "Specialty coffee",
+"k": "Coffee",
+"pr": 2,
+"c": "corp",
+"o": "Groupe Labruyère (majority) with founder Tom Clark",
+"y": "2020",
+"note": "The Labruyère family group (wine estates, hotels, private equity) took control of Coutume's company Maître du Terroir in 2020, partnering with co-founder Tom Clark.",
+"src": "https://www.reussir.fr/articles/le-groupe-labruyere-reprend-maitre-du-terroir",
+"a": "1 Rue de Mézières",
+"area": "6e · Saint-Germain",
+"ll": [
+48.8502,
+2.3324
+],
+"ls": "https://coutumecafe.com/pages/cafe-la-procure"
+},
+{
 "n": "Coutume · 3 Rue de Ponthieu",
 "cu": "Specialty coffee",
 "k": "Coffee",
@@ -6464,6 +7885,24 @@
 48.87005,
 2.31129
 ]
+},
+{
+"n": "Coutume · 40 Boulevard Haussmann",
+"cu": "Specialty coffee",
+"k": "Coffee",
+"pr": 2,
+"c": "corp",
+"o": "Groupe Labruyère (majority) with founder Tom Clark",
+"y": "2020",
+"note": "The Labruyère family group (wine estates, hotels, private equity) took control of Coutume's company Maître du Terroir in 2020, partnering with co-founder Tom Clark.",
+"src": "https://www.reussir.fr/articles/le-groupe-labruyere-reprend-maitre-du-terroir",
+"a": "40 Boulevard Haussmann",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.8732,
+2.33243
+],
+"ls": "https://coutumecafe.com/pages/cafe-francois-daubinet"
 },
 {
 "n": "Coutume · 47 Rue de Babylone",
@@ -6566,6 +8005,57 @@
 48.87228,
 2.31195
 ]
+},
+{
+"n": "Del Arte · 11 Rue de l'Arrivée",
+"cu": "Pizza & pasta",
+"k": "Italian",
+"pr": 2,
+"c": "corp",
+"o": "Groupe Le Duff (Louis Le Duff)",
+"note": "Del Arte was bought from Accor by Groupe Le Duff in the 1990s and is one of the family group's main restaurant chains.",
+"src": "https://fr.wikipedia.org/wiki/Groupe_Le_Duff",
+"a": "11 Rue de l'Arrivée",
+"area": "15e · Vaugirard",
+"ll": [
+48.84318,
+2.32231
+],
+"ls": "https://commerces.com/del-arte/"
+},
+{
+"n": "Del Arte · 2 Boulevard Haussmann",
+"cu": "Pizza & pasta",
+"k": "Italian",
+"pr": 2,
+"c": "corp",
+"o": "Groupe Le Duff (Louis Le Duff)",
+"note": "Del Arte was bought from Accor by Groupe Le Duff in the 1990s and is one of the family group's main restaurant chains.",
+"src": "https://fr.wikipedia.org/wiki/Groupe_Le_Duff",
+"a": "2 Boulevard Haussmann",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87218,
+2.33981
+],
+"ls": "https://commerces.com/del-arte/"
+},
+{
+"n": "Del Arte · 20 Boulevard Saint-Michel",
+"cu": "Pizza & pasta",
+"k": "Italian",
+"pr": 2,
+"c": "corp",
+"o": "Groupe Le Duff (Louis Le Duff)",
+"note": "Del Arte was bought from Accor by Groupe Le Duff in the 1990s and is one of the family group's main restaurant chains.",
+"src": "https://fr.wikipedia.org/wiki/Groupe_Le_Duff",
+"a": "20 Boulevard Saint-Michel",
+"area": "6e · Saint-Germain",
+"ll": [
+48.85171,
+2.34309
+],
+"ls": "https://commerces.com/del-arte/"
 },
 {
 "n": "Domino's Pizza · 1 Rue Bosio",
@@ -7279,6 +8769,42 @@
 ]
 },
 {
+"n": "Krispy Kreme · 1 Avenue du Général Sarrail",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "1 Avenue du Général Sarrail",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.84733,
+2.25699
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+},
+{
+"n": "Krispy Kreme · 10 Rue Jean Bart",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "10 Rue Jean Bart",
+"area": "6e · Saint-Germain",
+"ll": [
+48.84758,
+2.3309
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+},
+{
 "n": "Krispy Kreme · 101 Porte Berger",
 "cu": "Doughnuts",
 "k": "Bakery & pastry",
@@ -7294,6 +8820,42 @@
 48.86247,
 2.34663
 ]
+},
+{
+"n": "Krispy Kreme · 102 Avenue du Général Leclerc",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "102 Avenue du Général Leclerc",
+"area": "14e · Montparnasse",
+"ll": [
+48.8266,
+2.32614
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+},
+{
+"n": "Krispy Kreme · 106 Boulevard Saint-Germain",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "106 Boulevard Saint-Germain",
+"area": "6e · Saint-Germain",
+"ll": [
+48.85173,
+2.34239
+],
+"ls": "https://restaurants.krispykreme.fr/en/restaurant-doughnuts/our-restaurants/"
 },
 {
 "n": "Krispy Kreme · 109 Rue Saint-Lazare",
@@ -7313,6 +8875,150 @@
 ]
 },
 {
+"n": "Krispy Kreme · 12 Rue Linois",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "12 Rue Linois",
+"area": "15e · Vaugirard",
+"ll": [
+48.84856,
+2.28252
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+},
+{
+"n": "Krispy Kreme · 121 Avenue du Général Leclerc",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "121 Avenue du Général Leclerc",
+"area": "14e · Montparnasse",
+"ll": [
+48.82404,
+2.3261
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+},
+{
+"n": "Krispy Kreme · 126 Avenue de Wagram",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "126 Avenue de Wagram",
+"area": "17e · Batignolles",
+"ll": [
+48.88481,
+2.3033
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+},
+{
+"n": "Krispy Kreme · 165 Rue Saint-Honoré",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "165 Rue Saint-Honoré",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86351,
+2.33467
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+},
+{
+"n": "Krispy Kreme · 17 Boulevard de Vaugirard",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "17 Boulevard de Vaugirard",
+"area": "15e · Vaugirard",
+"ll": [
+48.84144,
+2.31908
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+},
+{
+"n": "Krispy Kreme · 19 Boulevard Henri IV",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "19 Boulevard Henri IV",
+"area": "4e · Marais & the islands",
+"ll": [
+48.85175,
+2.36395
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+},
+{
+"n": "Krispy Kreme · 203 Avenue de Versailles",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "203 Avenue de Versailles",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.83857,
+2.26005
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+},
+{
+"n": "Krispy Kreme · 23 Rue de Vouillé",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "23 Rue de Vouillé",
+"area": "15e · Vaugirard",
+"ll": [
+48.83474,
+2.30548
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+},
+{
 "n": "Krispy Kreme · 23 rue des rosiers",
 "cu": "Doughnuts",
 "k": "Bakery & pastry",
@@ -7330,6 +9036,24 @@
 ]
 },
 {
+"n": "Krispy Kreme · 25 Boulevard Gouvion-Saint-Cyr",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "25 Boulevard Gouvion-Saint-Cyr",
+"area": "17e · Batignolles",
+"ll": [
+48.88378,
+2.28893
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+},
+{
 "n": "Krispy Kreme · 3 Avenue de Clichy",
 "cu": "Doughnuts",
 "k": "Bakery & pastry",
@@ -7345,6 +9069,114 @@
 48.88402,
 2.327
 ]
+},
+{
+"n": "Krispy Kreme · 35 Rue Saint-Antoine",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "35 Rue Saint-Antoine",
+"area": "4e · Marais & the islands",
+"ll": [
+48.85374,
+2.36494
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+},
+{
+"n": "Krispy Kreme · 4 Place Saint-Michel",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "4 Place Saint-Michel",
+"area": "6e · Saint-Germain",
+"ll": [
+48.85365,
+2.34356
+],
+"ls": "https://restaurants.krispykreme.fr/en/restaurant-doughnuts/our-restaurants/"
+},
+{
+"n": "Krispy Kreme · 405 Rue de Vaugirard",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "405 Rue de Vaugirard",
+"area": "15e · Vaugirard",
+"ll": [
+48.83288,
+2.28901
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+},
+{
+"n": "Krispy Kreme · 50 Rue de la Pompe",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "50 Rue de la Pompe",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.86184,
+2.27589
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
+},
+{
+"n": "Krispy Kreme · 51 Avenue des Gobelins",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "51 Avenue des Gobelins",
+"area": "13e · Butte-aux-Cailles",
+"ll": [
+48.83478,
+2.35357
+],
+"ls": "https://restaurants.krispykreme.fr/en/restaurant-doughnuts/our-restaurants/"
+},
+{
+"n": "Krispy Kreme · 76 Rue des Poissonniers",
+"cu": "Doughnuts",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "corp",
+"o": "Krispy Kreme Inc. (Nasdaq: DNUT)",
+"y": "2026",
+"note": "In June 2026 Krispy Kreme bought out partner Wagram Food Service (Columbus Café) and became sole owner of its French subsidiary.",
+"src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282",
+"a": "76 Rue des Poissonniers",
+"area": "18e · Montmartre",
+"ll": [
+48.89104,
+2.35169
+],
+"ls": "https://restaurants.krispykreme.fr/fr/restaurant-doughnuts/nos-restaurants/"
 },
 {
 "n": "Krispy Kreme · Boulevard de Grenelle",
@@ -7496,6 +9328,60 @@
 ]
 },
 {
+"n": "Ladurée · 133 Avenue des Champs Élysées",
+"cu": "Macarons & tea room",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "corp",
+"o": "LOV Group (Stéphane Courbit), 80%; Groupe Holder 20%",
+"y": "2021",
+"note": "Groupe Holder sold 80% of Ladurée in 2021 to LOV Group, the holding company of entrepreneur Stéphane Courbit (Banijay, Betclic).",
+"src": "https://luxus-plus.com/laduree-poursuit-son-developpement-sous-loeil-avise-de-stephane-courbit/",
+"a": "133 Avenue des Champs Élysées",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87279,
+2.297
+],
+"ls": "https://laduree.com/pages/stores/paris-centre"
+},
+{
+"n": "Ladurée · 15 Rue Linois",
+"cu": "Macarons & tea room",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "corp",
+"o": "LOV Group (Stéphane Courbit), 80%; Groupe Holder 20%",
+"y": "2021",
+"note": "Groupe Holder sold 80% of Ladurée in 2021 to LOV Group, the holding company of entrepreneur Stéphane Courbit (Banijay, Betclic).",
+"src": "https://luxus-plus.com/laduree-poursuit-son-developpement-sous-loeil-avise-de-stephane-courbit/",
+"a": "15 Rue Linois",
+"area": "15e · Vaugirard",
+"ll": [
+48.84842,
+2.2833
+],
+"ls": "https://laduree.com/pages/stores/paris-centre"
+},
+{
+"n": "Ladurée · 17 Boulevard de Vaugirard",
+"cu": "Macarons & tea room",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "corp",
+"o": "LOV Group (Stéphane Courbit), 80%; Groupe Holder 20%",
+"y": "2021",
+"note": "Groupe Holder sold 80% of Ladurée in 2021 to LOV Group, the holding company of entrepreneur Stéphane Courbit (Banijay, Betclic).",
+"src": "https://luxus-plus.com/laduree-poursuit-son-developpement-sous-loeil-avise-de-stephane-courbit/",
+"a": "17 Boulevard de Vaugirard",
+"area": "15e · Vaugirard",
+"ll": [
+48.84144,
+2.31908
+],
+"ls": "https://laduree.com/pages/stores/paris-centre"
+},
+{
 "n": "Ladurée · 1T Rue Norvins",
 "cu": "Macarons & tea room",
 "k": "Bakery & pastry",
@@ -7530,6 +9416,24 @@
 ]
 },
 {
+"n": "Ladurée · 232 Rue de Rivoli",
+"cu": "Macarons & tea room",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "corp",
+"o": "LOV Group (Stéphane Courbit), 80%; Groupe Holder 20%",
+"y": "2021",
+"note": "Groupe Holder sold 80% of Ladurée in 2021 to LOV Group, the holding company of entrepreneur Stéphane Courbit (Banijay, Betclic).",
+"src": "https://luxus-plus.com/laduree-poursuit-son-developpement-sous-loeil-avise-de-stephane-courbit/",
+"a": "232 Rue de Rivoli",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86529,
+2.32778
+],
+"ls": "https://laduree.com/pages/stores/paris-centre"
+},
+{
 "n": "Ladurée · 4 Place Victor Hugo",
 "cu": "Macarons & tea room",
 "k": "Bakery & pastry",
@@ -7547,6 +9451,42 @@
 ]
 },
 {
+"n": "Ladurée · 40 Boulevard Haussmann",
+"cu": "Macarons & tea room",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "corp",
+"o": "LOV Group (Stéphane Courbit), 80%; Groupe Holder 20%",
+"y": "2021",
+"note": "Groupe Holder sold 80% of Ladurée in 2021 to LOV Group, the holding company of entrepreneur Stéphane Courbit (Banijay, Betclic).",
+"src": "https://luxus-plus.com/laduree-poursuit-son-developpement-sous-loeil-avise-de-stephane-courbit/",
+"a": "40 Boulevard Haussmann",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.8732,
+2.33243
+],
+"ls": "https://laduree.com/pages/store/laduree-paris-galeries-lafayette-haussmann"
+},
+{
+"n": "Ladurée · 43 Rue Vieille du Temple",
+"cu": "Macarons & tea room",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "corp",
+"o": "LOV Group (Stéphane Courbit), 80%; Groupe Holder 20%",
+"y": "2021",
+"note": "Groupe Holder sold 80% of Ladurée in 2021 to LOV Group, the holding company of entrepreneur Stéphane Courbit (Banijay, Betclic).",
+"src": "https://luxus-plus.com/laduree-poursuit-son-developpement-sous-loeil-avise-de-stephane-courbit/",
+"a": "43 Rue Vieille du Temple",
+"area": "4e · Marais & the islands",
+"ll": [
+48.85795,
+2.35784
+],
+"ls": "https://laduree.com/pages/stores/paris-centre"
+},
+{
 "n": "Ladurée · 64 Boulevard Haussmann",
 "cu": "Macarons & tea room",
 "k": "Bakery & pastry",
@@ -7562,6 +9502,24 @@
 48.87384,
 2.32921
 ]
+},
+{
+"n": "Ladurée · 99 Rue de Rivoli",
+"cu": "Macarons & tea room",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "corp",
+"o": "LOV Group (Stéphane Courbit), 80%; Groupe Holder 20%",
+"y": "2021",
+"note": "Groupe Holder sold 80% of Ladurée in 2021 to LOV Group, the holding company of entrepreneur Stéphane Courbit (Banijay, Betclic).",
+"src": "https://luxus-plus.com/laduree-poursuit-son-developpement-sous-loeil-avise-de-stephane-courbit/",
+"a": "99 Rue de Rivoli",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86272,
+2.33483
+],
+"ls": "https://laduree.com/fr-ww/pages/store/laduree-paris-carrousel-du-louvre"
 },
 {
 "n": "Ladurée · Parking Saint-Lazare",
@@ -8083,6 +10041,23 @@
 ]
 },
 {
+"n": "McDonald's · 131 Avenue Victor Hugo",
+"cu": "Burgers",
+"k": "Burgers & chicken",
+"pr": 1,
+"c": "corp",
+"o": "McDonald's Corporation (NYSE: MCD), via McDonald's France",
+"note": "McDonald's France is part of the listed US group; about 84% of its 1,630 French restaurants were franchised at end-2025.",
+"src": "https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/pdf/Restaurants%20by%20Market%202025.pdf",
+"a": "131 Avenue Victor Hugo",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.86786,
+2.28139
+],
+"ls": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-victor-hugo/327"
+},
+{
 "n": "McDonald's · 17 Rue de l'Arc en Ciel",
 "cu": "Burgers",
 "k": "Burgers & chicken",
@@ -8097,6 +10072,40 @@
 48.86195,
 2.34589
 ]
+},
+{
+"n": "McDonald's · 184 Rue de Rivoli",
+"cu": "Burgers",
+"k": "Burgers & chicken",
+"pr": 1,
+"c": "corp",
+"o": "McDonald's Corporation (NYSE: MCD), via McDonald's France",
+"note": "McDonald's France is part of the listed US group; about 84% of its 1,630 French restaurants were franchised at end-2025.",
+"src": "https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/pdf/Restaurants%20by%20Market%202025.pdf",
+"a": "184 Rue de Rivoli",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86342,
+2.3336
+],
+"ls": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-louvre-rivoli/549"
+},
+{
+"n": "McDonald's · 192 Rue de la Convention",
+"cu": "Burgers",
+"k": "Burgers & chicken",
+"pr": 1,
+"c": "corp",
+"o": "McDonald's Corporation (NYSE: MCD), via McDonald's France",
+"note": "McDonald's France is part of the listed US group; about 84% of its 1,630 French restaurants were franchised at end-2025.",
+"src": "https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/pdf/Restaurants%20by%20Market%202025.pdf",
+"a": "192 Rue de la Convention",
+"area": "15e · Vaugirard",
+"ll": [
+48.83747,
+2.29562
+],
+"ls": "https://www.mcdonalds.fr/restaurants/mcdonalds-paris-convention/573"
 },
 {
 "n": "McDonald's · 2 Boulevard de l'Hôpital",
@@ -9174,6 +11183,23 @@
 ]
 },
 {
+"n": "Paul · 77 Rue de Varenne",
+"cu": "Bakery",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "corp",
+"o": "Groupe Holder (Holder family)",
+"note": "Paul belongs to the 100% family-owned Groupe Holder (≈€1bn sales, ~850 shops worldwide), chaired by Maxime Holder.",
+"src": "https://www.lejournaldesentreprises.com/article/bfm-le-jde-boulangeries-paul-linternational-ne-doit-pas-etre-une-echappatoire-2113278",
+"a": "77 Rue de Varenne",
+"area": "7e · Invalides & Eiffel",
+"ll": [
+48.85587,
+2.31599
+],
+"ls": "https://www.paul-bakeries.com/pnews-details/paul-in-the-heart-of-saint-germain-des-pres"
+},
+{
 "n": "Paul · Allée du Chef d'Escadron de Guillebon",
 "cu": "Bakery",
 "k": "Bakery & pastry",
@@ -9526,6 +11552,42 @@
 ]
 },
 {
+"n": "Pizza Hut · 109 Boulevard Richard Lenoir",
+"cu": "Pizza",
+"k": "Pizza",
+"pr": 1,
+"c": "corp",
+"o": "Yum! Brands (NYSE: YUM)",
+"y": "2024",
+"note": "Yum! Brands took back direct control of Pizza Hut France from master franchisee AmRest in December 2024; the 129 restaurants are largely franchised.",
+"src": "https://www.franchise-magazine.com/news-franchise/restauration-rapide-pizza-hut-france-decembre-2024",
+"a": "109 Boulevard Richard Lenoir",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.86457,
+2.3701
+],
+"ls": "https://fr.mappy.com/app/pizza-hut/75000-paris"
+},
+{
+"n": "Pizza Hut · 19 Rue du Rocher",
+"cu": "Pizza",
+"k": "Pizza",
+"pr": 1,
+"c": "corp",
+"o": "Yum! Brands (NYSE: YUM)",
+"y": "2024",
+"note": "Yum! Brands took back direct control of Pizza Hut France from master franchisee AmRest in December 2024; the 129 restaurants are largely franchised.",
+"src": "https://www.franchise-magazine.com/news-franchise/restauration-rapide-pizza-hut-france-decembre-2024",
+"a": "19 Rue du Rocher",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87622,
+2.32229
+],
+"ls": "https://ou-utiliser.up.coop/enseignes/pizza-hut-78206781"
+},
+{
 "n": "Pizza Hut · 22bis Rue Jean Nicot",
 "cu": "Pizza",
 "k": "Pizza",
@@ -9541,6 +11603,42 @@
 48.86005,
 2.30753
 ]
+},
+{
+"n": "Pizza Hut · 29 Boulevard des Italiens",
+"cu": "Pizza",
+"k": "Pizza",
+"pr": 1,
+"c": "corp",
+"o": "Yum! Brands (NYSE: YUM)",
+"y": "2024",
+"note": "Yum! Brands took back direct control of Pizza Hut France from master franchisee AmRest in December 2024; the 129 restaurants are largely franchised.",
+"src": "https://www.franchise-magazine.com/news-franchise/restauration-rapide-pizza-hut-france-decembre-2024",
+"a": "29 Boulevard des Italiens",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.87095,
+2.33508
+],
+"ls": "https://ou-utiliser.up.coop/enseignes/pizza-hut-78206781"
+},
+{
+"n": "Pizza Hut · 41 Boulevard Auguste Blanqui",
+"cu": "Pizza",
+"k": "Pizza",
+"pr": 1,
+"c": "corp",
+"o": "Yum! Brands (NYSE: YUM)",
+"y": "2024",
+"note": "Yum! Brands took back direct control of Pizza Hut France from master franchisee AmRest in December 2024; the 129 restaurants are largely franchised.",
+"src": "https://www.franchise-magazine.com/news-franchise/restauration-rapide-pizza-hut-france-decembre-2024",
+"a": "41 Boulevard Auguste Blanqui",
+"area": "13e · Butte-aux-Cailles",
+"ll": [
+48.8297,
+2.35124
+],
+"ls": "https://ou-utiliser.up.coop/enseignes/pizza-hut-78206781"
 },
 {
 "n": "Pizza Hut · 45 Rue Jean de La Fontaine",
@@ -10729,6 +12827,24 @@
 ]
 },
 {
+"n": "Sushi Shop · 105 Rue de la Convention",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "corp",
+"o": "AmRest Holdings (Warsaw-listed)",
+"y": "2018",
+"note": "AmRest, the Warsaw-listed restaurant operator, bought Sushi Shop for €240m in 2018, buying out PE investor Naxicap.",
+"src": "https://fr.wikipedia.org/wiki/Sushi_Shop",
+"a": "105 Rue de la Convention",
+"area": "15e · Vaugirard",
+"ll": [
+48.84141,
+2.28748
+],
+"ls": "https://www.sushishop.fr/fr/restaurants/paris"
+},
+{
 "n": "Sushi Shop · 111 Rue du Faubourg Saint-Antoine",
 "cu": "Sushi",
 "k": "Japanese",
@@ -10744,6 +12860,42 @@
 48.85131,
 2.37654
 ]
+},
+{
+"n": "Sushi Shop · 125 Rue des Dames",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "corp",
+"o": "AmRest Holdings (Warsaw-listed)",
+"y": "2018",
+"note": "AmRest, the Warsaw-listed restaurant operator, bought Sushi Shop for €240m in 2018, buying out PE investor Naxicap.",
+"src": "https://fr.wikipedia.org/wiki/Sushi_Shop",
+"a": "125 Rue des Dames",
+"area": "17e · Batignolles",
+"ll": [
+48.88239,
+2.31645
+],
+"ls": "https://www.sushishop.fr/fr/restaurants/paris"
+},
+{
+"n": "Sushi Shop · 13 Rue Auguste Perret",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "corp",
+"o": "AmRest Holdings (Warsaw-listed)",
+"y": "2018",
+"note": "AmRest, the Warsaw-listed restaurant operator, bought Sushi Shop for €240m in 2018, buying out PE investor Naxicap.",
+"src": "https://fr.wikipedia.org/wiki/Sushi_Shop",
+"a": "13 Rue Auguste Perret",
+"area": "13e · Butte-aux-Cailles",
+"ll": [
+48.8247,
+2.35924
+],
+"ls": "https://www.sushishop.fr/fr/restaurants/paris"
 },
 {
 "n": "Sushi Shop · 2 Avenue du Général Leclerc",
@@ -10763,6 +12915,42 @@
 ]
 },
 {
+"n": "Sushi Shop · 24 Rue du Commerce",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "corp",
+"o": "AmRest Holdings (Warsaw-listed)",
+"y": "2018",
+"note": "AmRest, the Warsaw-listed restaurant operator, bought Sushi Shop for €240m in 2018, buying out PE investor Naxicap.",
+"src": "https://fr.wikipedia.org/wiki/Sushi_Shop",
+"a": "24 Rue du Commerce",
+"area": "15e · Vaugirard",
+"ll": [
+48.84774,
+2.2964
+],
+"ls": "https://www.sushishop.fr/fr/restaurants/paris"
+},
+{
+"n": "Sushi Shop · 25 Avenue des Ternes",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "corp",
+"o": "AmRest Holdings (Warsaw-listed)",
+"y": "2018",
+"note": "AmRest, the Warsaw-listed restaurant operator, bought Sushi Shop for €240m in 2018, buying out PE investor Naxicap.",
+"src": "https://fr.wikipedia.org/wiki/Sushi_Shop",
+"a": "25 Avenue des Ternes",
+"area": "17e · Batignolles",
+"ll": [
+48.87823,
+2.29524
+],
+"ls": "https://www.sushishop.fr/fr/restaurants/paris"
+},
+{
 "n": "Sushi Shop · 30 Avenue Secrétan",
 "cu": "Sushi",
 "k": "Japanese",
@@ -10778,6 +12966,24 @@
 48.8814,
 2.37257
 ]
+},
+{
+"n": "Sushi Shop · 45 Rue de Reuilly",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "corp",
+"o": "AmRest Holdings (Warsaw-listed)",
+"y": "2018",
+"note": "AmRest, the Warsaw-listed restaurant operator, bought Sushi Shop for €240m in 2018, buying out PE investor Naxicap.",
+"src": "https://fr.wikipedia.org/wiki/Sushi_Shop",
+"a": "45 Rue de Reuilly",
+"area": "12e · Bercy & Nation",
+"ll": [
+48.84627,
+2.38797
+],
+"ls": "https://www.sushishop.fr/fr/restaurants/paris"
 },
 {
 "n": "Sushi Shop · 52b Avenue Mozart",
@@ -10812,6 +13018,24 @@
 48.87341,
 2.31232
 ]
+},
+{
+"n": "Sushi Shop · 86 Rue Saint-Dominique",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "corp",
+"o": "AmRest Holdings (Warsaw-listed)",
+"y": "2018",
+"note": "AmRest, the Warsaw-listed restaurant operator, bought Sushi Shop for €240m in 2018, buying out PE investor Naxicap.",
+"src": "https://fr.wikipedia.org/wiki/Sushi_Shop",
+"a": "86 Rue Saint-Dominique",
+"area": "7e · Invalides & Eiffel",
+"ll": [
+48.85959,
+2.30661
+],
+"ls": "https://www.sushishop.fr/fr/restaurants/paris"
 },
 {
 "n": "Sushi Shop · Allée Pierre Lazareff",
@@ -11194,6 +13418,24 @@
 ]
 },
 {
+"n": "BO&MIE · 17 Boulevard de Vaugirard",
+"cu": "Bakery & coffee",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "ind",
+"o": "Founders Jean-François Bandet & Magali Szekula",
+"y": "2017",
+"note": "Paris bakery brand founded in 2017; it has grown without outside investors and won a 2024 'best bootstrapper' award.",
+"src": "https://www.boetmie.com/journal/meilleur-bootstrappeur-2024/",
+"a": "17 Boulevard de Vaugirard",
+"area": "15e · Vaugirard",
+"ll": [
+48.84144,
+2.31908
+],
+"ls": "https://www.boetmie.com/boutiques/"
+},
+{
 "n": "BO&MIE · 18 Rue de Turbigo",
 "cu": "Bakery & coffee",
 "k": "Bakery & pastry",
@@ -11228,6 +13470,24 @@
 ]
 },
 {
+"n": "BO&MIE · 40 Boulevard Haussmann",
+"cu": "Bakery & coffee",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "ind",
+"o": "Founders Jean-François Bandet & Magali Szekula",
+"y": "2017",
+"note": "Paris bakery brand founded in 2017; it has grown without outside investors and won a 2024 'best bootstrapper' award.",
+"src": "https://www.boetmie.com/journal/meilleur-bootstrappeur-2024/",
+"a": "40 Boulevard Haussmann",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.8732,
+2.33243
+],
+"ls": "https://www.boetmie.com/boutiques/"
+},
+{
 "n": "BO&MIE · 47 Rue du Faubourg Saint-Antoine",
 "cu": "Bakery & coffee",
 "k": "Bakery & pastry",
@@ -11243,6 +13503,24 @@
 48.85232,
 2.37266
 ]
+},
+{
+"n": "BO&MIE · 60 Avenue des Champs Élysées",
+"cu": "Bakery & coffee",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "ind",
+"o": "Founders Jean-François Bandet & Magali Szekula",
+"y": "2017",
+"note": "Paris bakery brand founded in 2017; it has grown without outside investors and won a 2024 'best bootstrapper' award.",
+"src": "https://www.boetmie.com/journal/meilleur-bootstrappeur-2024/",
+"a": "60 Avenue des Champs Élysées",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87063,
+2.30608
+],
+"ls": "https://www.boetmie.com/boutiques/"
 },
 {
 "n": "BO&MIE · 91 Rue de Rivoli",
@@ -11588,6 +13866,78 @@
 48.86193,
 2.37992
 ]
+},
+{
+"n": "Café Joyeux · 144 Avenue des Champs Élysées",
+"cu": "Inclusive café",
+"k": "Café",
+"pr": 2,
+"c": "ind",
+"o": "Non-profit endowment fund (Source de Joie / Emeraude Solidaire)",
+"y": "2018",
+"note": "Café chain employing people with cognitive disabilities, founded by Yann Bucaille Lanrezac; it is 100% owned by a non-profit endowment fund.",
+"src": "https://sourcedejoie.org/presentation/",
+"a": "144 Avenue des Champs Élysées",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87301,
+2.2986
+],
+"ls": "https://www.cafejoyeux.com/en/content/52-cafe-joyeux-shop-in-paris"
+},
+{
+"n": "Café Joyeux · 23 Rue Saint-Augustin",
+"cu": "Inclusive café",
+"k": "Café",
+"pr": 2,
+"c": "ind",
+"o": "Non-profit endowment fund (Source de Joie / Emeraude Solidaire)",
+"y": "2018",
+"note": "Café chain employing people with cognitive disabilities, founded by Yann Bucaille Lanrezac; it is 100% owned by a non-profit endowment fund.",
+"src": "https://sourcedejoie.org/presentation/",
+"a": "23 Rue Saint-Augustin",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86882,
+2.33595
+],
+"ls": "https://www.cafejoyeux.com/fr/content/41-cafe-joyeux-paris-opera"
+},
+{
+"n": "Café Joyeux · 40 Boulevard Haussmann",
+"cu": "Inclusive café",
+"k": "Café",
+"pr": 2,
+"c": "ind",
+"o": "Non-profit endowment fund (Source de Joie / Emeraude Solidaire)",
+"y": "2018",
+"note": "Café chain employing people with cognitive disabilities, founded by Yann Bucaille Lanrezac; it is 100% owned by a non-profit endowment fund.",
+"src": "https://sourcedejoie.org/presentation/",
+"a": "40 Boulevard Haussmann",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.8732,
+2.33243
+],
+"ls": "https://www.cafejoyeux.com/fr/lejournal/cafe-joyeux-s-invite-aux-galeries-lafayette-n107"
+},
+{
+"n": "Café Joyeux · 5 Rue Paul Cézanne",
+"cu": "Inclusive café",
+"k": "Café",
+"pr": 2,
+"c": "ind",
+"o": "Non-profit endowment fund (Source de Joie / Emeraude Solidaire)",
+"y": "2018",
+"note": "Café chain employing people with cognitive disabilities, founded by Yann Bucaille Lanrezac; it is 100% owned by a non-profit endowment fund.",
+"src": "https://sourcedejoie.org/presentation/",
+"a": "5 Rue Paul Cézanne",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87443,
+2.30925
+],
+"ls": "https://www.cafejoyeux.com/fr/content/116-cafe-joyeux-st-philippe-du-roule"
 },
 {
 "n": "Café Joyeux · Rue Legendre",
@@ -14599,6 +16949,204 @@
 48.84262,
 2.31387
 ]
+},
+{
+"n": "Planet Sushi · 100 Avenue du Général Leclerc",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "ind",
+"o": "Founder Siben N'Ser (brand) / franchisees",
+"y": "2023",
+"note": "After the head company's 2023 liquidation, founder Siben N'Ser kept the brand via his company Sumaya and the network continues through franchisees managed by Planet Sushi Service; PE funds Céréa and Azulis had exited in 2013.",
+"src": "https://www.snacking.fr/actualites/6495-Cote-Sushi-recupere-16-succursales-Planet-Sushi-tandis-que-la-marque-de-Siben-N-Ser-reprend-son-developpement/",
+"a": "100 Avenue du Général Leclerc",
+"area": "14e · Montparnasse",
+"ll": [
+48.82678,
+2.32624
+],
+"ls": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+},
+{
+"n": "Planet Sushi · 111 Rue Monge",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "ind",
+"o": "Founder Siben N'Ser (brand) / franchisees",
+"y": "2023",
+"note": "After the head company's 2023 liquidation, founder Siben N'Ser kept the brand via his company Sumaya and the network continues through franchisees managed by Planet Sushi Service; PE funds Céréa and Azulis had exited in 2013.",
+"src": "https://www.snacking.fr/actualites/6495-Cote-Sushi-recupere-16-succursales-Planet-Sushi-tandis-que-la-marque-de-Siben-N-Ser-reprend-son-developpement/",
+"a": "111 Rue Monge",
+"area": "5e · Latin Quarter",
+"ll": [
+48.83976,
+2.35148
+],
+"ls": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+},
+{
+"n": "Planet Sushi · 123 Rue de la Pompe",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "ind",
+"o": "Founder Siben N'Ser (brand) / franchisees",
+"y": "2023",
+"note": "After the head company's 2023 liquidation, founder Siben N'Ser kept the brand via his company Sumaya and the network continues through franchisees managed by Planet Sushi Service; PE funds Céréa and Azulis had exited in 2013.",
+"src": "https://www.snacking.fr/actualites/6495-Cote-Sushi-recupere-16-succursales-Planet-Sushi-tandis-que-la-marque-de-Siben-N-Ser-reprend-son-developpement/",
+"a": "123 Rue de la Pompe",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.86611,
+2.27967
+],
+"ls": "https://fr.mappy.com/poi/64014dd8f903d612a9d4a1f5"
+},
+{
+"n": "Planet Sushi · 2 Boulevard Richard Lenoir",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "ind",
+"o": "Founder Siben N'Ser (brand) / franchisees",
+"y": "2023",
+"note": "After the head company's 2023 liquidation, founder Siben N'Ser kept the brand via his company Sumaya and the network continues through franchisees managed by Planet Sushi Service; PE funds Céréa and Azulis had exited in 2013.",
+"src": "https://www.snacking.fr/actualites/6495-Cote-Sushi-recupere-16-succursales-Planet-Sushi-tandis-que-la-marque-de-Siben-N-Ser-reprend-son-developpement/",
+"a": "2 Boulevard Richard Lenoir",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.85381,
+2.36988
+],
+"ls": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+},
+{
+"n": "Planet Sushi · 22 Avenue Secrétan",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "ind",
+"o": "Founder Siben N'Ser (brand) / franchisees",
+"y": "2023",
+"note": "After the head company's 2023 liquidation, founder Siben N'Ser kept the brand via his company Sumaya and the network continues through franchisees managed by Planet Sushi Service; PE funds Céréa and Azulis had exited in 2013.",
+"src": "https://www.snacking.fr/actualites/6495-Cote-Sushi-recupere-16-succursales-Planet-Sushi-tandis-que-la-marque-de-Siben-N-Ser-reprend-son-developpement/",
+"a": "22 Avenue Secrétan",
+"area": "19e · Buttes-Chaumont",
+"ll": [
+48.88171,
+2.37187
+],
+"ls": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+},
+{
+"n": "Planet Sushi · 243 Rue des Pyrénées",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "ind",
+"o": "Founder Siben N'Ser (brand) / franchisees",
+"y": "2023",
+"note": "After the head company's 2023 liquidation, founder Siben N'Ser kept the brand via his company Sumaya and the network continues through franchisees managed by Planet Sushi Service; PE funds Céréa and Azulis had exited in 2013.",
+"src": "https://www.snacking.fr/actualites/6495-Cote-Sushi-recupere-16-succursales-Planet-Sushi-tandis-que-la-marque-de-Siben-N-Ser-reprend-son-developpement/",
+"a": "243 Rue des Pyrénées",
+"area": "20e · Belleville & Ménilmontant",
+"ll": [
+48.86533,
+2.39798
+],
+"ls": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+},
+{
+"n": "Planet Sushi · 29 Rue Bois Le Vent",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "ind",
+"o": "Founder Siben N'Ser (brand) / franchisees",
+"y": "2023",
+"note": "After the head company's 2023 liquidation, founder Siben N'Ser kept the brand via his company Sumaya and the network continues through franchisees managed by Planet Sushi Service; PE funds Céréa and Azulis had exited in 2013.",
+"src": "https://www.snacking.fr/actualites/6495-Cote-Sushi-recupere-16-succursales-Planet-Sushi-tandis-que-la-marque-de-Siben-N-Ser-reprend-son-developpement/",
+"a": "29 Rue Bois Le Vent",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.8576,
+2.27403
+],
+"ls": "https://francy-annu.com/P/PLANET-SUSHI-1.php"
+},
+{
+"n": "Planet Sushi · 35 Boulevard Voltaire",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "ind",
+"o": "Founder Siben N'Ser (brand) / franchisees",
+"y": "2023",
+"note": "After the head company's 2023 liquidation, founder Siben N'Ser kept the brand via his company Sumaya and the network continues through franchisees managed by Planet Sushi Service; PE funds Céréa and Azulis had exited in 2013.",
+"src": "https://www.snacking.fr/actualites/6495-Cote-Sushi-recupere-16-succursales-Planet-Sushi-tandis-que-la-marque-de-Siben-N-Ser-reprend-son-developpement/",
+"a": "35 Boulevard Voltaire",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.86458,
+2.36907
+],
+"ls": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+},
+{
+"n": "Planet Sushi · 55 Rue Montorgueil",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "ind",
+"o": "Founder Siben N'Ser (brand) / franchisees",
+"y": "2023",
+"note": "After the head company's 2023 liquidation, founder Siben N'Ser kept the brand via his company Sumaya and the network continues through franchisees managed by Planet Sushi Service; PE funds Céréa and Azulis had exited in 2013.",
+"src": "https://www.snacking.fr/actualites/6495-Cote-Sushi-recupere-16-succursales-Planet-Sushi-tandis-que-la-marque-de-Siben-N-Ser-reprend-son-developpement/",
+"a": "55 Rue Montorgueil",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86539,
+2.34687
+],
+"ls": "https://francy-annu.com/P/PLANET-SUSHI-1.php"
+},
+{
+"n": "Planet Sushi · 75 Avenue Kléber",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "ind",
+"o": "Founder Siben N'Ser (brand) / franchisees",
+"y": "2023",
+"note": "After the head company's 2023 liquidation, founder Siben N'Ser kept the brand via his company Sumaya and the network continues through franchisees managed by Planet Sushi Service; PE funds Céréa and Azulis had exited in 2013.",
+"src": "https://www.snacking.fr/actualites/6495-Cote-Sushi-recupere-16-succursales-Planet-Sushi-tandis-que-la-marque-de-Siben-N-Ser-reprend-son-developpement/",
+"a": "75 Avenue Kléber",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.86532,
+2.28919
+],
+"ls": "https://commerces.com/planet-sushi/ouvert-le-dimanche.htm"
+},
+{
+"n": "Planet Sushi · 9 Rue Saint-Didier",
+"cu": "Sushi",
+"k": "Japanese",
+"pr": 2,
+"c": "ind",
+"o": "Founder Siben N'Ser (brand) / franchisees",
+"y": "2023",
+"note": "After the head company's 2023 liquidation, founder Siben N'Ser kept the brand via his company Sumaya and the network continues through franchisees managed by Planet Sushi Service; PE funds Céréa and Azulis had exited in 2013.",
+"src": "https://www.snacking.fr/actualites/6495-Cote-Sushi-recupere-16-succursales-Planet-Sushi-tandis-que-la-marque-de-Siben-N-Ser-reprend-son-developpement/",
+"a": "9 Rue Saint-Didier",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.86614,
+2.28822
+],
+"ls": "https://francy-annu.com/P/PLANET-SUSHI-1.php"
 },
 {
 "n": "Planet Sushi · Boulevard Malesherbes",
