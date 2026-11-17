@@ -68,6 +68,23 @@
 ]
 },
 {
+"n": "Arbela",
+"cu": "Basque wine bar & tapas",
+"k": "Wine & cocktail bar",
+"pr": 2,
+"c": "pe",
+"o": "Eleni Group (Juan Arbelaez, Pierre-Julien & Grégory Chantzios, majority); iXcore Group (family investment fund, minority)",
+"y": "2024",
+"note": "Juan Arbelaez's Basque wine bar and tapas spot in the 10th. Eleni Group, the group of chef Juan Arbelaez and the Chantzios brothers (about 15 venues including Yaya, Bazurto, Arbela, Babille, Pouliche and Café de Luce), opened its capital for the first time in 2024. It raised €3m, notably from the family investment fund iXcore Group; the founders stay well in the majority.",
+"src": "https://www.lhotellerie-restauration.fr/actualite/juan-arbelaez-et-les-freres-pierre-julien-et-gregory-chantzios-visent-les-20-millions-de-ca-en-2026",
+"a": "49 Rue de l'Échiquier",
+"area": "10e · Canal Saint-Martin",
+"ll": [
+48.87185,
+2.34841
+]
+},
+{
 "n": "Arc",
 "cu": "Club & restaurant",
 "k": "Wine & cocktail bar",
@@ -82,6 +99,23 @@
 "ll": [
 48.87395,
 2.29288
+]
+},
+{
+"n": "Arkose Chevaleret",
+"cu": "Bouldering-gym canteens & bars",
+"k": "Healthy & veggie",
+"pr": 1,
+"c": "pe",
+"o": "Founders (Steve Guillou, Samy Camarzana, Lyes Mekesser, Grégoire de Belmont); NextStage, Bpifrance",
+"y": "2018",
+"note": "Bouldering-gym group whose sites include a canteen and bar open to the public (several in Paris). The listed investment platform NextStage invested in 2018 and Bpifrance joined in 2021. The founders keep governance control although they no longer hold a majority of the capital.",
+"src": "https://www.zonebourse.com/cours/action/NEXTSTAGE-32483418/actualite/NextStage-Communique-de-presse-NextStage-Investissement-dans-le-groupe-Arkose-27202834/",
+"a": "181 Rue du Chevaleret",
+"area": "13e · Butte-aux-Cailles",
+"ll": [
+48.83352,
+2.36858
 ]
 },
 {
@@ -218,6 +252,23 @@
 "ll": [
 48.88493,
 2.32073
+]
+},
+{
+"n": "Babille · 35 Boulevard de Bonne Nouvelle",
+"cu": "Festive French brasserie",
+"k": "Brasserie",
+"pr": 3,
+"c": "pe",
+"o": "Eleni Group (Juan Arbelaez, Pierre-Julien & Grégory Chantzios, majority); iXcore Group (family investment fund, minority)",
+"y": "2024",
+"note": "Festive Grands Boulevards brasserie run with the Pigalle nightlife team Le Carrousel. Eleni Group, the group of chef Juan Arbelaez and the Chantzios brothers (about 15 venues including Yaya, Bazurto, Arbela, Babille, Pouliche and Café de Luce), opened its capital for the first time in 2024. It raised €3m, notably from the family investment fund iXcore Group; the founders stay well in the majority.",
+"src": "https://www.lhotellerie-restauration.fr/actualite/juan-arbelaez-et-les-freres-pierre-julien-et-gregory-chantzios-visent-les-20-millions-de-ca-en-2026",
+"a": "35 Boulevard de Bonne Nouvelle",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.87038,
+2.34859
 ]
 },
 {
@@ -425,6 +476,159 @@
 ]
 },
 {
+"n": "Berliner Das Original · 101 Porte Berger",
+"cu": "Berlin-style kebab",
+"k": "Middle Eastern",
+"pr": 1,
+"c": "pe",
+"o": "Brand Baker (Timothée Tronet, with co-founder Firat Akarsu); Montefiore Investment via its Nov Tourisme fund (minority, since 2021)",
+"y": "2021",
+"note": "Premium kebab chain started in 2018 on boulevard Voltaire, now about 30 restaurants (many franchised). It belongs to Brand Baker, which also built Fresh Burritos (sold to Tortilla in 2024) and Meglio. Montefiore Investment's tourism and restaurant fund Nov Tourisme took a stake in Brand Baker in 2021; convertible bonds were also raised through Sowefund in 2025.",
+"src": "https://www.snacking.fr/actualites/5865-Nouvelle-levee-de-fonds-de-Street-Bangkok-aupres-de-Nov-Tourisme-gere-par-Montefiore/?news_id=5865",
+"a": "101 Porte Berger",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86228,
+2.34354
+]
+},
+{
+"n": "Berliner Das Original · 13 rue Linné",
+"cu": "Berlin-style kebab",
+"k": "Middle Eastern",
+"pr": 1,
+"c": "pe",
+"o": "Brand Baker (Timothée Tronet, with co-founder Firat Akarsu); Montefiore Investment via its Nov Tourisme fund (minority, since 2021)",
+"y": "2021",
+"note": "Premium kebab chain started in 2018 on boulevard Voltaire, now about 30 restaurants (many franchised). It belongs to Brand Baker, which also built Fresh Burritos (sold to Tortilla in 2024) and Meglio. Montefiore Investment's tourism and restaurant fund Nov Tourisme took a stake in Brand Baker in 2021; convertible bonds were also raised through Sowefund in 2025.",
+"src": "https://www.snacking.fr/actualites/5865-Nouvelle-levee-de-fonds-de-Street-Bangkok-aupres-de-Nov-Tourisme-gere-par-Montefiore/?news_id=5865",
+"a": "13 rue Linné",
+"area": "5e · Latin Quarter",
+"ll": [
+48.8445,
+2.35456
+]
+},
+{
+"n": "Berliner Das Original · 134 Boulevard Voltaire",
+"cu": "Berlin-style kebab",
+"k": "Middle Eastern",
+"pr": 1,
+"c": "pe",
+"o": "Brand Baker (Timothée Tronet, with co-founder Firat Akarsu); Montefiore Investment via its Nov Tourisme fund (minority, since 2021)",
+"y": "2021",
+"note": "Premium kebab chain started in 2018 on boulevard Voltaire, now about 30 restaurants (many franchised). It belongs to Brand Baker, which also built Fresh Burritos (sold to Tortilla in 2024) and Meglio. Montefiore Investment's tourism and restaurant fund Nov Tourisme took a stake in Brand Baker in 2021; convertible bonds were also raised through Sowefund in 2025.",
+"src": "https://www.snacking.fr/actualites/5865-Nouvelle-levee-de-fonds-de-Street-Bangkok-aupres-de-Nov-Tourisme-gere-par-Montefiore/?news_id=5865",
+"a": "134 Boulevard Voltaire",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.857,
+2.38113
+]
+},
+{
+"n": "Berliner Das Original · 16 Rue Joubert",
+"cu": "Berlin-style kebab",
+"k": "Middle Eastern",
+"pr": 1,
+"c": "pe",
+"o": "Brand Baker (Timothée Tronet, with co-founder Firat Akarsu); Montefiore Investment via its Nov Tourisme fund (minority, since 2021)",
+"y": "2021",
+"note": "Premium kebab chain started in 2018 on boulevard Voltaire, now about 30 restaurants (many franchised). It belongs to Brand Baker, which also built Fresh Burritos (sold to Tortilla in 2024) and Meglio. Montefiore Investment's tourism and restaurant fund Nov Tourisme took a stake in Brand Baker in 2021; convertible bonds were also raised through Sowefund in 2025.",
+"src": "https://www.snacking.fr/actualites/5865-Nouvelle-levee-de-fonds-de-Street-Bangkok-aupres-de-Nov-Tourisme-gere-par-Montefiore/?news_id=5865",
+"a": "16 Rue Joubert",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87568,
+2.33089
+]
+},
+{
+"n": "Berliner Das Original · 20 Boulevard Pasteur",
+"cu": "Berlin-style kebab",
+"k": "Middle Eastern",
+"pr": 1,
+"c": "pe",
+"o": "Brand Baker (Timothée Tronet, with co-founder Firat Akarsu); Montefiore Investment via its Nov Tourisme fund (minority, since 2021)",
+"y": "2021",
+"note": "Premium kebab chain started in 2018 on boulevard Voltaire, now about 30 restaurants (many franchised). It belongs to Brand Baker, which also built Fresh Burritos (sold to Tortilla in 2024) and Meglio. Montefiore Investment's tourism and restaurant fund Nov Tourisme took a stake in Brand Baker in 2021; convertible bonds were also raised through Sowefund in 2025.",
+"src": "https://www.snacking.fr/actualites/5865-Nouvelle-levee-de-fonds-de-Street-Bangkok-aupres-de-Nov-Tourisme-gere-par-Montefiore/?news_id=5865",
+"a": "20 Boulevard Pasteur",
+"area": "15e · Vaugirard",
+"ll": [
+48.84268,
+2.31233
+]
+},
+{
+"n": "Berliner Das Original · 3 Avenue du Général Leclerc",
+"cu": "Berlin-style kebab",
+"k": "Middle Eastern",
+"pr": 1,
+"c": "pe",
+"o": "Brand Baker (Timothée Tronet, with co-founder Firat Akarsu); Montefiore Investment via its Nov Tourisme fund (minority, since 2021)",
+"y": "2021",
+"note": "Premium kebab chain started in 2018 on boulevard Voltaire, now about 30 restaurants (many franchised). It belongs to Brand Baker, which also built Fresh Burritos (sold to Tortilla in 2024) and Meglio. Montefiore Investment's tourism and restaurant fund Nov Tourisme took a stake in Brand Baker in 2021; convertible bonds were also raised through Sowefund in 2025.",
+"src": "https://www.snacking.fr/actualites/5865-Nouvelle-levee-de-fonds-de-Street-Bangkok-aupres-de-Nov-Tourisme-gere-par-Montefiore/?news_id=5865",
+"a": "3 Avenue du Général Leclerc",
+"area": "14e · Montparnasse",
+"ll": [
+48.83326,
+2.33186
+]
+},
+{
+"n": "Berliner Das Original · 8 Rue Gomboust",
+"cu": "Berlin-style kebab",
+"k": "Middle Eastern",
+"pr": 1,
+"c": "pe",
+"o": "Brand Baker (Timothée Tronet, with co-founder Firat Akarsu); Montefiore Investment via its Nov Tourisme fund (minority, since 2021)",
+"y": "2021",
+"note": "Premium kebab chain started in 2018 on boulevard Voltaire, now about 30 restaurants (many franchised). It belongs to Brand Baker, which also built Fresh Burritos (sold to Tortilla in 2024) and Meglio. Montefiore Investment's tourism and restaurant fund Nov Tourisme took a stake in Brand Baker in 2021; convertible bonds were also raised through Sowefund in 2025.",
+"src": "https://www.snacking.fr/actualites/5865-Nouvelle-levee-de-fonds-de-Street-Bangkok-aupres-de-Nov-Tourisme-gere-par-Montefiore/?news_id=5865",
+"a": "8 Rue Gomboust",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86739,
+2.33288
+]
+},
+{
+"n": "Berliner Das Original · Rue Joubert",
+"cu": "Berlin-style kebab",
+"k": "Middle Eastern",
+"pr": 1,
+"c": "pe",
+"o": "Brand Baker (Timothée Tronet, with co-founder Firat Akarsu); Montefiore Investment via its Nov Tourisme fund (minority, since 2021)",
+"y": "2021",
+"note": "Premium kebab chain started in 2018 on boulevard Voltaire, now about 30 restaurants (many franchised). It belongs to Brand Baker, which also built Fresh Burritos (sold to Tortilla in 2024) and Meglio. Montefiore Investment's tourism and restaurant fund Nov Tourisme took a stake in Brand Baker in 2021; convertible bonds were also raised through Sowefund in 2025.",
+"src": "https://www.snacking.fr/actualites/5865-Nouvelle-levee-de-fonds-de-Street-Bangkok-aupres-de-Nov-Tourisme-gere-par-Montefiore/?news_id=5865",
+"a": "Rue Joubert",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87469,
+2.3311
+]
+},
+{
+"n": "Berliner Das Original · Rue de Dunkerque",
+"cu": "Berlin-style kebab",
+"k": "Middle Eastern",
+"pr": 1,
+"c": "pe",
+"o": "Brand Baker (Timothée Tronet, with co-founder Firat Akarsu); Montefiore Investment via its Nov Tourisme fund (minority, since 2021)",
+"y": "2021",
+"note": "Premium kebab chain started in 2018 on boulevard Voltaire, now about 30 restaurants (many franchised). It belongs to Brand Baker, which also built Fresh Burritos (sold to Tortilla in 2024) and Meglio. Montefiore Investment's tourism and restaurant fund Nov Tourisme took a stake in Brand Baker in 2021; convertible bonds were also raised through Sowefund in 2025.",
+"src": "https://www.snacking.fr/actualites/5865-Nouvelle-levee-de-fonds-de-Street-Bangkok-aupres-de-Nov-Tourisme-gere-par-Montefiore/?news_id=5865",
+"a": "Rue de Dunkerque",
+"area": "10e · Canal Saint-Martin",
+"ll": [
+48.87989,
+2.35409
+]
+},
+{
 "n": "Big Fernand · 12 Avenue de Villiers",
 "cu": "Burgers",
 "k": "Burgers & chicken",
@@ -592,6 +796,57 @@
 "ll": [
 48.83378,
 2.35362
+]
+},
+{
+"n": "Bocamexa Oberkampf",
+"cu": "Mexican fast-casual (burritos, tacos)",
+"k": "Mexican & Latin",
+"pr": 1,
+"c": "pe",
+"o": "Arts et Biens (Levy family investment office, majority); founder Julien Zattara",
+"y": "2015",
+"note": "Paris-born Mexican fast-casual chain founded in 2010 by Julien Zattara. Arts et Biens, the investment office behind Le Camion qui Fume, invested in 2015, took a majority stake in 2016 and reinvested in 2019 to fund openings; it lists seven Paris restaurants (about €5m sales in 2023).",
+"src": "https://www.artsetbiens.com/participations/bocamexa/",
+"a": "95 Rue Oberkampf",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.86542,
+2.37602
+]
+},
+{
+"n": "Bocamexa Roquette",
+"cu": "Mexican fast-casual (burritos, tacos)",
+"k": "Mexican & Latin",
+"pr": 1,
+"c": "pe",
+"o": "Arts et Biens (Levy family investment office, majority); founder Julien Zattara",
+"y": "2015",
+"note": "Paris-born Mexican fast-casual chain founded in 2010 by Julien Zattara. Arts et Biens, the investment office behind Le Camion qui Fume, invested in 2015, took a majority stake in 2016 and reinvested in 2019 to fund openings; it lists seven Paris restaurants (about €5m sales in 2023).",
+"src": "https://www.artsetbiens.com/participations/bocamexa/",
+"a": "12 Rue de la Roquette",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.85359,
+2.37073
+]
+},
+{
+"n": "Bocamexa Réaumur",
+"cu": "Mexican fast-casual (burritos, tacos)",
+"k": "Mexican & Latin",
+"pr": 1,
+"c": "pe",
+"o": "Arts et Biens (Levy family investment office, majority); founder Julien Zattara",
+"y": "2015",
+"note": "Paris-born Mexican fast-casual chain founded in 2010 by Julien Zattara. Arts et Biens, the investment office behind Le Camion qui Fume, invested in 2015, took a majority stake in 2016 and reinvested in 2019 to fund openings; it lists seven Paris restaurants (about €5m sales in 2023).",
+"src": "https://www.artsetbiens.com/participations/bocamexa/",
+"a": "81 Rue Réaumur",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.8669,
+2.34845
 ]
 },
 {
@@ -1494,6 +1749,23 @@
 ]
 },
 {
+"n": "Chapon · 52 Avenue Mozart",
+"cu": "Bean-to-bar chocolatier",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "pe",
+"o": "FrenchFood Capital (majority); Cédric Taravella (operating partner); founder Patrice Chapon",
+"y": "2022",
+"note": "Bean-to-bar chocolate house founded by Patrice Chapon. Food-sector private equity fund FrenchFood Capital took control in September 2022 with Cédric Taravella as operating partner, to expand the network of boutiques in Paris and the Paris region (about 19 in Île-de-France by 2026).",
+"src": "https://frenchfoodcapital.com/nouvelle-pepite-de-frenchfood-capital-chapon-accelere-son-developpement/",
+"a": "52 Avenue Mozart",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.85518,
+2.26966
+]
+},
+{
 "n": "Chapon · 56 Rue Tiquetonne",
 "cu": "Bean-to-bar chocolatier",
 "k": "Bakery & pastry",
@@ -1559,6 +1831,23 @@
 "ll": [
 48.8859,
 2.31919
+]
+},
+{
+"n": "Chapon · Rue du Bac",
+"cu": "Bean-to-bar chocolatier",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "pe",
+"o": "FrenchFood Capital (majority); Cédric Taravella (operating partner); founder Patrice Chapon",
+"y": "2022",
+"note": "Bean-to-bar chocolate house founded by Patrice Chapon. Food-sector private equity fund FrenchFood Capital took control in September 2022 with Cédric Taravella as operating partner, to expand the network of boutiques in Paris and the Paris region (about 19 in Île-de-France by 2026).",
+"src": "https://frenchfoodcapital.com/nouvelle-pepite-de-frenchfood-capital-chapon-accelere-son-developpement/",
+"a": "Rue du Bac",
+"area": "7e · Invalides & Eiffel",
+"ll": [
+48.85518,
+2.32485
 ]
 },
 {
@@ -2191,6 +2480,23 @@
 ]
 },
 {
+"n": "Columbus Café & Co · Voie d'accès vélostation Gare du Nord",
+"cu": "Coffee shop",
+"k": "Coffee",
+"pr": 1,
+"c": "pe",
+"o": "Wagram Food Service — Financière de l'Intendance (Paillaud family office, majority); CEO Nicolas Riché, Bpifrance FIT3 & Eram (minority)",
+"y": "2024",
+"note": "Run by Wagram Food Service, whose majority shareholder is Financière de l'Intendance, a family office linked to the Paillaud family; CEO Nicolas Riché keeps a minority stake. In 2024 Wagram opened its capital (minority, about €10m) to Bpifrance's France Investissement Tourisme 3 fund and the Eram group.",
+"src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/wagram-food-service-ouvre-son-capital-a-bpifrance-et-eram-2101577",
+"a": "Voie d'accès vélostation Gare du Nord",
+"area": "10e · Canal Saint-Martin",
+"ll": [
+48.8812,
+2.35716
+]
+},
+{
 "n": "Corail",
 "cu": "Mediterranean",
 "k": "Seafood",
@@ -2629,6 +2935,57 @@
 "ll": [
 48.85867,
 2.35453
+]
+},
+{
+"n": "Ernest & Valentin Faubourg Saint-Antoine",
+"cu": "Artisan bakery & pâtisserie",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "pe",
+"o": "Founder Logan Lafond; Audacia (minority) and private investors",
+"y": "2020",
+"note": "Paris artisan bakery chain founded in 2013 by brothers Logan and Bradley Lafond, with nine shops in Paris and the inner suburbs (over €10m sales in 2022). The founders sold part of the group in 2020, and Audacia lists it in its private-equity portfolio. The shareholding was then reshaped through to a €3m round in 2023 from individual investors and its historical financial partners.",
+"src": "https://www.audacia.fr/en/portfolio/ernest-et-valentin/",
+"a": "153 Rue du Faubourg Saint-Antoine",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.85068,
+2.37921
+]
+},
+{
+"n": "Ernest & Valentin Renard",
+"cu": "Artisan bakery & pâtisserie",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "pe",
+"o": "Founder Logan Lafond; Audacia (minority) and private investors",
+"y": "2020",
+"note": "Paris artisan bakery chain founded in 2013 by brothers Logan and Bradley Lafond, with nine shops in Paris and the inner suburbs (over €10m sales in 2022). The founders sold part of the group in 2020, and Audacia lists it in its private-equity portfolio. The shareholding was then reshaped through to a €3m round in 2023 from individual investors and its historical financial partners.",
+"src": "https://www.audacia.fr/en/portfolio/ernest-et-valentin/",
+"a": "5 Rue du Renard",
+"area": "4e · Marais & the islands",
+"ll": [
+48.85798,
+2.35155
+]
+},
+{
+"n": "Ernest & Valentin Réaumur",
+"cu": "Artisan bakery & pâtisserie",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "pe",
+"o": "Founder Logan Lafond; Audacia (minority) and private investors",
+"y": "2020",
+"note": "Paris artisan bakery chain founded in 2013 by brothers Logan and Bradley Lafond, with nine shops in Paris and the inner suburbs (over €10m sales in 2022). The founders sold part of the group in 2020, and Audacia lists it in its private-equity portfolio. The shareholding was then reshaped through to a €3m round in 2023 from individual investors and its historical financial partners.",
+"src": "https://www.audacia.fr/en/portfolio/ernest-et-valentin/",
+"a": "42 Rue Réaumur",
+"area": "3e · Haut-Marais",
+"ll": [
+48.86536,
+2.35706
 ]
 },
 {
@@ -5045,6 +5402,23 @@
 ]
 },
 {
+"n": "Les Fils à Maman",
+"cu": "Comfort-food bistro & bar",
+"k": "French bistro",
+"pr": 2,
+"c": "pe",
+"o": "La Bonbonnière group; Audacia (since 2023)",
+"y": "2023",
+"note": "Childhood-comfort-food bistro chain with one Paris site (rue Geoffroy-Marie, 9th). Its parent La Bonbonnière, which runs about 40 restaurants mainly under Les Fils à Maman and Le Clan des Mamma, took growth capital from Charles Beigbeder's fund Audacia in 2023 and is still in its portfolio.",
+"src": "https://www.audacia.fr/portfolio/la-bonbonniere/",
+"a": "Rue Geoffroy-Marie",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87356,
+2.34401
+]
+},
+{
 "n": "Les Ombres (musée du quai Branly)",
 "cu": "Rooftop restaurant",
 "k": "Fine dining",
@@ -7221,6 +7595,23 @@
 ]
 },
 {
+"n": "Pouliche · 11 Rue d'Enghien",
+"cu": "Bistronomic restaurant (chef Amandine Chaignot)",
+"k": "French bistro",
+"pr": 3,
+"c": "pe",
+"o": "Eleni Group (Juan Arbelaez, Pierre-Julien & Grégory Chantzios, majority); iXcore Group (family investment fund, minority)",
+"y": "2024",
+"note": "Chef Amandine Chaignot's first Paris restaurant, operated by Eleni Group. Eleni Group, the group of chef Juan Arbelaez and the Chantzios brothers (about 15 venues including Yaya, Bazurto, Arbela, Babille, Pouliche and Café de Luce), opened its capital for the first time in 2024. It raised €3m, notably from the family investment fund iXcore Group; the founders stay well in the majority.",
+"src": "https://www.lhotellerie-restauration.fr/actualite/juan-arbelaez-et-les-freres-pierre-julien-et-gregory-chantzios-visent-les-20-millions-de-ca-en-2026",
+"a": "11 Rue d'Enghien",
+"area": "10e · Canal Saint-Martin",
+"ll": [
+48.87172,
+2.35226
+]
+},
+{
 "n": "Pralus",
 "cu": "Chocolatier & Praluline brioche",
 "k": "Bakery & pastry",
@@ -7660,6 +8051,74 @@
 "ll": [
 48.87321,
 2.32706
+]
+},
+{
+"n": "Puffy · 101 Avenue Victor Hugo",
+"cu": "Cookies & coffee",
+"k": "Coffee",
+"pr": 1,
+"c": "pe",
+"o": "Junk Group (founders; Elevation Capital Partners minority)",
+"y": "2023",
+"note": "New York-style cookie and coffee shop brand launched in Paris in 2023 by Junk Group (also owner of Junk burgers), which raised €1.5m in 2022 from Elevation Capital Partners.",
+"src": "https://linkedin.com/company/junkgroup",
+"a": "101 Avenue Victor Hugo",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.86884,
+2.28373
+]
+},
+{
+"n": "Puffy · 28 Rue Linois",
+"cu": "Cookies & coffee",
+"k": "Coffee",
+"pr": 1,
+"c": "pe",
+"o": "Junk Group (founders; Elevation Capital Partners minority)",
+"y": "2023",
+"note": "New York-style cookie and coffee shop brand launched in Paris in 2023 by Junk Group (also owner of Junk burgers), which raised €1.5m in 2022 from Elevation Capital Partners.",
+"src": "https://linkedin.com/company/junkgroup",
+"a": "28 Rue Linois",
+"area": "15e · Vaugirard",
+"ll": [
+48.84797,
+2.28339
+]
+},
+{
+"n": "Puffy · 65 Rue Condorcet",
+"cu": "Cookies & coffee",
+"k": "Coffee",
+"pr": 1,
+"c": "pe",
+"o": "Junk Group (founders; Elevation Capital Partners minority)",
+"y": "2023",
+"note": "New York-style cookie and coffee shop brand launched in Paris in 2023 by Junk Group (also owner of Junk burgers), which raised €1.5m in 2022 from Elevation Capital Partners.",
+"src": "https://linkedin.com/company/junkgroup",
+"a": "65 Rue Condorcet",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.88028,
+2.34128
+]
+},
+{
+"n": "Puffy · 7 Place Saint-Augustin",
+"cu": "Cookies & coffee",
+"k": "Coffee",
+"pr": 1,
+"c": "pe",
+"o": "Junk Group (founders; Elevation Capital Partners minority)",
+"y": "2023",
+"note": "New York-style cookie and coffee shop brand launched in Paris in 2023 by Junk Group (also owner of Junk burgers), which raised €1.5m in 2022 from Elevation Capital Partners.",
+"src": "https://linkedin.com/company/junkgroup",
+"a": "7 Place Saint-Augustin",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87514,
+2.3192
 ]
 },
 {
@@ -9088,6 +9547,23 @@
 "ll": [
 48.83411,
 2.32943
+]
+},
+{
+"n": "Yaya · Rue Baste",
+"cu": "Festive Greek taverna",
+"k": "Middle Eastern",
+"pr": 2,
+"c": "pe",
+"o": "Eleni Group (Juan Arbelaez, Pierre-Julien & Grégory Chantzios, majority); iXcore Group (family investment fund, minority)",
+"y": "2024",
+"note": "Yaya Secrétan (19th), the Paris branch of the festive Greek taverna brand. Eleni Group, the group of chef Juan Arbelaez and the Chantzios brothers (about 15 venues including Yaya, Bazurto, Arbela, Babille, Pouliche and Café de Luce), opened its capital for the first time in 2024. It raised €3m, notably from the family investment fund iXcore Group; the founders stay well in the majority.",
+"src": "https://www.lhotellerie-restauration.fr/actualite/juan-arbelaez-et-les-freres-pierre-julien-et-gregory-chantzios-visent-les-20-millions-de-ca-en-2026",
+"a": "Rue Baste",
+"area": "19e · Buttes-Chaumont",
+"ll": [
+48.8812,
+2.37392
 ]
 },
 {
@@ -10618,6 +11094,23 @@
 "ll": [
 48.86596,
 2.33998
+]
+},
+{
+"n": "The Salad Project",
+"cu": "Premium salad bar",
+"k": "Sandwiches & salads",
+"pr": 2,
+"c": "vc",
+"o": "Founders Florian de Chezelles & James Dare; Active Partners (minority), Nick Jones, Will Shu",
+"y": "2026",
+"note": "London salad-bar chain founded in 2021. Its January 2026 £9m round brought in the consumer growth investor Active Partners (Honest Burgers, Sticks'n'Sushi) as a minority shareholder, alongside the Soho House and Deliveroo founders. The round funded its first site outside the UK, at 107 rue Réaumur, which opened in September 2026.",
+"src": "https://www.thecaterer.com/news/the-salad-project-secures-funding-to-expand-into-europe",
+"a": "107 Rue Réaumur",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86798,
+2.344
 ]
 },
 {
@@ -105678,25 +106171,6 @@
 "ll": [
 48.83629,
 2.30694
-]
-},
-{
-"n": "Les Fils à Maman",
-"cu": "Bar",
-"k": "Wine & cocktail bar",
-"pr": 2,
-"c": "ind",
-"o": "Les Fils A Maman",
-"y": "2008",
-"auto": [
-"509390639",
-2
-],
-"a": "Rue Geoffroy Marie",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.87351,
-2.34376
 ]
 },
 {

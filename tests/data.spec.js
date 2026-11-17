@@ -88,7 +88,7 @@ test.describe('research files', () => {
 
   test('every brand and venue in the research ends up on the map (or is a known OSM gap)', () => {
     // Sourced brands with no branch inside Paris intra-muros on OpenStreetMap (suburban formats or not mapped yet).
-    const KNOWN_GAPS = ['Bchef', 'Boulangerie Louise', 'Puffy', 'Volfoni', 'Meatpack', 'Copper Branch', 'Del Arte', 'Marie Blachère', 'Buffalo Grill'];
+    const KNOWN_GAPS = ['Bchef', 'Boulangerie Louise', 'Puffy', 'Volfoni', 'Meatpack', 'Copper Branch', 'Del Arte', 'Marie Blachère', 'Buffalo Grill', 'Bazurto', 'Café de Luce'];
     // Compare deep-link slugs: a register match spelled "Cafe Français" merges into the researched "Café Français" on the same spot.
     const names = new Set(PLACES.map(p => slug(p.n.split(' · ')[0].replace(/ \(\d+\)$/, ''))));
     const missing = research.filter(r => !names.has(slug(r.n)) && !KNOWN_GAPS.includes(r.n)).map(r => r.n);
