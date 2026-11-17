@@ -3499,6 +3499,40 @@
 ]
 },
 {
+"n": "Kaviari",
+"cu": "Caviar & seafood bar",
+"k": "Seafood",
+"pr": 3,
+"c": "pe",
+"o": "Managers Raphaël Bouchez & Karin Nebot (majority); idiCo (idiCo Expansion 4), Bpifrance, UI Investissement and IRD (minority)",
+"y": "2026",
+"note": "Caviar house founded in 1979 (about €60m sales). In a March 2026 management buyout, the small-cap fund idiCo Expansion 4 became the lead minority investor alongside Bpifrance, UI Investissement and IRD; the managers kept the majority.",
+"src": "https://idico.fr/wp-content/uploads/2026/03/20032026-CP-idiCo-investissement-Kaviari.pdf",
+"a": "Avenue de Villiers",
+"area": "17e · Batignolles",
+"ll": [
+48.88152,
+2.31483
+]
+},
+{
+"n": "King Marcel · Coulée Verte René-Dumont",
+"cu": "Gourmet burgers",
+"k": "Burgers & chicken",
+"pr": 1,
+"c": "pe",
+"o": "Founders Jean-Christophe Cons & Christophe San Miguel; Calao Finance and CM-CIC Capital Privé (minority)",
+"y": "2016",
+"note": "Lyon-born gourmet burger chain founded in 2012. It raised €1.3m in 2016 from Calao Finance and CM-CIC Capital Privé, minority investors alongside the founders, to open more company-owned restaurants, including in Paris. No exit has been reported.",
+"src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/king-marcel-invite-deux-fonds-a-son-tour-de-table-113967",
+"a": "Coulée Verte René-Dumont",
+"area": "12e · Bercy & Nation",
+"ll": [
+48.8469,
+2.37684
+]
+},
+{
 "n": "Kintaro",
 "cu": "Japanese canteen",
 "k": "Japanese",
@@ -4722,6 +4756,57 @@
 ]
 },
 {
+"n": "Léon · 120 Rue Rambuteau",
+"cu": "Mussels & fries",
+"k": "Seafood",
+"pr": 2,
+"c": "pe",
+"o": "Bertrand Franchise (Groupe Bertrand; Bridgepoint ~25% minority)",
+"y": "2018",
+"note": "Formerly Léon de Bruxelles. Part of Bertrand Franchise (Groupe Bertrand), in which private equity firm Bridgepoint has held a minority stake (about 23–25%) since 2018; in April 2026 Bridgepoint was reported to be preparing an exit by end-2026/early 2027.",
+"src": "https://www.linforme.com/grande-conso/article/burger-king-leon-hippopotamus-l-empire-d-olivier-bertrand-bientot-en-quete-d-un-nouvel-actionnaire_3921.html",
+"a": "120 Rue Rambuteau",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86276,
+2.34709
+]
+},
+{
+"n": "Léon · 82 Boulevard du Montparnasse",
+"cu": "Mussels & fries",
+"k": "Seafood",
+"pr": 2,
+"c": "pe",
+"o": "Bertrand Franchise (Groupe Bertrand; Bridgepoint ~25% minority)",
+"y": "2018",
+"note": "Formerly Léon de Bruxelles. Part of Bertrand Franchise (Groupe Bertrand), in which private equity firm Bridgepoint has held a minority stake (about 23–25%) since 2018; in April 2026 Bridgepoint was reported to be preparing an exit by end-2026/early 2027.",
+"src": "https://www.linforme.com/grande-conso/article/burger-king-leon-hippopotamus-l-empire-d-olivier-bertrand-bientot-en-quete-d-un-nouvel-actionnaire_3921.html",
+"a": "82 Boulevard du Montparnasse",
+"area": "14e · Montparnasse",
+"ll": [
+48.84292,
+2.32609
+]
+},
+{
+"n": "Léon · Boulevard Gouvion-Saint-Cyr",
+"cu": "Mussels & fries",
+"k": "Seafood",
+"pr": 2,
+"c": "pe",
+"o": "Bertrand Franchise (Groupe Bertrand; Bridgepoint ~25% minority)",
+"y": "2018",
+"note": "Formerly Léon de Bruxelles. Part of Bertrand Franchise (Groupe Bertrand), in which private equity firm Bridgepoint has held a minority stake (about 23–25%) since 2018; in April 2026 Bridgepoint was reported to be preparing an exit by end-2026/early 2027.",
+"src": "https://www.linforme.com/grande-conso/article/burger-king-leon-hippopotamus-l-empire-d-olivier-bertrand-bientot-en-quete-d-un-nouvel-actionnaire_3921.html",
+"a": "Boulevard Gouvion-Saint-Cyr",
+"area": "17e · Batignolles",
+"ll": [
+48.87865,
+2.28462
+]
+},
+{
 "n": "Maison Landemaine · 197 Avenue de Versailles",
 "cu": "Bakery",
 "k": "Bakery & pastry",
@@ -5773,6 +5858,91 @@
 "ll": [
 48.84798,
 2.35302
+]
+},
+{
+"n": "PeGast · 36 Rue Washington",
+"cu": "Sandwiches & salads made to order",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "pe",
+"o": "Peillon founding family and president Damien Harnist; CM-CIC Capital Privé (minority, since 2014)",
+"y": "2014",
+"note": "Paris fast-casual chain making sandwiches and salads from French bistro recipes, launched in 1999 as Les Enfants de la Cuisine. In 2014, with 16 sites, it raised €1.8m in equity and convertible bonds from CM-CIC Capital Privé (now Crédit Mutuel Equity), a minority investor. No exit has been reported.",
+"src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/cm-cic-capital-prive-nourrit-pegast-avec-18-m-107779",
+"a": "36 Rue Washington",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87387,
+2.30425
+]
+},
+{
+"n": "PeGast · Avenue Marceau",
+"cu": "Sandwiches & salads made to order",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "pe",
+"o": "Peillon founding family and president Damien Harnist; CM-CIC Capital Privé (minority, since 2014)",
+"y": "2014",
+"note": "Paris fast-casual chain making sandwiches and salads from French bistro recipes, launched in 1999 as Les Enfants de la Cuisine. In 2014, with 16 sites, it raised €1.8m in equity and convertible bonds from CM-CIC Capital Privé (now Crédit Mutuel Equity), a minority investor. No exit has been reported.",
+"src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/cm-cic-capital-prive-nourrit-pegast-avec-18-m-107779",
+"a": "Avenue Marceau",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.86904,
+2.29895
+]
+},
+{
+"n": "PeGast · Rue Danielle Casanova",
+"cu": "Sandwiches & salads made to order",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "pe",
+"o": "Peillon founding family and president Damien Harnist; CM-CIC Capital Privé (minority, since 2014)",
+"y": "2014",
+"note": "Paris fast-casual chain making sandwiches and salads from French bistro recipes, launched in 1999 as Les Enfants de la Cuisine. In 2014, with 16 sites, it raised €1.8m in equity and convertible bonds from CM-CIC Capital Privé (now Crédit Mutuel Equity), a minority investor. No exit has been reported.",
+"src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/cm-cic-capital-prive-nourrit-pegast-avec-18-m-107779",
+"a": "Rue Danielle Casanova",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86784,
+2.33184
+]
+},
+{
+"n": "PeGast · Rue d'Anjou",
+"cu": "Sandwiches & salads made to order",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "pe",
+"o": "Peillon founding family and president Damien Harnist; CM-CIC Capital Privé (minority, since 2014)",
+"y": "2014",
+"note": "Paris fast-casual chain making sandwiches and salads from French bistro recipes, launched in 1999 as Les Enfants de la Cuisine. In 2014, with 16 sites, it raised €1.8m in equity and convertible bonds from CM-CIC Capital Privé (now Crédit Mutuel Equity), a minority investor. No exit has been reported.",
+"src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/cm-cic-capital-prive-nourrit-pegast-avec-18-m-107779",
+"a": "Rue d'Anjou",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87049,
+2.32133
+]
+},
+{
+"n": "PeGast · Rue du Faubourg Saint-Honoré",
+"cu": "Sandwiches & salads made to order",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "pe",
+"o": "Peillon founding family and president Damien Harnist; CM-CIC Capital Privé (minority, since 2014)",
+"y": "2014",
+"note": "Paris fast-casual chain making sandwiches and salads from French bistro recipes, launched in 1999 as Les Enfants de la Cuisine. In 2014, with 16 sites, it raised €1.8m in equity and convertible bonds from CM-CIC Capital Privé (now Crédit Mutuel Equity), a minority investor. No exit has been reported.",
+"src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/cm-cic-capital-prive-nourrit-pegast-avec-18-m-107779",
+"a": "Rue du Faubourg Saint-Honoré",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87614,
+2.30241
 ]
 },
 {
@@ -9769,6 +9939,38 @@
 ]
 },
 {
+"n": "Bistrot Cézanne",
+"cu": "Bistro",
+"k": "French bistro",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Its holding company Financière Cézanne is co-managed by Pascal Ranger and Thomas Caron.",
+"src": "https://annuaire-entreprises.data.gouv.fr/entreprise/849603931",
+"a": "13 Avenue Myron Herrick",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87415,
+2.30989
+]
+},
+{
+"n": "Bistrot Madame",
+"cu": "Bistro",
+"k": "French bistro",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Bistrot Madame SARL is managed by Pascal Ranger.",
+"src": "https://annuaire-entreprises.data.gouv.fr/entreprise/820854487",
+"a": "1 Rue Saint-Marc",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.87022,
+2.34204
+]
+},
+{
 "n": "Bistrot Minim's",
 "cu": "Parisian bistro",
 "k": "French bistro",
@@ -10309,6 +10511,22 @@
 ]
 },
 {
+"n": "Café Joséphine",
+"cu": "Café-brasserie",
+"k": "Brasserie",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Brasserie next to the Bourse de Commerce.",
+"src": "https://rangercafe.fr/cafe-brasserie/cafe-josephine/",
+"a": "3 Place des Deux Écus",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86283,
+2.34132
+]
+},
+{
 "n": "Café Kitsuné · Avenue de l'Opéra",
 "cu": "Coffee shop",
 "k": "Coffee",
@@ -10410,6 +10628,38 @@
 ]
 },
 {
+"n": "Café Mignon",
+"cu": "Café-brasserie",
+"k": "Café",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Listed among the group's Paris cafés.",
+"src": "https://rangercafe.fr/",
+"a": "77 Boulevard Beaumarchais",
+"area": "3e · Haut-Marais",
+"ll": [
+48.85841,
+2.36761
+]
+},
+{
+"n": "Café de Paris",
+"cu": "Café-brasserie",
+"k": "Brasserie",
+"pr": 3,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Brasserie near the Arc de Triomphe listed on the group's site; its holding Café de Paris - Friedland is managed by Pascal Ranger.",
+"src": "https://www.restaurant-le-cirque.fr/nos-restaurants/",
+"a": "45 Avenue de Friedland",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87384,
+2.29778
+]
+},
+{
 "n": "Café de la Paix",
 "cu": "Grand café",
 "k": "Brasserie",
@@ -10440,6 +10690,38 @@
 "ll": [
 48.86317,
 2.3235
+]
+},
+{
+"n": "Café des Phares",
+"cu": "Brasserie",
+"k": "Brasserie",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Bastille brasserie famous as the first 'café philo'; the company registered at the address (Café Crème) is managed by Pascal Ranger.",
+"src": "https://annuaire-entreprises.data.gouv.fr/entreprise/438561714",
+"a": "7 Place de la Bastille",
+"area": "4e · Marais & the islands",
+"ll": [
+48.85365,
+2.36832
+]
+},
+{
+"n": "Café l'Étoile 1903",
+"cu": "Brasserie",
+"k": "Brasserie",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Operating company Café l'Étoile 1903 SAS is chaired by R Café Investissements.",
+"src": "https://annuaire-entreprises.data.gouv.fr/entreprise/911170314",
+"a": "4 Avenue de Wagram",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87516,
+2.29633
 ]
 },
 {
@@ -10573,6 +10855,38 @@
 "ll": [
 48.87218,
 2.33271
+]
+},
+{
+"n": "Copenhague",
+"cu": "Scandinavian restaurant",
+"k": "Other",
+"pr": 4,
+"c": "corp",
+"o": "Groupe Bertrand (Olivier Bertrand)",
+"note": "The upstairs Danish restaurant of the Maison du Danemark (Flora Danica is downstairs), part of the former Frères Blanc brasseries that Groupe Bertrand, wholly owned by Olivier Bertrand, bought in 2016; listed among Bertrand Hospitality's Paris restaurants.",
+"src": "https://evenement.groupe-bertrand.com/lieux/",
+"a": "142 Avenue des Champs Élysées",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87295,
+2.2988
+]
+},
+{
+"n": "Corner Haussmann",
+"cu": "Café-brasserie",
+"k": "Café",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Café by the department stores, run by managing partner Karine Dupin.",
+"src": "https://rangercafe.fr/cafe-brasserie/corner-haussmann/",
+"a": "28 Boulevard Haussmann",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87283,
+2.3351
 ]
 },
 {
@@ -13353,7 +13667,7 @@
 "o": "SSP Group plc (LSE-listed), via SSP France",
 "y": "2024",
 "note": "Panoramic restaurant on the 6th floor of Jean Nouvel's Philharmonie, opened January 2024 by travel caterer SSP France with chef Thibaut Spiwack.",
-"src": "http://aucoeurduchr.fr/article/restauration/lenvol-le-nouveau-restaurant-de-la-philharmonie-paris/",
+"src": "https://aucoeurduchr.fr/article/restauration/lenvol-le-nouveau-restaurant-de-la-philharmonie-paris/",
 "a": "221 Avenue Jean Jaurès",
 "area": "19e · Buttes-Chaumont",
 "ll": [
@@ -13546,6 +13860,22 @@
 ]
 },
 {
+"n": "La Belle Poule",
+"cu": "Café-brasserie",
+"k": "Café",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Listed among the group's Paris cafés.",
+"src": "https://rangercafe.fr/",
+"a": "215 Rue du Faubourg Saint-Honoré",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87667,
+2.30118
+]
+},
+{
 "n": "La Coupole",
 "cu": "Brasserie",
 "k": "Brasserie",
@@ -13559,6 +13889,23 @@
 "ll": [
 48.8423,
 2.32807
+]
+},
+{
+"n": "La Fabrique Givrée · 26 Rue Soufflot",
+"cu": "Artisan ice cream & frozen pâtisserie",
+"k": "Other",
+"pr": 2,
+"c": "corp",
+"o": "Maison Thiriet (family-owned frozen-food group)",
+"y": "2020",
+"note": "Ice-cream and frozen-pastry maker with a shop on rue Soufflot (5th). Odyssée Venture invested €2m in 2018 and exited in 2020, when the brand was sold to Maison Thiriet, the frozen-food retailer.",
+"src": "https://odysseeventure.com/participation-lfg",
+"a": "26 Rue Soufflot",
+"area": "5e · Latin Quarter",
+"ll": [
+48.84741,
+2.34136
 ]
 },
 {
@@ -13591,6 +13938,22 @@
 "ll": [
 48.86623,
 2.30436
+]
+},
+{
+"n": "La Gargamelle",
+"cu": "Café-restaurant & wine bar",
+"k": "Café",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Run by managing partner Fabrice Dupin.",
+"src": "https://rangercafe.fr/cafe-brasserie/la-gargamelle/",
+"a": "43 Rue la Fayette",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87491,
+2.33982
 ]
 },
 {
@@ -13641,6 +14004,22 @@
 "ll": [
 48.85821,
 2.27584
+]
+},
+{
+"n": "La Java",
+"cu": "Café-bar",
+"k": "Café",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Neighbourhood café near the Grands Boulevards, run by managing partner Serge Monin.",
+"src": "https://rangercafe.fr/cafe-brasserie/cafe-la-java/",
+"a": "149 Rue Montmartre",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.8704,
+2.3425
 ]
 },
 {
@@ -13867,6 +14246,22 @@
 "ll": [
 48.8484,
 2.33967
+]
+},
+{
+"n": "La Terrasse des Métiers",
+"cu": "Brasserie",
+"k": "Brasserie",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Listed among the group's Paris cafés; its holding Reuilly Métiers is managed by Pascal Ranger.",
+"src": "https://rangercafe.fr/",
+"a": "Rue de Reuilly",
+"area": "12e · Bercy & Nation",
+"ll": [
+48.84476,
+2.38981
 ]
 },
 {
@@ -14318,6 +14713,22 @@
 ]
 },
 {
+"n": "Le Bouillon",
+"cu": "Brasserie & wine bar",
+"k": "Brasserie",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Operating company Café Le Bouillon SAS is chaired by R Café Investissements.",
+"src": "https://annuaire-entreprises.data.gouv.fr/entreprise/793854746",
+"a": "10 Rue Saint-Marc",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.87041,
+2.34133
+]
+},
+{
 "n": "Le Café Maxime Frédéric at Louis Vuitton",
 "cu": "Pastry café",
 "k": "Café",
@@ -14624,6 +15035,22 @@
 ]
 },
 {
+"n": "Le Cirque",
+"cu": "Café-brasserie facing the Centre Pompidou",
+"k": "Café",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Operating company Café Le Cirque SAS is chaired by Pascal Ranger.",
+"src": "https://annuaire-entreprises.data.gouv.fr/entreprise/501236483",
+"a": "141 Rue Saint-Martin",
+"area": "4e · Marais & the islands",
+"ll": [
+48.86145,
+2.35149
+]
+},
+{
 "n": "Le Clarence",
 "cu": "Haute cuisine",
 "k": "Fine dining",
@@ -14906,6 +15333,22 @@
 ]
 },
 {
+"n": "Le Parisii",
+"cu": "Café-brasserie",
+"k": "Café",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Café on the Aligre market square.",
+"src": "https://rangercafe.fr/cafe-brasserie/le-parisii/",
+"a": "1 Place d'Aligre",
+"area": "12e · Bercy & Nation",
+"ll": [
+48.8494,
+2.37779
+]
+},
+{
 "n": "Le Petit Bistrot (La Grande Épicerie de Paris)",
 "cu": "French bistro",
 "k": "French bistro",
@@ -14919,6 +15362,22 @@
 "ll": [
 48.84998,
 2.3233
+]
+},
+{
+"n": "Le Petit Chinon",
+"cu": "Café & take-away",
+"k": "Café",
+"pr": 1,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Named after Chinon near Ranger's home village; the operating company at this address (Take Away Café) is managed by Pascal Ranger.",
+"src": "https://annuaire-entreprises.data.gouv.fr/entreprise/844996280",
+"a": "23 Rue du Louvre",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.865,
+2.34278
 ]
 },
 {
@@ -14985,6 +15444,22 @@
 "ll": [
 48.8658,
 2.24791
+]
+},
+{
+"n": "Le Père Fouettard",
+"cu": "Brasserie",
+"k": "Brasserie",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Les Halles brasserie listed among the group's cafés.",
+"src": "https://rangercafe.fr/",
+"a": "9 Rue Pierre Lescot",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86259,
+2.34838
 ]
 },
 {
@@ -15446,6 +15921,22 @@
 ]
 },
 {
+"n": "Les Spectacles",
+"cu": "Brasserie",
+"k": "Brasserie",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Brasserie facing the Bercy arena; operating company chaired by R Café Investissements.",
+"src": "https://annuaire-entreprises.data.gouv.fr/entreprise/388815391",
+"a": "110 Rue de Bercy",
+"area": "12e · Bercy & Nation",
+"ll": [
+48.83937,
+2.38048
+]
+},
+{
 "n": "LiLi (The Peninsula Paris)",
 "cu": "Cantonese",
 "k": "Asian",
@@ -15744,6 +16235,22 @@
 "ll": [
 48.85181,
 2.32595
+]
+},
+{
+"n": "Ma Cocotte du Faubourg",
+"cu": "Bistro",
+"k": "French bistro",
+"pr": 2,
+"c": "corp",
+"o": "Pascal Ranger (Groupe Ranger Café)",
+"note": "Ranger Café is the private group Pascal Ranger has built since 1986 (holding R Café Investissements): 29 cafés-brasseries and 700 staff, about 20 of them in Paris, usually co-owned with the manager who runs each one; no investment fund is known. Operating company Café H is chaired by Financière Montmartre (managed by Pascal Ranger), with R Café Investissements as managing director.",
+"src": "https://annuaire-entreprises.data.gouv.fr/entreprise/434834735",
+"a": "5 Rue du Faubourg Montmartre",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87184,
+2.34303
 ]
 },
 {
@@ -24349,7 +24856,7 @@
 "pr": 3,
 "c": "ind",
 "o": "Richard family (Groupe Richard / Richard Paris)",
-"note": "Part of Richard Paris, the family group founded by Jean Richard and run by his son Nicolas Richard (holding Financière Jean Richard), with about a dozen Paris restaurants and the Hôtel Montaigne; no outside investor. Thai, Chinese and Japanese dishes on the Quai d'Orsay.",
+"note": "Part of Richard Paris, the family group founded by Jean Richard and run by his son Nicolas Richard (holding Financière Jean Richard), with about a dozen Paris restaurants and the Hôtel Montaigne. Thai, Chinese and Japanese dishes on the Quai d'Orsay.",
 "src": "https://richard-paris.com/nos-restaurants/",
 "a": "49 Quai d'Orsay",
 "area": "7e · Invalides & Eiffel",
@@ -26351,22 +26858,6 @@
 "ll": [
 48.85935,
 2.34896
-]
-},
-{
-"n": "Au Père Fouettard",
-"cu": "European",
-"k": "French bistro",
-"pr": 2,
-"c": "ind",
-"o": "SOCIETE AP (owner-managed holding)",
-"note": "Au Père Fouettard is run by AU PERE FOUETTARD, controlled by SOCIETE AP (registered 2020); the officers at the top of the chain are private individuals. The register lists no fund or corporate group among its officers.",
-"src": "https://annuaire-entreprises.data.gouv.fr/entreprise/884338252",
-"a": "9 Rue Pierre Lescot",
-"area": "1er · Louvre & Les Halles",
-"ll": [
-48.86268,
-2.34841
 ]
 },
 {
@@ -33739,22 +34230,6 @@
 ]
 },
 {
-"n": "Bistrot Madame",
-"cu": "French",
-"k": "French bistro",
-"pr": 2,
-"c": "ind",
-"o": "FINANCIERE RUE AUBER (owner-managed holding)",
-"note": "Bistrot Madame is run by MAELVINA, controlled by FINANCIERE RUE AUBER (registered 2015); the officers at the top of the chain are private individuals. The register lists no fund or corporate group among its officers.",
-"src": "https://annuaire-entreprises.data.gouv.fr/entreprise/809306830",
-"a": "Rue Feydeau",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.8702,
-2.34212
-]
-},
-{
 "n": "Bistrot Marguerite",
 "cu": "Restaurant",
 "k": "French bistro",
@@ -36732,7 +37207,7 @@
 "pr": 3,
 "c": "ind",
 "o": "Richard family (Groupe Richard / Richard Paris)",
-"note": "Part of Richard Paris, the family group founded by Jean Richard and run by his son Nicolas Richard (holding Financière Jean Richard), with about a dozen Paris restaurants and the Hôtel Montaigne; no outside investor. Brasserie on Place Victor Hugo.",
+"note": "Part of Richard Paris, the family group founded by Jean Richard and run by his son Nicolas Richard (holding Financière Jean Richard), with about a dozen Paris restaurants and the Hôtel Montaigne. Brasserie on Place Victor Hugo.",
 "src": "https://richard-paris.com/nos-restaurants/",
 "a": "4 Place Victor Hugo",
 "area": "16e · Passy & Trocadéro",
@@ -39218,25 +39693,6 @@
 ]
 },
 {
-"n": "Café Joséphine",
-"cu": "Restaurant",
-"k": "Other",
-"pr": 2,
-"c": "ind",
-"o": "Comptoir Arverne",
-"y": "2026",
-"auto": [
-"824889794",
-3
-],
-"a": "3 Place des Deux Écus",
-"area": "1er · Louvre & Les Halles",
-"ll": [
-48.86282,
-2.34129
-]
-},
-{
 "n": "Café Joyeux · Rue Legendre",
 "cu": "Inclusive café",
 "k": "Café",
@@ -39694,7 +40150,7 @@
 "c": "ind",
 "o": "Groupe Beaumarly (Thierry Costes)",
 "y": "1994",
-"note": "Beaumarly is the private Costes family group of Gilbert Costes and his son Thierry Costes (about 20 restaurants, hotels and clubs, around 14 of them places to eat in Paris; no outside investor). Gilbert Costes opened the café in the Louvre's Richelieu wing in 1994, with interiors by Olivier Gagnère.",
+"note": "Beaumarly is the private Costes family group of Gilbert Costes and his son Thierry Costes (about 20 restaurants, hotels and clubs, around 14 of them places to eat in Paris; family-controlled, no investment fund known). Gilbert Costes opened the café in the Louvre's Richelieu wing in 1994, with interiors by Olivier Gagnère.",
 "src": "https://www.beaumarly.com/etablissement/cafe-marly",
 "a": "93 Rue de Rivoli",
 "area": "1er · Louvre & Les Halles",
@@ -39758,25 +40214,6 @@
 "ll": [
 48.86854,
 2.35517
-]
-},
-{
-"n": "Café Mignon",
-"cu": "French",
-"k": "French bistro",
-"pr": 2,
-"c": "ind",
-"o": "Beau Marche",
-"y": "2011",
-"auto": [
-"533459988",
-1
-],
-"a": "77 Boulevard Beaumarchais",
-"area": "3e · Haut-Marais",
-"ll": [
-48.85844,
-2.36754
 ]
 },
 {
@@ -42474,7 +42911,7 @@
 "pr": 3,
 "c": "ind",
 "o": "Richard family (Groupe Richard / Richard Paris)",
-"note": "Part of Richard Paris, the family group founded by Jean Richard and run by his son Nicolas Richard (holding Financière Jean Richard), with about a dozen Paris restaurants and the Hôtel Montaigne; no outside investor. Italian trattoria near the Étoile.",
+"note": "Part of Richard Paris, the family group founded by Jean Richard and run by his son Nicolas Richard (holding Financière Jean Richard), with about a dozen Paris restaurants and the Hôtel Montaigne. Italian trattoria near the Étoile.",
 "src": "https://richard-paris.com/nos-restaurants/",
 "a": "82 Avenue Marceau",
 "area": "8e · Champs-Élysées",
@@ -42716,7 +43153,7 @@
 "c": "ind",
 "o": "Groupe Beaumarly (Thierry Costes)",
 "y": "2025",
-"note": "Beaumarly is the private Costes family group of Gilbert Costes and his son Thierry Costes (about 20 restaurants, hotels and clubs, around 14 of them places to eat in Paris; no outside investor). Opened in late 2025 in the former Le Germain; the operating company at 25 rue de Buci (Alcar SAS) is chaired by Thierry Costes.",
+"note": "Beaumarly is the private Costes family group of Gilbert Costes and his son Thierry Costes (about 20 restaurants, hotels and clubs, around 14 of them places to eat in Paris; family-controlled, no investment fund known). Opened in late 2025 in the former Le Germain; the operating company at 25 rue de Buci (Alcar SAS) is chaired by Thierry Costes.",
 "src": "https://www.beaumarly.com/etablissement/cassaros",
 "a": "25 Rue de Buci",
 "area": "6e · Saint-Germain",
@@ -42751,7 +43188,7 @@
 "pr": 4,
 "c": "ind",
 "o": "Groupe Beaumarly (Thierry Costes)",
-"note": "Beaumarly is the private Costes family group of Gilbert Costes and his son Thierry Costes (about 20 restaurants, hotels and clubs, around 14 of them places to eat in Paris; no outside investor). The Saint-Germain private members' club, with dinner service before the club opens, is run by Beaumarly.",
+"note": "Beaumarly is the private Costes family group of Gilbert Costes and his son Thierry Costes (about 20 restaurants, hotels and clubs, around 14 of them places to eat in Paris; family-controlled, no investment fund known). The Saint-Germain private members' club, with dinner service before the club opens, is run by Beaumarly.",
 "src": "https://www.beaumarly.com/etablissement/castel-restaurant",
 "a": "15 Rue Princesse",
 "area": "6e · Saint-Germain",
@@ -49635,25 +50072,6 @@
 "ll": [
 48.87897,
 2.34558
-]
-},
-{
-"n": "Corner Haussmann",
-"cu": "Restaurant",
-"k": "Other",
-"pr": 2,
-"c": "ind",
-"o": "Corner Haussmann (via Societe Financiere Kafa - 3D)",
-"y": "2016",
-"auto": [
-"493511687",
-1
-],
-"a": "Boulevard Haussmann",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.87286,
-2.33515
 ]
 },
 {
@@ -63248,7 +63666,7 @@
 "pr": 3,
 "c": "ind",
 "o": "Groupe Beaumarly (Thierry Costes)",
-"note": "Beaumarly is the private Costes family group of Gilbert Costes and his son Thierry Costes (about 20 restaurants, hotels and clubs, around 14 of them places to eat in Paris; no outside investor). Hotel Amour SAS (hotel and its restaurant) is chaired by Thierry Costes; the hotel was created with André Saraiva.",
+"note": "Beaumarly is the private Costes family group of Gilbert Costes and his son Thierry Costes (about 20 restaurants, hotels and clubs, around 14 of them places to eat in Paris; family-controlled, no investment fund known). Hotel Amour SAS (hotel and its restaurant) is chaired by Thierry Costes; the hotel was created with André Saraiva.",
 "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/482464393",
 "a": "8 Rue de Navarin",
 "area": "9e · Opéra & SoPi",
@@ -63280,7 +63698,7 @@
 "pr": 3,
 "c": "ind",
 "o": "Groupe Beaumarly (Thierry Costes)",
-"note": "Beaumarly is the private Costes family group of Gilbert Costes and his son Thierry Costes (about 20 restaurants, hotels and clubs, around 14 of them places to eat in Paris; no outside investor). Hotel Grand Amour SAS (hotel and ground-floor restaurant) is chaired by Thierry Costes.",
+"note": "Beaumarly is the private Costes family group of Gilbert Costes and his son Thierry Costes (about 20 restaurants, hotels and clubs, around 14 of them places to eat in Paris; family-controlled, no investment fund known). Hotel Grand Amour SAS (hotel and ground-floor restaurant) is chaired by Thierry Costes.",
 "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/572087583",
 "a": "18 Rue de la Fidélité",
 "area": "10e · Canal Saint-Martin",
@@ -65488,7 +65906,7 @@
 "pr": 3,
 "c": "ind",
 "o": "Richard family (Groupe Richard / Richard Paris)",
-"note": "Part of Richard Paris, the family group founded by Jean Richard and run by his son Nicolas Richard (holding Financière Jean Richard), with about a dozen Paris restaurants and the Hôtel Montaigne; no outside investor. Cap-Ferret-style oyster bar next to Marius et Janette.",
+"note": "Part of Richard Paris, the family group founded by Jean Richard and run by his son Nicolas Richard (holding Financière Jean Richard), with about a dozen Paris restaurants and the Hôtel Montaigne. Cap-Ferret-style oyster bar next to Marius et Janette.",
 "src": "https://richard-paris.com/nos-restaurants/",
 "a": "6 Avenue George V",
 "area": "8e · Champs-Élysées",
@@ -67688,23 +68106,6 @@
 "ll": [
 48.89389,
 2.3623
-]
-},
-{
-"n": "Kaviari",
-"cu": "Fish",
-"k": "Seafood",
-"pr": 2,
-"c": "ind",
-"o": "Kaviari's managers' holdings (Kaviari Investments)",
-"y": "2026",
-"note": "Caviar house Kaviari's operating company ADS (9 sites) is presided by Kaviari Investments, created in 2026 and led by two personal holdings.",
-"src": "https://annuaire-entreprises.data.gouv.fr/entreprise/999517980",
-"a": "Avenue de Villiers",
-"area": "17e · Batignolles",
-"ll": [
-48.88152,
-2.31483
 ]
 },
 {
@@ -71305,7 +71706,7 @@
 "pr": 4,
 "c": "ind",
 "o": "Groupe Beaumarly (Thierry Costes)",
-"note": "Beaumarly is the private Costes family group of Gilbert Costes and his son Thierry Costes (about 20 restaurants, hotels and clubs, around 14 of them places to eat in Paris; no outside investor). Operating company Hôtel L'Aventure SAS is chaired by Thierry Costes; the restaurant-club near the Étoile became a hotel too in 2026.",
+"note": "Beaumarly is the private Costes family group of Gilbert Costes and his son Thierry Costes (about 20 restaurants, hotels and clubs, around 14 of them places to eat in Paris; family-controlled, no investment fund known). Operating company Hôtel L'Aventure SAS is chaired by Thierry Costes; the restaurant-club near the Étoile became a hotel too in 2026.",
 "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/452295132",
 "a": "4 Avenue Victor Hugo",
 "area": "16e · Passy & Trocadéro",
@@ -73718,25 +74119,6 @@
 "ll": [
 48.88297,
 2.33614
-]
-},
-{
-"n": "L'Étoile 1903",
-"cu": "Café",
-"k": "Café",
-"pr": 2,
-"c": "ind",
-"o": "Cafe L'Etoile 1903 (via R Cafe Investissements)",
-"y": "2022",
-"auto": [
-"911170314",
-1
-],
-"a": "4 Avenue de Wagram",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.87512,
-2.29635
 ]
 },
 {
@@ -77344,25 +77726,6 @@
 "ll": [
 48.86978,
 2.4029
-]
-},
-{
-"n": "La Gargamelle",
-"cu": "Bar",
-"k": "Wine & cocktail bar",
-"pr": 2,
-"c": "ind",
-"o": "La Gargamelle",
-"y": "2013",
-"auto": [
-"492768668",
-1
-],
-"a": "Rue La Fayette",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.87496,
-2.34001
 ]
 },
 {
@@ -85778,25 +86141,6 @@
 "ll": [
 48.86498,
 2.34764
-]
-},
-{
-"n": "Le Bouillon",
-"cu": "Café",
-"k": "Bouillon",
-"pr": 2,
-"c": "ind",
-"o": "Cafe Le Bouillon (via R Cafe Investissements)",
-"y": "2013",
-"auto": [
-"793854746",
-1
-],
-"a": "Rue Saint-Marc",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.87046,
-2.34113
 ]
 },
 {
@@ -104312,7 +104656,7 @@
 "pr": 3,
 "c": "ind",
 "o": "Groupe Beaumarly (Thierry Costes)",
-"note": "Beaumarly is the private Costes family group of Gilbert Costes and his son Thierry Costes (about 20 restaurants, hotels and clubs, around 14 of them places to eat in Paris; no outside investor). Replaced La Belle Armée, wrecked during the 2018 'gilets jaunes' riots; the operating SAS is chaired by Gilbert Costes with Thierry Costes as managing director.",
+"note": "Beaumarly is the private Costes family group of Gilbert Costes and his son Thierry Costes (about 20 restaurants, hotels and clubs, around 14 of them places to eat in Paris; family-controlled, no investment fund known). Replaced La Belle Armée, wrecked during the 2018 'gilets jaunes' riots; the operating SAS is chaired by Gilbert Costes with Thierry Costes as managing director.",
 "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/508230018",
 "a": "3 Avenue de la Grande Armée",
 "area": "16e · Passy & Trocadéro",
@@ -105470,25 +105814,6 @@
 "ll": [
 48.85709,
 2.35509
-]
-},
-{
-"n": "Les Spectacles",
-"cu": "Restaurant",
-"k": "Other",
-"pr": 2,
-"c": "ind",
-"o": "Les Spectacles (via R Cafe Investissements)",
-"y": "1992",
-"auto": [
-"388815391",
-1
-],
-"a": "110 Rue de Bercy",
-"area": "12e · Bercy & Nation",
-"ll": [
-48.8395,
-2.38036
 ]
 },
 {
@@ -107186,7 +107511,7 @@
 "pr": 2,
 "c": "ind",
 "o": "Richard family (Groupe Richard / Richard Paris)",
-"note": "Part of Richard Paris, the family group founded by Jean Richard and run by his son Nicolas Richard (holding Financière Jean Richard), with about a dozen Paris restaurants and the Hôtel Montaigne; no outside investor. Italian restaurant with a gluten-free menu.",
+"note": "Part of Richard Paris, the family group founded by Jean Richard and run by his son Nicolas Richard (holding Financière Jean Richard), with about a dozen Paris restaurants and the Hôtel Montaigne. Italian restaurant with a gluten-free menu.",
 "src": "https://richard-paris.com/nos-restaurants/",
 "a": "12 Avenue Niel",
 "area": "17e · Batignolles",
@@ -108844,25 +109169,6 @@
 "ll": [
 48.87708,
 2.32128
-]
-},
-{
-"n": "Ma cocotte du faubourg",
-"cu": "Pub",
-"k": "Wine & cocktail bar",
-"pr": 2,
-"c": "ind",
-"o": "Cafe H (via Financiere Montmartre)",
-"y": "2003",
-"auto": [
-"434834735",
-1
-],
-"a": "Rue du Faubourg Montmartre",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.87184,
-2.34301
 ]
 },
 {
@@ -112476,7 +112782,7 @@
 "pr": 4,
 "c": "ind",
 "o": "Richard family (Groupe Richard / Richard Paris)",
-"note": "Part of Richard Paris, the family group founded by Jean Richard and run by his son Nicolas Richard (holding Financière Jean Richard), with about a dozen Paris restaurants and the Hôtel Montaigne; no outside investor. Yacht-styled seafood restaurant by the Seine.",
+"note": "Part of Richard Paris, the family group founded by Jean Richard and run by his son Nicolas Richard (holding Financière Jean Richard), with about a dozen Paris restaurants and the Hôtel Montaigne. Yacht-styled seafood restaurant by the Seine.",
 "src": "https://richard-paris.com/nos-restaurants/",
 "a": "4 Avenue George V",
 "area": "8e · Champs-Élysées",
@@ -113861,6 +114167,176 @@
 "ll": [
 48.87672,
 2.33602
+]
+},
+{
+"n": "Merci Jérôme · 15 rue André Suarès",
+"cu": "Bakery & snacking",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Co-founders Jérôme Benoit & Philippe Lapidus (via their holding Sparence)",
+"y": "2018",
+"note": "Started in 2012 as a 'bistrot à emporter' chain and turned into a Paris bakery chain from 2018, buying up neighbourhood bakeries (including two L'Essentiel shops in 2023). Charles Beigbeder's fund Audacia took a minority stake in 2013, and its exit was planned for 2019 as the founders refinanced. The chain is now run by its co-founders.",
+"src": "https://www.snacking.fr/actualites/3768-Merci-Jerome--devient-boulanger-et-ouvre-son-flagship-avant-l-ete-2018/",
+"a": "15 rue André Suarès",
+"area": "17e · Batignolles",
+"ll": [
+48.89511,
+2.31163
+]
+},
+{
+"n": "Merci Jérôme · 2 Rue Mouffetard",
+"cu": "Bakery & snacking",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Co-founders Jérôme Benoit & Philippe Lapidus (via their holding Sparence)",
+"y": "2018",
+"note": "Started in 2012 as a 'bistrot à emporter' chain and turned into a Paris bakery chain from 2018, buying up neighbourhood bakeries (including two L'Essentiel shops in 2023). Charles Beigbeder's fund Audacia took a minority stake in 2013, and its exit was planned for 2019 as the founders refinanced. The chain is now run by its co-founders.",
+"src": "https://www.snacking.fr/actualites/3768-Merci-Jerome--devient-boulanger-et-ouvre-son-flagship-avant-l-ete-2018/",
+"a": "2 Rue Mouffetard",
+"area": "5e · Latin Quarter",
+"ll": [
+48.84489,
+2.34906
+]
+},
+{
+"n": "Merci Jérôme · 66 Avenue de la Motte-Picquet",
+"cu": "Bakery & snacking",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Co-founders Jérôme Benoit & Philippe Lapidus (via their holding Sparence)",
+"y": "2018",
+"note": "Started in 2012 as a 'bistrot à emporter' chain and turned into a Paris bakery chain from 2018, buying up neighbourhood bakeries (including two L'Essentiel shops in 2023). Charles Beigbeder's fund Audacia took a minority stake in 2013, and its exit was planned for 2019 as the founders refinanced. The chain is now run by its co-founders.",
+"src": "https://www.snacking.fr/actualites/3768-Merci-Jerome--devient-boulanger-et-ouvre-son-flagship-avant-l-ete-2018/",
+"a": "66 Avenue de la Motte-Picquet",
+"area": "15e · Vaugirard",
+"ll": [
+48.84943,
+2.29804
+]
+},
+{
+"n": "Merci Jérôme · 73 Boulevard Auguste Blanqui",
+"cu": "Bakery & snacking",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Co-founders Jérôme Benoit & Philippe Lapidus (via their holding Sparence)",
+"y": "2018",
+"note": "Started in 2012 as a 'bistrot à emporter' chain and turned into a Paris bakery chain from 2018, buying up neighbourhood bakeries (including two L'Essentiel shops in 2023). Charles Beigbeder's fund Audacia took a minority stake in 2013, and its exit was planned for 2019 as the founders refinanced. The chain is now run by its co-founders.",
+"src": "https://www.snacking.fr/actualites/3768-Merci-Jerome--devient-boulanger-et-ouvre-son-flagship-avant-l-ete-2018/",
+"a": "73 Boulevard Auguste Blanqui",
+"area": "13e · Butte-aux-Cailles",
+"ll": [
+48.8295,
+2.34799
+]
+},
+{
+"n": "Merci Jérôme · Avenue Kléber",
+"cu": "Bakery & snacking",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Co-founders Jérôme Benoit & Philippe Lapidus (via their holding Sparence)",
+"y": "2018",
+"note": "Started in 2012 as a 'bistrot à emporter' chain and turned into a Paris bakery chain from 2018, buying up neighbourhood bakeries (including two L'Essentiel shops in 2023). Charles Beigbeder's fund Audacia took a minority stake in 2013, and its exit was planned for 2019 as the founders refinanced. The chain is now run by its co-founders.",
+"src": "https://www.snacking.fr/actualites/3768-Merci-Jerome--devient-boulanger-et-ouvre-son-flagship-avant-l-ete-2018/",
+"a": "Avenue Kléber",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.86877,
+2.29113
+]
+},
+{
+"n": "Merci Jérôme · Boulevard Saint-Germain",
+"cu": "Bakery & snacking",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Co-founders Jérôme Benoit & Philippe Lapidus (via their holding Sparence)",
+"y": "2018",
+"note": "Started in 2012 as a 'bistrot à emporter' chain and turned into a Paris bakery chain from 2018, buying up neighbourhood bakeries (including two L'Essentiel shops in 2023). Charles Beigbeder's fund Audacia took a minority stake in 2013, and its exit was planned for 2019 as the founders refinanced. The chain is now run by its co-founders.",
+"src": "https://www.snacking.fr/actualites/3768-Merci-Jerome--devient-boulanger-et-ouvre-son-flagship-avant-l-ete-2018/",
+"a": "Boulevard Saint-Germain",
+"area": "6e · Saint-Germain",
+"ll": [
+48.8521,
+2.33906
+]
+},
+{
+"n": "Merci Jérôme · Rue Bertin Poirée",
+"cu": "Bakery & snacking",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Co-founders Jérôme Benoit & Philippe Lapidus (via their holding Sparence)",
+"y": "2018",
+"note": "Started in 2012 as a 'bistrot à emporter' chain and turned into a Paris bakery chain from 2018, buying up neighbourhood bakeries (including two L'Essentiel shops in 2023). Charles Beigbeder's fund Audacia took a minority stake in 2013, and its exit was planned for 2019 as the founders refinanced. The chain is now run by its co-founders.",
+"src": "https://www.snacking.fr/actualites/3768-Merci-Jerome--devient-boulanger-et-ouvre-son-flagship-avant-l-ete-2018/",
+"a": "Rue Bertin Poirée",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.85806,
+2.34461
+]
+},
+{
+"n": "Merci Jérôme · Rue Favart",
+"cu": "Bakery & snacking",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Co-founders Jérôme Benoit & Philippe Lapidus (via their holding Sparence)",
+"y": "2018",
+"note": "Started in 2012 as a 'bistrot à emporter' chain and turned into a Paris bakery chain from 2018, buying up neighbourhood bakeries (including two L'Essentiel shops in 2023). Charles Beigbeder's fund Audacia took a minority stake in 2013, and its exit was planned for 2019 as the founders refinanced. The chain is now run by its co-founders.",
+"src": "https://www.snacking.fr/actualites/3768-Merci-Jerome--devient-boulanger-et-ouvre-son-flagship-avant-l-ete-2018/",
+"a": "Rue Favart",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.87146,
+2.33815
+]
+},
+{
+"n": "Merci Jérôme · Rue de Vaugirard",
+"cu": "Bakery & snacking",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Co-founders Jérôme Benoit & Philippe Lapidus (via their holding Sparence)",
+"y": "2018",
+"note": "Started in 2012 as a 'bistrot à emporter' chain and turned into a Paris bakery chain from 2018, buying up neighbourhood bakeries (including two L'Essentiel shops in 2023). Charles Beigbeder's fund Audacia took a minority stake in 2013, and its exit was planned for 2019 as the founders refinanced. The chain is now run by its co-founders.",
+"src": "https://www.snacking.fr/actualites/3768-Merci-Jerome--devient-boulanger-et-ouvre-son-flagship-avant-l-ete-2018/",
+"a": "Rue de Vaugirard",
+"area": "15e · Vaugirard",
+"ll": [
+48.83736,
+2.29695
+]
+},
+{
+"n": "Merci Jérôme · Rue du Faubourg Saint-Honoré",
+"cu": "Bakery & snacking",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Co-founders Jérôme Benoit & Philippe Lapidus (via their holding Sparence)",
+"y": "2018",
+"note": "Started in 2012 as a 'bistrot à emporter' chain and turned into a Paris bakery chain from 2018, buying up neighbourhood bakeries (including two L'Essentiel shops in 2023). Charles Beigbeder's fund Audacia took a minority stake in 2013, and its exit was planned for 2019 as the founders refinanced. The chain is now run by its co-founders.",
+"src": "https://www.snacking.fr/actualites/3768-Merci-Jerome--devient-boulanger-et-ouvre-son-flagship-avant-l-ete-2018/",
+"a": "Rue du Faubourg Saint-Honoré",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87771,
+2.299
 ]
 },
 {
@@ -123336,25 +123812,6 @@
 "ll": [
 48.86032,
 2.30736
-]
-},
-{
-"n": "Parisii",
-"cu": "Café",
-"k": "Café",
-"pr": 2,
-"c": "ind",
-"o": "Hendou",
-"y": "2024",
-"auto": [
-"933416828",
-1
-],
-"a": "1 Place d'Aligre",
-"area": "12e · Bercy & Nation",
-"ll": [
-48.84942,
-2.37778
 ]
 },
 {
