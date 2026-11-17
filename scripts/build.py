@@ -162,7 +162,8 @@ def main():
     # A venue or brand researched twice: keep the first, but let a non-independent finding win over "ind".
     seen = {}
     for r in records:
-        key = (r.get('type'), fold(r.get('osm') or r.get('n')), r['src'] if r.get('auto') else '')  # auto venues: one per company
+        # auto venues: one per company; pre-placed venues (OSM position): one per position
+        key = (r.get('type'), fold(r.get('osm') or r.get('n')), r['src'] if r.get('auto') else tuple(r['ll']) if r.get('ll') else '')
         if r.get('c') not in CATS or not r.get('src') or not r.get('n'):
             print('  skip (missing c/src/n):', r.get('n'), r.get('_file'))
             continue
