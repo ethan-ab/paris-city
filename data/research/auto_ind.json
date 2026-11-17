@@ -20819,25 +20819,6 @@
  },
  {
   "type": "venue",
-  "n": "Les Spectacles",
-  "addr": "110 Rue de Bercy, 75012 Paris",
-  "ll": [
-   48.8395,
-   2.380355
-  ],
-  "pc": "75012",
-  "cu": "Restaurant",
-  "k": "Other",
-  "pr": 2,
-  "c": "ind",
-  "o": "Les Spectacles (via R Cafe Investissements)",
-  "y": "1992",
-  "note": "Run by Les Spectacles (SIREN 388815391), whose president is the small holding R Cafe Investissements, itself managed by private individuals; no group or investor appears in the business register, and this is its only site.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/388815391",
-  "auto": 1
- },
- {
-  "type": "venue",
   "n": "Cap de Bercy",
   "addr": "38 Place du Bataillon du Pacifique, 75012 Paris",
   "ll": [
@@ -22315,25 +22296,6 @@
   "y": "2026",
   "note": "Run by Maison Mazeh (SIREN 999704356), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
   "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/999704356",
-  "auto": 1
- },
- {
-  "type": "venue",
-  "n": "Amanie",
-  "addr": "1 Place Étienne Pernet, 75015 Paris",
-  "ll": [
-   48.843441,
-   2.293362
-  ],
-  "pc": "75015",
-  "cu": "Restaurant",
-  "k": "Other",
-  "pr": 2,
-  "c": "ind",
-  "o": "Commerce Restauration",
-  "y": "2025",
-  "note": "Run by Commerce Restauration (SIREN 897846069), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is one of its 2 sites.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/897846069",
   "auto": 1
  },
  {
@@ -26055,25 +26017,6 @@
   "y": "2011",
   "note": "Run by Berbasi (SIREN 532582111), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
   "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/532582111",
-  "auto": 1
- },
- {
-  "type": "venue",
-  "n": "Les Deux Stations",
-  "addr": "131 Boulevard Exelmans, 75016 Paris",
-  "ll": [
-   48.847333,
-   2.25886
-  ],
-  "pc": "75016",
-  "cu": "Restaurant",
-  "k": "Other",
-  "pr": 2,
-  "c": "ind",
-  "o": "Les Deux Stations Lge",
-  "y": "2010",
-  "note": "Run by Les Deux Stations Lge (SIREN 501267405), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is one of its 2 sites.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/501267405",
   "auto": 1
  },
  {
@@ -36712,25 +36655,6 @@
  },
  {
   "type": "venue",
-  "n": "Parisii",
-  "addr": "1 Place d'Aligre, 75012 Paris",
-  "ll": [
-   48.849422,
-   2.377775
-  ],
-  "pc": "75012",
-  "cu": "Café",
-  "k": "Café",
-  "pr": 2,
-  "c": "ind",
-  "o": "Hendou",
-  "y": "2024",
-  "note": "Run by Hendou (SIREN 933416828), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/933416828",
-  "auto": 1
- },
- {
-  "type": "venue",
   "n": "Mamalee",
   "addr": "13 Rue d'Aligre, 75012 Paris",
   "ll": [
@@ -39425,25 +39349,6 @@
   "y": "2013",
   "note": "Run by Jirayr (SIREN 792141251), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
   "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/792141251",
-  "auto": 1
- },
- {
-  "type": "venue",
-  "n": "Kalve",
-  "addr": "40 Rue Desaix, 75015 Paris",
-  "ll": [
-   48.852095,
-   2.291897
-  ],
-  "pc": "75015",
-  "cu": "Café",
-  "k": "Café",
-  "pr": 2,
-  "c": "ind",
-  "o": "Kalve Coffee",
-  "y": "2025",
-  "note": "Run by Kalve Coffee (SIREN 990416216), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is one of its 2 sites.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/990416216",
   "auto": 1
  },
  {
@@ -55441,25 +55346,6 @@
  },
  {
   "type": "venue",
-  "n": "Café Mignon",
-  "addr": "77 Boulevard Beaumarchais, 75003 Paris",
-  "ll": [
-   48.858441,
-   2.367545
-  ],
-  "pc": "75003",
-  "cu": "French",
-  "k": "French bistro",
-  "pr": 2,
-  "c": "ind",
-  "o": "Beau Marche",
-  "y": "2011",
-  "note": "Run by Beau Marche (SIREN 533459988), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/533459988",
-  "auto": 1
- },
- {
-  "type": "venue",
   "n": "Tchaikhana de Boukhara",
   "addr": "Rue Amelot, 75011 Paris",
   "ll": [
@@ -57846,25 +57732,6 @@
   "y": "2013",
   "note": "Run by R.G.E. (SIREN 791554116), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
   "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/791554116",
-  "auto": 1
- },
- {
-  "type": "venue",
-  "n": "Café Joséphine",
-  "addr": "3 Place des Deux Écus, 75001 Paris",
-  "ll": [
-   48.86282,
-   2.341289
-  ],
-  "pc": "75001",
-  "cu": "Restaurant",
-  "k": "Other",
-  "pr": 2,
-  "c": "ind",
-  "o": "Comptoir Arverne",
-  "y": "2026",
-  "note": "Run by Comptoir Arverne (SIREN 824889794), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is one of its 3 sites.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/824889794",
   "auto": 1
  },
  {
@@ -78000,25 +77867,6 @@
  },
  {
   "type": "venue",
-  "n": "Public House",
-  "addr": "21 Rue Daunou, 75002 Paris",
-  "ll": [
-   48.869964,
-   2.330318
-  ],
-  "pc": "75002",
-  "cu": "Brasserie",
-  "k": "Brasserie",
-  "pr": 2,
-  "c": "ind",
-  "o": "Public House",
-  "y": "2024",
-  "note": "Run by Public House (SIREN 981904477), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is one of its 2 sites.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/981904477",
-  "auto": 1
- },
- {
-  "type": "venue",
   "n": "Pascade",
   "addr": "Rue Daunou, 75002 Paris",
   "ll": [
@@ -78512,25 +78360,6 @@
  },
  {
   "type": "venue",
-  "n": "Le Bouillon",
-  "addr": "Rue Saint-Marc, 75002 Paris",
-  "ll": [
-   48.870458,
-   2.341128
-  ],
-  "pc": "75002",
-  "cu": "Café",
-  "k": "Bouillon",
-  "pr": 2,
-  "c": "ind",
-  "o": "Cafe Le Bouillon (via R Cafe Investissements)",
-  "y": "2013",
-  "note": "Run by Cafe Le Bouillon (SIREN 793854746), whose president is the small holding R Cafe Investissements, itself managed by private individuals; no group or investor appears in the business register, and this is its only site.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/793854746",
-  "auto": 1
- },
- {
-  "type": "venue",
   "n": "Ragazzi",
   "addr": "Rue Vivienne, 75002 Paris",
   "ll": [
@@ -78868,25 +78697,6 @@
   "y": "2017",
   "note": "Run by Go Oun (SIREN 830675955), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
   "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/830675955",
-  "auto": 1
- },
- {
-  "type": "venue",
-  "n": "Ma cocotte du faubourg",
-  "addr": "Rue du Faubourg Montmartre, 75009 Paris",
-  "ll": [
-   48.871838,
-   2.343014
-  ],
-  "pc": "75009",
-  "cu": "Pub",
-  "k": "Wine & cocktail bar",
-  "pr": 2,
-  "c": "ind",
-  "o": "Cafe H (via Financiere Montmartre)",
-  "y": "2003",
-  "note": "Run by Cafe H (SIREN 434834735), whose president is the small holding Financiere Montmartre, itself managed by private individuals; no group or investor appears in the business register, and this is its only site.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/434834735",
   "auto": 1
  },
  {
@@ -83506,25 +83316,6 @@
  },
  {
   "type": "venue",
-  "n": "L'Étoile 1903",
-  "addr": "4 Avenue de Wagram, 75008 Paris",
-  "ll": [
-   48.875115,
-   2.296346
-  ],
-  "pc": "75008",
-  "cu": "Café",
-  "k": "Café",
-  "pr": 2,
-  "c": "ind",
-  "o": "Cafe L'Etoile 1903 (via R Cafe Investissements)",
-  "y": "2022",
-  "note": "Run by Cafe L'Etoile 1903 (SIREN 911170314), whose president is the small holding R Cafe Investissements, itself managed by private individuals; no group or investor appears in the business register, and this is its only site.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/911170314",
-  "auto": 1
- },
- {
-  "type": "venue",
   "n": "Sormani",
   "addr": "Rue du Général Lanrezac, 75017 Paris",
   "ll": [
@@ -85595,25 +85386,6 @@
  },
  {
   "type": "venue",
-  "n": "Corner Haussmann",
-  "addr": "Boulevard Haussmann, 75009 Paris",
-  "ll": [
-   48.872858,
-   2.335155
-  ],
-  "pc": "75009",
-  "cu": "Restaurant",
-  "k": "Other",
-  "pr": 2,
-  "c": "ind",
-  "o": "Corner Haussmann (via Societe Financiere Kafa - 3D)",
-  "y": "2016",
-  "note": "Run by Corner Haussmann (SIREN 493511687), whose president is the small holding Societe Financiere Kafa - 3D, itself managed by private individuals; no group or investor appears in the business register, and this is its only site.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/493511687",
-  "auto": 1
- },
- {
-  "type": "venue",
   "n": "Bento 9",
   "addr": "49 Rue de la Victoire, 75009 Paris",
   "ll": [
@@ -86009,25 +85781,6 @@
   "y": "1954",
   "note": "Run by La Pointe Drouot (SIREN 308406263), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
   "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/308406263",
-  "auto": 1
- },
- {
-  "type": "venue",
-  "n": "La Gargamelle",
-  "addr": "Rue La Fayette, 75009 Paris",
-  "ll": [
-   48.874963,
-   2.340006
-  ],
-  "pc": "75009",
-  "cu": "Bar",
-  "k": "Wine & cocktail bar",
-  "pr": 2,
-  "c": "ind",
-  "o": "La Gargamelle",
-  "y": "2013",
-  "note": "Run by La Gargamelle (SIREN 492768668), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/492768668",
   "auto": 1
  },
  {
@@ -117245,12 +116998,11 @@
   "cu": "Café",
   "k": "Café",
   "pr": 2,
-  "c": "ind",
-  "o": "Cite Restauration (via Ob Holding)",
+  "c": "corp",
+  "o": "Groupe Bertrand (Olivier Bertrand) – Bertrand Restauration concession",
   "y": "2012",
-  "note": "Run by Cite Restauration (SIREN 752926196), whose president is the small holding Ob Holding, itself managed by private individuals; no group or investor appears in the business register, and this is one of its 3 sites.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/752926196",
-  "auto": 1
+  "note": "Café at the Cité des sciences et de l'industrie, run by its catering concessionaire Bertrand Restauration (Groupe Bertrand), which has held the concession since 2012; the operating company Cité Restauration is run by Bertrand Hospitality executive Lilian Combourieu.",
+  "src": "https://www.universcience.fr/fr/professionnels/location-despaces/nos-prestations-et-services"
  },
  {
   "type": "venue",

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Apply sourced ownership corrections (data/research/corrections.json) to the research files in place.
+"""Apply sourced ownership corrections (data/corrections.json) to the research files in place.
 
 Each item: {"file", "n", "set": {...fields}, "why", "src"} or {"file", "n", "remove": true, "why", "src"}.
 A correction's "src" replaces the record's source unless "set" gives one. Applied items are reported; misses are listed.
@@ -13,13 +13,13 @@ FIELDS = {'c', 'o', 'y', 'note', 'src', 'n', 'osm', 'osm_alt', 'cu', 'k', 'pr', 
 
 
 def main():
-    path = os.path.join(ROOT, 'data', 'research', 'corrections.json')
+    path = os.path.join(ROOT, 'data', 'corrections.json')
     with open(path) as f:
         items = json.load(f)
     files, done, misses = {}, 0, []
     for it in items:
         fn = os.path.basename(it.get('file', ''))
-        fp = os.path.join(ROOT, 'data', 'research', fn)
+        fp = os.path.join(ROOT, 'data', fn) if fn == 'groups_classified.json' else os.path.join(ROOT, 'data', 'research', fn)
         if not os.path.exists(fp):
             misses.append(f"no file {fn}: {it.get('n')}")
             continue
@@ -40,9 +40,11 @@ def main():
                 if it.get('src') and 'src' not in upd:
                     upd['src'] = it['src']
                 r.update(upd)
+                if r.get('auto') and r.get('c') != 'ind':  # no longer an owner-managed register match
+                    r.pop('auto')
         done += 1
     for fn, rows in files.items():
-        with open(os.path.join(ROOT, 'data', 'research', fn), 'w') as f:
+        with open(os.path.join(ROOT, 'data', fn) if fn == 'groups_classified.json' else os.path.join(ROOT, 'data', 'research', fn), 'w') as f:
             json.dump(rows, f, ensure_ascii=False, indent=1)
     print(f'applied {done}/{len(items)} corrections')
     for m in misses:

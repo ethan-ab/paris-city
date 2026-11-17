@@ -15,7 +15,7 @@ from discover import kind_for, load  # noqa: E402
 def main():
     with open(os.path.join(ROOT, 'data', 'groups_candidates.json')) as f:
         cands = {g['group_siren']: g for g in json.load(f)}
-    with open(os.path.join(ROOT, 'data', 'research', 'groups_classified.json')) as f:
+    with open(os.path.join(ROOT, 'data', 'groups_classified.json')) as f:
         classified = json.load(f)
     osm, tags = load('osm', {}), load('tags', {})
     out, seen, missing = [], set(), 0

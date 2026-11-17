@@ -260,7 +260,7 @@ function showCard(p){
     <h2>${esc(p.n)}</h2><div class="area">${esc([p.cu, p.a].filter(Boolean).join(' · '))} ${priceHtml(p.pr)}</div>
     <dl>${p.o ? `<dt>${p.c === 'ind' ? 'Owned by' : 'Backer'}</dt><dd>${esc(p.o)}</dd>` : ''}${p.y ? `<dt>${p.auto ? 'Company since' : 'Since'}</dt><dd>${esc(p.y)}</dd>` : ''}</dl>
     ${p.note ? `<p>${esc(p.note)}</p>` : ''}
-    ${p.src ? `<a class="src" target="_blank" rel="noopener" href="${esc(p.src)}">Source: ${esc(host)} ↗</a>` : ''}
+    ${/^https?:\/\//i.test(p.src || '') ? `<a class="src" target="_blank" rel="noopener" href="${esc(p.src)}">Source: ${esc(host)} ↗</a>` : ''}
     ${p.auto ? `<p class="auto">Matched automatically: OpenStreetMap listing + French business register. Spot an error? Use “Suggest a place”.</p>` : ''}
     ${alts.length ? `<div class="alts"><h3>Independent nearby</h3>${alts.map(a => `<button class="alt" data-i="${a.q.i}"><div><b>${esc(a.q.n)}</b><br><span>${esc(a.q.cu || '')}</span></div><i>${walk(a.m)}</i></button>`).join('')}</div>` : ''}`;
   card.querySelector('.x').onclick = () => select(null);
@@ -360,10 +360,12 @@ function render(){
   emptyEl.hidden = n > 0;
   $('count').textContent = n === PLACES.length ? `${n} PLACES` : `${n} OF ${PLACES.length} PLACES · ${pe} PE-BACKED`;
   if (selected !== null && !visible(PLACES[selected])) select(null);
-  if (ready) map.getSource('places').setData(fc());
+  clearTimeout(mapTimer); mapTimer = setTimeout(syncMap, typing ? 150 : 0); typing = false;
 }
-let qTimer = 0;
-$('q').addEventListener('input', e => { clearTimeout(qTimer); qTimer = setTimeout(() => { query = fold(e.target.value.trim()); render(); }, 140); });
+/* the list updates on every keystroke; the map (thousands of pins) catches up once typing pauses */
+let mapTimer = 0, typing = false;
+const syncMap = () => { if (ready) map.getSource('places').setData(fc()); };
+$('q').addEventListener('input', e => { query = fold(e.target.value.trim()); typing = true; render(); });
 $('fArea').addEventListener('change', e => { fArea = e.target.value; render(); });
 $('fCu').addEventListener('change', e => { fCu = e.target.value; render(); });
 
@@ -409,4 +411,8 @@ sgForm.addEventListener('submit', async e => {
 });
 
 render();
+
+/* Read-only hooks for the end-to-end tests (tests/*.spec.js). */
+window.__pfmm = {map, places:PLACES, isReady:() => ready, selected:() => selected, nearIds:() => nearIds.slice(),
+  shown:() => shownList.length, perCat:() => ({...perCat}), painted:() => painted};
 })();

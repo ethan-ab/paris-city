@@ -75,11 +75,11 @@
   "cu": "Éclairs",
   "k": "Bakery & pastry",
   "pr": 3,
-  "c": "pe",
-  "o": "Christophe Adam; Midi Capital (now M Capital, minority)",
-  "y": "2016",
-  "note": "Pastry chef Christophe Adam's éclair shops took €1.7m of growth capital from Midi Capital (now M Capital) around 2016, partly to fund expansion abroad.",
-  "src": "https://www.cfnews.net/L-actualite/Capital-developpement/Operations/Augmentation-de-capital/L-Eclair-de-Genie-se-regale-214685"
+  "c": "corp",
+  "o": "Groupe Barrière (majority), with founder Christophe Adam",
+  "y": "2020",
+  "note": "Pastry chef Christophe Adam's éclair chain took growth capital from Midi Capital around 2016; in September 2020 the Barrière family's casino and hotel group bought a majority stake in L'Éclair de Génie (which also runs the Dépôt Légal brand), with Adam staying on.",
+  "src": "https://www.groupebarriere.com/en/our-group/shareholdings"
  },
  {
   "type": "brand",
@@ -486,11 +486,11 @@
   "cu": "Burgers",
   "k": "Burgers & chicken",
   "pr": 2,
-  "c": "corp",
-  "o": "Five Guys Enterprises (privately held, US)",
-  "y": "2016",
-  "note": "US burger chain owned by Five Guys Enterprises LLC of Alexandria, Virginia; its French subsidiary Five Guys France (Paris 9e) opened the first Paris restaurant in 2016.",
-  "src": "https://en.wikipedia.org/wiki/Five_Guys"
+  "c": "pe",
+  "o": "Five Guys Europe — Sir Charles Dunstone's investment vehicle Freston Ventures (bought the Murrell family's 50% in 2025)",
+  "y": "2025",
+  "note": "Five Guys' French restaurants are company-run by Five Guys Europe, until 2025 a 50/50 joint venture between the US founding Murrell family and Freston Ventures, the investment vehicle of Carphone Warehouse co-founder Sir Charles Dunstone. In November 2025 Dunstone agreed to buy the Murrells' half (the European arm now pays a royalty to the US brand owner) and hired Goldman Sachs to sell up to 50% to new investors, with buyout firms circling.",
+  "src": "https://news.sky.com/story/burger-chain-five-guys-hunts-new-investor-to-flip-stake-13466228"
  },
  {
   "type": "brand",
@@ -502,8 +502,8 @@
   "c": "corp",
   "o": "Tortilla Mexican Grill plc (LSE AIM-listed)",
   "y": "2024",
-  "note": "London-listed Tortilla Mexican Grill bought Fresh Burritos, France's largest fast-casual Mexican chain (13 owned sites, 19 franchised), for €3.95m in mid-2024 and is converting stores to the Tortilla brand.",
-  "src": "https://tortillagroup.co.uk/wp-content/uploads/Tortilla-acquires-Fresh-Burritos.pdf"
+  "note": "London-listed Tortilla Mexican Grill bought Fresh Burritos, France's largest fast-casual Mexican chain (13 owned sites, 19 franchised), for €3.95m in mid-2024. By its H1 FY26 results (September 2026) seven former Fresh Burritos sites traded as Tortilla, unconverted ones had closed and only one Fresh Burritos site remained.",
+  "src": "https://tortillagroup.co.uk/wp-content/uploads/H1-FY26-RNS-Interim-Results.pdf"
  },
  {
   "type": "brand",
@@ -530,10 +530,11 @@
   "cu": "Boulangerie-pâtisserie",
   "k": "Bakery & pastry",
   "pr": 2,
-  "c": "corp",
-  "o": "Lov & Bread (Stéphane Courbit's LOV / FLL group)",
-  "note": "The bakery brand created by Benoît Castel in 2013 is listed among the brands of Lov & Bread, the food arm of Stéphane Courbit's group that also owns Ladurée; the acquisition date was not disclosed.",
-  "src": "https://lexpress-franchise.com/actualites/un-nouvel-actionnaire-au-capital-des-boulangeries-ange/"
+  "c": "ind",
+  "o": "Co-founders' holding Meyerson Capital (Benichou family)",
+  "note": "Bakery chain created in 2013 by Benoît Castel and Mickaël Benichou. Stéphane Courbit's LOV group invested in 2022 but pulled out by December 2024; the holding Meyerson Capital and the Ternes shop went into receivership in 2024 and have operated under court-approved recovery plans since July 2025.",
+  "src": "https://www.linforme.com/grande-conso/article/le-pari-rate-de-stephane-courbit-dans-les-boulangeries-liberte_2371.html",
+  "y": "2024"
  },
  {
   "type": "venue",

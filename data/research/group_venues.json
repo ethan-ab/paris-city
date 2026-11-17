@@ -1472,23 +1472,6 @@
  },
  {
   "type": "venue",
-  "n": "Le ciel de Paris",
-  "addr": "Place Raoul Dautry, 75015 Paris",
-  "ll": [
-   48.842183,
-   2.322078
-  ],
-  "pc": "75015",
-  "cu": "Restaurant",
-  "k": "Other",
-  "pr": 2,
-  "c": "corp",
-  "o": "Elior Group (Euronext: ELIOR)",
-  "note": "The 56th-floor restaurant of the Tour Montparnasse was run by Elior's concession arm (Areas); its website now says it has closed for good.",
-  "src": "https://www.eliorgroup.com/fr/medias/communiques-de-presse/pour-la-quatrieme-annee-consecutive-le-ciel-de-paris-remporte-le"
- },
- {
-  "type": "venue",
   "n": "Café de l'Homme",
   "addr": "Parvis des Libertés et des Droits de l'Homme, 75016 Paris",
   "ll": [
@@ -5477,23 +5460,6 @@
  },
  {
   "type": "venue",
-  "n": "Au Père Fouettard",
-  "addr": "9 Rue Pierre Lescot, 75001 Paris",
-  "ll": [
-   48.862676,
-   2.348405
-  ],
-  "pc": "75001",
-  "cu": "European",
-  "k": "French bistro",
-  "pr": 2,
-  "c": "ind",
-  "o": "SOCIETE AP (owner-managed holding)",
-  "note": "Au Père Fouettard is run by AU PERE FOUETTARD, controlled by SOCIETE AP (registered 2020); the officers at the top of the chain are private individuals. The register lists no fund or corporate group among its officers.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/884338252"
- },
- {
-  "type": "venue",
   "n": "Terra",
   "addr": "Rue des Gravilliers, 75003 Paris",
   "ll": [
@@ -6155,23 +6121,6 @@
   "o": "Chef Hélène Darroze",
   "note": "Joia's operating company is controlled by Ciboulette & Cie, presided by chef Hélène Darroze.",
   "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/821404944"
- },
- {
-  "type": "venue",
-  "n": "Bistrot Madame",
-  "addr": "Rue Feydeau, 75002 Paris",
-  "ll": [
-   48.870202,
-   2.342119
-  ],
-  "pc": "75002",
-  "cu": "French",
-  "k": "French bistro",
-  "pr": 2,
-  "c": "ind",
-  "o": "FINANCIERE RUE AUBER (owner-managed holding)",
-  "note": "Bistrot Madame is run by MAELVINA, controlled by FINANCIERE RUE AUBER (registered 2015); the officers at the top of the chain are private individuals. The register lists no fund or corporate group among its officers.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/809306830"
  },
  {
   "type": "venue",

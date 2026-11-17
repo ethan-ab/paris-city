@@ -409,10 +409,10 @@
   "k": "Japanese",
   "pr": 4,
   "c": "corp",
-  "o": "Marriott International (Prince de Galles, a Luxury Collection hotel)",
+  "o": "Mussallam family (Saudi, MH Limited Partnership); managed by Marriott International (Luxury Collection)",
   "y": "2022",
   "note": "Michelin-starred chef Akira Back's first European restaurant, opened in 2022 inside the Prince de Galles, a hotel in Marriott's Luxury Collection brand, which runs it and takes its bookings.",
-  "src": "https://www.marriott.com/en-us/hotels/parlc-prince-de-galles-a-luxury-collection-hotel-paris/dining/"
+  "src": "https://www.thecaterer.com/news/prince-de-galles-hotel-in-paris-sold-for-more-than-100m"
  },
  {
   "type": "venue",
@@ -422,9 +422,9 @@
   "k": "French bistro",
   "pr": 4,
   "c": "corp",
-  "o": "Marriott International (Prince de Galles, a Luxury Collection hotel)",
+  "o": "Mussallam family (Saudi, MH Limited Partnership); managed by Marriott International (Luxury Collection)",
   "note": "The 1920s-themed restaurant and bar of the Art Deco Prince de Galles hotel, with TV chef Norbert Tarayre; the hotel is part of Marriott's Luxury Collection.",
-  "src": "https://www.marriott.com/en-us/hotels/parlc-prince-de-galles-a-luxury-collection-hotel-paris/dining/"
+  "src": "https://www.thecaterer.com/news/prince-de-galles-hotel-in-paris-sold-for-more-than-100m"
  },
  {
   "type": "venue",
@@ -434,9 +434,10 @@
   "k": "French bistro",
   "pr": 4,
   "c": "corp",
-  "o": "Mandarin Oriental Hotel Group (Jardine Matheson group), hotel operator",
-  "note": "Restaurant of the Mandarin Oriental, Paris, led by chef Nina Haradji, with the Bar 8 cocktail bar next door. The hotel is run by Hong Kong-based Mandarin Oriental Hotel Group, controlled by the listed Jardine Matheson conglomerate.",
-  "src": "https://www.mandarinoriental.com/en/paris/place-vendome/dine/camelia"
+  "o": "Gruppo Statuto (Italian hotel owner) since 2024; managed by Mandarin Oriental Hotel Group",
+  "note": "Restaurant of the Mandarin Oriental, Paris, led by chef Nina Haradji, with the Bar 8 cocktail bar next door. Mandarin Oriental sold the hotel for €205m in 2024 to Italy's Gruppo Statuto (also owner of the Mandarin Oriental, Milan) and keeps running it under a 50-year management contract.",
+  "src": "https://www.jll.com/en-uk/newsroom/jll-advises-on-the-sale-of-mandarin-oriental-paris",
+  "y": "2024"
  },
  {
   "type": "venue",
@@ -470,10 +471,10 @@
   "k": "Healthy & veggie",
   "pr": 3,
   "c": "corp",
-  "o": "IHG Hotels & Resorts (LSE: IHG) – Kimpton brand",
+  "o": "AXA IM Alts (owner, for its clients); managed by IHG Hotels & Resorts – Kimpton brand",
   "y": "2021",
   "note": "Californian restaurant of Kimpton St Honoré, the first French hotel of IHG's Kimpton brand (opened 2021), with the Sequoia rooftop bar upstairs; Paris Society advised on the concept.",
-  "src": "https://www.ihgplc.com/en/news-and-media/news-releases/2021/kimpton-hotels-and-restaurants-brings-its-heartfelt-luxury-to-the-city-of-light"
+  "src": "https://alts.axa-im.com/axa-im-alts-et-vinci-immobilier-achevent-un-redeveloppement-majeur-avec-la-livraison-de-lhotel"
  },
  {
   "type": "venue",
@@ -483,9 +484,10 @@
   "k": "Brasserie",
   "pr": 3,
   "c": "corp",
-  "o": "Hyatt (Hôtel du Louvre) with the Paul Bocuse group",
+  "o": "Constellation Hotels Holdings (Qatari-controlled); managed by Hyatt (The Unbound Collection)",
   "note": "Brasserie of the Hôtel du Louvre, a Hyatt-run hotel, serving Paul Bocuse's Lyon classics under licence from the Bocuse group; reservations go through Hyatt's restaurant site.",
-  "src": "https://www.falstaff.com/nordics/restaurants/brasserie-du-louvre-bocuse-paris"
+  "src": "https://hr-infos.fr/reouverture-de-lhotel-du-louvre-sous-label-unbound-collection-by-hyatt-2/",
+  "y": "2013"
  },
  {
   "type": "brand",
@@ -602,10 +604,10 @@
   "k": "Japanese",
   "pr": 1,
   "c": "pe",
-  "o": "Hana Group – Permira (about 80% since 2019); founders Jacques Attal & Laurent Boukobza",
-  "y": "2019",
-  "note": "Show-cooking sushi kiosk brand of Hana Group, which runs about 1,500 counters, mostly inside supermarkets. TA Associates backed the group from 2015; in 2019 Permira bought about 80% in a deal valuing it at €400-500m, with the founders reinvesting.",
-  "src": "https://www.cfnews.net/L-actualite/LBO/Operations/LBO-bis/Hana-Group-alimente-un-nouveau-LBO-289635"
+  "o": "Eat Happy Hana Group — One Rock Capital Partners (US private equity)",
+  "y": "2026",
+  "note": "Show-cooking sushi kiosk brand of Hana Group (about 1,500 counters, mostly inside supermarkets). TA Associates backed Hana from 2015 and Permira held about 80% from 2019. In July 2026 Hana's European business merged with German rival Eat Happy Group to form Eat Happy Hana Group, backed by US private equity firm One Rock Capital Partners; Permira fully exited Hana's European operations and kept only the US business.",
+  "src": "https://www.just-food.com/news/eat-happy-hana-finalise-merger/"
  },
  {
   "type": "brand",
@@ -784,9 +786,9 @@
   "k": "Coffee",
   "pr": 1,
   "c": "corp",
-  "o": "Lagardère Travel Retail (Lagardère group, controlled by Vivendi/Bolloré)",
+  "o": "Lagardère Travel Retail (Lagardère group, controlled by Bolloré's Louis Hachette Group)",
   "note": "Coffee-shop brand created by Lagardère Travel Retail for railway stations and airports (about 65-70 outlets in five or six countries); the Paris branches are in and around Gare du Nord.",
-  "src": "https://www.lagardere-tr.com/fr/so-coffee-0"
+  "src": "https://www.lagardere.com/wp-content/uploads/2026/03/260331_urd_2025_lagardere_en.pdf"
  },
  {
   "type": "brand",
@@ -809,10 +811,10 @@
   "k": "Italian",
   "pr": 2,
   "c": "corp",
-  "o": "Calzedonia Group (Veronesi family)",
+  "o": "Oniverse (formerly Calzedonia Group; Veronesi family)",
   "y": "2023",
   "note": "Italian wine-shop-and-restaurant chain created in 2012 by Calzedonia founder Sandro Veronesi. Its first Paris site opened in December 2023 on three floors of a place Saint-Michel building that Calzedonia had bought for its French subsidiary.",
-  "src": "https://www.gamberorosso.it/attualita/signorvino-apre-a-parigi/"
+  "src": "https://www.oniverse.it/en/the-group/our-brands/signorvino"
  },
  {
   "type": "brand",

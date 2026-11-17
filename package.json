@@ -1,0 +1,12 @@
+{
+  "name": "paris-food-money-matrix",
+  "private": true,
+  "scripts": {
+    "build": "python3 scripts/build.py --offline --artifact",
+    "test": "playwright test --trace off",
+    "test:data": "playwright test tests/data.spec.js --trace off"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0"
+  }
+}

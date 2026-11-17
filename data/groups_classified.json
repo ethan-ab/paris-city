@@ -500,16 +500,6 @@
   "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/951125095"
  },
  {
-  "group_siren": "349812867",
-  "group_name": "RESTAURANTS ET SITES",
-  "c": "corp",
-  "o": "Elior Group (Euronext: ELIOR)",
-  "y": "",
-  "brand": "Le Ciel de Paris",
-  "note": "The 56th-floor restaurant of the Tour Montparnasse was run by Elior's concession arm (Areas); its website now says it has closed for good.",
-  "src": "https://www.eliorgroup.com/fr/medias/communiques-de-presse/pour-la-quatrieme-annee-consecutive-le-ciel-de-paris-remporte-le"
- },
- {
   "group_siren": "109443325",
   "group_name": "TROCADÉRO HOLDING",
   "c": "pe",
@@ -2330,16 +2320,6 @@
   "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/801575838"
  },
  {
-  "group_siren": "884338252",
-  "group_name": "SOCIETE AP",
-  "c": "ind",
-  "o": "SOCIETE AP (owner-managed holding)",
-  "y": "",
-  "brand": "Au Père Fouettard",
-  "note": "Au Père Fouettard is run by AU PERE FOUETTARD, controlled by SOCIETE AP (registered 2020); the officers at the top of the chain are private individuals. The register lists no fund or corporate group among its officers.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/884338252"
- },
- {
   "group_siren": "823365044",
   "group_name": "CHEZ NOUS 2",
   "c": "ind",
@@ -2728,16 +2708,6 @@
   "brand": "Joia",
   "note": "Joia's operating company is controlled by Ciboulette & Cie, presided by chef Hélène Darroze.",
   "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/821404944"
- },
- {
-  "group_siren": "809306830",
-  "group_name": "FINANCIERE RUE AUBER",
-  "c": "ind",
-  "o": "FINANCIERE RUE AUBER (owner-managed holding)",
-  "y": "",
-  "brand": "Bistrot Madame",
-  "note": "Bistrot Madame is run by MAELVINA, controlled by FINANCIERE RUE AUBER (registered 2015); the officers at the top of the chain are private individuals. The register lists no fund or corporate group among its officers.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/809306830"
  },
  {
   "group_siren": "823247622",

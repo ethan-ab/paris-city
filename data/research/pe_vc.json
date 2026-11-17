@@ -33,10 +33,10 @@
   "k": "Sandwiches & salads",
   "pr": 1,
   "c": "pe",
-  "o": "Roark Capital Group",
+  "o": "Roark Capital Group (brand owner); McWin Restaurant Fund (French master franchisee)",
   "y": "2024",
-  "note": "US private equity firm Roark Capital agreed in August 2023 to buy Subway from the founding families for about $9.6bn; Paris outlets are run by franchisees.",
-  "src": "https://en.wikipedia.org/wiki/Subway_(restaurant)"
+  "note": "US private equity firm Roark Capital bought Subway from the founding families in 2024 (deal agreed August 2023, about $9.6bn). Since May 2024 the French network (about 350-400 restaurants, mostly franchised) has been run under a master franchise by McWin Restaurant Fund, a restaurant-focused private equity fund advised by McWin Capital Partners, which bought Subway's French subsidiary.",
+  "src": "https://resto.zepros.fr/service-table/chaines-groupes/subway-renforce-son-engagement-aupres-ses-franchises"
  },
  {
   "type": "brand",
@@ -166,7 +166,10 @@
   "o": "Bertrand Franchise (Groupe Bertrand; Bridgepoint ~25% minority)",
   "y": "2018",
   "note": "Formerly Léon de Bruxelles. Part of Bertrand Franchise (Groupe Bertrand), in which private equity firm Bridgepoint has held a minority stake (about 23–25%) since 2018; in April 2026 Bridgepoint was reported to be preparing an exit by end-2026/early 2027.",
-  "src": "https://www.linforme.com/grande-conso/article/burger-king-leon-hippopotamus-l-empire-d-olivier-bertrand-bientot-en-quete-d-un-nouvel-actionnaire_3921.html"
+  "src": "https://www.linforme.com/grande-conso/article/burger-king-leon-hippopotamus-l-empire-d-olivier-bertrand-bientot-en-quete-d-un-nouvel-actionnaire_3921.html",
+  "osm_alt": [
+   "Léon de Bruxelles"
+  ]
  },
  {
   "type": "brand",
@@ -500,10 +503,10 @@
   "k": "Bakery & pastry",
   "pr": 3,
   "c": "pe",
-  "o": "Butler Industries (85%), Pierre Hermé (15%)",
+  "o": "Butler Industries (Walter Butler), majority; Pierre Hermé (minority)",
   "y": "2021",
-  "note": "In December 2021 investment group Butler Industries (Walter Butler) bought 85% of Pierre Hermé from LOG Investment, the holding of L'Occitane's shareholders; the chef kept his stake.",
-  "src": "https://luxus-plus.com/linvestisseur-walter-butler-rachete-pierre-herme/"
+  "note": "In December 2021 Walter Butler's investment group Butler Industries took control of Pierre Hermé Paris by buying the stake of LOG Investment, the holding of L'Occitane's shareholders ('a little over two-thirds' of the capital per AFP; some later reports say 85%); the chef kept his shares.",
+  "src": "https://www.lefigaro.fr/flash-eco/le-fonds-butler-rachete-les-patisseries-de-luxe-pierre-herme-20211209"
  },
  {
   "type": "brand",
@@ -513,23 +516,10 @@
   "k": "Coffee",
   "pr": 1,
   "c": "pe",
-  "o": "Wagram Food Service (Nicolas Riché; Bpifrance FIT3 & Eram minority)",
+  "o": "Wagram Food Service — Financière de l'Intendance (Paillaud family office, majority); CEO Nicolas Riché, Bpifrance FIT3 & Eram (minority)",
   "y": "2024",
-  "note": "Run by Wagram Food Service, controlled by entrepreneur Nicolas Riché; in 2024 the group opened its capital (minority) to Bpifrance's France Investissement Tourisme 3 fund and the Eram group.",
-  "src": "https://www.franchise-magazine.com/news-franchise/restauration-columbus-copper-branch-krispy-kreme-juin-2024"
- },
- {
-  "type": "brand",
-  "n": "Krispy Kreme",
-  "osm": "Krispy Kreme",
-  "cu": "Doughnuts",
-  "k": "Bakery & pastry",
-  "pr": 1,
-  "c": "pe",
-  "o": "Wagram Food Service JV (2/3) with Krispy Kreme Inc.",
-  "y": "2022",
-  "note": "Krispy Kreme France is a 2022 joint venture between Wagram Food Service and Krispy Kreme Doughnuts; Wagram opened its capital to Bpifrance's France Investissement Tourisme 3 fund and Eram in 2024.",
-  "src": "https://ac-franchise.com/article/wagram-food-service-accelere-le-developpement-de-columbus-cafe-co-et-copper-branch"
+  "note": "Run by Wagram Food Service, whose majority shareholder is Financière de l'Intendance, a family office linked to the Paillaud family; CEO Nicolas Riché keeps a minority stake. In 2024 Wagram opened its capital (minority, about €10m) to Bpifrance's France Investissement Tourisme 3 fund and the Eram group.",
+  "src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/wagram-food-service-ouvre-son-capital-a-bpifrance-et-eram-2101577"
  },
  {
   "type": "brand",
@@ -539,10 +529,10 @@
   "k": "Healthy & veggie",
   "pr": 2,
   "c": "pe",
-  "o": "Wagram Food Service (Nicolas Riché; Bpifrance FIT3 & Eram minority)",
+  "o": "Wagram Food Service — Financière de l'Intendance (Paillaud family office, majority); CEO Nicolas Riché, Bpifrance FIT3 & Eram (minority)",
   "y": "2024",
-  "note": "Wagram Food Service holds the European master franchise of the Canadian plant-based chain (since 2020); Bpifrance's France Investissement Tourisme 3 fund and Eram took minority stakes in Wagram in 2024.",
-  "src": "https://ac-franchise.com/article/wagram-food-service-accelere-le-developpement-de-columbus-cafe-co-et-copper-branch"
+  "note": "Wagram Food Service holds the European master franchise of the Canadian plant-based chain (since 2020). Wagram's majority shareholder is Financière de l'Intendance, a Paillaud family office; CEO Nicolas Riché holds a minority, and Bpifrance's France Investissement Tourisme 3 fund and Eram took minority stakes in 2024.",
+  "src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/wagram-food-service-ouvre-son-capital-a-bpifrance-et-eram-2101577"
  },
  {
   "type": "venue",
@@ -789,7 +779,7 @@
   "cu": "Fine food & pâtisserie",
   "k": "Bakery & pastry",
   "pr": 4,
-  "c": "ind",
+  "c": "corp",
   "o": "Galapagos group (Tacquard family)",
   "y": "2024",
   "note": "In May 2024 the Ducros family's investment company sold Fauchon to Galapagos, the family-owned Breton biscuit group (Gavottes, Traou Mad) run by the Tacquard family.",

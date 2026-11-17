@@ -1,0 +1,391 @@
+[
+ {
+  "file": "pe_vc.json",
+  "n": "Krispy Kreme",
+  "remove": true,
+  "why": "Outdated and duplicate: in June 2026 Krispy Kreme Inc. bought Wagram Food Service's two-thirds and now owns 100% of Krispy Kreme France; corp.json already has the correct corp record.",
+  "src": "https://www.lsa-conso.fr/donuts-krispy-kreme-tourne-la-page-wagram-columbus-cafe-et-reprend-le-controle-de-sa-filiale-francaise,466282"
+ },
+ {
+  "file": "corp.json",
+  "n": "Hippopotamus",
+  "remove": true,
+  "why": "Duplicate of the pe_vc.json Hippopotamus brand record (same owner/category); keep one Bertrand Franchise set (pe_vc.json, alongside Burger King).",
+  "src": "https://www.linforme.com/grande-conso/article/burger-king-leon-hippopotamus-l-empire-d-olivier-bertrand-bientot-en-quete-d-un-nouvel-actionnaire_3921.html"
+ },
+ {
+  "file": "corp.json",
+  "n": "Au Bureau",
+  "remove": true,
+  "why": "Duplicate of the pe_vc.json Au Bureau brand record (same owner/category).",
+  "src": "https://www.linforme.com/grande-conso/article/burger-king-leon-hippopotamus-l-empire-d-olivier-bertrand-bientot-en-quete-d-un-nouvel-actionnaire_3921.html"
+ },
+ {
+  "file": "corp.json",
+  "n": "Léon",
+  "remove": true,
+  "why": "Duplicate of the pe_vc.json Léon brand record (same owner/category).",
+  "src": "https://www.linforme.com/grande-conso/article/burger-king-leon-hippopotamus-l-empire-d-olivier-bertrand-bientot-en-quete-d-un-nouvel-actionnaire_3921.html"
+ },
+ {
+  "file": "corp.json",
+  "n": "Volfoni",
+  "remove": true,
+  "why": "Duplicate of the pe_vc.json Volfoni brand record (same owner/category).",
+  "src": "https://www.linforme.com/grande-conso/article/burger-king-leon-hippopotamus-l-empire-d-olivier-bertrand-bientot-en-quete-d-un-nouvel-actionnaire_3921.html"
+ },
+ {
+  "file": "corp.json",
+  "n": "Pitaya",
+  "remove": true,
+  "why": "Duplicate of the pe_vc.json Pitaya brand record (same owner/category).",
+  "src": "https://www.linforme.com/grande-conso/article/burger-king-leon-hippopotamus-l-empire-d-olivier-bertrand-bientot-en-quete-d-un-nouvel-actionnaire_3921.html"
+ },
+ {
+  "file": "corp.json",
+  "n": "Le Paradis du Fruit",
+  "remove": true,
+  "why": "Duplicate of the pe_vc.json Le Paradis du Fruit brand record (same owner/category).",
+  "src": "https://www.24matins.fr/le-groupe-bertrand-chercherait-a-mettre-en-vente-burger-king-et-lintegralite-de-ses-enseignes-en-franchise-1406333"
+ },
+ {
+  "file": "pe_vc.json",
+  "n": "Subway",
+  "set": {
+   "o": "Roark Capital Group (brand owner); McWin Restaurant Fund (French master franchisee)",
+   "y": "2024",
+   "note": "US private equity firm Roark Capital bought Subway from the founding families in 2024 (deal agreed August 2023, about $9.6bn). Since May 2024 the French network (about 350-400 restaurants, mostly franchised) has been run under a master franchise by McWin Restaurant Fund, a restaurant-focused private equity fund advised by McWin Capital Partners, which bought Subway's French subsidiary.",
+   "src": "https://resto.zepros.fr/service-table/chaines-groupes/subway-renforce-son-engagement-aupres-ses-franchises"
+  },
+  "why": "Owner text missed the 2024 change of French operator: McWin Restaurant Fund (PE) took the France/Belgium/Luxembourg master franchise and bought Subway France in 2024.",
+  "src": "https://www.franchise-magazine.com/news-franchise/reseau-restauration-rapide-subway-nouveau-master-avril-2024"
+ },
+ {
+  "file": "pe_vc_2.json",
+  "n": "Five Guys",
+  "set": {
+   "c": "pe",
+   "o": "Five Guys Europe — Sir Charles Dunstone's investment vehicle Freston Ventures (bought the Murrell family's 50% in 2025)",
+   "y": "2025",
+   "note": "Five Guys' French restaurants are company-run by Five Guys Europe, until 2025 a 50/50 joint venture between the US founding Murrell family and Freston Ventures, the investment vehicle of Carphone Warehouse co-founder Sir Charles Dunstone. In November 2025 Dunstone agreed to buy the Murrells' half (the European arm now pays a royalty to the US brand owner) and hired Goldman Sachs to sell up to 50% to new investors, with buyout firms circling.",
+   "src": "https://news.sky.com/story/burger-chain-five-guys-hunts-new-investor-to-flip-stake-13466228"
+  },
+  "why": "French restaurants are not owned by Five Guys Enterprises but by the Five Guys Europe JV with Charles Dunstone's Freston Ventures, which agreed to buy out the Murrells in 2025 and is selling up to half to investors; investment-vehicle control -> pe per project convention.",
+  "src": "https://news.sky.com/story/burger-chain-five-guys-hunts-new-investor-to-flip-stake-13466228"
+ },
+ {
+  "file": "pe_vc.json",
+  "n": "Columbus Café & Co",
+  "set": {
+   "o": "Wagram Food Service — Financière de l'Intendance (Paillaud family office, majority); CEO Nicolas Riché, Bpifrance FIT3 & Eram (minority)",
+   "note": "Run by Wagram Food Service, whose majority shareholder is Financière de l'Intendance, a family office linked to the Paillaud family; CEO Nicolas Riché keeps a minority stake. In 2024 Wagram opened its capital (minority, about €10m) to Bpifrance's France Investissement Tourisme 3 fund and the Eram group."
+  },
+  "why": "Wagram is not controlled by Nicolas Riché: majority is held by the Paillaud family office Financière de l'Intendance, Riché is a minority holder.",
+  "src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/wagram-food-service-ouvre-son-capital-a-bpifrance-et-eram-2101577"
+ },
+ {
+  "file": "pe_vc.json",
+  "n": "Copper Branch",
+  "set": {
+   "o": "Wagram Food Service — Financière de l'Intendance (Paillaud family office, majority); CEO Nicolas Riché, Bpifrance FIT3 & Eram (minority)",
+   "note": "Wagram Food Service holds the European master franchise of the Canadian plant-based chain (since 2020). Wagram's majority shareholder is Financière de l'Intendance, a Paillaud family office; CEO Nicolas Riché holds a minority, and Bpifrance's France Investissement Tourisme 3 fund and Eram took minority stakes in 2024."
+  },
+  "why": "Same as Columbus Café: Wagram's majority owner is the Paillaud family office, not Nicolas Riché.",
+  "src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/wagram-food-service-ouvre-son-capital-a-bpifrance-et-eram-2101577"
+ },
+ {
+  "file": "pe_vc_2.json",
+  "n": "L'Éclair de Génie",
+  "set": {
+   "c": "corp",
+   "o": "Groupe Barrière (majority), with founder Christophe Adam",
+   "y": "2020",
+   "note": "Pastry chef Christophe Adam's éclair chain took growth capital from Midi Capital around 2016; in September 2020 the Barrière family's casino and hotel group bought a majority stake in L'Éclair de Génie (which also runs the Dépôt Légal brand), with Adam staying on.",
+   "src": "https://www.groupebarriere.com/en/our-group/shareholdings"
+  },
+  "why": "Ownership outdated: Groupe Barrière (family-owned casino/hotel group) has held the majority since September 2020, so it is corp, not a founder-led brand with a PE minority.",
+  "src": "https://www.groupebarriere.com/en/our-group/shareholdings"
+ },
+ {
+  "file": "pe_vc_2.json",
+  "n": "Liberté",
+  "set": {
+   "c": "ind",
+   "o": "Co-founders' holding Meyerson Capital (Benichou family)",
+   "y": "2024",
+   "note": "Bakery chain created in 2013 by Benoît Castel and Mickaël Benichou. Stéphane Courbit's LOV group invested in 2022 but pulled out by December 2024; the holding Meyerson Capital and the Ternes shop went into receivership in 2024 and have operated under court-approved recovery plans since July 2025.",
+   "src": "https://www.linforme.com/grande-conso/article/le-pari-rate-de-stephane-courbit-dans-les-boulangeries-liberte_2371.html"
+  },
+  "why": "Courbit's LOV group exited Liberté in 2024. The chain is back with its co-founders' holding Meyerson Capital, presided by the Benichou family, which has been under a recovery plan since July 2025.",
+  "src": "https://www.linforme.com/grande-conso/article/le-pari-rate-de-stephane-courbit-dans-les-boulangeries-liberte_2371.html"
+ },
+ {
+  "file": "pe_vc.json",
+  "n": "Fauchon",
+  "set": {
+   "c": "corp"
+  },
+  "why": "Owner is Galapagos, a family-owned industrial biscuit group (Gavottes, Traou Mad), not the founders. The project files other family-owned trading groups (Holder, Galeries Lafayette, Agour) as corp.",
+  "src": "https://www.latribune.fr/entreprises-finance/industrie/agroalimentaire-biens-de-consommation-luxe/gastronomie-le-groupe-breton-galapagos-croque-le-fleuron-fauchon-et-monte-en-gamme-998710.html"
+ },
+ {
+  "file": "corp.json",
+  "n": "Starbucks",
+  "remove": true,
+  "why": "Duplicate of the pe_vc.json Starbucks brand record (same owner Alsea, corp); the pe_vc.json one also has the year 2019.",
+  "src": "https://www.starbucks.fr/terms-of-use"
+ },
+ {
+  "file": "corp.json",
+  "n": "Sushi Shop",
+  "remove": true,
+  "why": "Duplicate of the pe_vc.json Sushi Shop brand record (same AmRest/corp classification; the pe_vc.json one cites AmRest's own completion notice). AmRest still lists Sushi Shop as its own brand in 2025-26.",
+  "src": "https://www.amrest.eu/en/rb-702018-completion-sushi-shop-acquisition"
+ },
+ {
+  "file": "corp.json",
+  "n": "Marie Blachère",
+  "remove": true,
+  "why": "Duplicate of the pe_vc.json Marie Blachère brand record (same family owner, corp); keep the one with the 91% founder stake.",
+  "src": "https://lessentieldeleco.fr/6110-marie-blachere-nouvel-empire-de-la-restauration-francaise/"
+ },
+ {
+  "file": "corp.json",
+  "n": "Pierre Hermé",
+  "remove": true,
+  "why": "Duplicate of the pe_vc.json Pierre Hermé brand record (same Butler Industries/pe classification).",
+  "src": "https://www.lefigaro.fr/flash-eco/le-fonds-butler-rachete-les-patisseries-de-luxe-pierre-herme-20211209"
+ },
+ {
+  "file": "pe_vc.json",
+  "n": "Pierre Hermé",
+  "set": {
+   "o": "Butler Industries (Walter Butler), majority; Pierre Hermé (minority)",
+   "note": "In December 2021 Walter Butler's investment group Butler Industries took control of Pierre Hermé Paris by buying the stake of LOG Investment, the holding of L'Occitane's shareholders ('a little over two-thirds' of the capital per AFP; some later reports say 85%); the chef kept his shares."
+  },
+  "why": "Stake sizes conflict between files and sources (AFP/Le Figaro: just over two-thirds; other records: 85%/15%), so state majority without the unconfirmed 85/15 split.",
+  "src": "https://www.lefigaro.fr/flash-eco/le-fonds-butler-rachete-les-patisseries-de-luxe-pierre-herme-20211209"
+ },
+ {
+  "file": "groups_classified.json",
+  "n": "RESTAURANTS ET SITES",
+  "remove": true,
+  "why": "Le Ciel de Paris (Tour Montparnasse, Elior) closed for good on 20 June 2025; its own site says so and the record's note already admits it. It is the group's only Paris venue.",
+  "src": "https://cieldeparis.com/fr/contactez-nous.html"
+ },
+ {
+  "file": "corp_2.json",
+  "n": "Gong Cha",
+  "set": {
+   "o": "Bain Capital",
+   "y": "2026",
+   "note": "Bubble-tea franchisor owned from 2019 by US private equity firm TA Associates; in August 2026 it agreed to sell the group to Bain Capital, and Bain completed the buyout (about $600m) in November 2026."
+  },
+  "why": "The sale to Bain Capital has now completed (Bain took management control in November 2026), so the owner is Bain Capital, not TA Associates.",
+  "src": "https://en.sedaily.com/news/2026/11/12/bain-capital-completes-900-billion-won-gong-cha-buyout"
+ },
+ {
+  "file": "exa_more.json",
+  "n": "Signorvino",
+  "set": {
+   "o": "Oniverse (formerly Calzedonia Group; Veronesi family)"
+  },
+  "why": "Calzedonia Group renamed itself Oniverse, and it lists Signorvino among its brands.",
+  "src": "https://www.oniverse.it/en/the-group/our-brands/signorvino"
+ },
+ {
+  "file": "exa_more.json",
+  "n": "Sushi Gourmet",
+  "set": {
+   "o": "Eat Happy Hana Group — One Rock Capital Partners (US private equity)",
+   "y": "2026",
+   "note": "Show-cooking sushi kiosk brand of Hana Group (about 1,500 counters, mostly inside supermarkets). TA Associates backed Hana from 2015 and Permira held about 80% from 2019. In July 2026 Hana's European business merged with German rival Eat Happy Group to form Eat Happy Hana Group, backed by US private equity firm One Rock Capital Partners; Permira fully exited Hana's European operations and kept only the US business.",
+   "src": "https://www.just-food.com/news/eat-happy-hana-finalise-merger/"
+  },
+  "why": "Owner changed: in July 2026 Permira sold out of Hana's European business, which merged into Eat Happy Hana Group, backed by One Rock Capital Partners. Still pe.",
+  "src": "https://www.onerock.com/news/eat-happy-group-and-hana-europe-enter-into-exclusive-negotiations-to-create-a-pan-european-fresh-asian-convenience-food-platform-with-support-from-one-rock-capital-partners/"
+ },
+ {
+  "file": "auto_ind.json",
+  "n": "Kalve",
+  "remove": true,
+  "why": "Contradiction: the register pass filed the 40 rue Desaix café as independent, but it is one of the two Paris cafés of Kalve Coffee SARL, which is 100% owned by the listed Latvian group AS Kalve Coffee (the exa_more.json brand record, corp, osm 'Kalve'). Both pins would show at the same spot, because 'Kalve' does not fold-match the brand name 'Kalve Coffee' for shadowing.",
+  "src": "https://nasdaqbaltic.com/market/upload/reports/kalve/2025_ar_en_con_las.pdf"
+ },
+ {
+  "file": "auto_ind.json",
+  "n": "Amanie",
+  "remove": true,
+  "why": "Contradiction and duplicate: exa_more.json already has Amanie (same address) as Groupe Bertrand/corp. The register company Commerce Restauration is presided by Lilian Combourieu, Bertrand Hospitality's managing director for Paris restaurants, so the 'owner-managed' reading was wrong.",
+  "src": "https://bertrand-hospitality.com/a-propos/"
+ },
+ {
+  "file": "auto_ind.json",
+  "n": "Les Deux Stations",
+  "remove": true,
+  "why": "Contradiction and duplicate: exa_more.json has Les Deux Stations (same address) as Groupe Bertrand/corp. Its company Les Deux Stations Lge is presided by Bertrand Hospitality executive Lilian Combourieu, not an independent owner.",
+  "src": "https://bertrand-hospitality.com/a-propos/"
+ },
+ {
+  "file": "auto_ind.json",
+  "n": "Public House",
+  "remove": true,
+  "why": "Contradiction and duplicate: exa_more.json has Public House (same address) as Groupe Bertrand/corp. Its company is presided by Bertrand Hospitality executive Lilian Combourieu.",
+  "src": "https://bertrand-hospitality.com/a-propos/"
+ },
+ {
+  "file": "auto_ind.json",
+  "n": "Atmosphère",
+  "set": {
+   "c": "corp",
+   "o": "Groupe Bertrand (Olivier Bertrand) – Bertrand Restauration concession",
+   "note": "Café at the Cité des sciences et de l'industrie, run by its catering concessionaire Bertrand Restauration (Groupe Bertrand), which has held the concession since 2012; the operating company Cité Restauration is run by Bertrand Hospitality executive Lilian Combourieu.",
+   "src": "https://www.universcience.fr/fr/professionnels/location-despaces/nos-prestations-et-services"
+  },
+  "why": "Misclassified as independent: the operating company Cité Restauration is run by Bertrand Hospitality's concessions director, and Universcience names Bertrand Restauration as its catering concessionaire. Drop the record's 'auto' flag too, otherwise the card rebuilds the register's 'owner-managed' note.",
+  "src": "https://www.universcience.fr/fr/professionnels/location-despaces/nos-prestations-et-services"
+ },
+ {
+  "file": "exa_more.json",
+  "n": "So! Coffee",
+  "set": {
+   "o": "Lagardère Travel Retail (Lagardère group, controlled by Bolloré's Louis Hachette Group)"
+  },
+  "why": "Since 13 December 2024 Lagardère's controlling shareholder is Louis Hachette Group (66.53%), spun off from Vivendi, which now holds only a minority.",
+  "src": "https://www.lagardere.com/wp-content/uploads/2026/03/260331_urd_2025_lagardere_en.pdf"
+ },
+ {
+  "file": "exa_more.json",
+  "n": "Camélia (Mandarin Oriental Paris)",
+  "set": {
+   "o": "Gruppo Statuto (Italian hotel owner) since 2024; managed by Mandarin Oriental Hotel Group",
+   "y": "2024",
+   "note": "Restaurant of the Mandarin Oriental, Paris, led by chef Nina Haradji, with the Bar 8 cocktail bar next door. Mandarin Oriental sold the hotel for €205m in 2024 to Italy's Gruppo Statuto (also owner of the Mandarin Oriental, Milan) and keeps running it under a 50-year management contract."
+  },
+  "why": "Owner changed: Mandarin Oriental sold the hotel to Gruppo Statuto in 2024 and is now only the manager. Other hotel venues in the project name the owner and then the manager.",
+  "src": "https://www.jll.com/en-uk/newsroom/jll-advises-on-the-sale-of-mandarin-oriental-paris"
+ },
+ {
+  "file": "exa_more.json",
+  "n": "Akira Back (Prince de Galles)",
+  "set": {
+   "o": "Mussallam family (Saudi, MH Limited Partnership); managed by Marriott International (Luxury Collection)"
+  },
+  "why": "Marriott only runs the hotel. The Saudi Mussallam family owns the Prince de Galles (freehold bought 2008-09), in line with how other hotel venues name owner and manager.",
+  "src": "https://www.thecaterer.com/news/prince-de-galles-hotel-in-paris-sold-for-more-than-100m"
+ },
+ {
+  "file": "exa_more.json",
+  "n": "19.20 by Norbert Tarayre (Prince de Galles)",
+  "set": {
+   "o": "Mussallam family (Saudi, MH Limited Partnership); managed by Marriott International (Luxury Collection)"
+  },
+  "why": "Marriott only runs the hotel; the Saudi Mussallam family owns the Prince de Galles.",
+  "src": "https://www.thecaterer.com/news/prince-de-galles-hotel-in-paris-sold-for-more-than-100m"
+ },
+ {
+  "file": "exa_more.json",
+  "n": "Montecito (Kimpton St Honoré)",
+  "set": {
+   "o": "AXA IM Alts (owner, for its clients); managed by IHG Hotels & Resorts – Kimpton brand"
+  },
+  "why": "IHG is only the operator and brand; the building and hotel belong to AXA IM Alts, which redeveloped it.",
+  "src": "https://alts.axa-im.com/axa-im-alts-et-vinci-immobilier-achevent-un-redeveloppement-majeur-avec-la-livraison-de-lhotel"
+ },
+ {
+  "file": "exa_more.json",
+  "n": "Brasserie du Louvre – Bocuse",
+  "set": {
+   "o": "Constellation Hotels Holdings (Qatari-controlled); managed by Hyatt (The Unbound Collection)",
+   "y": "2013"
+  },
+  "why": "Hyatt only manages the Hôtel du Louvre; its owner since 2013 is Qatari-controlled Constellation Hotels, which also owns the Café de la Paix's hotel elsewhere in the data. Also check whether the Bocuse licence still applies: the current site brands it plain 'Brasserie du Louvre'.",
+  "src": "https://hr-infos.fr/reouverture-de-lhotel-du-louvre-sous-label-unbound-collection-by-hyatt-2/"
+ },
+ {
+  "file": "pe_vc_2.json",
+  "n": "Fresh Burritos",
+  "set": {
+   "note": "London-listed Tortilla Mexican Grill bought Fresh Burritos, France's largest fast-casual Mexican chain (13 owned sites, 19 franchised), for €3.95m in mid-2024. By its H1 FY26 results (September 2026) seven former Fresh Burritos sites traded as Tortilla, unconverted ones had closed and only one Fresh Burritos site remained."
+  },
+  "why": "The brand has nearly disappeared: Tortilla converted or closed the Fresh Burritos sites, leaving one. OSM-placed Paris branches are likely stale, so check them against current listings.",
+  "src": "https://tortillagroup.co.uk/wp-content/uploads/H1-FY26-RNS-Interim-Results.pdf"
+ },
+ {
+  "file": "auto_ind.json",
+  "n": "Café Joséphine",
+  "remove": true,
+  "why": "Duplicate of the Ranger Café group record in groups_big.json (same café, now filed under its group).",
+  "src": "https://www.rangercafe.fr/"
+ },
+ {
+  "file": "auto_ind.json",
+  "n": "La Gargamelle",
+  "remove": true,
+  "why": "Duplicate of the Ranger Café group record in groups_big.json (same café, now filed under its group).",
+  "src": "https://www.rangercafe.fr/"
+ },
+ {
+  "file": "auto_ind.json",
+  "n": "Café Mignon",
+  "remove": true,
+  "why": "Duplicate of the Ranger Café group record in groups_big.json (same café, now filed under its group).",
+  "src": "https://www.rangercafe.fr/"
+ },
+ {
+  "file": "auto_ind.json",
+  "n": "Parisii",
+  "remove": true,
+  "why": "Duplicate of the Ranger Café group record in groups_big.json (same café, now filed under its group).",
+  "src": "https://www.rangercafe.fr/"
+ },
+ {
+  "file": "auto_ind.json",
+  "n": "L'Étoile 1903",
+  "remove": true,
+  "why": "Duplicate of the Ranger Café group record in groups_big.json (same café, now filed under its group).",
+  "src": "https://www.rangercafe.fr/"
+ },
+ {
+  "file": "auto_ind.json",
+  "n": "Les Spectacles",
+  "remove": true,
+  "why": "Duplicate of the Ranger Café group record in groups_big.json (same café, now filed under its group).",
+  "src": "https://www.rangercafe.fr/"
+ },
+ {
+  "file": "auto_ind.json",
+  "n": "Le Bouillon",
+  "remove": true,
+  "why": "Duplicate of the Ranger Café group record in groups_big.json (same café, now filed under its group).",
+  "src": "https://www.rangercafe.fr/"
+ },
+ {
+  "file": "auto_ind.json",
+  "n": "Corner Haussmann",
+  "remove": true,
+  "why": "Duplicate of the Ranger Café group record in groups_big.json (same café, now filed under its group).",
+  "src": "https://www.rangercafe.fr/"
+ },
+ {
+  "file": "auto_ind.json",
+  "n": "Ma cocotte du faubourg",
+  "remove": true,
+  "why": "Duplicate of the Ranger Café group record in groups_big.json (same café, now filed under its group).",
+  "src": "https://www.rangercafe.fr/"
+ },
+ {
+  "file": "groups_classified.json",
+  "n": "FINANCIERE RUE AUBER",
+  "remove": true,
+  "why": "Duplicate of the Ranger Café group record in groups_big.json (same café, now filed under its group).",
+  "src": "https://www.rangercafe.fr/"
+ },
+ {
+  "file": "groups_classified.json",
+  "n": "SOCIETE AP",
+  "remove": true,
+  "why": "Duplicate of the Ranger Café group record in groups_big.json (same café, now filed under its group).",
+  "src": "https://www.rangercafe.fr/"
+ }
+]
