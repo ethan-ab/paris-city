@@ -236,9 +236,10 @@ function showCard(p){
   card.innerHTML = `<button class="x" aria-label="Close">×</button>
     <span class="tag"><i class="dot ${shapeCls(C)}"></i>${C.label}</span>
     <h2>${esc(p.n)}</h2><div class="area">${esc([p.cu, p.a].filter(Boolean).join(' · '))} ${priceHtml(p.pr)}</div>
-    <dl>${p.o ? `<dt>${p.c === 'ind' ? 'Owned by' : 'Backer'}</dt><dd>${esc(p.o)}</dd>` : ''}${p.y ? `<dt>Since</dt><dd>${esc(p.y)}</dd>` : ''}</dl>
+    <dl>${p.o ? `<dt>${p.c === 'ind' ? 'Owned by' : 'Backer'}</dt><dd>${esc(p.o)}</dd>` : ''}${p.y ? `<dt>${p.auto ? 'Company since' : 'Since'}</dt><dd>${esc(p.y)}</dd>` : ''}</dl>
     ${p.note ? `<p>${esc(p.note)}</p>` : ''}
     ${p.src ? `<a class="src" target="_blank" rel="noopener" href="${esc(p.src)}">Source: ${esc(host)} ↗</a>` : ''}
+    ${p.auto ? `<p class="auto">Matched automatically: OpenStreetMap listing + French business register. Spot an error? Use “Suggest a place”.</p>` : ''}
     ${alts.length ? `<div class="alts"><h3>Independent nearby</h3>${alts.map(a => `<button class="alt" data-i="${a.q.i}"><div><b>${esc(a.q.n)}</b><br><span>${esc(a.q.cu || '')}</span></div><i>${walk(a.m)}</i></button>`).join('')}</div>` : ''}`;
   card.querySelector('.x').onclick = () => select(null);
   card.querySelectorAll('.alt').forEach(b => b.onclick = () => select(+b.dataset.i, true));
