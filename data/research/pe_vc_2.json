@@ -40,19 +40,6 @@
  },
  {
   "type": "brand",
-  "n": "La Croissanterie",
-  "osm": "La Croissanterie",
-  "cu": "Viennoiseries & sandwiches",
-  "k": "Sandwiches & salads",
-  "pr": 1,
-  "c": "pe",
-  "o": "Groupe Delineo — Crédit Mutuel Equity (lead) & Gimv",
-  "y": "2016",
-  "note": "CM-CIC Investissement (now Crédit Mutuel Equity) replaced Pragma Capital as reference shareholder in a 2016 LBO; Gimv and Céréa joined in 2018 when the chain merged with Maison Pradier and Roberta to form what is now Groupe Delineo.",
-  "src": "https://www.creditmutuel-equity.eu/en/portfolio/delineo.html"
- },
- {
-  "type": "brand",
   "n": "Maison Pradier",
   "osm": "Maison Pradier",
   "cu": "Bakery & snacking",
@@ -96,19 +83,6 @@
  },
  {
   "type": "brand",
-  "n": "Le Chocolat Alain Ducasse",
-  "osm": "Le Chocolat Alain Ducasse",
-  "cu": "Chocolatier",
-  "k": "Bakery & pastry",
-  "pr": 3,
-  "c": "pe",
-  "o": "Alain Ducasse (Ducasse Paris); Mirabaud Patrimoine Vivant & Trévise Participations (minority)",
-  "y": "2020",
-  "note": "Part of Ducasse Paris, chef Alain Ducasse's group. Mirabaud Asset Management's private equity fund Mirabaud Patrimoine Vivant took a minority stake in September 2020, and family office Trévise Participations joined the capital in a deal closed at the end of 2024.",
-  "src": "https://www.cfnews.net/L-actualite/Capital-developpement/Operations/Augmentation-de-capital/Alain-Ducasse-cultive-son-excellence-avec-un-FO-514843"
- },
- {
-  "type": "brand",
   "n": "Rosa Bonheur",
   "osm": "Rosa Bonheur",
   "osm_values": [
@@ -126,32 +100,6 @@
   "y": "2020",
   "note": "The group behind the Rosa Bonheur guinguettes (Buttes-Chaumont, sur Seine, à l'Est) raised money in February 2020 from Jacques Veyrat's investment company Impala, with Bpifrance following.",
   "src": "https://www.cfnews.net/L-actualite/Capital-developpement/Operations/Augmentation-de-capital/Le-Rosa-Bonheur-vogue-avec-nouveaux-partenaires-321736"
- },
- {
-  "type": "brand",
-  "n": "Pierre Marcolini",
-  "osm": "Pierre Marcolini",
-  "cu": "Chocolatier",
-  "k": "Bakery & pastry",
-  "pr": 3,
-  "c": "pe",
-  "o": "VM2 Holdings (Godiva Asia, owned by MBK Partners)",
-  "y": "2023",
-  "note": "In April 2023 VM2 Holdings, the Japanese operator of Godiva in Asia owned by a South Korean private equity fund (MBK Partners), became reference shareholder of the Brussels chocolatier, as UK fund Neo Capital (in since 2013) exited.",
-  "src": "https://www.lalibre.be/economie/entreprises-startup/2023/04/18/le-chocolatier-marcolini-passe-dans-des-mains-sud-coreennes-Y3XHTEWCCJFDZBNMAFZIMO3LVE/"
- },
- {
-  "type": "brand",
-  "n": "Jeff de Bruges",
-  "osm": "Jeff de Bruges",
-  "cu": "Chocolatier",
-  "k": "Bakery & pastry",
-  "pr": 2,
-  "c": "pe",
-  "o": "Compagnie du Bois Sauvage (Paquot family investment holding)",
-  "y": "2026",
-  "note": "Belgian listed holding Compagnie du Bois Sauvage, which also owns Neuhaus, held about two-thirds of the chocolate chain and in March 2026 bought founder Philippe Jambon's remaining 34% to own 100%.",
-  "src": "https://www.lalibre.be/economie/entreprises-startup/2026/03/05/bois-sauvage-prend-le-controle-total-de-jeff-de-bruges-2EM62ULUWVDEJJEAMAFOZ245SE/"
  },
  {
   "type": "brand",
@@ -250,58 +198,6 @@
   "y": "2022",
   "note": "Ramen shop opened in 2020 within Ken Yoshikawa's Kintaro Group, with chef Makoto Saegusa. Socadif Capital Investissement and Bpifrance took minority stakes in the group in 2022.",
   "src": "https://pen-online.com/travel/opening-a-ramen-restaurant-in-paris-the-bold-move-of-two-japanese-innovators/"
- },
- {
-  "type": "venue",
-  "n": "Eataly Paris Marais",
-  "addr": "37 rue Sainte-Croix de la Bretonnerie, 75004 Paris",
-  "cu": "Italian food hall & restaurants",
-  "k": "Italian",
-  "pr": 2,
-  "c": "pe",
-  "o": "Investindustrial (52%)",
-  "y": "2022",
-  "note": "Investindustrial agreed in September 2022 to take 52% of Eataly with a €200m investment plus share purchases; the Farinetti family, the Miroglio/Baffigo family and Tamburi's Clubitaly kept the rest. The Paris Marais store opened in 2019.",
-  "src": "https://www.businesswire.com/news/home/20220920006309/en/Investindustrial-Invests-in-Eataly-a-Global-Italian-Heritage-Restaurant-and-Food-Retail-Group-to-Strengthen-International-Expansion"
- },
- {
-  "type": "venue",
-  "n": "Benoit",
-  "addr": "20 rue Saint-Martin, 75004 Paris",
-  "cu": "Classic bistro",
-  "k": "French bistro",
-  "pr": 4,
-  "c": "pe",
-  "o": "Alain Ducasse (Ducasse Paris); Mirabaud Patrimoine Vivant & Trévise Participations (minority)",
-  "y": "2020",
-  "note": "Historic 1912 bistro owned by Ducasse Paris since 2005. Mirabaud Asset Management's private equity fund Mirabaud Patrimoine Vivant took a minority stake in September 2020, and family office Trévise Participations joined the capital in a deal closed at the end of 2024.",
-  "src": "https://www.cfnews.net/L-actualite/Capital-developpement/Operations/Augmentation-de-capital/Alain-Ducasse-cultive-son-excellence-avec-un-FO-514843"
- },
- {
-  "type": "venue",
-  "n": "Allard",
-  "addr": "41 rue Saint-André des Arts, 75006 Paris",
-  "cu": "Classic bistro",
-  "k": "French bistro",
-  "pr": 3,
-  "c": "pe",
-  "o": "Alain Ducasse (Ducasse Paris); Mirabaud Patrimoine Vivant & Trévise Participations (minority)",
-  "y": "2020",
-  "note": "Saint-Germain bistro run by Ducasse Paris since 2013. Mirabaud Asset Management's private equity fund Mirabaud Patrimoine Vivant took a minority stake in September 2020, and family office Trévise Participations joined the capital in a deal closed at the end of 2024.",
-  "src": "https://www.cfnews.net/L-actualite/Capital-developpement/Operations/Augmentation-de-capital/Alain-Ducasse-cultive-son-excellence-avec-un-FO-514843"
- },
- {
-  "type": "venue",
-  "n": "Ducasse sur Seine",
-  "addr": "Port Debilly, 75016 Paris",
-  "cu": "Restaurant boat",
-  "k": "Fine dining",
-  "pr": 4,
-  "c": "pe",
-  "o": "Alain Ducasse (Ducasse Paris); Mirabaud Patrimoine Vivant & Trévise Participations (minority)",
-  "y": "2020",
-  "note": "Electric restaurant boat operated by Ducasse Paris. Mirabaud Asset Management's private equity fund Mirabaud Patrimoine Vivant took a minority stake in September 2020, and family office Trévise Participations joined the capital in a deal closed at the end of 2024.",
-  "src": "https://www.cfnews.net/L-actualite/Capital-developpement/Operations/Augmentation-de-capital/Alain-Ducasse-cultive-son-excellence-avec-un-FO-514843"
  },
  {
   "type": "venue",
@@ -431,19 +327,6 @@
   "o": "Butler Industries (Walter Butler) — Moma Group / Butler Collection",
   "y": "2025",
   "note": "Moma Group tapas bar in the former La Muette station, below the group's Andia restaurant. Walter Butler's Butler Industries took 35% of Moma Group in December 2023 and exclusive control (84.73%) in early 2025.",
-  "src": "https://www.autoritedelaconcurrence.fr/sites/default/files/integral_texts/2025-02/25-010-Publique%20d%C3%A9cision%2025DCC35.pdf"
- },
- {
-  "type": "venue",
-  "n": "Club 13",
-  "addr": "15 avenue Hoche, 75008 Paris",
-  "cu": "French restaurant & screening rooms",
-  "k": "French bistro",
-  "pr": 3,
-  "c": "pe",
-  "o": "Butler Industries (Walter Butler) — Moma Group / Butler Collection",
-  "y": "2025",
-  "note": "Restaurant with screening rooms in film director Claude Lelouch's Club 13 building, listed among Moma Group's venues. Walter Butler's Butler Industries took 35% of Moma Group in December 2023 and exclusive control (84.73%) in early 2025.",
   "src": "https://www.autoritedelaconcurrence.fr/sites/default/files/integral_texts/2025-02/25-010-Publique%20d%C3%A9cision%2025DCC35.pdf"
  },
  {
@@ -611,32 +494,6 @@
  },
  {
   "type": "brand",
-  "n": "Lina's",
-  "osm": "Lina's",
-  "cu": "Sandwiches",
-  "k": "Sandwiches & salads",
-  "pr": 2,
-  "c": "corp",
-  "o": "SPC Group (Paris Baguette owner, South Korea)",
-  "y": "2022",
-  "note": "South Korea's SPC Group bought the whole of Lina's Développement in June 2022 via SPC Euro; the Paris sandwich chain had been owned by Lebanese group Noura since 2013.",
-  "src": "https://www.koreatimes.co.kr/business/companies/20220607/spc-group-acquires-french-restaurant-chain-linas"
- },
- {
-  "type": "brand",
-  "n": "Paris Baguette",
-  "osm": "Paris Baguette",
-  "cu": "Bakery-café",
-  "k": "Bakery & pastry",
-  "pr": 1,
-  "c": "corp",
-  "o": "SPC Group (South Korea)",
-  "y": "2014",
-  "note": "Bakery-café chain owned by South Korea's SPC Group; it opened its first Paris shop near Châtelet in 2014.",
-  "src": "https://en.wikipedia.org/wiki/Paris_Baguette"
- },
- {
-  "type": "brand",
   "n": "Fresh Burritos",
   "osm": "Fresh Burritos",
   "cu": "Burritos",
@@ -647,68 +504,6 @@
   "y": "2024",
   "note": "London-listed Tortilla Mexican Grill bought Fresh Burritos, France's largest fast-casual Mexican chain (13 owned sites, 19 franchised), for €3.95m in mid-2024 and is converting stores to the Tortilla brand.",
   "src": "https://tortillagroup.co.uk/wp-content/uploads/Tortilla-acquires-Fresh-Burritos.pdf"
- },
- {
-  "type": "brand",
-  "n": "Ippudo",
-  "osm": "Ippudo",
-  "cu": "Ramen",
-  "k": "Japanese",
-  "pr": 2,
-  "c": "corp",
-  "o": "Chikaranomoto Holdings (Tokyo Stock Exchange)",
-  "y": "2016",
-  "note": "Japanese tonkotsu ramen chain run by the Tokyo-listed Chikaranomoto Holdings; it opened in Paris in 2016.",
-  "src": "https://en.wikipedia.org/wiki/Ippudo"
- },
- {
-  "type": "brand",
-  "n": "Häagen-Dazs",
-  "osm": "Häagen-Dazs",
-  "cu": "Ice cream",
-  "k": "Other",
-  "pr": 2,
-  "c": "corp",
-  "o": "General Mills (NYSE: GIS)",
-  "note": "General Mills owns the brand and runs the Häagen-Dazs business outside North America, including its ice-cream shops.",
-  "src": "https://en.wikipedia.org/wiki/H%C3%A4agen-Dazs"
- },
- {
-  "type": "brand",
-  "n": "Lindt",
-  "osm": "Lindt",
-  "cu": "Chocolatier",
-  "k": "Bakery & pastry",
-  "pr": 2,
-  "c": "corp",
-  "o": "Lindt & Sprüngli (SIX Swiss Exchange)",
-  "note": "Shops of the Swiss chocolate maker Chocoladefabriken Lindt & Sprüngli AG, listed in Zurich.",
-  "src": "https://en.wikipedia.org/wiki/Lindt"
- },
- {
-  "type": "brand",
-  "n": "La Maison du Chocolat",
-  "osm": "La Maison du Chocolat",
-  "cu": "Chocolatier",
-  "k": "Bakery & pastry",
-  "pr": 3,
-  "c": "corp",
-  "o": "Savencia Fromage & Dairy (Euronext-listed)",
-  "note": "Founded in Paris in 1977 by Robert Linxe; now a subsidiary of the listed French dairy group Savencia through Savencia Saveurs & Spécialités.",
-  "src": "https://en.wikipedia.org/wiki/La_Maison_du_Chocolat"
- },
- {
-  "type": "brand",
-  "n": "De Neuville",
-  "osm": "De Neuville",
-  "cu": "Chocolatier",
-  "k": "Bakery & pastry",
-  "pr": 1,
-  "c": "corp",
-  "o": "Savencia Fromage & Dairy (Euronext-listed)",
-  "y": "1996",
-  "note": "Franchise chocolate chain (about 150 shops in France, mostly franchised) owned by dairy group Savencia, formerly Bongrain, which bought it from Nestlé in 1996.",
-  "src": "https://www.franchise-magazine.com/news-franchise/gilles-gommendy-directeur-general-2"
  },
  {
   "type": "brand",
@@ -738,6 +533,115 @@
   "c": "corp",
   "o": "Lov & Bread (Stéphane Courbit's LOV / FLL group)",
   "note": "The bakery brand created by Benoît Castel in 2013 is listed among the brands of Lov & Bread, the food arm of Stéphane Courbit's group that also owns Ladurée; the acquisition date was not disclosed.",
+  "src": "https://lexpress-franchise.com/actualites/un-nouvel-actionnaire-au-capital-des-boulangeries-ange/"
+ },
+ {
+  "type": "venue",
+  "n": "Arc",
+  "addr": "12 rue de Presbourg, 75016 Paris",
+  "cu": "Club & restaurant",
+  "k": "Wine & cocktail bar",
+  "pr": 4,
+  "c": "pe",
+  "o": "Butler Industries (Walter Butler) — Moma Group / Butler Collection",
+  "y": "2025",
+  "note": "Club and restaurant facing the Arc de Triomphe, listed by Butler Collection (ex-Moma Group). Walter Butler's investment holding Butler Industries took 35% of Moma Group in December 2023 and exclusive control (84.73%) in early 2025; the venues now trade as Butler Collection.",
+  "src": "https://butler-collection.fr/venue-categories/hospitalite"
+ },
+ {
+  "type": "venue",
+  "n": "Alcazar",
+  "addr": "62 rue Mazarine, 75006 Paris",
+  "cu": "Restaurant & cabaret",
+  "k": "Brasserie",
+  "pr": 3,
+  "c": "pe",
+  "o": "Butler Industries (Walter Butler) — Moma Group / Butler Collection",
+  "y": "2025",
+  "note": "Saint-Germain restaurant-cabaret revived by Butler Collection's 'scènes' division. Walter Butler's investment holding Butler Industries took 35% of Moma Group in December 2023 and exclusive control (84.73%) in early 2025; the venues now trade as Butler Collection.",
+  "src": "https://butler-collection.fr/venue-categories/scenes"
+ },
+ {
+  "type": "venue",
+  "n": "Paradis Latin",
+  "addr": "28 rue du Cardinal Lemoine, 75005 Paris",
+  "cu": "Dinner-show cabaret",
+  "k": "Other",
+  "pr": 4,
+  "c": "pe",
+  "o": "Butler Industries (Walter Butler) — Moma Group / Butler Collection",
+  "y": "2025",
+  "note": "Historic cabaret serving dinner shows, part of Butler Collection's 'scènes' division. Walter Butler's investment holding Butler Industries took 35% of Moma Group in December 2023 and exclusive control (84.73%) in early 2025; the venues now trade as Butler Collection.",
+  "src": "https://butler-collection.fr/venue-categories/scenes"
+ },
+ {
+  "type": "brand",
+  "n": "Roberta Caffè",
+  "osm": "Roberta Caffè",
+  "osm_alt": [
+   "Roberta"
+  ],
+  "cu": "Italian café & snacks",
+  "k": "Coffee",
+  "pr": 1,
+  "c": "pe",
+  "o": "Groupe Delineo — Crédit Mutuel Equity (lead) & Gimv",
+  "y": "2018",
+  "note": "Italian café brand, mostly in railway stations, acquired with Maison Pradier by La Croissanterie in December 2018 (Groupe Rush deal backed by CM-CIC Investissement, Gimv and Céréa); it is one of Groupe Delineo's three brands.",
+  "src": "https://www.oaklins.com/nl/nl/deals/104832/"
+ },
+ {
+  "type": "brand",
+  "n": "Tonton Ramen",
+  "osm": "Tonton Ramen",
+  "cu": "Ramen",
+  "k": "Japanese",
+  "pr": 1,
+  "c": "pe",
+  "o": "Kintaro Group (Ken Yoshikawa); Socadif & Bpifrance (minority)",
+  "y": "2024",
+  "note": "Tonkotsu ramen shop opened in 2024 by chef Makoto Saegusa, who works with Ken Yoshikawa's Kintaro Group (Socadif and Bpifrance minority since 2022), next to Toritori.",
+  "src": "https://pen-online.com/travel/opening-a-ramen-restaurant-in-paris-the-bold-move-of-two-japanese-innovators/"
+ },
+ {
+  "type": "brand",
+  "n": "Toritori Ramen",
+  "osm": "Toritori Ramen",
+  "cu": "Ramen",
+  "k": "Japanese",
+  "pr": 1,
+  "c": "pe",
+  "o": "Kintaro Group (Ken Yoshikawa); Socadif & Bpifrance (minority)",
+  "y": "2025",
+  "note": "Chicken paitan ramen shop opened in 2025 by chef Makoto Saegusa, who works with Ken Yoshikawa's Kintaro Group (Socadif and Bpifrance minority since 2022).",
+  "src": "https://pen-online.com/travel/opening-a-ramen-restaurant-in-paris-the-bold-move-of-two-japanese-innovators/"
+ },
+ {
+  "type": "brand",
+  "n": "Tortilla",
+  "osm": "Tortilla",
+  "cu": "Burritos",
+  "k": "Mexican & Latin",
+  "pr": 1,
+  "c": "corp",
+  "o": "Tortilla Mexican Grill plc (LSE AIM-listed; Quilvest a major shareholder)",
+  "y": "2024",
+  "note": "UK burrito chain listed in London; it entered France in 2024 by buying Fresh Burritos and is converting those restaurants to the Tortilla brand.",
+  "src": "https://tortillagroup.co.uk/wp-content/uploads/Tortilla-acquires-Fresh-Burritos.pdf"
+ },
+ {
+  "type": "brand",
+  "n": "Louis Fouquet",
+  "osm": "Louis Fouquet",
+  "osm_alt": [
+   "Fouquet Chocolat"
+  ],
+  "cu": "Chocolatier & confectioner",
+  "k": "Bakery & pastry",
+  "pr": 3,
+  "c": "corp",
+  "o": "Lov & Bread (Stéphane Courbit's LOV / FLL group)",
+  "note": "Paris chocolatier and confectioner founded in 1852; listed as Maison Fouquet among the brands of Lov & Bread, the food arm of Stéphane Courbit's group, which already owned it before buying Ladurée in 2021.",
   "src": "https://lexpress-franchise.com/actualites/un-nouvel-actionnaire-au-capital-des-boulangeries-ange/"
  }
 ]
