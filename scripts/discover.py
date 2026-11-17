@@ -237,6 +237,12 @@ def judge(osm, res, reg):
     return None
 
 
+# Franchise/multi-site chains seen in Paris whose branches are registered as separate small companies.
+CHAIN_PREFIXES = ['matsuri', 'indiana', 'land and monkeys', 'five pizza', 'o five pizza', 'french coffee shop', 'coffee shop company', 'pizza time',
+                  'speed rabbit', 'bagelstein', 'pomme de pain', 'la mie caline', 'bistro regent', 'pizza cosy', 'tutti pizza', 'allo pizza',
+                  'sushi gourmet', 'eat sushi', 'yoomi', 'tacos avenue', 'king marcel', 'firmin', 'pizza pai', 'courtepaille', 'la pataterie',
+                  'leon de bruxelles', 'poivre rouge', 'crescendo', 'les 3 brasseurs', 'chamas tacos', 'new york tacos', 'pizza bonici',
+                  'cosmo pizza', 'eric kayser', 'maison kayser', 'boulangerie ange', 'feuillette']
 KIND_BY_TAG = {'shop:bakery': 'Bakery & pastry', 'shop:pastry': 'Bakery & pastry', 'shop:chocolate': 'Bakery & pastry',
                'amenity:cafe': 'Café', 'amenity:bar': 'Wine & cocktail bar', 'amenity:pub': 'Wine & cocktail bar',
                'amenity:ice_cream': 'Other'}
@@ -294,11 +300,24 @@ def main():
     for p in places.values():
         freq[fold(p['name'])] = freq.get(fold(p['name']), 0) + 1
 
+    multi = {c for c in covered if len(c.split()) >= 2 and len(c) >= 8}
+    GENERIC = {'brasserie', 'restaurant', 'cafe', 'le', 'la', 'l', 'les', 'bar', 'chez', 'au', 'aux'}
+
+    def chain_like(fn):
+        """Branches of chains/groups that OSM didn't tag as a brand (e.g. 'Brasserie Bofinger', 'Matsuri Marbeuf')."""
+        toks = ' ' + fn + ' '
+        if any(' ' + c + ' ' in toks for c in multi):
+            return True
+        rest = [w for w in fn.split() if w not in GENERIC]
+        if rest and ' '.join(rest) in covered:
+            return True
+        return any(fn == c or fn.startswith(c + ' ') for c in CHAIN_PREFIXES)
+
     cands = []
     for k, p in places.items():
         t = tags.get(k, {})
         fn = fold(p['name'])
-        if t.get('brand') or t.get('brand:wikidata') or freq[fn] >= 3 or fn in covered or len(fn) < 3:
+        if t.get('brand') or t.get('brand:wikidata') or freq[fn] >= 3 or fn in covered or len(fn) < 3 or chain_like(fn):
             continue
         if t.get('disused:amenity') or t.get('was:amenity') or 'vacant' in fn:
             continue
