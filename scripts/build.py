@@ -255,6 +255,33 @@ def main():
     with open(os.path.join(ROOT, 'src', 'app.js')) as f, open(os.path.join(ROOT, 'public', 'app.js'), 'w') as g:
         g.write(f.read())
     print('wrote public/index.html', len(html) // 1024, 'KB')
+    if '--artifact' in sys.argv:
+        build_artifact(html)
+
+
+def build_artifact(html):
+    """Self-contained single page for a claude.ai Artifact: no runtime fetches besides the MapLibre script and Google Fonts."""
+    with open(os.path.join(ROOT, 'data', 'basemap.json')) as f:
+        basemap = f.read()
+    css_path = os.path.join(CACHE, 'maplibre-gl-4.7.1.css')
+    if not os.path.exists(css_path):
+        with urllib.request.urlopen('https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css') as r, open(css_path, 'wb') as f:
+            f.write(r.read())
+    with open(css_path) as f:
+        mlcss = f.read()
+    with open(os.path.join(ROOT, 'src', 'app.js')) as f:
+        app = f.read()
+    h = re.sub(r'<!doctype html>\s*<html[^>]*>\s*<head>', '', html, flags=re.I)
+    h = h.replace('</head>\n<body>', '').replace('</body>\n</html>', '')
+    h = re.sub(r'<link rel="preconnect" href="https://tiles.openfreemap.org"[^>]*>\n', '', h)
+    h = h.replace('<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">', '<style>' + mlcss + '</style>')
+    h = re.sub(r'<meta name="viewport"[^>]*>\n', '', h)
+    h = h.replace('<script src="app.js"></script>', '<script>window.BASEMAP=' + basemap + ';</script>\n<script>' + app.replace('</script', '<\\/script') + '</script>')
+    os.makedirs(os.path.join(ROOT, 'artifact'), exist_ok=True)
+    out = os.path.join(ROOT, 'artifact', 'paris-food-money-matrix.html')
+    with open(out, 'w') as f:
+        f.write(h)
+    print('wrote', out, len(h) // 1024, 'KB')
 
 
 if __name__ == '__main__':

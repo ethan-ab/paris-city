@@ -141,7 +141,28 @@ map.once('idle', () => { const a = document.querySelector('.maplibregl-ctrl-attr
 let ready = false;
 const fc = () => ({type:'FeatureCollection', features:PLACES.map(p => ({type:'Feature', id:p.i,
   geometry:{type:'Point', coordinates:[p.ll[1], p.ll[0]]}, properties:{i:p.i, c:p.c, o:3-ORDER[p.c], v:visible(p)?1:0}}))});
-fetch('https://tiles.openfreemap.org/styles/positron').then(r => r.json()).then(st => {
+/* Offline basemap (self-contained build): water, parks and main roads baked in by scripts/basemap.py */
+function offlineStyle(B){
+  const src = k => ({type:'geojson', data:B[k]});
+  /* road width by class, interpolated on zoom (zoom must be the outer expression) */
+  const byClass = (mw, pr, se, other) => ['interpolate',['exponential',1.6],['zoom'],
+    10,['match',['get','r'],['motorway','trunk'],mw[0],'primary',pr[0],'secondary',se[0],other[0]],
+    16,['match',['get','r'],['motorway','trunk'],mw[1],'primary',pr[1],'secondary',se[1],other[1]]];
+  const w = (a, b) => ['interpolate',['exponential',1.6],['zoom'],10,a,16,b];
+  return {version:8, sources:{water:src('water'), park:src('park'), wood:src('wood'), road:src('road'), rail:src('rail')}, layers:[
+    {id:'background', type:'background', paint:{'background-color':PAL.land}},
+    {id:'wood', type:'fill', source:'wood', paint:{'fill-color':PAL.wood, 'fill-opacity':.8}},
+    {id:'park', type:'fill', source:'park', paint:{'fill-color':PAL.park}},
+    {id:'water', type:'fill', source:'water', paint:{'fill-color':PAL.water}},
+    {id:'rail', type:'line', source:'rail', paint:{'line-color':PAL.rail, 'line-width':w(.4,1.6)}},
+    {id:'road-casing', type:'line', source:'road', layout:{'line-cap':'round','line-join':'round'},
+      paint:{'line-color':PAL.casing, 'line-width':byClass([2.4,16],[2,14],[1.5,12],[.8,9])}},
+    {id:'road', type:'line', source:'road', layout:{'line-cap':'round','line-join':'round'},
+      paint:{'line-color':PAL.road, 'line-width':byClass([1.6,13],[1.3,11],[1,9],[.4,6.5])}},
+  ]};
+}
+const styleReady = window.BASEMAP ? Promise.resolve(null) : fetch('https://tiles.openfreemap.org/styles/positron').then(r => r.json());
+styleReady.then(st => {
   map.once('style.load', () => { if (ready) return;
     ['pe','vc','corp','ind'].forEach(k => map.addImage('pin-'+k, icon(k), {pixelRatio:2}));
     map.addSource('places', {type:'geojson', data:fc()});
@@ -158,7 +179,7 @@ fetch('https://tiles.openfreemap.org/styles/positron').then(r => r.json()).then(
     const h = decodeURIComponent(location.hash.slice(1)); const hp = h && PLACES.find(p => slug(p.n) === h);
     if (hp) select(hp.i, true); else if (selected !== null) select(selected, false, true);
   });
-  map.setStyle(paper(st), {diff:false});
+  map.setStyle(st ? paper(st) : offlineStyle(window.BASEMAP), {diff:false});
 }).catch(() => { $('map').insertAdjacentHTML('beforeend', '<p style="position:absolute;inset:auto 16px 16px;font:13px var(--sans);color:var(--graphite)">Map tiles didn\'t load. The list still works.</p>'); });
 
 /* monuments as markers, scaled with zoom */
@@ -310,8 +331,8 @@ $('sgClose').onclick = closeSuggest;
 modal.addEventListener('click', e => { if (e.target === modal) closeSuggest(); });
 addEventListener('keydown', e => { if (e.key !== 'Escape') return; if (!modal.hidden) closeSuggest(); else select(null); });
 $('emptySuggest').onclick = e => { e.preventDefault(); openSuggest($('q').value.trim()); };
-function thanks(name, viaIssue){
-  $('sgBody').innerHTML = `<div class="done"><b>Merci</b><p class="sub">${viaIssue ? 'Your suggestion opened in a new tab. Submit it there and' : 'We\'ll check who owns ' + esc(name) + ' and'} we'll add it to the map if it holds up.</p><button class="go" type="button" id="sgAgain">Suggest another</button></div>`;
+function thanks(name){
+  $('sgBody').innerHTML = `<div class="done"><b>Merci</b><p class="sub">We'll check who owns ${esc(name)} and add it to the map if it holds up.</p><button class="go" type="button" id="sgAgain">Suggest another</button></div>`;
   $('sgAgain').onclick = () => openSuggest('');
 }
 sgForm.addEventListener('submit', async e => {
@@ -324,8 +345,9 @@ sgForm.addEventListener('submit', async e => {
   if (row.source_url && !/^https?:\/\//i.test(row.source_url)) { msg.className = 'msg err'; msg.textContent = 'Source link should start with https://'; return; }
   if (!SUGGEST.url) {
     const body = Object.entries(row).map(([k, v]) => `**${k.replace('_', ' ')}**: ${v}`).join('\n\n');
-    open(`${SUGGEST.issues}?labels=suggestion&title=${encodeURIComponent('Suggest: ' + row.name)}&body=${encodeURIComponent(body)}`, '_blank', 'noopener');
-    thanks(row.name, true); return;
+    const href = `${SUGGEST.issues}?labels=suggestion&title=${encodeURIComponent('Suggest: ' + row.name)}&body=${encodeURIComponent(body)}`;
+    $('sgBody').innerHTML = `<div class="done"><b>Almost there</b><p class="sub">Suggestions are reviewed on GitHub. Open the pre-filled form and press Submit, and we'll fact-check ${esc(row.name)}.</p><a class="go" style="display:block;text-decoration:none" target="_blank" rel="noopener" href="${esc(href)}">Open the pre-filled suggestion ↗</a></div>`;
+    return;
   }
   go.disabled = true; msg.className = 'msg'; msg.textContent = 'Sending…';
   try {
@@ -333,7 +355,7 @@ sgForm.addEventListener('submit', async e => {
       headers:{'apikey':SUGGEST.key, 'Authorization':'Bearer ' + SUGGEST.key, 'Content-Type':'application/json', 'Prefer':'return=minimal'},
       body:JSON.stringify(row)});
     if (!r.ok) throw new Error(r.status);
-    thanks(row.name, false);
+    thanks(row.name);
   } catch { go.disabled = false; msg.className = 'msg err'; msg.textContent = "Couldn't send that. Try again in a moment."; }
 });
 
