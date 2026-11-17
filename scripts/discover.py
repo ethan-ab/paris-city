@@ -190,10 +190,6 @@ def holding_info(siren, reg):
     return info
 
 
-def person(d):
-    return ' '.join(x for x in ((d.get('prenoms') or '').split(' ')[0].title(), (d.get('nom') or '').title()) if x)
-
-
 def judge(osm, res, reg):
     """Return (owner, note) when the register shows an owner-managed company, else None."""
     sites = res.get('nombre_etablissements_ouverts') or 0
@@ -203,14 +199,15 @@ def judge(osm, res, reg):
     if not dirs:
         return None
     lead = [d for d in dirs if re.search(r'pr[ée]sident|g[ée]rant', d.get('qualite') or '', re.I) and 'directeur' not in (d.get('qualite') or '').lower()] or dirs
-    legal = (res.get('nom_raison_sociale') or res.get('nom_complet') or '').title()
     siren = res['siren']
     site_txt = 'its only site' if sites <= 1 else f'one of its {sites} sites'
+    if not res.get('nom_raison_sociale'):  # sole trader (entreprise individuelle): the legal name is a person's name
+        return 'Sole trader', (f"Run by a sole trader (entreprise individuelle, SIREN {siren}), the most independent form a "
+                               f"French business can take; no group or investor is involved, and this is {site_txt}.")
+    legal = res['nom_raison_sociale'].title()
     if all(d.get('type_dirigeant') == 'personne physique' for d in lead):
-        names = [person(d) for d in lead[:2]]
-        owner = ' & '.join(names)
-        return owner, (f"Run by {legal} (SIREN {siren}), an owner-managed company led by {owner}; "
-                       f"the business register lists no group or investor at the helm, and this is {site_txt}.")
+        return legal, (f"Run by {legal} (SIREN {siren}), an owner-managed company: the business register lists private "
+                       f"individuals as its managers, with no group or investor at the helm, and this is {site_txt}.")
     if len(lead) == 1 and lead[0].get('type_dirigeant') == 'personne morale' and lead[0].get('siren'):
         h = holding_info(lead[0]['siren'], reg)
         if not h or h['sites'] > 3 or not str(h.get('naf') or '').startswith(('64.2', '70.10', '56.', '68.2')):
@@ -218,10 +215,9 @@ def judge(osm, res, reg):
         hd = [d for d in h['dirs'] if 'commissaire' not in (d.get('qualite') or '').lower()]
         if not hd or not all(d.get('type_dirigeant') == 'personne physique' for d in hd):
             return None
-        owner = ' & '.join(person(d) for d in hd[:2])
         hn = (h['name'] or '').title()
-        return f'{owner} (via {hn})', (f"Run by {legal} (SIREN {siren}), whose president is the small holding {hn}, itself led by "
-                                       f"{owner}; no group or investor appears in the business register, and this is {site_txt}.")
+        return f'{legal} (via {hn})', (f"Run by {legal} (SIREN {siren}), whose president is the small holding {hn}, itself managed by "
+                                       f"private individuals; no group or investor appears in the business register, and this is {site_txt}.")
     return None
 
 
@@ -331,11 +327,12 @@ def main():
                 print(f'  {i}/{len(todo)} looked up ({time.time() - t0:.0f}s)')
     save('register', reg)
 
-    out = []
+    out, seen_siret = [], set()
     for k, p in cands:
         hit = (reg['q'].get(k) or [None])[0]
-        if not hit:
+        if not hit or hit['siret'] in seen_siret:  # one pin per registered establishment
             continue
+        seen_siret.add(hit['siret'])
         j = judge(p, hit['res'], reg)
         if not j:
             continue
