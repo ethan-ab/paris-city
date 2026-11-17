@@ -119,6 +119,91 @@
 ]
 },
 {
+"n": "BAM Karaoke Box · 30 Rue Richer",
+"cu": "Private karaoke rooms with bar",
+"k": "Wine & cocktail bar",
+"pr": 2,
+"c": "pe",
+"o": "Founder Arnaud Studer; Experienced Capital (36% minority)",
+"y": "2018",
+"note": "Paris karaoke-bar chain founded in 2014, with private rooms and a cocktail bar. In March 2018 the premium-brands growth fund Experienced Capital took 36% to fund new sites. Experienced Capital still lists the stake, but marks it as one it is letting go; no sale has been announced.",
+"src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/bam-karaoke-box-hausse-la-voix-avec-experienced-capital-125817",
+"a": "30 Rue Richer",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87412,
+2.34516
+]
+},
+{
+"n": "BAM Karaoke Box · 40 avenue de la République",
+"cu": "Private karaoke rooms with bar",
+"k": "Wine & cocktail bar",
+"pr": 2,
+"c": "pe",
+"o": "Founder Arnaud Studer; Experienced Capital (36% minority)",
+"y": "2018",
+"note": "Paris karaoke-bar chain founded in 2014, with private rooms and a cocktail bar. In March 2018 the premium-brands growth fund Experienced Capital took 36% to fund new sites. Experienced Capital still lists the stake, but marks it as one it is letting go; no sale has been announced.",
+"src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/bam-karaoke-box-hausse-la-voix-avec-experienced-capital-125817",
+"a": "40 avenue de la République",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.86535,
+2.37316
+]
+},
+{
+"n": "BAM Karaoke Box · 50 rue d'Aboukir",
+"cu": "Private karaoke rooms with bar",
+"k": "Wine & cocktail bar",
+"pr": 2,
+"c": "pe",
+"o": "Founder Arnaud Studer; Experienced Capital (36% minority)",
+"y": "2018",
+"note": "Paris karaoke-bar chain founded in 2014, with private rooms and a cocktail bar. In March 2018 the premium-brands growth fund Experienced Capital took 36% to fund new sites. Experienced Capital still lists the stake, but marks it as one it is letting go; no sale has been announced.",
+"src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/bam-karaoke-box-hausse-la-voix-avec-experienced-capital-125817",
+"a": "50 rue d'Aboukir",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86726,
+2.34555
+]
+},
+{
+"n": "BAM Karaoke Box · 69 Avenue de Wagram",
+"cu": "Private karaoke rooms with bar",
+"k": "Wine & cocktail bar",
+"pr": 2,
+"c": "pe",
+"o": "Founder Arnaud Studer; Experienced Capital (36% minority)",
+"y": "2018",
+"note": "Paris karaoke-bar chain founded in 2014, with private rooms and a cocktail bar. In March 2018 the premium-brands growth fund Experienced Capital took 36% to fund new sites. Experienced Capital still lists the stake, but marks it as one it is letting go; no sale has been announced.",
+"src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/bam-karaoke-box-hausse-la-voix-avec-experienced-capital-125817",
+"a": "69 Avenue de Wagram",
+"area": "17e · Batignolles",
+"ll": [
+48.87901,
+2.2986
+]
+},
+{
+"n": "BAM Karaoke Box · 9 Rue de Caumartin",
+"cu": "Private karaoke rooms with bar",
+"k": "Wine & cocktail bar",
+"pr": 2,
+"c": "pe",
+"o": "Founder Arnaud Studer; Experienced Capital (36% minority)",
+"y": "2018",
+"note": "Paris karaoke-bar chain founded in 2014, with private rooms and a cocktail bar. In March 2018 the premium-brands growth fund Experienced Capital took 36% to fund new sites. Experienced Capital still lists the stake, but marks it as one it is letting go; no sale has been announced.",
+"src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/bam-karaoke-box-hausse-la-voix-avec-experienced-capital-125817",
+"a": "9 Rue de Caumartin",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87055,
+2.32812
+]
+},
+{
 "n": "BREIZH Café - Batignolles",
 "cu": "Crêpes",
 "k": "Crêperie",
@@ -816,6 +901,23 @@
 ]
 },
 {
+"n": "Brique Machine (Brique House)",
+"cu": "Brewery taproom & street-food buffet",
+"k": "Wine & cocktail bar",
+"pr": 2,
+"c": "pe",
+"o": "Founders Baptiste Dufossez & Joseph Timmermans; Turenne Groupe, Nord Capital Partenaires and Bpifrance (minority)",
+"y": "2021",
+"note": "Paris outpost of Lille's Brique House brewery-and-taproom concept, a 1,000 m² beer hall near Grands Boulevards (also branded Refill Club). In July 2021 the group raised almost €4m led by Turenne Groupe and Nord Capital Partenaires, with Bpifrance, to brew more beer and open new taprooms.",
+"src": "https://www.septentrion-finance.fr/en/news/brique-house-le-concept-food-drink-lillois-dope-sa-croissance-avec-une-levee-de-fonds-de-pres-de-4-meur",
+"a": "161 Rue Montmartre",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.87094,
+2.34274
+]
+},
+{
 "n": "Burger King · 2 Rue Pierre Lescot",
 "cu": "Burgers",
 "k": "Burgers & chicken",
@@ -1389,6 +1491,74 @@
 "ll": [
 48.85816,
 2.27232
+]
+},
+{
+"n": "Chapon · 56 Rue Tiquetonne",
+"cu": "Bean-to-bar chocolatier",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "pe",
+"o": "FrenchFood Capital (majority); Cédric Taravella (operating partner); founder Patrice Chapon",
+"y": "2022",
+"note": "Bean-to-bar chocolate house founded by Patrice Chapon. Food-sector private equity fund FrenchFood Capital took control in September 2022 with Cédric Taravella as operating partner, to expand the network of boutiques in Paris and the Paris region (about 19 in Île-de-France by 2026).",
+"src": "https://frenchfoodcapital.com/nouvelle-pepite-de-frenchfood-capital-chapon-accelere-son-developpement/",
+"a": "56 Rue Tiquetonne",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86484,
+2.34645
+]
+},
+{
+"n": "Chapon · Rue Clavel",
+"cu": "Bean-to-bar chocolatier",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "pe",
+"o": "FrenchFood Capital (majority); Cédric Taravella (operating partner); founder Patrice Chapon",
+"y": "2022",
+"note": "Bean-to-bar chocolate house founded by Patrice Chapon. Food-sector private equity fund FrenchFood Capital took control in September 2022 with Cédric Taravella as operating partner, to expand the network of boutiques in Paris and the Paris region (about 19 in Île-de-France by 2026).",
+"src": "https://frenchfoodcapital.com/nouvelle-pepite-de-frenchfood-capital-chapon-accelere-son-developpement/",
+"a": "Rue Clavel",
+"area": "19e · Buttes-Chaumont",
+"ll": [
+48.8742,
+2.38567
+]
+},
+{
+"n": "Chapon · Rue Saint-Sulpice",
+"cu": "Bean-to-bar chocolatier",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "pe",
+"o": "FrenchFood Capital (majority); Cédric Taravella (operating partner); founder Patrice Chapon",
+"y": "2022",
+"note": "Bean-to-bar chocolate house founded by Patrice Chapon. Food-sector private equity fund FrenchFood Capital took control in September 2022 with Cédric Taravella as operating partner, to expand the network of boutiques in Paris and the Paris region (about 19 in Île-de-France by 2026).",
+"src": "https://frenchfoodcapital.com/nouvelle-pepite-de-frenchfood-capital-chapon-accelere-son-developpement/",
+"a": "Rue Saint-Sulpice",
+"area": "6e · Saint-Germain",
+"ll": [
+48.8514,
+2.33513
+]
+},
+{
+"n": "Chapon · Rue des Batignolles",
+"cu": "Bean-to-bar chocolatier",
+"k": "Bakery & pastry",
+"pr": 3,
+"c": "pe",
+"o": "FrenchFood Capital (majority); Cédric Taravella (operating partner); founder Patrice Chapon",
+"y": "2022",
+"note": "Bean-to-bar chocolate house founded by Patrice Chapon. Food-sector private equity fund FrenchFood Capital took control in September 2022 with Cédric Taravella as operating partner, to expand the network of boutiques in Paris and the Paris region (about 19 in Île-de-France by 2026).",
+"src": "https://frenchfoodcapital.com/nouvelle-pepite-de-frenchfood-capital-chapon-accelere-son-developpement/",
+"a": "Rue des Batignolles",
+"area": "17e · Batignolles",
+"ll": [
+48.8859,
+2.31919
 ]
 },
 {
@@ -2802,6 +2972,40 @@
 ]
 },
 {
+"n": "François Pralus · 35 Rue Rambuteau",
+"cu": "Chocolatier & Praluline brioche",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "pe",
+"o": "Pralus family (80%); Altis Capital, BNP Paribas Développement, Fonds Souverain Auvergne-Rhône-Alpes (Siparex Territoires) and Carvest (20%)",
+"y": "2025",
+"note": "Roanne pâtisserie-chocolaterie founded in 1948, maker of the Praluline brioche, with 23 shops including several in Paris. In May 2025, as François Pralus began handing over to his son Hugo, the family sold 20% to four regional investors led by Altis Capital, and plans to double its shop network.",
+"src": "https://altis-capital.fr/2025/05/28/communique-de-presse-2/",
+"a": "35 Rue Rambuteau",
+"area": "4e · Marais & the islands",
+"ll": [
+48.861,
+2.35384
+]
+},
+{
+"n": "François Pralus · 9 Rue des Petits Carreaux",
+"cu": "Chocolatier & Praluline brioche",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "pe",
+"o": "Pralus family (80%); Altis Capital, BNP Paribas Développement, Fonds Souverain Auvergne-Rhône-Alpes (Siparex Territoires) and Carvest (20%)",
+"y": "2025",
+"note": "Roanne pâtisserie-chocolaterie founded in 1948, maker of the Praluline brioche, with 23 shops including several in Paris. In May 2025, as François Pralus began handing over to his son Hugo, the family sold 20% to four regional investors led by Altis Capital, and plans to double its shop network.",
+"src": "https://altis-capital.fr/2025/05/28/communique-de-presse-2/",
+"a": "9 Rue des Petits Carreaux",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86678,
+2.3471
+]
+},
+{
 "n": "Frenchie Pigalle (Grand Pigalle Experimental)",
 "cu": "Modern bistro",
 "k": "French bistro",
@@ -2904,6 +3108,108 @@
 ]
 },
 {
+"n": "Gallika · 10 Rue Saint-Marc",
+"cu": "Greek street food (gyros, pita)",
+"k": "Middle Eastern",
+"pr": 1,
+"c": "pe",
+"o": "Founders Julien Gantheret & Jean-Philippe Selle; Inter Invest Capital and FoodXpert (minority)",
+"y": "2021",
+"note": "Greek street-food chain created in Paris in 2015. In 2021 it opened its capital to the growth fund Inter Invest Capital alongside the restaurant-investment platform FoodXpert to quadruple its number of sites; the founders kept control.",
+"src": "https://www.snacking.fr/actualites/5696-Gallika-voit-plus-grand-aux-cotes-de-FoodXpert-et-Inter-Invest-Capital/",
+"a": "10 Rue Saint-Marc",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.87044,
+2.3414
+]
+},
+{
+"n": "Gallika · 37 Rue de Châteaudun",
+"cu": "Greek street food (gyros, pita)",
+"k": "Middle Eastern",
+"pr": 1,
+"c": "pe",
+"o": "Founders Julien Gantheret & Jean-Philippe Selle; Inter Invest Capital and FoodXpert (minority)",
+"y": "2021",
+"note": "Greek street-food chain created in Paris in 2015. In 2021 it opened its capital to the growth fund Inter Invest Capital alongside the restaurant-investment platform FoodXpert to quadruple its number of sites; the founders kept control.",
+"src": "https://www.snacking.fr/actualites/5696-Gallika-voit-plus-grand-aux-cotes-de-FoodXpert-et-Inter-Invest-Capital/",
+"a": "37 Rue de Châteaudun",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.876,
+2.33631
+]
+},
+{
+"n": "Gallika · Passage Choiseul",
+"cu": "Greek street food (gyros, pita)",
+"k": "Middle Eastern",
+"pr": 1,
+"c": "pe",
+"o": "Founders Julien Gantheret & Jean-Philippe Selle; Inter Invest Capital and FoodXpert (minority)",
+"y": "2021",
+"note": "Greek street-food chain created in Paris in 2015. In 2021 it opened its capital to the growth fund Inter Invest Capital alongside the restaurant-investment platform FoodXpert to quadruple its number of sites; the founders kept control.",
+"src": "https://www.snacking.fr/actualites/5696-Gallika-voit-plus-grand-aux-cotes-de-FoodXpert-et-Inter-Invest-Capital/",
+"a": "Passage Choiseul",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.8687,
+2.33585
+]
+},
+{
+"n": "Gallika · Rue Godot-de-Mauroy",
+"cu": "Greek street food (gyros, pita)",
+"k": "Middle Eastern",
+"pr": 1,
+"c": "pe",
+"o": "Founders Julien Gantheret & Jean-Philippe Selle; Inter Invest Capital and FoodXpert (minority)",
+"y": "2021",
+"note": "Greek street-food chain created in Paris in 2015. In 2021 it opened its capital to the growth fund Inter Invest Capital alongside the restaurant-investment platform FoodXpert to quadruple its number of sites; the founders kept control.",
+"src": "https://www.snacking.fr/actualites/5696-Gallika-voit-plus-grand-aux-cotes-de-FoodXpert-et-Inter-Invest-Capital/",
+"a": "Rue Godot-de-Mauroy",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87067,
+2.32672
+]
+},
+{
+"n": "Gallika · Rue du Faubourg Poissonnière",
+"cu": "Greek street food (gyros, pita)",
+"k": "Middle Eastern",
+"pr": 1,
+"c": "pe",
+"o": "Founders Julien Gantheret & Jean-Philippe Selle; Inter Invest Capital and FoodXpert (minority)",
+"y": "2021",
+"note": "Greek street-food chain created in Paris in 2015. In 2021 it opened its capital to the growth fund Inter Invest Capital alongside the restaurant-investment platform FoodXpert to quadruple its number of sites; the founders kept control.",
+"src": "https://www.snacking.fr/actualites/5696-Gallika-voit-plus-grand-aux-cotes-de-FoodXpert-et-Inter-Invest-Capital/",
+"a": "Rue du Faubourg Poissonnière",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87365,
+2.34779
+]
+},
+{
+"n": "Giovanna (Le Clan des Mamma)",
+"cu": "Neapolitan pizza & pasta trattoria",
+"k": "Italian",
+"pr": 2,
+"c": "pe",
+"o": "La Bonbonnière group; Audacia (since 2023)",
+"y": "2023",
+"note": "The Paris restaurant of Le Clan des Mamma, an Italian trattoria chain whose restaurants each carry a woman's name. Its parent La Bonbonnière (about 40 restaurants, also Les Fils à Maman) has had Audacia as a growth-capital investor since 2023.",
+"src": "https://www.audacia.fr/portfolio/la-bonbonniere/",
+"a": "57 Rue des Batignolles",
+"area": "17e · Batignolles",
+"ll": [
+48.88598,
+2.31906
+]
+},
+{
 "n": "Gloria Osteria Paris",
 "cu": "Italian",
 "k": "Italian",
@@ -2986,6 +3292,23 @@
 "ll": [
 48.84217,
 2.34984
+]
+},
+{
+"n": "Guibine · Rue Sainte-Anne",
+"cu": "Korean-Japanese canteen",
+"k": "Asian",
+"pr": 2,
+"c": "pe",
+"o": "Kintaro Group (Ken Yoshikawa); Socadif and Bpifrance France Investissement Tourisme 2 (minority)",
+"y": "2022",
+"note": "One of the rue Sainte-Anne restaurants of Kintaro Group (Kintaro, Hokkaido, Naniwa-Ya, Laï-Laï Ken, Menkicchi, Happa Tei, You). Socadif and Bpifrance's tourism fund took minority stakes in 2022 to fund new Paris openings.",
+"src": "https://www.fusacq.com/buzz/socadif-et-bpifrance-entrent-au-capital-de-kintaro-group-a228328_fr_",
+"a": "Rue Sainte-Anne",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86728,
+2.33611
 ]
 },
 {
@@ -3631,6 +3954,23 @@
 "ll": [
 48.8553,
 2.36434
+]
+},
+{
+"n": "L'Atelier Entrecôte & Volaille · 128 Rue Réaumur",
+"cu": "Steak-frites and roast chicken bistro",
+"k": "Steak & grill",
+"pr": 2,
+"c": "pe",
+"o": "TriSpan (Rising Stars restaurant programme); CEO Hubert Lansac",
+"y": "2023",
+"note": "Steak-and-chicken bistro concept with sites in the 2nd and 4th arrondissements. London/New York private equity firm TriSpan invested through its Rising Stars restaurant programme in May 2023 (its fifth European restaurant deal, after Pho, Rosa's Thai and Mowgli) to roll the concept out across Europe.",
+"src": "https://www.trispanllp.com/trispan-core/core-content/wp-content/core-media/2023/05/Latelier-_Press-Release-Template-vFF.pdf",
+"a": "128 Rue Réaumur",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86838,
+2.34333
 ]
 },
 {
@@ -5470,6 +5810,57 @@
 ]
 },
 {
+"n": "Noglu · 15 Rue Basfroi",
+"cu": "Gluten-free restaurant & bakery",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "pe",
+"o": "Founder Frédérique Jules; Bpifrance (minority)",
+"y": "2015",
+"note": "Opened in 2012 in the passage des Panoramas as Paris's first 100% gluten-free restaurant. In 2015 Bpifrance took a minority equity stake to fund a New York outpost and lab; the founder still runs the brand, and no exit has been reported.",
+"src": "https://www.reussir.fr/articles/sans-gluten-bpifrance-accompagne-noglu",
+"a": "15 Rue Basfroi",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.85444,
+2.37962
+]
+},
+{
+"n": "Noglu · 69 Rue de Grenelle",
+"cu": "Gluten-free restaurant & bakery",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "pe",
+"o": "Founder Frédérique Jules; Bpifrance (minority)",
+"y": "2015",
+"note": "Opened in 2012 in the passage des Panoramas as Paris's first 100% gluten-free restaurant. In 2015 Bpifrance took a minority equity stake to fund a New York outpost and lab; the founder still runs the brand, and no exit has been reported.",
+"src": "https://www.reussir.fr/articles/sans-gluten-bpifrance-accompagne-noglu",
+"a": "69 Rue de Grenelle",
+"area": "7e · Invalides & Eiffel",
+"ll": [
+48.85511,
+2.32419
+]
+},
+{
+"n": "Noglu · Passage des Panoramas",
+"cu": "Gluten-free restaurant & bakery",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "pe",
+"o": "Founder Frédérique Jules; Bpifrance (minority)",
+"y": "2015",
+"note": "Opened in 2012 in the passage des Panoramas as Paris's first 100% gluten-free restaurant. In 2015 Bpifrance took a minority equity stake to fund a New York outpost and lab; the founder still runs the brand, and no exit has been reported.",
+"src": "https://www.reussir.fr/articles/sans-gluten-bpifrance-accompagne-noglu",
+"a": "Passage des Panoramas",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.87098,
+2.34172
+]
+},
+{
 "n": "Noto",
 "cu": "Italian",
 "k": "Italian",
@@ -5807,6 +6198,108 @@
 "ll": [
 48.86656,
 2.36198
+]
+},
+{
+"n": "Oakberry · 1 Rue de l'École de Médecine",
+"cu": "Açaí bowls",
+"k": "Healthy & veggie",
+"pr": 1,
+"c": "pe",
+"o": "Founder Georgios Frangulis; funds managed by BTG Pactual, Kilima Asset and other investors",
+"y": "2023",
+"note": "Brazilian açaí-bowl chain with over 1,000 shops in more than 40 countries, several in Paris. In December 2023 it raised 325m reais (about $67m) in a round led by funds managed by BTG Pactual, joining existing backer Kilima Asset.",
+"src": "https://www.reuters.com/business/retail-consumer/acai-chain-oakberry-raises-67-mln-btg-funds-global-expansion-boost-2023-12-22/",
+"a": "1 Rue de l'École de Médecine",
+"area": "6e · Saint-Germain",
+"ll": [
+48.85042,
+2.34229
+]
+},
+{
+"n": "Oakberry · 11 Rue de la Roquette",
+"cu": "Açaí bowls",
+"k": "Healthy & veggie",
+"pr": 1,
+"c": "pe",
+"o": "Founder Georgios Frangulis; funds managed by BTG Pactual, Kilima Asset and other investors",
+"y": "2023",
+"note": "Brazilian açaí-bowl chain with over 1,000 shops in more than 40 countries, several in Paris. In December 2023 it raised 325m reais (about $67m) in a round led by funds managed by BTG Pactual, joining existing backer Kilima Asset.",
+"src": "https://www.reuters.com/business/retail-consumer/acai-chain-oakberry-raises-67-mln-btg-funds-global-expansion-boost-2023-12-22/",
+"a": "11 Rue de la Roquette",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.85412,
+2.37097
+]
+},
+{
+"n": "Oakberry · 14 bis Rue Marbeuf",
+"cu": "Açaí bowls",
+"k": "Healthy & veggie",
+"pr": 1,
+"c": "pe",
+"o": "Founder Georgios Frangulis; funds managed by BTG Pactual, Kilima Asset and other investors",
+"y": "2023",
+"note": "Brazilian açaí-bowl chain with over 1,000 shops in more than 40 countries, several in Paris. In December 2023 it raised 325m reais (about $67m) in a round led by funds managed by BTG Pactual, joining existing backer Kilima Asset.",
+"src": "https://www.reuters.com/business/retail-consumer/acai-chain-oakberry-raises-67-mln-btg-funds-global-expansion-boost-2023-12-22/",
+"a": "14 bis Rue Marbeuf",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.86797,
+2.30305
+]
+},
+{
+"n": "Oakberry · 2 Rue Tiquetonne",
+"cu": "Açaí bowls",
+"k": "Healthy & veggie",
+"pr": 1,
+"c": "pe",
+"o": "Founder Georgios Frangulis; funds managed by BTG Pactual, Kilima Asset and other investors",
+"y": "2023",
+"note": "Brazilian açaí-bowl chain with over 1,000 shops in more than 40 countries, several in Paris. In December 2023 it raised 325m reais (about $67m) in a round led by funds managed by BTG Pactual, joining existing backer Kilima Asset.",
+"src": "https://www.reuters.com/business/retail-consumer/acai-chain-oakberry-raises-67-mln-btg-funds-global-expansion-boost-2023-12-22/",
+"a": "2 Rue Tiquetonne",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86442,
+2.34988
+]
+},
+{
+"n": "Oakberry · 31 Rue Notre-Dame-de-Nazareth",
+"cu": "Açaí bowls",
+"k": "Healthy & veggie",
+"pr": 1,
+"c": "pe",
+"o": "Founder Georgios Frangulis; funds managed by BTG Pactual, Kilima Asset and other investors",
+"y": "2023",
+"note": "Brazilian açaí-bowl chain with over 1,000 shops in more than 40 countries, several in Paris. In December 2023 it raised 325m reais (about $67m) in a round led by funds managed by BTG Pactual, joining existing backer Kilima Asset.",
+"src": "https://www.reuters.com/business/retail-consumer/acai-chain-oakberry-raises-67-mln-btg-funds-global-expansion-boost-2023-12-22/",
+"a": "31 Rue Notre-Dame-de-Nazareth",
+"area": "3e · Haut-Marais",
+"ll": [
+48.86731,
+2.35873
+]
+},
+{
+"n": "Oakberry · 59 Rue des Batignolles",
+"cu": "Açaí bowls",
+"k": "Healthy & veggie",
+"pr": 1,
+"c": "pe",
+"o": "Founder Georgios Frangulis; funds managed by BTG Pactual, Kilima Asset and other investors",
+"y": "2023",
+"note": "Brazilian açaí-bowl chain with over 1,000 shops in more than 40 countries, several in Paris. In December 2023 it raised 325m reais (about $67m) in a round led by funds managed by BTG Pactual, joining existing backer Kilima Asset.",
+"src": "https://www.reuters.com/business/retail-consumer/acai-chain-oakberry-raises-67-mln-btg-funds-global-expansion-boost-2023-12-22/",
+"a": "59 Rue des Batignolles",
+"area": "17e · Batignolles",
+"ll": [
+48.886,
+2.31895
 ]
 },
 {
@@ -6725,6 +7218,23 @@
 "ll": [
 48.86809,
 2.3433
+]
+},
+{
+"n": "Pralus",
+"cu": "Chocolatier & Praluline brioche",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "pe",
+"o": "Pralus family (80%); Altis Capital, BNP Paribas Développement, Fonds Souverain Auvergne-Rhône-Alpes (Siparex Territoires) and Carvest (20%)",
+"y": "2025",
+"note": "Roanne pâtisserie-chocolaterie founded in 1948, maker of the Praluline brioche, with 23 shops including several in Paris. In May 2025, as François Pralus began handing over to his son Hugo, the family sold 20% to four regional investors led by Altis Capital, and plans to double its shop network.",
+"src": "https://altis-capital.fr/2025/05/28/communique-de-presse-2/",
+"a": "Rue Bosquet",
+"area": "7e · Invalides & Eiffel",
+"ll": [
+48.85621,
+2.30655
 ]
 },
 {
@@ -8615,6 +9125,57 @@
 ]
 },
 {
+"n": "Yoom Dim Sum · 20 Rue des Martyrs",
+"cu": "Dim sum restaurant",
+"k": "Asian",
+"pr": 2,
+"c": "pe",
+"o": "Founders; M Capital (ex-Midi Capital, minority)",
+"y": "2014",
+"note": "Dim-sum restaurant brand created in 2010, with sites rue des Martyrs and rue Grégoire-de-Tours. Midi Capital (now M Capital) invested in 2014 to fund growth; it still lists Yoom in its portfolio and no exit has been reported.",
+"src": "https://www.mcapital.fr/portfolio/yoom/",
+"a": "20 Rue des Martyrs",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87797,
+2.33968
+]
+},
+{
+"n": "Yoom Dim Sum · Rue Grégoire de Tours",
+"cu": "Dim sum restaurant",
+"k": "Asian",
+"pr": 2,
+"c": "pe",
+"o": "Founders; M Capital (ex-Midi Capital, minority)",
+"y": "2014",
+"note": "Dim-sum restaurant brand created in 2010, with sites rue des Martyrs and rue Grégoire-de-Tours. Midi Capital (now M Capital) invested in 2014 to fund growth; it still lists Yoom in its portfolio and no exit has been reported.",
+"src": "https://www.mcapital.fr/portfolio/yoom/",
+"a": "Rue Grégoire de Tours",
+"area": "6e · Saint-Germain",
+"ll": [
+48.85342,
+2.33796
+]
+},
+{
+"n": "You (Kintaro Group)",
+"cu": "Japanese canteen",
+"k": "Japanese",
+"pr": 2,
+"c": "pe",
+"o": "Kintaro Group (Ken Yoshikawa); Socadif and Bpifrance France Investissement Tourisme 2 (minority)",
+"y": "2022",
+"note": "Japanese canteen on rue Sainte-Anne, one of the eight original restaurants of Kintaro Group. Socadif and Bpifrance's tourism fund took minority stakes in the group in 2022.",
+"src": "https://www.fusacq.com/buzz/socadif-et-bpifrance-entrent-au-capital-de-kintaro-group-a228328_fr_",
+"a": "56 Rue Sainte-Anne",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86794,
+2.33638
+]
+},
+{
 "n": "Bagel Corner · Rue La Boétie",
 "cu": "Bagels",
 "k": "Sandwiches & salads",
@@ -9057,6 +9618,261 @@
 ]
 },
 {
+"n": "GoodNews · 20 Boulevard Poissonnière",
+"cu": "Specialty coffee to go",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Jan Barthe et al.); Barlon Capital, La Vida es Chula (Desigual founder Thomas Meyer), Galdana Ventures",
+"y": "2022",
+"note": "Barcelona-founded takeaway coffee chain that came to Paris in March 2022 and now has a dozen small Paris shops. Its €11m Series A in September 2022 was led by Desigual founder Thomas Meyer's investment company, with the venture fund Barlon Capital reinvesting. Later rounds included crowdfunding (2023) and a further venture round (2026).",
+"src": "https://www.eu-startups.com/2022/09/barcelona-based-goodnews-raises-e11-million-to-scale-its-socio-cultural-coffee-movement/",
+"a": "20 Boulevard Poissonnière",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87127,
+2.3455
+]
+},
+{
+"n": "GoodNews · 24 Rue La Fayette",
+"cu": "Specialty coffee to go",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Jan Barthe et al.); Barlon Capital, La Vida es Chula (Desigual founder Thomas Meyer), Galdana Ventures",
+"y": "2022",
+"note": "Barcelona-founded takeaway coffee chain that came to Paris in March 2022 and now has a dozen small Paris shops. Its €11m Series A in September 2022 was led by Desigual founder Thomas Meyer's investment company, with the venture fund Barlon Capital reinvesting. Later rounds included crowdfunding (2023) and a further venture round (2026).",
+"src": "https://www.eu-startups.com/2022/09/barcelona-based-goodnews-raises-e11-million-to-scale-its-socio-cultural-coffee-movement/",
+"a": "24 Rue La Fayette",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87398,
+2.33715
+]
+},
+{
+"n": "GoodNews · 24 Rue du Quatre Septembre",
+"cu": "Specialty coffee to go",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Jan Barthe et al.); Barlon Capital, La Vida es Chula (Desigual founder Thomas Meyer), Galdana Ventures",
+"y": "2022",
+"note": "Barcelona-founded takeaway coffee chain that came to Paris in March 2022 and now has a dozen small Paris shops. Its €11m Series A in September 2022 was led by Desigual founder Thomas Meyer's investment company, with the venture fund Barlon Capital reinvesting. Later rounds included crowdfunding (2023) and a further venture round (2026).",
+"src": "https://www.eu-startups.com/2022/09/barcelona-based-goodnews-raises-e11-million-to-scale-its-socio-cultural-coffee-movement/",
+"a": "24 Rue du Quatre Septembre",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86992,
+2.33539
+]
+},
+{
+"n": "GoodNews · 26 Rue du Bac",
+"cu": "Specialty coffee to go",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Jan Barthe et al.); Barlon Capital, La Vida es Chula (Desigual founder Thomas Meyer), Galdana Ventures",
+"y": "2022",
+"note": "Barcelona-founded takeaway coffee chain that came to Paris in March 2022 and now has a dozen small Paris shops. Its €11m Series A in September 2022 was led by Desigual founder Thomas Meyer's investment company, with the venture fund Barlon Capital reinvesting. Later rounds included crowdfunding (2023) and a further venture round (2026).",
+"src": "https://www.eu-startups.com/2022/09/barcelona-based-goodnews-raises-e11-million-to-scale-its-socio-cultural-coffee-movement/",
+"a": "26 Rue du Bac",
+"area": "7e · Invalides & Eiffel",
+"ll": [
+48.85786,
+2.32797
+]
+},
+{
+"n": "GoodNews · 6 Rue La Boétie",
+"cu": "Specialty coffee to go",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Jan Barthe et al.); Barlon Capital, La Vida es Chula (Desigual founder Thomas Meyer), Galdana Ventures",
+"y": "2022",
+"note": "Barcelona-founded takeaway coffee chain that came to Paris in March 2022 and now has a dozen small Paris shops. Its €11m Series A in September 2022 was led by Desigual founder Thomas Meyer's investment company, with the venture fund Barlon Capital reinvesting. Later rounds included crowdfunding (2023) and a further venture round (2026).",
+"src": "https://www.eu-startups.com/2022/09/barcelona-based-goodnews-raises-e11-million-to-scale-its-socio-cultural-coffee-movement/",
+"a": "6 Rue La Boétie",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87428,
+2.31873
+]
+},
+{
+"n": "GoodNews · 94 Rue Montmartre",
+"cu": "Specialty coffee to go",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Jan Barthe et al.); Barlon Capital, La Vida es Chula (Desigual founder Thomas Meyer), Galdana Ventures",
+"y": "2022",
+"note": "Barcelona-founded takeaway coffee chain that came to Paris in March 2022 and now has a dozen small Paris shops. Its €11m Series A in September 2022 was led by Desigual founder Thomas Meyer's investment company, with the venture fund Barlon Capital reinvesting. Later rounds included crowdfunding (2023) and a further venture round (2026).",
+"src": "https://www.eu-startups.com/2022/09/barcelona-based-goodnews-raises-e11-million-to-scale-its-socio-cultural-coffee-movement/",
+"a": "94 Rue Montmartre",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.8671,
+2.34423
+]
+},
+{
+"n": "GoodNews · Boulevard Saint-Germain",
+"cu": "Specialty coffee to go",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Jan Barthe et al.); Barlon Capital, La Vida es Chula (Desigual founder Thomas Meyer), Galdana Ventures",
+"y": "2022",
+"note": "Barcelona-founded takeaway coffee chain that came to Paris in March 2022 and now has a dozen small Paris shops. Its €11m Series A in September 2022 was led by Desigual founder Thomas Meyer's investment company, with the venture fund Barlon Capital reinvesting. Later rounds included crowdfunding (2023) and a further venture round (2026).",
+"src": "https://www.eu-startups.com/2022/09/barcelona-based-goodnews-raises-e11-million-to-scale-its-socio-cultural-coffee-movement/",
+"a": "Boulevard Saint-Germain",
+"area": "6e · Saint-Germain",
+"ll": [
+48.85249,
+2.33802
+]
+},
+{
+"n": "GoodNews · Boulevard de la Madeleine",
+"cu": "Specialty coffee to go",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Jan Barthe et al.); Barlon Capital, La Vida es Chula (Desigual founder Thomas Meyer), Galdana Ventures",
+"y": "2022",
+"note": "Barcelona-founded takeaway coffee chain that came to Paris in March 2022 and now has a dozen small Paris shops. Its €11m Series A in September 2022 was led by Desigual founder Thomas Meyer's investment company, with the venture fund Barlon Capital reinvesting. Later rounds included crowdfunding (2023) and a further venture round (2026).",
+"src": "https://www.eu-startups.com/2022/09/barcelona-based-goodnews-raises-e11-million-to-scale-its-socio-cultural-coffee-movement/",
+"a": "Boulevard de la Madeleine",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.86958,
+2.3271
+]
+},
+{
+"n": "GoodNews · Rue Auber",
+"cu": "Specialty coffee to go",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Jan Barthe et al.); Barlon Capital, La Vida es Chula (Desigual founder Thomas Meyer), Galdana Ventures",
+"y": "2022",
+"note": "Barcelona-founded takeaway coffee chain that came to Paris in March 2022 and now has a dozen small Paris shops. Its €11m Series A in September 2022 was led by Desigual founder Thomas Meyer's investment company, with the venture fund Barlon Capital reinvesting. Later rounds included crowdfunding (2023) and a further venture round (2026).",
+"src": "https://www.eu-startups.com/2022/09/barcelona-based-goodnews-raises-e11-million-to-scale-its-socio-cultural-coffee-movement/",
+"a": "Rue Auber",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87321,
+2.32779
+]
+},
+{
+"n": "GoodNews · Rue Mademoiselle",
+"cu": "Specialty coffee to go",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Jan Barthe et al.); Barlon Capital, La Vida es Chula (Desigual founder Thomas Meyer), Galdana Ventures",
+"y": "2022",
+"note": "Barcelona-founded takeaway coffee chain that came to Paris in March 2022 and now has a dozen small Paris shops. Its €11m Series A in September 2022 was led by Desigual founder Thomas Meyer's investment company, with the venture fund Barlon Capital reinvesting. Later rounds included crowdfunding (2023) and a further venture round (2026).",
+"src": "https://www.eu-startups.com/2022/09/barcelona-based-goodnews-raises-e11-million-to-scale-its-socio-cultural-coffee-movement/",
+"a": "Rue Mademoiselle",
+"area": "15e · Vaugirard",
+"ll": [
+48.84368,
+2.29564
+]
+},
+{
+"n": "GoodNews · Rue Rambuteau",
+"cu": "Specialty coffee to go",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Jan Barthe et al.); Barlon Capital, La Vida es Chula (Desigual founder Thomas Meyer), Galdana Ventures",
+"y": "2022",
+"note": "Barcelona-founded takeaway coffee chain that came to Paris in March 2022 and now has a dozen small Paris shops. Its €11m Series A in September 2022 was led by Desigual founder Thomas Meyer's investment company, with the venture fund Barlon Capital reinvesting. Later rounds included crowdfunding (2023) and a further venture round (2026).",
+"src": "https://www.eu-startups.com/2022/09/barcelona-based-goodnews-raises-e11-million-to-scale-its-socio-cultural-coffee-movement/",
+"a": "Rue Rambuteau",
+"area": "4e · Marais & the islands",
+"ll": [
+48.86028,
+2.3565
+]
+},
+{
+"n": "GoodNews · Rue Saint-Dominique",
+"cu": "Specialty coffee to go",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Jan Barthe et al.); Barlon Capital, La Vida es Chula (Desigual founder Thomas Meyer), Galdana Ventures",
+"y": "2022",
+"note": "Barcelona-founded takeaway coffee chain that came to Paris in March 2022 and now has a dozen small Paris shops. Its €11m Series A in September 2022 was led by Desigual founder Thomas Meyer's investment company, with the venture fund Barlon Capital reinvesting. Later rounds included crowdfunding (2023) and a further venture round (2026).",
+"src": "https://www.eu-startups.com/2022/09/barcelona-based-goodnews-raises-e11-million-to-scale-its-socio-cultural-coffee-movement/",
+"a": "Rue Saint-Dominique",
+"area": "7e · Invalides & Eiffel",
+"ll": [
+48.85982,
+2.3082
+]
+},
+{
+"n": "GoodNews · Rue de la Chaussée-d'Antin",
+"cu": "Specialty coffee to go",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Jan Barthe et al.); Barlon Capital, La Vida es Chula (Desigual founder Thomas Meyer), Galdana Ventures",
+"y": "2022",
+"note": "Barcelona-founded takeaway coffee chain that came to Paris in March 2022 and now has a dozen small Paris shops. Its €11m Series A in September 2022 was led by Desigual founder Thomas Meyer's investment company, with the venture fund Barlon Capital reinvesting. Later rounds included crowdfunding (2023) and a further venture round (2026).",
+"src": "https://www.eu-startups.com/2022/09/barcelona-based-goodnews-raises-e11-million-to-scale-its-socio-cultural-coffee-movement/",
+"a": "Rue de la Chaussée-d'Antin",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87543,
+2.33209
+]
+},
+{
+"n": "GoodNews · Rue de la Pépinière",
+"cu": "Specialty coffee to go",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Jan Barthe et al.); Barlon Capital, La Vida es Chula (Desigual founder Thomas Meyer), Galdana Ventures",
+"y": "2022",
+"note": "Barcelona-founded takeaway coffee chain that came to Paris in March 2022 and now has a dozen small Paris shops. Its €11m Series A in September 2022 was led by Desigual founder Thomas Meyer's investment company, with the venture fund Barlon Capital reinvesting. Later rounds included crowdfunding (2023) and a further venture round (2026).",
+"src": "https://www.eu-startups.com/2022/09/barcelona-based-goodnews-raises-e11-million-to-scale-its-socio-cultural-coffee-movement/",
+"a": "Rue de la Pépinière",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87527,
+2.32351
+]
+},
+{
+"n": "GoodNews · Rue du Four",
+"cu": "Specialty coffee to go",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Jan Barthe et al.); Barlon Capital, La Vida es Chula (Desigual founder Thomas Meyer), Galdana Ventures",
+"y": "2022",
+"note": "Barcelona-founded takeaway coffee chain that came to Paris in March 2022 and now has a dozen small Paris shops. Its €11m Series A in September 2022 was led by Desigual founder Thomas Meyer's investment company, with the venture fund Barlon Capital reinvesting. Later rounds included crowdfunding (2023) and a further venture round (2026).",
+"src": "https://www.eu-startups.com/2022/09/barcelona-based-goodnews-raises-e11-million-to-scale-its-socio-cultural-coffee-movement/",
+"a": "Rue du Four",
+"area": "6e · Saint-Germain",
+"ll": [
+48.85275,
+2.3337
+]
+},
+{
 "n": "Gruppomimo · 157 Rue Montmartre",
 "cu": "Italian trattoria",
 "k": "Italian",
@@ -9122,6 +9938,210 @@
 "ll": [
 48.87465,
 2.35674
+]
+},
+{
+"n": "Label Ferme · 2 Rue du Faubourg Poissonnière",
+"cu": "Farm-sourced salads & sandwiches",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "vc",
+"o": "Founders Benoît Bellonga & Guillaume Santin; Odyssée Venture (minority)",
+"y": "2016",
+"note": "Paris lunch chain created in 2011 that sells build-your-own salads and sandwiches made with produce bought straight from farmers. It raised money from the venture fund Odyssée Venture in 2016 to open more restaurants and had about ten sites by 2022. No exit has been reported.",
+"src": "https://odysseeventure.com/participation-labelferme",
+"a": "2 Rue du Faubourg Poissonnière",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87096,
+2.34803
+]
+},
+{
+"n": "Label Ferme · 29 Rue Saint Augustin",
+"cu": "Farm-sourced salads & sandwiches",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "vc",
+"o": "Founders Benoît Bellonga & Guillaume Santin; Odyssée Venture (minority)",
+"y": "2016",
+"note": "Paris lunch chain created in 2011 that sells build-your-own salads and sandwiches made with produce bought straight from farmers. It raised money from the venture fund Odyssée Venture in 2016 to open more restaurants and had about ten sites by 2022. No exit has been reported.",
+"src": "https://odysseeventure.com/participation-labelferme",
+"a": "29 Rue Saint Augustin",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86882,
+2.33487
+]
+},
+{
+"n": "Label Ferme · 40 Rue de Châteaudun",
+"cu": "Farm-sourced salads & sandwiches",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "vc",
+"o": "Founders Benoît Bellonga & Guillaume Santin; Odyssée Venture (minority)",
+"y": "2016",
+"note": "Paris lunch chain created in 2011 that sells build-your-own salads and sandwiches made with produce bought straight from farmers. It raised money from the venture fund Odyssée Venture in 2016 to open more restaurants and had about ten sites by 2022. No exit has been reported.",
+"src": "https://odysseeventure.com/participation-labelferme",
+"a": "40 Rue de Châteaudun",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.8763,
+2.33524
+]
+},
+{
+"n": "Label Ferme · Avenue Myron Herrick",
+"cu": "Farm-sourced salads & sandwiches",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "vc",
+"o": "Founders Benoît Bellonga & Guillaume Santin; Odyssée Venture (minority)",
+"y": "2016",
+"note": "Paris lunch chain created in 2011 that sells build-your-own salads and sandwiches made with produce bought straight from farmers. It raised money from the venture fund Odyssée Venture in 2016 to open more restaurants and had about ten sites by 2022. No exit has been reported.",
+"src": "https://odysseeventure.com/participation-labelferme",
+"a": "Avenue Myron Herrick",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87348,
+2.30984
+]
+},
+{
+"n": "Label Ferme · Rue Godot-de-Mauroy",
+"cu": "Farm-sourced salads & sandwiches",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "vc",
+"o": "Founders Benoît Bellonga & Guillaume Santin; Odyssée Venture (minority)",
+"y": "2016",
+"note": "Paris lunch chain created in 2011 that sells build-your-own salads and sandwiches made with produce bought straight from farmers. It raised money from the venture fund Odyssée Venture in 2016 to open more restaurants and had about ten sites by 2022. No exit has been reported.",
+"src": "https://odysseeventure.com/participation-labelferme",
+"a": "Rue Godot-de-Mauroy",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87183,
+2.32715
+]
+},
+{
+"n": "Label Ferme · Rue Le Peletier",
+"cu": "Farm-sourced salads & sandwiches",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "vc",
+"o": "Founders Benoît Bellonga & Guillaume Santin; Odyssée Venture (minority)",
+"y": "2016",
+"note": "Paris lunch chain created in 2011 that sells build-your-own salads and sandwiches made with produce bought straight from farmers. It raised money from the venture fund Odyssée Venture in 2016 to open more restaurants and had about ten sites by 2022. No exit has been reported.",
+"src": "https://odysseeventure.com/participation-labelferme",
+"a": "Rue Le Peletier",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87492,
+2.33933
+]
+},
+{
+"n": "Label Ferme · Rue Montmartre",
+"cu": "Farm-sourced salads & sandwiches",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "vc",
+"o": "Founders Benoît Bellonga & Guillaume Santin; Odyssée Venture (minority)",
+"y": "2016",
+"note": "Paris lunch chain created in 2011 that sells build-your-own salads and sandwiches made with produce bought straight from farmers. It raised money from the venture fund Odyssée Venture in 2016 to open more restaurants and had about ten sites by 2022. No exit has been reported.",
+"src": "https://odysseeventure.com/participation-labelferme",
+"a": "Rue Montmartre",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86924,
+2.34326
+]
+},
+{
+"n": "Label Ferme · Rue Roquépine",
+"cu": "Farm-sourced salads & sandwiches",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "vc",
+"o": "Founders Benoît Bellonga & Guillaume Santin; Odyssée Venture (minority)",
+"y": "2016",
+"note": "Paris lunch chain created in 2011 that sells build-your-own salads and sandwiches made with produce bought straight from farmers. It raised money from the venture fund Odyssée Venture in 2016 to open more restaurants and had about ten sites by 2022. No exit has been reported.",
+"src": "https://odysseeventure.com/participation-labelferme",
+"a": "Rue Roquépine",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.8734,
+2.32051
+]
+},
+{
+"n": "Label Ferme · Rue de Laborde",
+"cu": "Farm-sourced salads & sandwiches",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "vc",
+"o": "Founders Benoît Bellonga & Guillaume Santin; Odyssée Venture (minority)",
+"y": "2016",
+"note": "Paris lunch chain created in 2011 that sells build-your-own salads and sandwiches made with produce bought straight from farmers. It raised money from the venture fund Odyssée Venture in 2016 to open more restaurants and had about ten sites by 2022. No exit has been reported.",
+"src": "https://odysseeventure.com/participation-labelferme",
+"a": "Rue de Laborde",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87573,
+2.32214
+]
+},
+{
+"n": "Label Ferme · Rue des Capucines",
+"cu": "Farm-sourced salads & sandwiches",
+"k": "Sandwiches & salads",
+"pr": 1,
+"c": "vc",
+"o": "Founders Benoît Bellonga & Guillaume Santin; Odyssée Venture (minority)",
+"y": "2016",
+"note": "Paris lunch chain created in 2011 that sells build-your-own salads and sandwiches made with produce bought straight from farmers. It raised money from the venture fund Odyssée Venture in 2016 to open more restaurants and had about ten sites by 2022. No exit has been reported.",
+"src": "https://odysseeventure.com/participation-labelferme",
+"a": "Rue des Capucines",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86932,
+2.32899
+]
+},
+{
+"n": "Le Chocolat des Français · 36 Rue Vieille du Temple",
+"cu": "Artist-illustrated chocolate bars",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "vc",
+"o": "Founders Matthieu Escande, Paul-Henri Masson & Vincent Muraire; MouvemenT & Finance (since 2020); formerly Kima Ventures",
+"y": "2016",
+"note": "Paris chocolate brand, founded in 2014, known for bars wrapped in artists' illustrations, with its own shops in the Marais and near Opéra. Xavier Niel's Kima Ventures led its first €500k round in 2016. The investment firm of Manutan founder Jean-Pierre Guichard (MouvemenT & Finance) took a stake in 2020.",
+"src": "https://www.agra.fr/articles/le-chocolat-des-francais-leve-500-000-euros",
+"a": "36 Rue Vieille du Temple",
+"area": "4e · Marais & the islands",
+"ll": [
+48.85766,
+2.35775
+]
+},
+{
+"n": "Le Chocolat des Français · Rue d'Antin",
+"cu": "Artist-illustrated chocolate bars",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "vc",
+"o": "Founders Matthieu Escande, Paul-Henri Masson & Vincent Muraire; MouvemenT & Finance (since 2020); formerly Kima Ventures",
+"y": "2016",
+"note": "Paris chocolate brand, founded in 2014, known for bars wrapped in artists' illustrations, with its own shops in the Marais and near Opéra. Xavier Niel's Kima Ventures led its first €500k round in 2016. The investment firm of Manutan founder Jean-Pierre Guichard (MouvemenT & Finance) took a stake in 2020.",
+"src": "https://www.agra.fr/articles/le-chocolat-des-francais-leve-500-000-euros",
+"a": "Rue d'Antin",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86845,
+2.33301
 ]
 },
 {
@@ -9275,6 +10295,431 @@
 "ll": [
 48.86184,
 2.37167
+]
+},
+{
+"n": "Taster · 9 Rue Simart",
+"cu": "Delivery-first kitchens (Mission Saigon, Out Fry, Stacksburger)",
+"k": "Other",
+"pr": 1,
+"c": "vc",
+"o": "Founder Anton Soulier; Octopus Ventures, Battery Ventures, LocalGlobe, Heartcore, GFC, Rakuten",
+"y": "2021",
+"note": "Paris-founded delivery restaurant group (Mission Saigon, Out Fry, Stacksburger) whose kitchens also serve walk-in takeaway customers. It is venture-backed and raised €30m in 2021 from Octopus Ventures, Battery, LocalGlobe, Heartcore, GFC and Rakuten.",
+"src": "https://www.snacking.fr/actualites/5541-Taster-leve-30-M--lance-son-App-en-France-et-vise-1000-villes-a-horizon-2024/",
+"a": "9 Rue Simart",
+"area": "18e · Montmartre",
+"ll": [
+48.89005,
+2.34884
+]
+},
+{
+"n": "Taster · Rue Planchat",
+"cu": "Delivery-first kitchens (Mission Saigon, Out Fry, Stacksburger)",
+"k": "Other",
+"pr": 1,
+"c": "vc",
+"o": "Founder Anton Soulier; Octopus Ventures, Battery Ventures, LocalGlobe, Heartcore, GFC, Rakuten",
+"y": "2021",
+"note": "Paris-founded delivery restaurant group (Mission Saigon, Out Fry, Stacksburger) whose kitchens also serve walk-in takeaway customers. It is venture-backed and raised €30m in 2021 from Octopus Ventures, Battery, LocalGlobe, Heartcore, GFC and Rakuten.",
+"src": "https://www.snacking.fr/actualites/5541-Taster-leve-30-M--lance-son-App-en-France-et-vise-1000-villes-a-horizon-2024/",
+"a": "Rue Planchat",
+"area": "20e · Belleville & Ménilmontant",
+"ll": [
+48.85193,
+2.39922
+]
+},
+{
+"n": "Taster · Rue de Montyon",
+"cu": "Delivery-first kitchens (Mission Saigon, Out Fry, Stacksburger)",
+"k": "Other",
+"pr": 1,
+"c": "vc",
+"o": "Founder Anton Soulier; Octopus Ventures, Battery Ventures, LocalGlobe, Heartcore, GFC, Rakuten",
+"y": "2021",
+"note": "Paris-founded delivery restaurant group (Mission Saigon, Out Fry, Stacksburger) whose kitchens also serve walk-in takeaway customers. It is venture-backed and raised €30m in 2021 from Octopus Ventures, Battery, LocalGlobe, Heartcore, GFC and Rakuten.",
+"src": "https://www.snacking.fr/actualites/5541-Taster-leve-30-M--lance-son-App-en-France-et-vise-1000-villes-a-horizon-2024/",
+"a": "Rue de Montyon",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87302,
+2.34438
+]
+},
+{
+"n": "The Coffee · 12 Rue Brochant",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "12 Rue Brochant",
+"area": "17e · Batignolles",
+"ll": [
+48.88851,
+2.31764
+]
+},
+{
+"n": "The Coffee · 138 Boulevard de Grenelle",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "138 Boulevard de Grenelle",
+"area": "15e · Vaugirard",
+"ll": [
+48.84868,
+2.29843
+]
+},
+{
+"n": "The Coffee · 60 Rue de Montreuil",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "60 Rue de Montreuil",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.85039,
+2.39005
+]
+},
+{
+"n": "The Coffee · 77 Rue du Cardinal Lemoine",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "77 Rue du Cardinal Lemoine",
+"area": "5e · Latin Quarter",
+"ll": [
+48.84507,
+2.34994
+]
+},
+{
+"n": "The Coffee · Boulevard Poissonnière",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "Boulevard Poissonnière",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.87106,
+2.34458
+]
+},
+{
+"n": "The Coffee · Quai de la Tournelle",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "Quai de la Tournelle",
+"area": "5e · Latin Quarter",
+"ll": [
+48.85104,
+2.35095
+]
+},
+{
+"n": "The Coffee · Rue Delambre",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "Rue Delambre",
+"area": "14e · Montparnasse",
+"ll": [
+48.84153,
+2.32627
+]
+},
+{
+"n": "The Coffee · Rue Mazarine",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "Rue Mazarine",
+"area": "6e · Saint-Germain",
+"ll": [
+48.85444,
+2.33818
+]
+},
+{
+"n": "The Coffee · Rue Saint-Dominique",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "Rue Saint-Dominique",
+"area": "7e · Invalides & Eiffel",
+"ll": [
+48.85978,
+2.30917
+]
+},
+{
+"n": "The Coffee · Rue Saint-Gilles",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "Rue Saint-Gilles",
+"area": "3e · Haut-Marais",
+"ll": [
+48.85776,
+2.36746
+]
+},
+{
+"n": "The Coffee · Rue Saint-Honoré",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "Rue Saint-Honoré",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86128,
+2.34313
+]
+},
+{
+"n": "The Coffee · Rue Saint-Placide",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "Rue Saint-Placide",
+"area": "6e · Saint-Germain",
+"ll": [
+48.84775,
+2.32603
+]
+},
+{
+"n": "The Coffee · Rue de Vaugirard",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "Rue de Vaugirard",
+"area": "15e · Vaugirard",
+"ll": [
+48.83875,
+2.29958
+]
+},
+{
+"n": "The Coffee · Rue de la Sorbonne",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "Rue de la Sorbonne",
+"area": "5e · Latin Quarter",
+"ll": [
+48.84956,
+2.3433
+]
+},
+{
+"n": "The Coffee · Rue des Gravilliers",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "Rue des Gravilliers",
+"area": "3e · Haut-Marais",
+"ll": [
+48.86405,
+2.35612
+]
+},
+{
+"n": "The Coffee · Rue la Feuillade",
+"cu": "Japanese-style specialty coffee kiosks",
+"k": "Coffee",
+"pr": 1,
+"c": "vc",
+"o": "Founders (Curitiba, Brazil); CapSur Capital (growth fund), Monashees and other venture investors",
+"y": "2023",
+"note": "Brazilian minimalist coffee-kiosk chain with over 200 sites, including many small counters in Paris. It is venture-backed: Monashees led its seed round and Series A, and growth investor CapSur put in $7.5m in 2022 and a further $10m in 2023 to expand in Europe, France included.",
+"src": "https://exame.com/insight/brasileira-de-sotaque-gringo-the-coffee-levanta-us-10-mi-para-ficar-mais-internacional/p",
+"a": "Rue la Feuillade",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86596,
+2.33998
+]
+},
+{
+"n": "Wild & The Moon · 19 Place du Marché Saint-Honoré",
+"cu": "Organic vegan café & juice bar",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "vc",
+"o": "Founder Emmanuelle Sawko; Financière Saint James (Saint-James MG family investment company) and other investors",
+"y": "2017",
+"note": "Paris chain of organic, plant-based, gluten-free juice bars and cafés founded in 2015. It raised a seed round in 2016 and an early-stage venture round in 2017 led by the investment company Financière Saint James. Its operating company went into court-supervised reorganisation in February 2025 and got a 10-year continuation plan in 2026.",
+"src": "https://app.dealroom.co/companies/wild_the_moon",
+"a": "19 Place du Marché Saint-Honoré",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86666,
+2.33096
+]
+},
+{
+"n": "Wild & The Moon · 23 Rue Pierre Demours",
+"cu": "Organic vegan café & juice bar",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "vc",
+"o": "Founder Emmanuelle Sawko; Financière Saint James (Saint-James MG family investment company) and other investors",
+"y": "2017",
+"note": "Paris chain of organic, plant-based, gluten-free juice bars and cafés founded in 2015. It raised a seed round in 2016 and an early-stage venture round in 2017 led by the investment company Financière Saint James. Its operating company went into court-supervised reorganisation in February 2025 and got a 10-year continuation plan in 2026.",
+"src": "https://app.dealroom.co/companies/wild_the_moon",
+"a": "23 Rue Pierre Demours",
+"area": "17e · Batignolles",
+"ll": [
+48.88108,
+2.29401
+]
+},
+{
+"n": "Wild & The Moon · Rue Amelot",
+"cu": "Organic vegan café & juice bar",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "vc",
+"o": "Founder Emmanuelle Sawko; Financière Saint James (Saint-James MG family investment company) and other investors",
+"y": "2017",
+"note": "Paris chain of organic, plant-based, gluten-free juice bars and cafés founded in 2015. It raised a seed round in 2016 and an early-stage venture round in 2017 led by the investment company Financière Saint James. Its operating company went into court-supervised reorganisation in February 2025 and got a 10-year continuation plan in 2026.",
+"src": "https://app.dealroom.co/companies/wild_the_moon",
+"a": "Rue Amelot",
+"area": "11e · Oberkampf & Bastille",
+"ll": [
+48.86505,
+2.36655
+]
+},
+{
+"n": "Wild & The Moon · Rue Charlot",
+"cu": "Organic vegan café & juice bar",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "vc",
+"o": "Founder Emmanuelle Sawko; Financière Saint James (Saint-James MG family investment company) and other investors",
+"y": "2017",
+"note": "Paris chain of organic, plant-based, gluten-free juice bars and cafés founded in 2015. It raised a seed round in 2016 and an early-stage venture round in 2017 led by the investment company Financière Saint James. Its operating company went into court-supervised reorganisation in February 2025 and got a 10-year continuation plan in 2026.",
+"src": "https://app.dealroom.co/companies/wild_the_moon",
+"a": "Rue Charlot",
+"area": "3e · Haut-Marais",
+"ll": [
+48.86341,
+2.36307
+]
+},
+{
+"n": "Wild & The Moon · Rue des Gravilliers",
+"cu": "Organic vegan café & juice bar",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "vc",
+"o": "Founder Emmanuelle Sawko; Financière Saint James (Saint-James MG family investment company) and other investors",
+"y": "2017",
+"note": "Paris chain of organic, plant-based, gluten-free juice bars and cafés founded in 2015. It raised a seed round in 2016 and an early-stage venture round in 2017 led by the investment company Financière Saint James. Its operating company went into court-supervised reorganisation in February 2025 and got a 10-year continuation plan in 2026.",
+"src": "https://app.dealroom.co/companies/wild_the_moon",
+"a": "Rue des Gravilliers",
+"area": "3e · Haut-Marais",
+"ll": [
+48.86384,
+2.35652
+]
+},
+{
+"n": "Wild & The Moon · Rue du Helder",
+"cu": "Organic vegan café & juice bar",
+"k": "Healthy & veggie",
+"pr": 2,
+"c": "vc",
+"o": "Founder Emmanuelle Sawko; Financière Saint James (Saint-James MG family investment company) and other investors",
+"y": "2017",
+"note": "Paris chain of organic, plant-based, gluten-free juice bars and cafés founded in 2015. It raised a seed round in 2016 and an early-stage venture round in 2017 led by the investment company Financière Saint James. Its operating company went into court-supervised reorganisation in February 2025 and got a 10-year continuation plan in 2026.",
+"src": "https://app.dealroom.co/companies/wild_the_moon",
+"a": "Rue du Helder",
+"area": "9e · Opéra & SoPi",
+"ll": [
+48.87149,
+2.33493
 ]
 },
 {
@@ -11800,6 +13245,74 @@
 "ll": [
 48.86197,
 2.29406
+]
+},
+{
+"n": "Dépôt Légal · Place Raoul Dautry",
+"cu": "Pâtissier's café-épicerie",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "corp",
+"o": "Groupe Barrière (majority, via L'Éclair de Génie); Christophe Adam",
+"y": "2020",
+"note": "Café and pastry-shop brand of pâtissier Christophe Adam, run by his L'Éclair de Génie company. Midi Capital invested in 2016; in 2020 Groupe Barrière, the casino and hotel group, took majority control. Barrière's then-shareholder Fimalac exited in 2023.",
+"src": "https://www.groupebarriere.com/notre-groupe/participations",
+"a": "Place Raoul Dautry",
+"area": "15e · Vaugirard",
+"ll": [
+48.84095,
+2.32109
+]
+},
+{
+"n": "Dépôt Légal · Rue de Chalon",
+"cu": "Pâtissier's café-épicerie",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "corp",
+"o": "Groupe Barrière (majority, via L'Éclair de Génie); Christophe Adam",
+"y": "2020",
+"note": "Café and pastry-shop brand of pâtissier Christophe Adam, run by his L'Éclair de Génie company. Midi Capital invested in 2016; in 2020 Groupe Barrière, the casino and hotel group, took majority control. Barrière's then-shareholder Fimalac exited in 2023.",
+"src": "https://www.groupebarriere.com/notre-groupe/participations",
+"a": "Rue de Chalon",
+"area": "12e · Bercy & Nation",
+"ll": [
+48.84474,
+2.37521
+]
+},
+{
+"n": "Dépôt Légal · Rue de Dunkerque",
+"cu": "Pâtissier's café-épicerie",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "corp",
+"o": "Groupe Barrière (majority, via L'Éclair de Génie); Christophe Adam",
+"y": "2020",
+"note": "Café and pastry-shop brand of pâtissier Christophe Adam, run by his L'Éclair de Génie company. Midi Capital invested in 2016; in 2020 Groupe Barrière, the casino and hotel group, took majority control. Barrière's then-shareholder Fimalac exited in 2023.",
+"src": "https://www.groupebarriere.com/notre-groupe/participations",
+"a": "Rue de Dunkerque",
+"area": "10e · Canal Saint-Martin",
+"ll": [
+48.88035,
+2.35463
+]
+},
+{
+"n": "Dépôt Légal · Rue des Petits Champs",
+"cu": "Pâtissier's café-épicerie",
+"k": "Bakery & pastry",
+"pr": 2,
+"c": "corp",
+"o": "Groupe Barrière (majority, via L'Éclair de Génie); Christophe Adam",
+"y": "2020",
+"note": "Café and pastry-shop brand of pâtissier Christophe Adam, run by his L'Éclair de Génie company. Midi Capital invested in 2016; in 2020 Groupe Barrière, the casino and hotel group, took majority control. Barrière's then-shareholder Fimalac exited in 2023.",
+"src": "https://www.groupebarriere.com/notre-groupe/participations",
+"a": "Rue des Petits Champs",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86638,
+2.33885
 ]
 },
 {
@@ -84011,6 +85524,159 @@
 ]
 },
 {
+"n": "Laura Todd · 38 Rue de l'Annonciation",
+"cu": "Freshly baked cookies",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Pascal Campourcy (owner since 2019) with private investors",
+"y": "2019",
+"note": "Cookie shop brand, in Paris since the 1980s. M Capital Partners invested in 2016 to open more shops. In 2019 entrepreneur Pascal Campourcy bought the brand and, with business angels such as Olivier Duha and Grégory Marciano, grew it from 4 to about 30 shops by 2025, with a Paris bakery lab in the 18th.",
+"src": "https://www.snacking.fr/actualites/6079-Laura-Todd-la-fameuse-griffe-de-cookies-se-lance-en-franchise/",
+"a": "38 Rue de l'Annonciation",
+"area": "16e · Passy & Trocadéro",
+"ll": [
+48.85735,
+2.27833
+]
+},
+{
+"n": "Laura Todd · Avenue de Ségur",
+"cu": "Freshly baked cookies",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Pascal Campourcy (owner since 2019) with private investors",
+"y": "2019",
+"note": "Cookie shop brand, in Paris since the 1980s. M Capital Partners invested in 2016 to open more shops. In 2019 entrepreneur Pascal Campourcy bought the brand and, with business angels such as Olivier Duha and Grégory Marciano, grew it from 4 to about 30 shops by 2025, with a Paris bakery lab in the 18th.",
+"src": "https://www.snacking.fr/actualites/6079-Laura-Todd-la-fameuse-griffe-de-cookies-se-lance-en-franchise/",
+"a": "Avenue de Ségur",
+"area": "7e · Invalides & Eiffel",
+"ll": [
+48.85034,
+2.30896
+]
+},
+{
+"n": "Laura Todd · Rue Mouffetard",
+"cu": "Freshly baked cookies",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Pascal Campourcy (owner since 2019) with private investors",
+"y": "2019",
+"note": "Cookie shop brand, in Paris since the 1980s. M Capital Partners invested in 2016 to open more shops. In 2019 entrepreneur Pascal Campourcy bought the brand and, with business angels such as Olivier Duha and Grégory Marciano, grew it from 4 to about 30 shops by 2025, with a Paris bakery lab in the 18th.",
+"src": "https://www.snacking.fr/actualites/6079-Laura-Todd-la-fameuse-griffe-de-cookies-se-lance-en-franchise/",
+"a": "Rue Mouffetard",
+"area": "5e · Latin Quarter",
+"ll": [
+48.84066,
+2.34976
+]
+},
+{
+"n": "Laura Todd · Rue Saint-Honoré",
+"cu": "Freshly baked cookies",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Pascal Campourcy (owner since 2019) with private investors",
+"y": "2019",
+"note": "Cookie shop brand, in Paris since the 1980s. M Capital Partners invested in 2016 to open more shops. In 2019 entrepreneur Pascal Campourcy bought the brand and, with business angels such as Olivier Duha and Grégory Marciano, grew it from 4 to about 30 shops by 2025, with a Paris bakery lab in the 18th.",
+"src": "https://www.snacking.fr/actualites/6079-Laura-Todd-la-fameuse-griffe-de-cookies-se-lance-en-franchise/",
+"a": "Rue Saint-Honoré",
+"area": "1er · Louvre & Les Halles",
+"ll": [
+48.86193,
+2.34054
+]
+},
+{
+"n": "Laura Todd · Rue Saint-Placide",
+"cu": "Freshly baked cookies",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Pascal Campourcy (owner since 2019) with private investors",
+"y": "2019",
+"note": "Cookie shop brand, in Paris since the 1980s. M Capital Partners invested in 2016 to open more shops. In 2019 entrepreneur Pascal Campourcy bought the brand and, with business angels such as Olivier Duha and Grégory Marciano, grew it from 4 to about 30 shops by 2025, with a Paris bakery lab in the 18th.",
+"src": "https://www.snacking.fr/actualites/6079-Laura-Todd-la-fameuse-griffe-de-cookies-se-lance-en-franchise/",
+"a": "Rue Saint-Placide",
+"area": "6e · Saint-Germain",
+"ll": [
+48.84939,
+2.32483
+]
+},
+{
+"n": "Laura Todd · Rue Vavin",
+"cu": "Freshly baked cookies",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Pascal Campourcy (owner since 2019) with private investors",
+"y": "2019",
+"note": "Cookie shop brand, in Paris since the 1980s. M Capital Partners invested in 2016 to open more shops. In 2019 entrepreneur Pascal Campourcy bought the brand and, with business angels such as Olivier Duha and Grégory Marciano, grew it from 4 to about 30 shops by 2025, with a Paris bakery lab in the 18th.",
+"src": "https://www.snacking.fr/actualites/6079-Laura-Todd-la-fameuse-griffe-de-cookies-se-lance-en-franchise/",
+"a": "Rue Vavin",
+"area": "6e · Saint-Germain",
+"ll": [
+48.84404,
+2.3309
+]
+},
+{
+"n": "Laura Todd · Rue de Lévis",
+"cu": "Freshly baked cookies",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Pascal Campourcy (owner since 2019) with private investors",
+"y": "2019",
+"note": "Cookie shop brand, in Paris since the 1980s. M Capital Partners invested in 2016 to open more shops. In 2019 entrepreneur Pascal Campourcy bought the brand and, with business angels such as Olivier Duha and Grégory Marciano, grew it from 4 to about 30 shops by 2025, with a Paris bakery lab in the 18th.",
+"src": "https://www.snacking.fr/actualites/6079-Laura-Todd-la-fameuse-griffe-de-cookies-se-lance-en-franchise/",
+"a": "Rue de Lévis",
+"area": "17e · Batignolles",
+"ll": [
+48.88296,
+2.31454
+]
+},
+{
+"n": "Laura Todd · Rue des Petits Carreaux",
+"cu": "Freshly baked cookies",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Pascal Campourcy (owner since 2019) with private investors",
+"y": "2019",
+"note": "Cookie shop brand, in Paris since the 1980s. M Capital Partners invested in 2016 to open more shops. In 2019 entrepreneur Pascal Campourcy bought the brand and, with business angels such as Olivier Duha and Grégory Marciano, grew it from 4 to about 30 shops by 2025, with a Paris bakery lab in the 18th.",
+"src": "https://www.snacking.fr/actualites/6079-Laura-Todd-la-fameuse-griffe-de-cookies-se-lance-en-franchise/",
+"a": "Rue des Petits Carreaux",
+"area": "2e · Bourse & Sentier",
+"ll": [
+48.86702,
+2.34739
+]
+},
+{
+"n": "Laura Todd · Rue du Four",
+"cu": "Freshly baked cookies",
+"k": "Bakery & pastry",
+"pr": 1,
+"c": "ind",
+"o": "Pascal Campourcy (owner since 2019) with private investors",
+"y": "2019",
+"note": "Cookie shop brand, in Paris since the 1980s. M Capital Partners invested in 2016 to open more shops. In 2019 entrepreneur Pascal Campourcy bought the brand and, with business angels such as Olivier Duha and Grégory Marciano, grew it from 4 to about 30 shops by 2025, with a Paris bakery lab in the 18th.",
+"src": "https://www.snacking.fr/actualites/6079-Laura-Todd-la-fameuse-griffe-de-cookies-se-lance-en-franchise/",
+"a": "Rue du Four",
+"area": "6e · Saint-Germain",
+"ll": [
+48.85293,
+2.33464
+]
+},
+{
 "n": "Laurent Dheilly",
 "cu": "Bakery",
 "k": "Bakery & pastry",
@@ -128401,22 +130067,6 @@
 "ll": [
 48.85376,
 2.37432
-]
-},
-{
-"n": "Pralus",
-"cu": "Chocolatier",
-"k": "Bakery & pastry",
-"pr": 2,
-"c": "ind",
-"o": "Pralus family",
-"note": "Pâtisserie Chocolaterie Pralus, the Roanne chocolatier behind the Praluline, is presided by François Pralus, with family members as directors.",
-"src": "https://annuaire-entreprises.data.gouv.fr/entreprise/394627913",
-"a": "Rue Bosquet",
-"area": "7e · Invalides & Eiffel",
-"ll": [
-48.85621,
-2.30655
 ]
 },
 {

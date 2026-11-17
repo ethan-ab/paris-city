@@ -70,7 +70,10 @@
   "o": "FrenchFood Capital (majority); Cédric Taravella (operating partner); founder Patrice Chapon",
   "y": "2022",
   "note": "Bean-to-bar chocolate house founded by Patrice Chapon. Food-sector private equity fund FrenchFood Capital took control in September 2022 with Cédric Taravella as operating partner, to expand the network of boutiques in Paris and the Paris region (about 19 in Île-de-France by 2026).",
-  "src": "https://frenchfoodcapital.com/nouvelle-pepite-de-frenchfood-capital-chapon-accelere-son-developpement/"
+  "src": "https://frenchfoodcapital.com/nouvelle-pepite-de-frenchfood-capital-chapon-accelere-son-developpement/",
+  "osm_alt": [
+   "Chocolat Chapon"
+  ]
  },
  {
   "type": "brand",
@@ -594,5 +597,21 @@
   "y": "2024",
   "note": "Amandine Chaignot's café-bistro at the foot of Montmartre, operated by Eleni Group. Eleni Group, the group of chef Juan Arbelaez and the Chantzios brothers (about 15 venues including Yaya, Bazurto, Arbela, Babille, Pouliche and Café de Luce), opened its capital for the first time in 2024. It raised €3m, notably from the family investment fund iXcore Group; the founders stay well in the majority.",
   "src": "https://www.lhotellerie-restauration.fr/actualite/juan-arbelaez-et-les-freres-pierre-julien-et-gregory-chantzios-visent-les-20-millions-de-ca-en-2026"
+ },
+ {
+  "type": "brand",
+  "n": "Berliner Das Original",
+  "osm": "Berliner Das Original",
+  "osm_alt": [
+   "Berliner"
+  ],
+  "cu": "Berlin-style kebab",
+  "k": "Middle Eastern",
+  "pr": 1,
+  "c": "pe",
+  "o": "Brand Baker (Timothée Tronet, with co-founder Firat Akarsu); Montefiore Investment via its Nov Tourisme fund (minority, since 2021)",
+  "y": "2021",
+  "note": "Premium kebab chain started in 2018 on boulevard Voltaire, now about 30 restaurants (many franchised). It belongs to Brand Baker, which also built Fresh Burritos (sold to Tortilla in 2024) and Meglio. Montefiore Investment's tourism and restaurant fund Nov Tourisme took a stake in Brand Baker in 2021; convertible bonds were also raised through Sowefund in 2025.",
+  "src": "https://www.snacking.fr/actualites/5865-Nouvelle-levee-de-fonds-de-Street-Bangkok-aupres-de-Nov-Tourisme-gere-par-Montefiore/?news_id=5865"
  }
 ]
