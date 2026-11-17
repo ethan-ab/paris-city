@@ -519,7 +519,10 @@
   "o": "Wagram Food Service — Financière de l'Intendance (Paillaud family office, majority); CEO Nicolas Riché, Bpifrance FIT3 & Eram (minority)",
   "y": "2024",
   "note": "Run by Wagram Food Service, whose majority shareholder is Financière de l'Intendance, a family office linked to the Paillaud family; CEO Nicolas Riché keeps a minority stake. In 2024 Wagram opened its capital (minority, about €10m) to Bpifrance's France Investissement Tourisme 3 fund and the Eram group.",
-  "src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/wagram-food-service-ouvre-son-capital-a-bpifrance-et-eram-2101577"
+  "src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/wagram-food-service-ouvre-son-capital-a-bpifrance-et-eram-2101577",
+  "osm_alt": [
+   "Columbus Café"
+  ]
  },
  {
   "type": "brand",
@@ -1004,7 +1007,10 @@
   "o": "Junk Group (founders; Elevation Capital Partners minority)",
   "y": "2023",
   "note": "New York-style cookie and coffee shop brand launched in Paris in 2023 by Junk Group (also owner of Junk burgers), which raised €1.5m in 2022 from Elevation Capital Partners.",
-  "src": "https://linkedin.com/company/junkgroup"
+  "src": "https://linkedin.com/company/junkgroup",
+  "osm_alt": [
+   "Puffy Cookies"
+  ]
  },
  {
   "type": "brand",

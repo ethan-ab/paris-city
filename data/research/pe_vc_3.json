@@ -1,8 +1,7 @@
 [
  {
-  "type": "brand",
-  "n": "Bocamexa",
-  "osm": "Bocamexa",
+  "type": "venue",
+  "n": "Bocamexa Réaumur",
   "cu": "Mexican fast-casual (burritos, tacos)",
   "k": "Mexican & Latin",
   "pr": 1,
@@ -10,7 +9,34 @@
   "o": "Arts et Biens (Levy family investment office, majority); founder Julien Zattara",
   "y": "2015",
   "note": "Paris-born Mexican fast-casual chain founded in 2010 by Julien Zattara. Arts et Biens, the investment office behind Le Camion qui Fume, invested in 2015, took a majority stake in 2016 and reinvested in 2019 to fund openings; it lists seven Paris restaurants (about €5m sales in 2023).",
-  "src": "https://www.artsetbiens.com/participations/bocamexa/"
+  "src": "https://www.artsetbiens.com/participations/bocamexa/",
+  "addr": "81 rue Réaumur, 75002 Paris"
+ },
+ {
+  "type": "venue",
+  "n": "Bocamexa Oberkampf",
+  "cu": "Mexican fast-casual (burritos, tacos)",
+  "k": "Mexican & Latin",
+  "pr": 1,
+  "c": "pe",
+  "o": "Arts et Biens (Levy family investment office, majority); founder Julien Zattara",
+  "y": "2015",
+  "note": "Paris-born Mexican fast-casual chain founded in 2010 by Julien Zattara. Arts et Biens, the investment office behind Le Camion qui Fume, invested in 2015, took a majority stake in 2016 and reinvested in 2019 to fund openings; it lists seven Paris restaurants (about €5m sales in 2023).",
+  "src": "https://www.artsetbiens.com/participations/bocamexa/",
+  "addr": "95 rue Oberkampf, 75011 Paris"
+ },
+ {
+  "type": "venue",
+  "n": "Bocamexa Roquette",
+  "cu": "Mexican fast-casual (burritos, tacos)",
+  "k": "Mexican & Latin",
+  "pr": 1,
+  "c": "pe",
+  "o": "Arts et Biens (Levy family investment office, majority); founder Julien Zattara",
+  "y": "2015",
+  "note": "Paris-born Mexican fast-casual chain founded in 2010 by Julien Zattara. Arts et Biens, the investment office behind Le Camion qui Fume, invested in 2015, took a majority stake in 2016 and reinvested in 2019 to fund openings; it lists seven Paris restaurants (about €5m sales in 2023).",
+  "src": "https://www.artsetbiens.com/participations/bocamexa/",
+  "addr": "12 rue de la Roquette, 75011 Paris"
  },
  {
   "type": "brand",
@@ -247,9 +273,8 @@
   "src": "https://idico.fr/wp-content/uploads/2026/03/20032026-CP-idiCo-investissement-Kaviari.pdf"
  },
  {
-  "type": "brand",
+  "type": "venue",
   "n": "The Salad Project",
-  "osm": "The Salad Project",
   "cu": "Premium salad bar",
   "k": "Sandwiches & salads",
   "pr": 2,
@@ -257,7 +282,8 @@
   "o": "Founders Florian de Chezelles & James Dare; Active Partners (minority), Nick Jones, Will Shu",
   "y": "2026",
   "note": "London salad-bar chain founded in 2021. Its January 2026 £9m round brought in the consumer growth investor Active Partners (Honest Burgers, Sticks'n'Sushi) as a minority shareholder, alongside the Soho House and Deliveroo founders. The round funded its first site outside the UK, at 107 rue Réaumur, which opened in September 2026.",
-  "src": "https://www.thecaterer.com/news/the-salad-project-secures-funding-to-expand-into-europe"
+  "src": "https://www.thecaterer.com/news/the-salad-project-secures-funding-to-expand-into-europe",
+  "addr": "107 rue Réaumur, 75002 Paris"
  },
  {
   "type": "venue",
@@ -273,12 +299,8 @@
   "src": "https://www.septentrion-finance.fr/en/news/brique-house-le-concept-food-drink-lillois-dope-sa-croissance-avec-une-levee-de-fonds-de-pres-de-4-meur"
  },
  {
-  "type": "brand",
-  "n": "Ernest & Valentin",
-  "osm": "Ernest & Valentin",
-  "osm_alt": [
-   "Ernest et Valentin"
-  ],
+  "type": "venue",
+  "n": "Ernest & Valentin Réaumur",
   "cu": "Artisan bakery & pâtisserie",
   "k": "Bakery & pastry",
   "pr": 1,
@@ -286,7 +308,34 @@
   "o": "Founder Logan Lafond; Audacia (minority) and private investors",
   "y": "2020",
   "note": "Paris artisan bakery chain founded in 2013 by brothers Logan and Bradley Lafond, with nine shops in Paris and the inner suburbs (over €10m sales in 2022). The founders sold part of the group in 2020, and Audacia lists it in its private-equity portfolio. The shareholding was then reshaped through to a €3m round in 2023 from individual investors and its historical financial partners.",
-  "src": "https://www.audacia.fr/en/portfolio/ernest-et-valentin/"
+  "src": "https://www.audacia.fr/en/portfolio/ernest-et-valentin/",
+  "addr": "42 rue Réaumur, 75003 Paris"
+ },
+ {
+  "type": "venue",
+  "n": "Ernest & Valentin Faubourg Saint-Antoine",
+  "cu": "Artisan bakery & pâtisserie",
+  "k": "Bakery & pastry",
+  "pr": 1,
+  "c": "pe",
+  "o": "Founder Logan Lafond; Audacia (minority) and private investors",
+  "y": "2020",
+  "note": "Paris artisan bakery chain founded in 2013 by brothers Logan and Bradley Lafond, with nine shops in Paris and the inner suburbs (over €10m sales in 2022). The founders sold part of the group in 2020, and Audacia lists it in its private-equity portfolio. The shareholding was then reshaped through to a €3m round in 2023 from individual investors and its historical financial partners.",
+  "src": "https://www.audacia.fr/en/portfolio/ernest-et-valentin/",
+  "addr": "153 rue du Faubourg Saint-Antoine, 75011 Paris"
+ },
+ {
+  "type": "venue",
+  "n": "Ernest & Valentin Renard",
+  "cu": "Artisan bakery & pâtisserie",
+  "k": "Bakery & pastry",
+  "pr": 1,
+  "c": "pe",
+  "o": "Founder Logan Lafond; Audacia (minority) and private investors",
+  "y": "2020",
+  "note": "Paris artisan bakery chain founded in 2013 by brothers Logan and Bradley Lafond, with nine shops in Paris and the inner suburbs (over €10m sales in 2022). The founders sold part of the group in 2020, and Audacia lists it in its private-equity portfolio. The shareholding was then reshaped through to a €3m round in 2023 from individual investors and its historical financial partners.",
+  "src": "https://www.audacia.fr/en/portfolio/ernest-et-valentin/",
+  "addr": "5 rue du Renard, 75004 Paris"
  },
  {
   "type": "brand",
@@ -302,9 +351,8 @@
   "src": "https://odysseeventure.com/participation-labelferme"
  },
  {
-  "type": "brand",
+  "type": "venue",
   "n": "Les Fils à Maman",
-  "osm": "Les Fils à Maman",
   "cu": "Comfort-food bistro & bar",
   "k": "French bistro",
   "pr": 2,
@@ -312,7 +360,8 @@
   "o": "La Bonbonnière group; Audacia (since 2023)",
   "y": "2023",
   "note": "Childhood-comfort-food bistro chain with one Paris site (rue Geoffroy-Marie, 9th). Its parent La Bonbonnière, which runs about 40 restaurants mainly under Les Fils à Maman and Le Clan des Mamma, took growth capital from Charles Beigbeder's fund Audacia in 2023 and is still in its portfolio.",
-  "src": "https://www.audacia.fr/portfolio/la-bonbonniere/"
+  "src": "https://www.audacia.fr/portfolio/la-bonbonniere/",
+  "addr": "7 bis rue Geoffroy-Marie, 75009 Paris"
  },
  {
   "type": "venue",
@@ -435,22 +484,8 @@
   "src": "https://www.reuters.com/business/retail-consumer/acai-chain-oakberry-raises-67-mln-btg-funds-global-expansion-boost-2023-12-22/"
  },
  {
-  "type": "brand",
-  "n": "Maison Georges Larnicol",
-  "osm": "Maison Georges Larnicol",
-  "cu": "Breton chocolatier & kouign-amann",
-  "k": "Bakery & pastry",
-  "pr": 2,
-  "c": "pe",
-  "o": "Georges Larnicol (founder); CM-CIC Capital (now Crédit Mutuel Equity) and Sodero Gestion (minority)",
-  "y": "2014",
-  "note": "Concarneau-based chocolate and kouign-amann maker with about thirty shops, several in Paris. In 2014 it raised €1.2m from CM-CIC Capital and Sodero Gestion (Caisse d'Épargne) as minority investors. No exit has been reported.",
-  "src": "https://www.reussir.fr/articles/le-chocolatier-larnicol-leve-12-million-deuros"
- },
- {
-  "type": "brand",
-  "n": "Arkose",
-  "osm": "Arkose",
+  "type": "venue",
+  "n": "Arkose Chevaleret",
   "cu": "Bouldering-gym canteens & bars",
   "k": "Healthy & veggie",
   "pr": 1,
@@ -458,7 +493,8 @@
   "o": "Founders (Steve Guillou, Samy Camarzana, Lyes Mekesser, Grégoire de Belmont); NextStage, Bpifrance",
   "y": "2018",
   "note": "Bouldering-gym group whose sites include a canteen and bar open to the public (several in Paris). The listed investment platform NextStage invested in 2018 and Bpifrance joined in 2021. The founders keep governance control although they no longer hold a majority of the capital.",
-  "src": "https://www.zonebourse.com/cours/action/NEXTSTAGE-32483418/actualite/NextStage-Communique-de-presse-NextStage-Investissement-dans-le-groupe-Arkose-27202834/"
+  "src": "https://www.zonebourse.com/cours/action/NEXTSTAGE-32483418/actualite/NextStage-Communique-de-presse-NextStage-Investissement-dans-le-groupe-Arkose-27202834/",
+  "addr": "181 rue du Chevaleret, 75013 Paris"
  },
  {
   "type": "brand",

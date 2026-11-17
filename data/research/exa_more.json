@@ -542,7 +542,10 @@
   "o": "Founder Haytam Boubtane (Five Original Corporation; franchise network)",
   "y": "2012",
   "note": "Low-price pizza chain founded in 2012 and franchised since 2018 (about 50 restaurants). The franchisor, Five Original Corporation in Fresnes, is run by founder Haytam Boubtane; most branches are owned by franchisees.",
-  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/five-original-corporation-five-pizza-original-832995021"
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/five-original-corporation-five-pizza-original-832995021",
+  "osm_alt": [
+   "Five Pizza"
+  ]
  },
  {
   "type": "brand",
