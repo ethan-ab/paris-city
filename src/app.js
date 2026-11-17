@@ -238,7 +238,7 @@ function showCard(p){
     <h2>${esc(p.n)}</h2><div class="area">${esc([p.cu, p.a].filter(Boolean).join(' · '))} ${priceHtml(p.pr)}</div>
     <dl>${p.o ? `<dt>${p.c === 'ind' ? 'Owned by' : 'Backer'}</dt><dd>${esc(p.o)}</dd>` : ''}${p.y ? `<dt>Since</dt><dd>${esc(p.y)}</dd>` : ''}</dl>
     ${p.note ? `<p>${esc(p.note)}</p>` : ''}
-    ${p.src ? `<a class="src" target="_blank" rel="noopener" href="${esc(p.src)}">Source: ${esc(host)} ↗</a>` : ''}
+    ${/^https?:\/\//i.test(p.src || '') ? `<a class="src" target="_blank" rel="noopener" href="${esc(p.src)}">Source: ${esc(host)} ↗</a>` : ''}
     ${alts.length ? `<div class="alts"><h3>Independent nearby</h3>${alts.map(a => `<button class="alt" data-i="${a.q.i}"><div><b>${esc(a.q.n)}</b><br><span>${esc(a.q.cu || '')}</span></div><i>${walk(a.m)}</i></button>`).join('')}</div>` : ''}`;
   card.querySelector('.x').onclick = () => select(null);
   card.querySelectorAll('.alt').forEach(b => b.onclick = () => select(+b.dataset.i, true));
@@ -360,4 +360,7 @@ sgForm.addEventListener('submit', async e => {
 });
 
 render();
+
+/* Read-only hooks for the end-to-end tests (tests/*.spec.js). */
+window.__pfmm = {map, places:PLACES, isReady:() => ready, selected:() => selected, nearIds:() => nearIds.slice()};
 })();

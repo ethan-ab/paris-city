@@ -1326,7 +1326,7 @@
 ]
 },
 {
-"n": "Cojean · Rue de Provence",
+"n": "Cojean · Rue de Provence (2)",
 "cu": "Healthy fast casual",
 "k": "Sandwiches & salads",
 "pr": 2,
@@ -2651,23 +2651,6 @@
 ]
 },
 {
-"n": "Le Pain Quotidien · Place Raoul Dautry",
-"cu": "Bakery-café",
-"k": "Café",
-"pr": 2,
-"c": "pe",
-"o": "M80 (majority) & Cobepa (minority)",
-"y": "2020",
-"note": "After a 2020 restructuring, Belgian investment fund M80 became majority shareholder of the entity holding the brand and the Belgian and French stores, with investment company Cobepa keeping a minority stake.",
-"src": "https://www.cobepa.com/en/Investments/Le-Pain-Quotidien",
-"a": "Place Raoul Dautry",
-"area": "15e · Vaugirard",
-"ll": [
-48.84156,
-2.31991
-]
-},
-{
 "n": "Le Pain Quotidien · Place du 11 Novembre 1918",
 "cu": "Bakery-café",
 "k": "Café",
@@ -3447,23 +3430,6 @@
 "ll": [
 48.85332,
 2.34274
-]
-},
-{
-"n": "O'Tacos · 24 Rue Saint-André des Arts",
-"cu": "French tacos",
-"k": "Burgers & chicken",
-"pr": 1,
-"c": "pe",
-"o": "QSRP (Kharis Capital, majority)",
-"y": "2018",
-"note": "Belgian investment firm Kharis Capital took a majority stake in May 2018 via its quick-service platform QSRP; founders stayed involved. The chain is almost entirely franchised.",
-"src": "https://www.toute-la-franchise.com/article-otacos-dunkin-chopstix",
-"a": "24 Rue Saint-André des Arts",
-"area": "6e · Saint-Germain",
-"ll": [
-48.85366,
-2.34286
 ]
 },
 {
@@ -5065,7 +5031,7 @@
 ]
 },
 {
-"n": "Subway · Boulevard de Grenelle",
+"n": "Subway · Boulevard de Grenelle (2)",
 "cu": "Sandwiches",
 "k": "Sandwiches & salads",
 "pr": 1,
@@ -6129,23 +6095,6 @@
 ]
 },
 {
-"n": "Brioche Dorée · Allée du Chef d'Escadron de Guillebon",
-"cu": "Bakery café",
-"k": "Bakery & pastry",
-"pr": 1,
-"c": "corp",
-"o": "Groupe Le Duff (Louis Le Duff)",
-"y": "1976",
-"note": "Brioche Dorée is the founding brand of Groupe Le Duff, the Rennes-based family group (≈€2.8bn sales in 2025) also behind Bridor.",
-"src": "https://www.groupeleduff.com/home/chiffres-cles",
-"a": "Allée du Chef d'Escadron de Guillebon",
-"area": "14e · Montparnasse",
-"ll": [
-48.84081,
-2.31983
-]
-},
-{
 "n": "Brioche Dorée · Arcade des Champs-Élysées",
 "cu": "Bakery café",
 "k": "Bakery & pastry",
@@ -6248,7 +6197,7 @@
 ]
 },
 {
-"n": "Brioche Dorée · Place Raoul Dautry",
+"n": "Brioche Dorée · Place Raoul Dautry (2)",
 "cu": "Bakery café",
 "k": "Bakery & pastry",
 "pr": 1,
@@ -9337,22 +9286,6 @@
 ]
 },
 {
-"n": "Paul · Parking Saint-Lazare",
-"cu": "Bakery",
-"k": "Bakery & pastry",
-"pr": 2,
-"c": "corp",
-"o": "Groupe Holder (Holder family)",
-"note": "Paul belongs to the 100% family-owned Groupe Holder (≈€1bn sales, ~850 shops worldwide), chaired by Maxime Holder.",
-"src": "https://www.lejournaldesentreprises.com/article/bfm-le-jde-boulangeries-paul-linternational-ne-doit-pas-etre-une-echappatoire-2113278",
-"a": "Parking Saint-Lazare",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.87635,
-2.32548
-]
-},
-{
 "n": "Paul · Passage de la Canopée",
 "cu": "Bakery",
 "k": "Bakery & pastry",
@@ -9449,22 +9382,6 @@
 ]
 },
 {
-"n": "Paul · Place du 11 Novembre 1918",
-"cu": "Bakery",
-"k": "Bakery & pastry",
-"pr": 2,
-"c": "corp",
-"o": "Groupe Holder (Holder family)",
-"note": "Paul belongs to the 100% family-owned Groupe Holder (≈€1bn sales, ~850 shops worldwide), chaired by Maxime Holder.",
-"src": "https://www.lejournaldesentreprises.com/article/bfm-le-jde-boulangeries-paul-linternational-ne-doit-pas-etre-une-echappatoire-2113278",
-"a": "Place du 11 Novembre 1918",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.8773,
-2.35904
-]
-},
-{
 "n": "Paul · Place du Musée du Louvre",
 "cu": "Bakery",
 "k": "Bakery & pastry",
@@ -9558,22 +9475,6 @@
 "ll": [
 48.84456,
 2.37672
-]
-},
-{
-"n": "Paul · Rue de Chalon",
-"cu": "Bakery",
-"k": "Bakery & pastry",
-"pr": 2,
-"c": "corp",
-"o": "Groupe Holder (Holder family)",
-"note": "Paul belongs to the 100% family-owned Groupe Holder (≈€1bn sales, ~850 shops worldwide), chaired by Maxime Holder.",
-"src": "https://www.lejournaldesentreprises.com/article/bfm-le-jde-boulangeries-paul-linternational-ne-doit-pas-etre-une-echappatoire-2113278",
-"a": "Rue de Chalon",
-"area": "12e · Bercy & Nation",
-"ll": [
-48.84488,
-2.37603
 ]
 },
 {
@@ -10380,22 +10281,6 @@
 ]
 },
 {
-"n": "Starbucks · Boulevard Saint-Michel",
-"cu": "Coffee",
-"k": "Coffee",
-"pr": 2,
-"c": "corp",
-"o": "Alsea (Mexican listed group), Starbucks licensee",
-"note": "Starbucks France is run by Café Sirène France, a company of Mexico's listed Alsea group, under licence from Starbucks Corporation.",
-"src": "https://www.starbucks.fr/terms-of-use",
-"a": "Boulevard Saint-Michel",
-"area": "6e · Saint-Germain",
-"ll": [
-48.85194,
-2.34369
-]
-},
-{
 "n": "Starbucks · Boulevard des Capucines",
 "cu": "Coffee",
 "k": "Coffee",
@@ -10713,22 +10598,6 @@
 "ll": [
 48.84431,
 2.37647
-]
-},
-{
-"n": "Starbucks · Rue de Chalon",
-"cu": "Coffee",
-"k": "Coffee",
-"pr": 2,
-"c": "corp",
-"o": "Alsea (Mexican listed group), Starbucks licensee",
-"note": "Starbucks France is run by Café Sirène France, a company of Mexico's listed Alsea group, under licence from Starbucks Corporation.",
-"src": "https://www.starbucks.fr/terms-of-use",
-"a": "Rue de Chalon",
-"area": "12e · Bercy & Nation",
-"ll": [
-48.8449,
-2.37603
 ]
 },
 {

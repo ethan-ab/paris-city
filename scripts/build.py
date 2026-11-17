@@ -230,6 +230,17 @@ def main():
         print('  branch pins replaced by venue records:', dropped)
     for p in places:
         p.pop('_brand', None)
+    # Same name twice: a branch mapped twice on OSM (within 150 m) is dropped, distinct sites get a number.
+    by_name, kept = {}, []
+    for p in places:
+        prev = by_name.setdefault(p['n'], [])
+        if any(abs(q['ll'][0] - p['ll'][0]) < 0.00135 and abs(q['ll'][1] - p['ll'][1]) < 0.002 for q in prev):
+            continue
+        prev.append(p)
+        if len(prev) > 1:
+            p = dict(p, n=f"{p['n']} ({len(prev)})")
+        kept.append(p)
+    places = kept
     places.sort(key=lambda p: ({'pe': 0, 'vc': 1, 'corp': 2, 'ind': 3}[p['c']], p['n']))
     counts = {c: sum(p['c'] == c for p in places) for c in ('pe', 'vc', 'corp', 'ind')}
     print('places:', len(places), counts)
@@ -275,7 +286,6 @@ def build_artifact(html):
     h = h.replace('</head>\n<body>', '').replace('</body>\n</html>', '')
     h = re.sub(r'<link rel="preconnect" href="https://tiles.openfreemap.org"[^>]*>\n', '', h)
     h = h.replace('<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">', '<style>' + mlcss + '</style>')
-    h = re.sub(r'<meta name="viewport"[^>]*>\n', '', h)
     h = h.replace('<script src="app.js"></script>', '<script>window.BASEMAP=' + basemap + ';</script>\n<script>' + app.replace('</script', '<\\/script') + '</script>')
     os.makedirs(os.path.join(ROOT, 'artifact'), exist_ok=True)
     out = os.path.join(ROOT, 'artifact', 'paris-food-money-matrix.html')

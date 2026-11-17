@@ -3,3 +3,6 @@ node_modules/
 .DS_Store
 __pycache__/
 artifact/
+node_modules/
+test-results/
+playwright-report/
