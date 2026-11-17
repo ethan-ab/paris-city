@@ -1,0 +1,1009 @@
+[
+ {
+  "type": "venue",
+  "n": "Le Fleurus",
+  "addr": "10 Boulevard Jourdan, 75014 Paris",
+  "ll": [
+   48.819782,
+   2.343067
+  ],
+  "pc": "75014",
+  "cu": "Bar",
+  "k": "Wine & cocktail bar",
+  "pr": 2,
+  "c": "ind",
+  "o": "Selena",
+  "y": "2025",
+  "note": "Run by Selena (SIREN 990142887), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/990142887",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Le Gentilly",
+  "addr": "Rue de l'Amiral Mouchez, 75013 Paris",
+  "ll": [
+   48.819648,
+   2.344633
+  ],
+  "pc": "75013",
+  "cu": "Café",
+  "k": "Café",
+  "pr": 2,
+  "c": "ind",
+  "o": "Cafe Barrez",
+  "y": "2018",
+  "note": "Run by Cafe Barrez (SIREN 844331421), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/844331421",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Kayanes",
+  "addr": "Boulevard Kellermann, 75013 Paris",
+  "ll": [
+   48.820553,
+   2.355382
+  ],
+  "pc": "75013",
+  "cu": "Bakery",
+  "k": "Bakery & pastry",
+  "pr": 1,
+  "c": "ind",
+  "o": "Kayanes",
+  "y": "2017",
+  "note": "Run by Kayanes (SIREN 825338866), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/825338866",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Chez Julia",
+  "addr": "168 Boulevard Masséna, 75013 Paris",
+  "ll": [
+   48.819354,
+   2.359732
+  ],
+  "pc": "75013",
+  "cu": "Italian",
+  "k": "Italian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Clk Paris",
+  "y": "2025",
+  "note": "Run by Clk Paris (SIREN 991749649), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/991749649",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Le Mandarin",
+  "addr": "Boulevard Masséna, 75013 Paris",
+  "ll": [
+   48.819361,
+   2.360124
+  ],
+  "pc": "75013",
+  "cu": "Restaurant",
+  "k": "Other",
+  "pr": 2,
+  "c": "ind",
+  "o": "New Mandarin Massena",
+  "y": "1998",
+  "note": "Run by New Mandarin Massena (SIREN 418541439), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/418541439",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Le Comptoir de Simon",
+  "addr": "Avenue Léon Bollée, 75013 Paris",
+  "ll": [
+   48.818135,
+   2.360921
+  ],
+  "pc": "75013",
+  "cu": "Restaurant",
+  "k": "Other",
+  "pr": 2,
+  "c": "ind",
+  "o": "Sarl Simtal",
+  "y": "2012",
+  "note": "Run by Sarl Simtal (SIREN 753132356), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/753132356",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Ye 13",
+  "addr": "Rue Tagore, 75013 Paris",
+  "ll": [
+   48.820271,
+   2.359411
+  ],
+  "pc": "75013",
+  "cu": "Asian",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Ye 13",
+  "y": "2025",
+  "note": "Run by Ye 13 (SIREN 989503933), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/989503933",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Encore un Bol",
+  "addr": "Boulevard Masséna, 75013 Paris",
+  "ll": [
+   48.819125,
+   2.362444
+  ],
+  "pc": "75013",
+  "cu": "Asian",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Encore Un Bol",
+  "y": "2020",
+  "note": "Run by Encore Un Bol (SIREN 888352648), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/888352648",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Phô Cô",
+  "addr": "142 Boulevard Masséna, 75013 Paris",
+  "ll": [
+   48.819662,
+   2.362418
+  ],
+  "pc": "75013",
+  "cu": "Asian",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Nta Hanoi",
+  "y": "2019",
+  "note": "Run by Nta Hanoi (SIREN 851725010), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/851725010",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Tabac des Sports",
+  "addr": "Boulevard Masséna, 75013 Paris",
+  "ll": [
+   48.819653,
+   2.364721
+  ],
+  "pc": "75013",
+  "cu": "Pub",
+  "k": "Wine & cocktail bar",
+  "pr": 2,
+  "c": "ind",
+  "o": "Tabac Des Sports",
+  "y": "1967",
+  "note": "Run by Tabac Des Sports (SIREN 672011020), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/672011020",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Melinda",
+  "addr": "Rue Lachelier, 75013 Paris",
+  "ll": [
+   48.819372,
+   2.365527
+  ],
+  "pc": "75013",
+  "cu": "Asian",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Melinda",
+  "y": "1983",
+  "note": "Run by Melinda (SIREN 328659768), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/328659768",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "New Hoa Khoan",
+  "addr": "Allée Éric Chabeur, 75013 Paris",
+  "ll": [
+   48.820841,
+   2.363398
+  ],
+  "pc": "75013",
+  "cu": "Chinese",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "New Hoa Khoan",
+  "y": "1989",
+  "note": "Run by New Hoa Khoan (SIREN 350021747), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/350021747",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Les Délices d'Orléans",
+  "addr": "Boulevard Brune, 75014 Paris",
+  "ll": [
+   48.823468,
+   2.323461
+  ],
+  "pc": "75014",
+  "cu": "Kebab",
+  "k": "Middle Eastern",
+  "pr": 1,
+  "c": "ind",
+  "o": "Sole trader",
+  "y": "2005",
+  "note": "Run by a sole trader (entreprise individuelle, SIREN 485109383), the most independent form a French business can take; no group or investor is involved, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/485109383",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Baguette éclair",
+  "addr": "Boulevard Jourdan, 75014 Paris",
+  "ll": [
+   48.822465,
+   2.328014
+  ],
+  "pc": "75014",
+  "cu": "Bakery",
+  "k": "Bakery & pastry",
+  "pr": 1,
+  "c": "ind",
+  "o": "Rys Boulangerie",
+  "y": "2024",
+  "note": "Run by Rys Boulangerie (SIREN 929983104), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/929983104",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Le Corentin",
+  "addr": "104 Boulevard Jourdan, 75014 Paris",
+  "ll": [
+   48.823206,
+   2.326622
+  ],
+  "pc": "75014",
+  "cu": "Café",
+  "k": "Café",
+  "pr": 2,
+  "c": "ind",
+  "o": "Le Corentin",
+  "y": "2008",
+  "note": "Run by Le Corentin (SIREN 509537783), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/509537783",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Lività",
+  "addr": "Boulevard Jourdan, 75014 Paris",
+  "ll": [
+   48.823277,
+   2.326257
+  ],
+  "pc": "75014",
+  "cu": "Bakery",
+  "k": "Bakery & pastry",
+  "pr": 1,
+  "c": "ind",
+  "o": "Livita Jourdan",
+  "y": "2026",
+  "note": "Run by Livita Jourdan (SIREN 101802783), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/101802783",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Auto Passion",
+  "addr": "Boulevard Brune, 75014 Paris",
+  "ll": [
+   48.823622,
+   2.324755
+  ],
+  "pc": "75014",
+  "cu": "Pub",
+  "k": "Wine & cocktail bar",
+  "pr": 2,
+  "c": "ind",
+  "o": "Auto Passion Cafe",
+  "y": "1956",
+  "note": "Run by Auto Passion Cafe (SIREN 562028183), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/562028183",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Jardin de Montsouris",
+  "addr": "Rue Liard, 75014 Paris",
+  "ll": [
+   48.821118,
+   2.341291
+  ],
+  "pc": "75014",
+  "cu": "Vietnamese",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Le Jardin De Montsouris",
+  "y": "2009",
+  "note": "Run by Le Jardin De Montsouris (SIREN 519008726), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/519008726",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Le Fournil de l’Amiral",
+  "addr": "Rue de l'Amiral Mouchez, 75013 Paris",
+  "ll": [
+   48.821718,
+   2.34241
+  ],
+  "pc": "75013",
+  "cu": "Bakery",
+  "k": "Bakery & pastry",
+  "pr": 1,
+  "c": "ind",
+  "o": "Le Fournil De L'Amiral",
+  "y": "2019",
+  "note": "Run by Le Fournil De L'Amiral (SIREN 851356386), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/851356386",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "La Fabrique aux gourmandises",
+  "addr": "82 Rue de l'Amiral Mouchez, 75014 Paris",
+  "ll": [
+   48.820906,
+   2.342952
+  ],
+  "pc": "75014",
+  "cu": "Bakery",
+  "k": "Bakery & pastry",
+  "pr": 1,
+  "c": "ind",
+  "o": "La Fabrique Aux Gourmandises",
+  "y": "2010",
+  "note": "Run by La Fabrique Aux Gourmandises (SIREN 523586006), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/523586006",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "New Chen Regal",
+  "addr": "104 Rue Bobillot, 75013 Paris",
+  "ll": [
+   48.822677,
+   2.34697
+  ],
+  "pc": "75013",
+  "cu": "Chinese",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Sole trader",
+  "y": "2017",
+  "note": "Run by a sole trader (entreprise individuelle, SIREN 830976577), the most independent form a French business can take; no group or investor is involved, and this is one of its 2 sites.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/830976577",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Maharani Indian Cuisine",
+  "addr": "Rue Auguste Lançon, 75013 Paris",
+  "ll": [
+   48.823705,
+   2.3452
+  ],
+  "pc": "75013",
+  "cu": "Indian",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Mondal",
+  "y": "2025",
+  "note": "Run by Mondal (SIREN 990166191), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/990166191",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Saveurs d'Himalaya",
+  "addr": "Rue Boussingault, 75013 Paris",
+  "ll": [
+   48.823798,
+   2.345058
+  ],
+  "pc": "75013",
+  "cu": "Indian",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Royal Bangla",
+  "y": "2012",
+  "note": "Run by Royal Bangla (SIREN 789687076), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/789687076",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Le Flanker",
+  "addr": "Rue du Docteur Tuffier, 75013 Paris",
+  "ll": [
+   48.822252,
+   2.355056
+  ],
+  "pc": "75013",
+  "cu": "Café",
+  "k": "Café",
+  "pr": 2,
+  "c": "ind",
+  "o": "Sole trader",
+  "y": "2014",
+  "note": "Run by a sole trader (entreprise individuelle, SIREN 539191031), the most independent form a French business can take; no group or investor is involved, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/539191031",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Populus",
+  "addr": "Rue du Tage, 75013 Paris",
+  "ll": [
+   48.822197,
+   2.35547
+  ],
+  "pc": "75013",
+  "cu": "French",
+  "k": "French bistro",
+  "pr": 2,
+  "c": "ind",
+  "o": "Masafza",
+  "y": "2017",
+  "note": "Run by Masafza (SIREN 833463565), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/833463565",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Bambou Vert",
+  "addr": "156 Avenue d'Italie, 75013 Paris",
+  "ll": [
+   48.821971,
+   2.358264
+  ],
+  "pc": "75013",
+  "cu": "Vietnamese",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Bambou Vert",
+  "y": "2023",
+  "note": "Run by Bambou Vert (SIREN 791180425), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/791180425",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Arashi Yama",
+  "addr": "156 Avenue d'Italie, 75013 Paris",
+  "ll": [
+   48.822028,
+   2.358248
+  ],
+  "pc": "75013",
+  "cu": "Japanese",
+  "k": "Japanese",
+  "pr": 2,
+  "c": "ind",
+  "o": "Yaki",
+  "y": "2009",
+  "note": "Run by Yaki (SIREN 509930418), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/509930418",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Aoi Thai Spicy",
+  "addr": "Rue Caillaux, 75013 Paris",
+  "ll": [
+   48.822231,
+   2.35925
+  ],
+  "pc": "75013",
+  "cu": "Thai",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Aoi Felix Thai Spicy",
+  "y": "2024",
+  "note": "Run by Aoi Felix Thai Spicy (SIREN 932890445), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/932890445",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Entre Potes",
+  "addr": "Rue du Tage, 75013 Paris",
+  "ll": [
+   48.822126,
+   2.358213
+  ],
+  "pc": "75013",
+  "cu": "Bar",
+  "k": "Wine & cocktail bar",
+  "pr": 2,
+  "c": "ind",
+  "o": "Entre Potes",
+  "y": "2017",
+  "note": "Run by Entre Potes (SIREN 834275430), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/834275430",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Aoi Spicy",
+  "addr": "Rue Caillaux, 75013 Paris",
+  "ll": [
+   48.822282,
+   2.359619
+  ],
+  "pc": "75013",
+  "cu": "Thai",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Aoi Thai Spicy",
+  "y": "2023",
+  "note": "Run by Aoi Thai Spicy (SIREN 980597827), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/980597827",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Maison Jenny",
+  "addr": "9 Rue Gandon, 75013 Paris",
+  "ll": [
+   48.821955,
+   2.360806
+  ],
+  "pc": "75013",
+  "cu": "Asian",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Maison Jenny",
+  "y": "2022",
+  "note": "Run by Maison Jenny (SIREN 913034922), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/913034922",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Hang Meas",
+  "addr": "Rue Philibert Lucot, 75013 Paris",
+  "ll": [
+   48.822133,
+   2.360777
+  ],
+  "pc": "75013",
+  "cu": "Asian",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Mohaka",
+  "y": "2006",
+  "note": "Run by Mohaka (SIREN 488420688), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/488420688",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Bêp Viêt",
+  "addr": "14 Rue Caillaux, 75013 Paris",
+  "ll": [
+   48.822596,
+   2.360582
+  ],
+  "pc": "75013",
+  "cu": "Vietnamese",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Staar",
+  "y": "2023",
+  "note": "Run by Staar (SIREN 982642506), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/982642506",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Malibu Lounge",
+  "addr": "Rue Bourgon, 75013 Paris",
+  "ll": [
+   48.822947,
+   2.357726
+  ],
+  "pc": "75013",
+  "cu": "African",
+  "k": "Other",
+  "pr": 2,
+  "c": "ind",
+  "o": "Malibu Lounge",
+  "y": "2019",
+  "note": "Run by Malibu Lounge (SIREN 848278537), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/848278537",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Thaï Yim",
+  "addr": "Rue Caillaux, 75013 Paris",
+  "ll": [
+   48.822629,
+   2.360674
+  ],
+  "pc": "75013",
+  "cu": "Thai",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Ban Niramon",
+  "y": "2010",
+  "note": "Run by Ban Niramon (SIREN 523008506), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/523008506",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Fuku Sushi",
+  "addr": "Rue Caillaux, 75013 Paris",
+  "ll": [
+   48.822653,
+   2.36075
+  ],
+  "pc": "75013",
+  "cu": "Japanese",
+  "k": "Japanese",
+  "pr": 2,
+  "c": "ind",
+  "o": "Chez Li",
+  "y": "2016",
+  "note": "Run by Chez Li (SIREN 821448370), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/821448370",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Pho 18",
+  "addr": "Rue Philibert Lucot, 75013 Paris",
+  "ll": [
+   48.822229,
+   2.361142
+  ],
+  "pc": "75013",
+  "cu": "Vietnamese",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Pho-Gc",
+  "y": "2015",
+  "note": "Run by Pho-Gc (SIREN 817403025), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/817403025",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Pourquoi Pas",
+  "addr": "Avenue d'Italie, 75013 Paris",
+  "ll": [
+   48.823256,
+   2.357882
+  ],
+  "pc": "75013",
+  "cu": "Café",
+  "k": "Café",
+  "pr": 2,
+  "c": "ind",
+  "o": "Rachel Z",
+  "y": "2016",
+  "note": "Run by Rachel Z (SIREN 825028749), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/825028749",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Fung Shun",
+  "addr": "Avenue de Choisy, 75013 Paris",
+  "ll": [
+   48.82231,
+   2.363151
+  ],
+  "pc": "75013",
+  "cu": "Chinese",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Le Fu",
+  "y": "2015",
+  "note": "Run by Le Fu (SIREN 811960632), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/811960632",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "L'Hommage",
+  "addr": "Avenue de Choisy, 75013 Paris",
+  "ll": [
+   48.822378,
+   2.363112
+  ],
+  "pc": "75013",
+  "cu": "French",
+  "k": "French bistro",
+  "pr": 2,
+  "c": "ind",
+  "o": "Lor Lim & Brothers",
+  "y": "2016",
+  "note": "Run by Lor Lim & Brothers (SIREN 821889359), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/821889359",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Mister Chen",
+  "addr": "Avenue de Choisy, 75013 Paris",
+  "ll": [
+   48.822292,
+   2.362765
+  ],
+  "pc": "75013",
+  "cu": "Chinese",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Mister Chen",
+  "y": "2020",
+  "note": "Run by Mister Chen (SIREN 888604188), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/888604188",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Hauky",
+  "addr": "Avenue de Choisy, 75013 Paris",
+  "ll": [
+   48.822372,
+   2.362713
+  ],
+  "pc": "75013",
+  "cu": "Chinese",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Hauky (via Capsule Em)",
+  "y": "1997",
+  "note": "Run by Hauky (SIREN 325844900), whose president is the small holding Capsule Em, itself managed by private individuals; no group or investor appears in the business register, and this is one of its 3 sites.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/325844900",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Thai Vien",
+  "addr": "Avenue de Choisy, 75013 Paris",
+  "ll": [
+   48.822838,
+   2.362752
+  ],
+  "pc": "75013",
+  "cu": "Thai",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Sole trader",
+  "y": "2024",
+  "note": "Run by a sole trader (entreprise individuelle, SIREN 930208061), the most independent form a French business can take; no group or investor is involved, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/930208061",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Chez Vinh Express",
+  "addr": "Villa d'Este, 75013 Paris",
+  "ll": [
+   48.821827,
+   2.36575
+  ],
+  "pc": "75013",
+  "cu": "Asian",
+  "k": "Asian",
+  "pr": 1,
+  "c": "ind",
+  "o": "Sarl Chez Vinh Express",
+  "y": "2008",
+  "note": "Run by Sarl Chez Vinh Express (SIREN 508764016), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/508764016",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Pâtisserie de Choisy",
+  "addr": "Avenue de Choisy, 75013 Paris",
+  "ll": [
+   48.823426,
+   2.362273
+  ],
+  "pc": "75013",
+  "cu": "Bakery",
+  "k": "Bakery & pastry",
+  "pr": 1,
+  "c": "ind",
+  "o": "Patisserie De Choisy",
+  "y": "1984",
+  "note": "Run by Patisserie De Choisy (SIREN 328898135), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is one of its 3 sites.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/328898135",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Pho Bom",
+  "addr": "Avenue de Choisy, 75013 Paris",
+  "ll": [
+   48.823453,
+   2.361863
+  ],
+  "pc": "75013",
+  "cu": "Vietnamese",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Thien Phuc",
+  "y": "2024",
+  "note": "Run by Thien Phuc (SIREN 925053019), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/925053019",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Pâtisserie de Saison",
+  "addr": "Avenue d'Ivry, 75013 Paris",
+  "ll": [
+   48.823754,
+   2.364528
+  ],
+  "pc": "75013",
+  "cu": "Asian",
+  "k": "Bakery & pastry",
+  "pr": 1,
+  "c": "ind",
+  "o": "Patisserie De Saison",
+  "y": "1991",
+  "note": "Run by Patisserie De Saison (SIREN 381222520), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/381222520",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "24K Kitchen",
+  "addr": "Avenue de Choisy, 75013 Paris",
+  "ll": [
+   48.824011,
+   2.361814
+  ],
+  "pc": "75013",
+  "cu": "Chicken",
+  "k": "Burgers & chicken",
+  "pr": 1,
+  "c": "ind",
+  "o": "24K Gold Kitchen",
+  "y": "2024",
+  "note": "Run by 24K Gold Kitchen (SIREN 983774878), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/983774878",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Fondue 9",
+  "addr": "93 Rue Baudricourt, 75013 Paris",
+  "ll": [
+   48.823949,
+   2.362246
+  ],
+  "pc": "75013",
+  "cu": "Chinese",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Wym Ii",
+  "y": "2019",
+  "note": "Run by Wym Ii (SIREN 850175118), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/850175118",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Uncle Kang",
+  "addr": "Rue Baudricourt, 75013 Paris",
+  "ll": [
+   48.824173,
+   2.361997
+  ],
+  "pc": "75013",
+  "cu": "Restaurant",
+  "k": "Other",
+  "pr": 2,
+  "c": "ind",
+  "o": "Noodle King",
+  "y": "2024",
+  "note": "Run by Noodle King (SIREN 930225214), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/930225214",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Asian Fusion",
+  "addr": "Rue Baudricourt, 75013 Paris",
+  "ll": [
+   48.82422,
+   2.36206
+  ],
+  "pc": "75013",
+  "cu": "Chinese",
+  "k": "Asian",
+  "pr": 1,
+  "c": "ind",
+  "o": "Tj1",
+  "y": "2011",
+  "note": "Run by Tj1 (SIREN 532284007), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/532284007",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Chinatown Olympiades",
+  "addr": "46 Avenue d'Ivry, 75013 Paris",
+  "ll": [
+   48.823551,
+   2.365739
+  ],
+  "pc": "75013",
+  "cu": "Chinese",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Trio Magique (via S&H Company)",
+  "y": "2025",
+  "note": "Run by Trio Magique (SIREN 945314748), whose president is the small holding S&H Company, itself managed by private individuals; no group or investor appears in the business register, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/945314748",
+  "auto": 1
+ },
+ {
+  "type": "venue",
+  "n": "Maï Taï One",
+  "addr": "44 Avenue d'Ivry, 75013 Paris",
+  "ll": [
+   48.823602,
+   2.365859
+  ],
+  "pc": "75013",
+  "cu": "Vietnamese",
+  "k": "Asian",
+  "pr": 2,
+  "c": "ind",
+  "o": "Ing",
+  "y": "2007",
+  "note": "Run by Ing (SIREN 498225770), an owner-managed company: the business register lists private individuals as its managers, with no group or investor at the helm, and this is its only site.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/498225770",
+  "auto": 1
+ }
+]
