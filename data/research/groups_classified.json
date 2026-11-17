@@ -38,5 +38,545 @@
   "brand": "Côme",
   "note": "Healthy fast-casual chain created in 2010; investment firm 123 IM backed it in July 2017 to fund expansion. The company has been under a court-approved recovery plan since 2023.",
   "src": "https://www.123-im.com/participations/come"
+ },
+ {
+  "group_siren": "881982532",
+  "group_name": "PANDA FRERES HOLDING",
+  "c": "ind",
+  "o": "Panda Frères Holding (co-founders Lucas Sauquet & André Tan)",
+  "y": "2019",
+  "brand": "Panda Panda / Mamahuhu",
+  "note": "Former Lazard bankers Lucas Sauquet and André Tan opened Panda Panda in 2019 and now run about six Chinese restaurants (Tiger Tiger, Baobar, Suzie Wong, Mr Chow) as the only two partners, without outside equity.",
+  "src": "https://www.tendances-restauration.com/panda-panda-depoussierer-le-restaurant-chinois/"
+ },
+ {
+  "group_siren": "504058181",
+  "group_name": "KERIBUS",
+  "c": "ind",
+  "o": "Vertigo Family (founders Julien Fouin & Ludovic Dardenay)",
+  "y": "2008",
+  "brand": "Vertigo Family",
+  "note": "Glou, Jaja, Bonvivant and Bonvivant Pizza belong to Vertigo Family, the group founded in 2008 by Julien Fouin and Ludovic Dardenay, which runs about eight restaurants plus bakeries and a wine business, with staff as minority shareholders.",
+  "src": "https://www.sirhafood.com/fr/julien-fouin-et-ludovic-dardenay-un-developpement-sans-vertige"
+ },
+ {
+  "group_siren": "478616303",
+  "group_name": "BREIZH CAFE",
+  "c": "pe",
+  "o": "Artémis (Pinault family, majority); founder Bertrand Larcher",
+  "y": "2026",
+  "brand": "Breizh Café",
+  "note": "Artémis, the Pinault family investment company and a shareholder since 2017, became majority owner of the French Breizh Café crêperies in June 2026; the operating company is presided by Bertrand Larcher's holding Hermine.",
+  "src": "https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/nous-voulons-accelerer-a-linternational-la-famille-pinault-prend-le-controle-de-la-plupart-des-creperies-breizh-cafe-7070905.php"
+ },
+ {
+  "group_siren": "109958280",
+  "group_name": "HOLDING GROUPE NOIR",
+  "c": "corp",
+  "o": "Méo-Fichaux (Cafés Méo, family-owned coffee roaster), with founders",
+  "y": "2026",
+  "brand": "Noir Coffee Shop",
+  "note": "Noir, founded in 2020 and now about 27 specialty coffee shops, sits under Holding Groupe Noir, created in 2026 and presided by Lille roaster Méo-Fichaux; the co-founders' holdings are directors general.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/109958280"
+ },
+ {
+  "group_siren": "384751749",
+  "group_name": "FINANCIERE JEAN RICHARD",
+  "c": "ind",
+  "o": "Richard family (Groupe Richard / Richard Paris)",
+  "y": "",
+  "brand": "Richard Paris",
+  "note": "Chez Francis and Le Saint-Augustin are part of Richard Paris, the family group founded by Jean Richard and run by his son Nicolas Richard, with about a dozen Paris restaurants (Marius et Janette, Casa Luca, Brasserie Victor Hugo) and the Hôtel Montaigne.",
+  "src": "https://richard-paris.com/"
+ },
+ {
+  "group_siren": "922805122",
+  "group_name": "FINANCIERE GLV",
+  "c": "ind",
+  "o": "Lapérouse Holding (Benjamin Patou & Antoine Arnault)",
+  "y": "2026",
+  "brand": "Lapérouse Holding",
+  "note": "Benjamin Patou, who sold Moma Group, bought L'Auberge Bressane in 2026 alongside Lucas Carton (Senderens), Lapérouse, Prunier and Le Relais Louis XIII through the holding he co-owns with Antoine Arnault.",
+  "src": "https://actu.fr/ile-de-france/paris_75056/l-appetit-d-ogre-de-benjamin-patou-apres-le-relais-louis-xiii-il-rachete-une-nouvelle-institution-de-paris_64546099.html"
+ },
+ {
+  "group_siren": "828227546",
+  "group_name": "FDR HOLDING",
+  "c": "ind",
+  "o": "Yoomy Food Group (co-founders Mathieu Dacheville & Sylvain Breton)",
+  "y": "2022",
+  "brand": "Yoomy Food Group",
+  "note": "Yoomy Food Group, created by the founders of Les Fondus de la Raclette, bought Breakfast in America from its founder in 2022 and runs about six Paris restaurants; Bpifrance and Caisse d'Épargne joined its financing pool (about €1m).",
+  "src": "https://resto.zepros.fr/yoomy-food-group-de-la-raclette-au-multimarque--103594"
+ },
+ {
+  "group_siren": "908362890",
+  "group_name": "BIA HOLDING",
+  "c": "ind",
+  "o": "Yoomy Food Group (co-founders Mathieu Dacheville & Sylvain Breton)",
+  "y": "2022",
+  "brand": "Breakfast in America",
+  "note": "The American diner Breakfast in America (founded 2002 by Craig Carlson) was sold in 2022 to Yoomy Food Group, the founder-run owner of Les Fondus de la Raclette.",
+  "src": "https://kray.eu/fr/p/la-mythique-marque-breakfast-in-america-cedee-a-yoomy-food-group"
+ },
+ {
+  "group_siren": "420833410",
+  "group_name": "DE GUSTIBUS",
+  "c": "corp",
+  "o": "Ducasse Paris (Alain Ducasse's group)",
+  "y": "2018",
+  "brand": "Cucina (Alain Ducasse)",
+  "note": "Cucina, Alain Ducasse's Italian trattoria at the Maison de la Mutualité, opened in 2018 with GL events; its website now says it has closed. Ducasse Paris runs about 30 restaurants worldwide.",
+  "src": "https://www.cucina-mutualite.com/"
+ },
+ {
+  "group_siren": "538825761",
+  "group_name": "CABOSSE & ASSOCIES",
+  "c": "corp",
+  "o": "Ducasse Paris (Alain Ducasse's group)",
+  "y": "",
+  "brand": "Le Chocolat Alain Ducasse",
+  "note": "Cabosse & Associés operates the Le Chocolat Alain Ducasse shops (about 46 establishments registered); the brand is part of Ducasse Paris.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/538825761"
+ },
+ {
+  "group_siren": "804336634",
+  "group_name": "PUYRICARD CORPORATE",
+  "c": "pe",
+  "o": "Roelandts family (majority); Crédit Mutuel Equity (ex-CM-CIC Capital Finance, minority)",
+  "y": "2014",
+  "brand": "Chocolaterie de Puyricard",
+  "note": "Provence chocolate maker founded in 1968; in 2014 Tanguy Roelandts took control of the holding Puyricard Corporate with CM-CIC Capital Finance and a local entrepreneur as minority shareholders (about 40% together). His daughter Solène became president in 2022.",
+  "src": "https://capitalfinance.lesechos.fr/deals/capital-developpement/la-chocolaterie-de-puyricard-reorganise-son-capital-108105"
+ },
+ {
+  "group_siren": "904496254",
+  "group_name": "DENGO EUROPE",
+  "c": "pe",
+  "o": "Dengo Chocolates (majority funded by Maraé, Guilherme Leal's family office); partner Charles Znaty",
+  "y": "2023",
+  "brand": "Dengo",
+  "note": "Brazilian bean-to-bar chocolate brand whose capital comes mostly from Maraé Investimentos, the family office of Natura co-founder Guilherme Leal; Dengo Europe, run by partner Charles Znaty, opened its first Paris shop in 2023.",
+  "src": "https://neofeed.com.br/finde/o-socio-frances-que-convenceu-guilherme-leal-a-levar-a-dengo-para-a-europa/"
+ },
+ {
+  "group_siren": "917485112",
+  "group_name": "MANTEIGARIA FRANCE SAS",
+  "c": "corp",
+  "o": "Grupo Portugália (Portuguese restaurant group, 85% since 2017)",
+  "y": "2017",
+  "brand": "Manteigaria",
+  "note": "Lisbon pastel de nata maker founded in 2014; Grupo Portugália (Cervejaria Trindade, Portugália) bought 85% in 2017. Manteigaria opened in Paris in 2023 and has four shops there.",
+  "src": "https://grandeconsumo.com/en/Portugalia-group-buys-85%25-of-the-butter-factory./"
+ },
+ {
+  "group_siren": "793899642",
+  "group_name": "CAFFE STERN SAS",
+  "c": "ind",
+  "o": "Alajmo family group (Alajmo SpA, Padua)",
+  "y": "2014",
+  "brand": "Alajmo",
+  "note": "Caffè Stern in the Passage des Panoramas was opened in 2014 by the Alajmo brothers (Le Calandre, Padua) with David Lanher; the operating company is presided by Alajmo SpA.",
+  "src": "https://www.timeout.fr/paris/restaurants/caffe-stern"
+ },
+ {
+  "group_siren": "849948401",
+  "group_name": "KOKUBAN FRANCE",
+  "c": "pe",
+  "o": "Hynternet (investment holding)",
+  "y": "2020",
+  "brand": "Kokuban",
+  "note": "Kokuban France, which ran the Kokuban Japanese restaurants in Paris, is listed as a 2020 portfolio holding of the investment company Hynternet; it was placed in judicial liquidation in June 2025.",
+  "src": "https://www.hynternet.com/nos-participations/"
+ },
+ {
+  "group_siren": "752992578",
+  "group_name": "CONTICINI SAS",
+  "c": "pe",
+  "o": "Investor Yoav Peretz (president) with chef Philippe Conticini; Juchheim group (Japan) investor",
+  "y": "2019",
+  "brand": "Philippe Conticini",
+  "note": "Maison Philippe Conticini was co-founded in 2018 by the pastry chef and investor Yoav Peretz, who presides the company; Japanese cake maker Juchheim invested in 2019 to fund new shops.",
+  "src": "https://www.effective-capital.com/le-groupe-conticini-leve-des-fonds-pour-developper-son-reseau-de-boutiques/"
+ },
+ {
+  "group_siren": "441349016",
+  "group_name": "AB2",
+  "c": "pe",
+  "o": "Arts et Biens (Levy family office, ex-Devanlay/Lacoste)",
+  "y": "2014",
+  "brand": "Le Camion qui Fume",
+  "note": "Arts et Biens, the family office of the Levy family (former owners of Devanlay, Lacoste's licensee), invested in Le Camion qui Fume in 2014 and 2016 and controls it through AB2; the brand has about three restaurants.",
+  "src": "https://www.artsetbiens.com/participations/le-camion-qui-fume/"
+ },
+ {
+  "group_siren": "949021869",
+  "group_name": "DÉLICES & CIE",
+  "c": "pe",
+  "o": "Notus Technologies (Geoffroy Roux de Bézieux's investment company)",
+  "y": "2023",
+  "brand": "Benoit Chocolats",
+  "note": "Notus Technologies, the investment company of former Medef president Geoffroy Roux de Bézieux, bought more than 90% of Angers chocolatier Benoit Chocolats in May 2023.",
+  "src": "https://capitalfinance.lesechos.fr/deals/lbo/la-holding-de-geoffroy-roux-de-bezieux-reprend-les-chocolats-benoit-1943528"
+ },
+ {
+  "group_siren": "502580822",
+  "group_name": "NOTUS TECHNOLOGIES",
+  "c": "pe",
+  "o": "Notus Technologies (Geoffroy Roux de Bézieux's investment company)",
+  "y": "2017",
+  "brand": "Le Fondant Baulois",
+  "note": "Le Fondant Baulois, the La Baule chocolate cake maker, has been owned since 2017 by Notus Technologies, Geoffroy Roux de Bézieux's investment company, part of its Notus Gastronomie arm.",
+  "src": "https://www.lesechos.fr/pme-regions/pays-de-la-loire/geoffroy-roux-de-bezieux-reprend-langevin-benoit-chocolats-1945388"
+ },
+ {
+  "group_siren": "942774365",
+  "group_name": "LW SPV",
+  "c": "pe",
+  "o": "Xavier Niel, Pierre-Antoine Capton & Laurent de Gourcuff (one-third each, via personal holdings)",
+  "y": "2025",
+  "brand": "Lily Wang",
+  "note": "The Asian restaurant opened by Jean-Louis Costes in 2011 was bought in 2025 by Xavier Niel, Mediawan's Pierre-Antoine Capton and Paris Society founder Laurent de Gourcuff in equal thirds; the vehicle is presided by Capton's PAC Invest.",
+  "src": "https://www.lechef.com/laurent-de-gourcuff-xavier-niel-et-pierre-antoine-capton-reprennent-lily-wang/"
+ },
+ {
+  "group_siren": "672000049",
+  "group_name": "MARIAGE FRERES",
+  "c": "ind",
+  "o": "Kitti Cha Sangmanee & Franck Desains (equal shareholders)",
+  "y": "1983",
+  "brand": "Mariage Frères",
+  "note": "The 1854 tea house was bought in 1983 by Kitti Cha Sangmanee, later joined by Franck Desains; the two 'refounders' own it in equal shares (about €75m revenue in 2020).",
+  "src": "https://www.lesechos.fr/weekend/business-story/luxe-mariage-freres-une-maison-de-the-tres-courtisee-1366892"
+ },
+ {
+  "group_siren": "848661864",
+  "group_name": "LE PERCHOIR PORTE DE VERSAILLES",
+  "c": "ind",
+  "o": "Perchoir Group (LP Participations, founders' holding)",
+  "y": "2013",
+  "brand": "Le Perchoir",
+  "note": "Family-run rooftop bar group founded in 2013 (Le Perchoir Ménilmontant, Marais, Porte de Versailles); the Porte de Versailles company is presided by LP Participations and has been under a court recovery plan since 2025.",
+  "src": "https://www.pappers.fr/entreprise/le-perchoir-porte-de-versailles-848661864"
+ },
+ {
+  "group_siren": "522140482",
+  "group_name": "COURSEULLES HOLDING",
+  "c": "ind",
+  "o": "Courseulles Holding (Normandy retail franchise holding)",
+  "y": "",
+  "brand": "Land&Monkeys",
+  "note": "The Land&Monkeys Les Halles vegan bakery is run by a company controlled by Courseulles Holding, a Normandy holding whose manager also runs supermarket and retail franchises; the brand itself was founded by Rodolphe Landemaine.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/522140482"
+ },
+ {
+  "group_siren": "433538188",
+  "group_name": "GROUPE PIERRE HERMÉ",
+  "c": "pe",
+  "o": "Butler Industries (Walter Butler), majority; Pierre Hermé",
+  "y": "2021",
+  "brand": "Pierre Hermé",
+  "note": "Walter Butler's investment group bought just over two-thirds of Pierre Hermé Paris from L'Occitane's LOG Investment in December 2021; the holding is presided by Butler's PHP Invest and the chef kept his stake.",
+  "src": "https://www.lefigaro.fr/flash-eco/le-fonds-butler-rachete-les-patisseries-de-luxe-pierre-herme-20211209"
+ },
+ {
+  "group_siren": "489982124",
+  "group_name": "LE GOUT DU NATUREL",
+  "c": "pe",
+  "o": "Groupe Delineo — Crédit Mutuel Equity (lead) & Gimv",
+  "y": "2018",
+  "brand": "Roberta Caffè",
+  "note": "Le Goût du Naturel (Roberta Caffè) has a supervisory board chaired by Crédit Mutuel Equity; the brand belongs to Groupe Delineo (La Croissanterie, Maison Pradier), backed by Crédit Mutuel Equity and Gimv since 2018.",
+  "src": "https://www.oaklins.com/nl/nl/deals/104832/"
+ },
+ {
+  "group_siren": "572154318",
+  "group_name": "LA MAISON DU CHOCOLAT",
+  "c": "corp",
+  "o": "Savencia (Euronext: SAVE)",
+  "y": "",
+  "brand": "La Maison du Chocolat",
+  "note": "Chocolatier founded in Paris by Robert Linxe in 1977, now a subsidiary of the listed dairy group Savencia (presided by its holding Eufipar).",
+  "src": "https://en.wikipedia.org/wiki/La_Maison_du_Chocolat"
+ },
+ {
+  "group_siren": "798419412",
+  "group_name": "IPPUDO PARIS",
+  "c": "corp",
+  "o": "Chikaranomoto Holdings (Tokyo Stock Exchange: 3561)",
+  "y": "2016",
+  "brand": "Ippudo",
+  "note": "Fukuoka ramen chain whose listed parent runs its overseas shops directly; it opened in Paris in 2016 and Ippudo Paris runs several Paris shops.",
+  "src": "https://en.wikipedia.org/wiki/Ippudo"
+ },
+ {
+  "group_siren": "928896398",
+  "group_name": "TORTILLA MEXICAN GRILL FRANCE SAS",
+  "c": "corp",
+  "o": "Tortilla Mexican Grill plc (LSE AIM-listed)",
+  "y": "2024",
+  "brand": "Tortilla",
+  "note": "UK burrito chain listed in London; it entered France in 2024 by buying Fresh Burritos and is converting those restaurants to the Tortilla brand. The French company is presided by the plc.",
+  "src": "https://tortillagroup.co.uk/wp-content/uploads/Tortilla-acquires-Fresh-Burritos.pdf"
+ },
+ {
+  "group_siren": "533214003",
+  "group_name": "PRET (FRANCE)",
+  "c": "pe",
+  "o": "JAB Holding Company",
+  "y": "2018",
+  "brand": "Pret A Manger",
+  "note": "Pret (France) is presided by Pret A Manger (Europe); Pret has been owned by JAB Holding, the Reimann family's investment firm, since 2018 (about £1.5bn).",
+  "src": "https://en.wikipedia.org/wiki/Pret_a_Manger"
+ },
+ {
+  "group_siren": "802844944",
+  "group_name": "BIG MAMMA FOOD",
+  "c": "pe",
+  "o": "McWin Capital Partners (majority) / Big Mamma Group",
+  "y": "2023",
+  "brand": "Big Mamma",
+  "note": "Big Mamma Food sits under Big Mamma SAS and the founders' holding Gran Mamma; McWin Capital Partners' restaurant fund acquired a majority stake in Big Mamma in 2023, with founders Victor Lugger and Tigrane Seydoux staying on.",
+  "src": "https://www.verdictfoodservice.com/news/mcwin-majority-stake-big-mamma/"
+ },
+ {
+  "group_siren": "572062594",
+  "group_name": "GALERIES LAFAYETTE HAUSSMANN - GL HAUSSMANN",
+  "c": "corp",
+  "o": "Groupe Galeries Lafayette (Moulin-Houzé family)",
+  "y": "",
+  "brand": "Galeries Lafayette",
+  "note": "The Lafayette Café is run by the Galeries Lafayette Haussmann department store company, part of the family-owned Galeries Lafayette retail group.",
+  "src": "https://www.groupegalerieslafayette.fr/groupe"
+ },
+ {
+  "group_siren": "822110284",
+  "group_name": "GRANDES BRASSERIES DE L'EST",
+  "c": "ind",
+  "o": "Jean-Noël Dron (Groupe Trasco)",
+  "y": "",
+  "brand": "Groupe Trasco",
+  "note": "Le Petit Bouillon Pharamond's holding is presided by Trasco, the family group of Strasbourg restaurateur Jean-Noël Dron (Bouillon Julien, Brasserie Floderer, Maison Kammerzell).",
+  "src": "https://aucoeurduchr.fr/article/restauration/la-nouvelle-culture-du-bouillon/"
+ },
+ {
+  "group_siren": "834647935",
+  "group_name": "SOREREP",
+  "c": "ind",
+  "o": "Jean-Noël Dron (Groupe Trasco)",
+  "y": "",
+  "brand": "Groupe Trasco",
+  "note": "Brasserie Floderer's holding Sorerep is presided by Trasco, the family group of Strasbourg restaurateur Jean-Noël Dron, which also owns Bouillon Julien.",
+  "src": "https://aucoeurduchr.fr/article/restauration/la-nouvelle-culture-du-bouillon/"
+ },
+ {
+  "group_siren": "331445304",
+  "group_name": "BELLAGIO",
+  "c": "ind",
+  "o": "Menut family (Finam)",
+  "y": "",
+  "brand": "",
+  "note": "Chez Bertrand's company Bellagio is presided by Finam, a holding managed by Georges, Bertrand and Charlotte Menut, who also own Le Ballon des Ternes.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/331445304"
+ },
+ {
+  "group_siren": "931577076",
+  "group_name": "R & D FAMILY INVEST",
+  "c": "ind",
+  "o": "Rachid Selloum (R&D Family Invest)",
+  "y": "",
+  "brand": "",
+  "note": "Les Nouveaux Sauvages' company is controlled by R&D Family Invest, the holding of Belleville restaurateur Rachid Selloum (Aux Folies).",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/931577076"
+ },
+ {
+  "group_siren": "853091973",
+  "group_name": "ADN HOLDING",
+  "c": "ind",
+  "o": "Selloum family holding (ADN Holding)",
+  "y": "",
+  "brand": "",
+  "note": "Les Anémones and Aux Petites Anémones are run by a company controlled by ADN Holding, a family holding of the Selloum family of Belleville restaurateurs.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/853091973"
+ },
+ {
+  "group_siren": "931576870",
+  "group_name": "ENIS FAMILY HOLDING",
+  "c": "ind",
+  "o": "Selloum family holding (Enis Family Holding)",
+  "y": "",
+  "brand": "",
+  "note": "Les Rigoles is controlled by Enis Family Holding, a personal holding of a member of the Selloum family of Belleville restaurateurs.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/931576870"
+ },
+ {
+  "group_siren": "994954584",
+  "group_name": "PSB RESTAURANTS",
+  "c": "ind",
+  "o": "Chef Pierre Sang Boyer (Alios Holding)",
+  "y": "",
+  "brand": "Pierre Sang",
+  "note": "Pierre Sang in Oberkampf and Pierre Sang on Gambey are held via PSB Restaurants, presided by Alios Holding, the holding of chef Pierre Sang Boyer.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/994954584"
+ },
+ {
+  "group_siren": "994967990",
+  "group_name": "PSB EXPRESS",
+  "c": "ind",
+  "o": "Chef Pierre Sang Boyer (Alios Holding)",
+  "y": "",
+  "brand": "Pierre Sang",
+  "note": "The Montparnasse Pierre Sang is held via PSB Express, presided by Alios Holding, chef Pierre Sang Boyer's holding.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/994967990"
+ },
+ {
+  "group_siren": "419213145",
+  "group_name": "ENVOL",
+  "c": "ind",
+  "o": "Chef Antoine Westermann (Westermann family holding)",
+  "y": "",
+  "brand": "Le Coq Rico",
+  "note": "Le Coq Rico is held through Envol, a holding run by the family of Alsatian chef Antoine Westermann, who also owns Le Coq & Fils.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/419213145"
+ },
+ {
+  "group_siren": "382945475",
+  "group_name": "KUNITORAYA FRANCE",
+  "c": "ind",
+  "o": "Chef-founder Masafumi Nomoto",
+  "y": "",
+  "brand": "Kunitoraya",
+  "note": "Kunitoraya France, run by its founder Masafumi Nomoto, operates the Kunitoraya udon and onigiri shops (about four sites).",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/382945475"
+ },
+ {
+  "group_siren": "930383880",
+  "group_name": "QUARTIER GENERAL",
+  "c": "ind",
+  "o": "Benoît Duval-Arnould (family holding)",
+  "y": "",
+  "brand": "",
+  "note": "Le Cherche Midi's company is presided by the Duval-Arnould family holding of restaurateur Benoît Duval-Arnould, owner of Le Bon Georges.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/930383880"
+ },
+ {
+  "group_siren": "952809671",
+  "group_name": "KHAYAT FOOD EMPIRE",
+  "c": "ind",
+  "o": "Mamiche co-founder Cécile Khayat",
+  "y": "",
+  "brand": "Mamiche",
+  "note": "Mamiche Traiteur is held by Khayat Food Empire, the holding of Cécile Khayat, co-founder of the Mamiche bakeries.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/952809671"
+ },
+ {
+  "group_siren": "432165363",
+  "group_name": "MESSOGHIOS SAVEURS DU SUD",
+  "c": "ind",
+  "o": "Mavrommatis family",
+  "y": "",
+  "brand": "Mavrommatis",
+  "note": "Le Sud is operated by Messoghios Saveurs du Sud, run by Dionysios Mavrommatis of the Mavrommatis Greek restaurant and catering family.",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/432165363"
+ },
+ {
+  "group_siren": "418196598",
+  "group_name": "GROUPE FAUCHON",
+  "c": "ind",
+  "o": "Fauchon / Galapagos group (Tacquard family); Arnaud Larher (minority)",
+  "y": "2025",
+  "brand": "Arnaud Larher",
+  "note": "Fauchon, itself bought in 2024 by the family-owned Breton biscuit group Galapagos, took a majority stake in pastry chef Arnaud Larher's four-shop business in spring 2025; Larher kept a minority.",
+  "src": "https://www.lesechos.fr/industrie-services/conso-distribution/fauchon-remet-la-patisserie-au-coeur-de-son-adn-2162345"
+ },
+ {
+  "group_siren": "938746302",
+  "group_name": "PEDONE DEVELOPPEMENT",
+  "c": "corp",
+  "o": "LOV Group (Stéphane Courbit) via FL Lifestyle",
+  "y": "",
+  "brand": "Pedone",
+  "note": "Pedone's ice-cream business is presided by Pedone Glacier, itself presided by FL Lifestyle, an entity of Stéphane Courbit's LOV Group (also owner of Ladurée and Liberté bakeries).",
+  "src": "https://annuaire-entreprises.data.gouv.fr/entreprise/951125095"
+ },
+ {
+  "group_siren": "349812867",
+  "group_name": "RESTAURANTS ET SITES",
+  "c": "corp",
+  "o": "Elior Group (Euronext: ELIOR)",
+  "y": "",
+  "brand": "Le Ciel de Paris",
+  "note": "The 56th-floor restaurant of the Tour Montparnasse was run by Elior's concession arm (Areas); its website now says it has closed for good.",
+  "src": "https://www.eliorgroup.com/fr/medias/communiques-de-presse/pour-la-quatrieme-annee-consecutive-le-ciel-de-paris-remporte-le"
+ },
+ {
+  "group_siren": "109443325",
+  "group_name": "TROCADÉRO HOLDING",
+  "c": "pe",
+  "o": "NJJ (Xavier Niel's holding) with Laurent de Gourcuff (Palodim)",
+  "y": "2026",
+  "brand": "Café de l'Homme",
+  "note": "In October 2026 Café de l'Homme's president became Trocadéro Holding, presided by Xavier Niel's NJJ, with Laurent de Gourcuff's holding Palodim as director general, replacing Coco Coupérie-Eiffel.",
+  "src": "https://annonces-legales.lesechos.fr/annonces/4a59a61b-af47-43ab-bb9d-593e88090a0f-form-instance/"
+ },
+ {
+  "group_siren": "907506604",
+  "group_name": "DEKA PICKY",
+  "c": "pe",
+  "o": "Kintaro Group (Ken Yoshikawa); Socadif & Bpifrance (minority)",
+  "y": "2022",
+  "brand": "Kintaro Group",
+  "note": "Deka Picky is Ken Yoshikawa's holding for Kintaro Group and Kushikatsu Bon; the group raised money from Socadif Capital Investissement and Bpifrance in 2022.",
+  "src": "https://www.francesushi.fr/professionnels/ken-yoshikawa"
+ },
+ {
+  "group_siren": "931376628",
+  "group_name": "BUHI BUHI",
+  "c": "pe",
+  "o": "Kintaro Group (Yoshikawa family); Socadif & Bpifrance (minority)",
+  "y": "2024",
+  "brand": "Kintaro Group",
+  "note": "Tenten Udon and Tonton Ramen are listed among Kintaro Group's restaurants; their holding is run by Jun Yoshikawa, brother of Kintaro founder Ken Yoshikawa. Socadif and Bpifrance hold minority stakes in the group since 2022.",
+  "src": "https://kintarogroup.com/"
+ },
+ {
+  "group_siren": "824529986",
+  "group_name": "FRENCHFOOD CAPITAL",
+  "c": "pe",
+  "o": "FrenchFood Capital (joint venture with La Piadineria)",
+  "y": "2018",
+  "brand": "La Piadina",
+  "note": "Pia Dev was the 2018 joint venture between private equity firm FrenchFood Capital and Italian chain La Piadineria to bring the brand to France; it was placed in judicial liquidation in September 2025.",
+  "src": "https://www.agra.fr/articles/french-food-capital-va-dupliquer-le-succes-de-la-piadineria-en-france"
+ },
+ {
+  "group_siren": "520406240",
+  "group_name": "MEDIA ODYSSEE",
+  "c": "vc",
+  "o": "La Belle Vie / Deleev (founders Paul Lê & Alban Wienkoop; VC investors Left Lane, Quadrille Capital, Capagro, FJ Labs)",
+  "y": "2023",
+  "brand": "Frichti",
+  "note": "La Belle Vie's parent Deleev bought Frichti out of receivership in 2023; the grocery-delivery start-up had raised over €42m, including a €25m Series B led by Left Lane and Quadrille Capital in 2021.",
+  "src": "https://capitalfinance.lesechos.fr/deals/capital-risque/la-belle-vie-se-dote-de-25-m-pour-simplanter-au-dela-de-lile-de-france-1372809"
+ },
+ {
+  "group_siren": "832537443",
+  "group_name": "KARAFUN RETAIL",
+  "c": "pe",
+  "o": "Vendis Capital & Verlinvest (with founder Jean-Baptiste Defossez)",
+  "y": "2025",
+  "brand": "KaraFun",
+  "note": "Belgian investors Vendis Capital and Verlinvest bought into Lille karaoke group KaraFun in July 2025 in an LBO; the founder reportedly kept about half the capital.",
+  "src": "https://www.cambonpartners.com/fr/transactions/vendis-capital-verlinvest-lbo-with-karafun"
+ },
+ {
+  "group_siren": "790864607",
+  "group_name": "BELLOTA-BELLOTA RETAIL",
+  "c": "ind",
+  "o": "Groupe Byzance (management buyout led by CEO Mickaël Piffard-Besnard)",
+  "y": "2019",
+  "brand": "Bellota-Bellota",
+  "note": "In 2019 majority shareholder Cathay Capital and the founder sold Bellota-Bellota in an LBO led by its CEO and three other shareholders, who took 100% of the capital. The group runs about 13 counters in France.",
+  "src": "https://www.agra.fr/articles/bellota-bellota-mise-sur-e-commerce"
  }
 ]
